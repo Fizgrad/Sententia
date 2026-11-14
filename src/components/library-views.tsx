@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useRef, useState, type ReactNode } from 'react';
 import { ArrowDownWideNarrow, ArrowRight, BookOpen, Bookmark, Check, ChevronDown, CircleHelp, Layers3, Lightbulb, Plus, Quote, Search, Sparkles, Trash2, X } from 'lucide-react';
-import { detectTopic, detectWords, paraphraseGroups, sentenceMap, topics, wordMap } from '@/lib/corpus';
+import { detectTopic, detectWords, findWordMatches, paraphraseGroups, sentenceMap, topics, wordMap } from '@/lib/corpus';
 import { SourceCredit } from './source-credit';
 import { createQueuedRecord } from '@/lib/scheduler';
 import type { AppData, ArchiveEntry, ParaphraseCategory, Topic } from '@/lib/types';
@@ -39,16 +39,14 @@ function LibraryDialog({ title, children, onClose, className = '' }: { title: st
 }
 
 export function HighlightWords({ text, wordIds, className = '' }: { text: string; wordIds: string[]; className?: string }) {
-  const variants = wordIds.flatMap(id => wordMap[id] ? [wordMap[id].word, ...wordMap[id].forms] : []).sort((a, b) => b.length - a.length);
-  if (!variants.length) return <span className={className}>{text}</span>;
-  const regexp = new RegExp(`\\b(${variants.join('|')})\\b`, 'gi');
+  const matches = findWordMatches(text, wordIds);
+  if (!matches.length) return <span className={className}>{text}</span>;
   const parts: ReactNode[] = [];
   let cursor = 0;
-  for (const match of text.matchAll(regexp)) {
-    const index = match.index ?? 0;
-    parts.push(text.slice(cursor, index));
-    parts.push(<mark key={index}>{match[0]}</mark>);
-    cursor = index + match[0].length;
+  for (const match of matches) {
+    parts.push(text.slice(cursor, match.start));
+    parts.push(<mark key={match.start}>{text.slice(match.start, match.end)}</mark>);
+    cursor = match.end;
   }
   parts.push(text.slice(cursor));
   return <span className={className}>{parts}</span>;
@@ -218,11 +216,11 @@ export function ArchiveView({ data, onChange, notify, onReview }: ArchiveProps) 
     <p className="library-footnote"><span /> 句子保存在这台设备上。你可以在设置中导出，带走自己的阅读痕迹。</p>
 
     {adding && <LibraryDialog title="拾取一句，留住一个语境。" onClose={() => { if (!saving) setAdding(false); }} className="archive-add-modal">
-      <p className="library-dialog-description">粘贴你读到的英文。我们会标出核心词汇，为它找到合适的话题。</p>
+      <p className="library-dialog-description">粘贴你读到的英文，关联词汇并按话题整理。</p>
       <form onSubmit={event => { event.preventDefault(); void addEntry(); }}>
-        <label className="form-field archive-text-field"><span>英文原句 <small>{text.length} / 5000</small></span><textarea data-autofocus rows={5} required minLength={10} maxLength={5000} value={text} onChange={event => { setText(event.target.value); setError(''); }} placeholder="A sentence worth keeping…" /></label>
+        <label className="form-field archive-text-field"><span>英文原句 <small>{text.length} / 5000</small></span><textarea data-autofocus rows={5} required minLength={10} maxLength={5000} aria-describedby="archive-matching-method" value={text} onChange={event => { setText(event.target.value); setError(''); }} placeholder="A sentence worth keeping…" /><small id="archive-matching-method">匹配当前词库中的原形与已收录词形。</small></label>
         <div className="archive-form-row"><label className="form-field"><span>阅读来源 <small>选填</small></span><input maxLength={120} value={source} onChange={event => setSource(event.target.value)} placeholder="例如：The Guardian · 一篇阅读" /></label><label className="form-field archive-topic-field"><span>归入话题 <small>{manualTopic ? '手动选择' : '自动识别'}</small></span><select value={activeTopic} onChange={event => setManualTopic(event.target.value as Topic)}>{topics.map(item => <option key={item.id} value={item.id}>{item.label}</option>)}</select></label></div>
-        {text.trim() && <div className="archive-preview"><div className="archive-preview-heading"><Sparkles size={14} /><strong>{matchedWords.length ? `发现 ${matchedWords.length} 个核心词汇` : '作为阅读札记珍藏'}</strong></div>{matchedWords.length ? <><p lang="en"><HighlightWords text={text.trim()} wordIds={matchedWords} /></p><div className="archive-detected-words">{matchedWords.map(id => <span key={id}>{wordMap[id].word}<small>{wordMap[id].definitionCN.split('；')[0]}</small></span>)}</div></> : <p className="archive-no-match">这句话没有命中当前核心词库，仍可完整收藏，随时回读。</p>}</div>}
+        {text.trim() && <div className="archive-preview"><div className="archive-preview-heading"><Sparkles size={14} /><strong>{matchedWords.length ? `匹配 ${matchedWords.length} 个词库词汇` : '作为阅读札记珍藏'}</strong></div>{matchedWords.length ? <><p lang="en"><HighlightWords text={text.trim()} wordIds={matchedWords} /></p><div className="archive-detected-words">{matchedWords.map(id => <span key={id}>{wordMap[id].word}<small>{wordMap[id].definitionCN.split('；')[0]}</small></span>)}</div></> : <p className="archive-no-match">当前词库暂无匹配词汇。收入句匣，留作阅读札记。</p>}</div>}
         {matchedWords.length > 0 && <label className="archive-enqueue"><input type="checkbox" checked={enqueue} onChange={event => setEnqueue(event.target.checked)} /><span><strong>把命中的新词加入回响</strong><small>在你自己的句子里，练习主动想起它。</small></span><CircleHelp size={16} aria-label="已经学习过的词保留原有复习计划" /></label>}
         {error && <p className="archive-error" role="alert">{error}</p>}
         <div className="library-dialog-actions"><button type="button" className="button secondary" disabled={saving} onClick={() => setAdding(false)}>再读一会儿</button><button className="button primary" type="submit" disabled={saving || text.trim().length < 10}><Bookmark size={15} />{saving ? '正在珍藏…' : '收入句匣'}</button></div>

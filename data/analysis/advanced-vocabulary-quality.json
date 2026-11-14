@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "totalWords": 3000,
+  "addedWords": 1000,
+  "addedContexts": 3000,
+  "cet6Tagged": 487,
+  "toeflTagged": 753,
+  "greTagged": 635,
+  "ieltsTagged": 560,
+  "generalRankAtMost10000": 740,
+  "generalRankAtMost20000": 1000,
+  "reviewFiles": [
+    {
+      "path": "data/advanced-reviews/review-1.json",
+      "sha256": "871e2f79442ba54b4afba1d3fced91be3a60d54d9186dbbb769d663298687990",
+      "count": 484
+    },
+    {
+      "path": "data/advanced-reviews/review-2.json",
+      "sha256": "1b833a75b680f40ae35f1b683a096388b2330954b5e50dd874793e3cc9013555",
+      "count": 483
+    },
+    {
+      "path": "data/advanced-reviews/review-3.json",
+      "sha256": "4c87d7440bd11ab3b4863ed316536ceab06576c6113da50f11798ab3210dc5f2",
+      "count": 363
+    }
+  ],
+  "selection": {
+    "examinationTags": [
+      "cet6",
+      "toefl",
+      "gre"
+    ],
+    "excludedTags": [
+      "zk",
+      "gk",
+      "cet4"
+    ],
+    "maximumGeneralRank": 20000,
+    "contextReview": "Each approved headword has three individually selected source contexts, matched to its edited learning sense."
+  }
+}

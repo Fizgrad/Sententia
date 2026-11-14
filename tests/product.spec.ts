@@ -4,6 +4,7 @@ import { paraphraseGroups, sentenceMap, wordMap, words } from '../src/lib/corpus
 import { corpusStatistics, frequencyMap, sortByCorpusPriority } from '../src/lib/frequency';
 import { previewSchedule } from '../src/lib/scheduler';
 import type { AppData } from '../src/lib/types';
+import { matchesVocabularyLevel } from '../src/lib/vocabulary-level';
 
 const runtimeErrors = new WeakMap<Page, string[]>();
 
@@ -384,7 +385,55 @@ test('word library exposes the expanded corpus with inspectable frequencies, fil
   await page.getByRole('combobox', { name: '学习顺序', exact: true }).selectOption('original');
   await expect(page.locator('.context-sentence mark')).toHaveText('mitigate');
   await page.getByRole('combobox', { name: '学习顺序', exact: true }).selectOption('priority');
-  await expect(page.locator('.context-sentence mark')).toHaveText(sortByCorpusPriority(words)[0].word);
+  await expect(page.locator('.context-sentence mark')).toHaveText(sortByCorpusPriority(words.filter(word=>matchesVocabularyLevel(word,'advanced')))[0].word);
+});
+
+test('difficulty filters expose one thousand advanced additions and carry a selected word into learning', async ({ page }, info) => {
+  await expect(page.getByRole('combobox',{name:'学习词汇难度',exact:true})).toHaveValue('advanced');
+  await page.getByRole('combobox',{name:'学习词汇难度',exact:true}).selectOption('expansion');
+  const additions=words.filter(word=>word.collection==='advanced');
+  const first=sortByCorpusPriority(additions)[0];
+  await expect(page.locator('.context-sentence mark')).toHaveText(new RegExp('^(?:'+[first.word,...first.forms].join('|')+')$','i'));
+  await navigate(page,'词库与词频');
+  await page.getByRole('combobox',{name:'词库难度',exact:true}).selectOption('expansion');
+  await expect(page.getByRole('navigation',{name:'词库分页'})).toContainText('共 1000 词');
+  await page.getByRole('button',{name:'下一页',exact:true}).click();
+  await page.getByRole('combobox',{name:'词库难度',exact:true}).selectOption('cet6');
+  const cet6=words.filter(word=>matchesVocabularyLevel(word,'cet6'));
+  await expect(page.getByRole('navigation',{name:'词库分页'})).toContainText(`共 ${cet6.length} 词`);
+  await expect(page.locator('.page-count')).toHaveText(`1 / ${Math.ceil(cet6.length/50)}`);
+  await expect(page.locator('.vocabulary-row .advanced-level-tag').first()).toHaveText('六级词表');
+  await page.getByRole('combobox',{name:'词库难度',exact:true}).selectOption('academic');
+  const academic=words.filter(word=>matchesVocabularyLevel(word,'academic'));
+  await expect(page.getByRole('navigation',{name:'词库分页'})).toContainText(`共 ${academic.length} 词`);
+  await page.getByRole('combobox',{name:'词库难度',exact:true}).selectOption('expansion');
+  await page.getByRole('textbox',{name:'搜索词库',exact:true}).fill(first.word);
+  const row=page.locator('.vocabulary-row').filter({has:page.getByRole('heading',{name:first.word,exact:true})});
+  await row.getByRole('button',{name:'去学习',exact:true}).click();
+  await chooseCorrectMeaning(page,first.id);
+  await expect(page.locator('.definition-cn')).toHaveText(first.definitionCN);
+  await expect.poll(()=>page.evaluate(()=>document.documentElement.scrollWidth-document.documentElement.clientWidth)).toBeLessThanOrEqual(1);
+  await page.screenshot({path:`artifacts/${info.project.name}-advanced-word.png`,animations:'disabled'});
+  await continueLearning(page,first.id);
+  await expect(page.locator('.stat-card').filter({hasText:'词汇足迹'}).locator('.stat-value')).toHaveText(/^1\s*词已相识$/);
+  await page.reload();
+  await expect(page.getByRole('button',{name:/^词汇足迹/})).toContainText('1');
+});
+
+test('archive highlights a complete new advanced word and skips a contraction prefix', async ({ page }) => {
+  await navigate(page,'句匣');
+  await page.getByRole('button',{name:'拾一句',exact:true}).click();
+  const dialog=page.getByRole('dialog');
+  const extra=words.find(word=>word.collection==='advanced')!;
+  const text=`We haven't found a safe haven, but this research concerns ${extra.word}.`;
+  await dialog.getByRole('textbox',{name:/英文原句/}).fill(text);
+  await expect(dialog.getByText('匹配当前词库中的原形与已收录词形。',{exact:true})).toBeVisible();
+  const highlights=dialog.locator('.archive-preview mark');
+  await expect(highlights.filter({hasText:/^haven$/i})).toHaveCount(1);
+  await expect(highlights.filter({hasText:new RegExp('^'+extra.word+'$','i')})).toHaveCount(1);
+  await dialog.getByRole('button',{name:'收入句匣',exact:true}).click();
+  await expect(dialog).toBeHidden();
+  await expect(page.locator('.archive-sentence')).toContainText(extra.word);
 });
 
 test('new academic words keep three contexts, objective choices and saved progress', async ({ page }) => {

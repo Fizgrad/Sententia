@@ -9,7 +9,10 @@ import { extendedActionGroups } from './paraphrase-extended-actions';
 import { extendedQualityGroups } from './paraphrase-extended-qualities';
 import { extendedConceptGroups } from './paraphrase-extended-concepts';
 import importedLexicon from '../../data/lexicon-import.json';
+import advancedLexicon from '../../data/advanced-vocabulary.json';
+import vocabularyTags from '../../data/vocabulary-tags.json';
 import type { LexiconEvidence } from './types';
+import { createWordMatcher } from './word-matching';
 
 export const topics: { id: Topic; label: string; short: string }[] = [
   { id: 'Environment', label: '自然与环境', short: '环境' },
@@ -169,6 +172,20 @@ for(const word of sourcePack.words){if(knownWordIds.has(word.id))throw new Error
 const knownSentenceIds=new Set(sentences.map(sentence=>sentence.id));
 for(const sentence of sourcePack.sentences){if(!knownWordIds.has(sentence.wordId)||knownSentenceIds.has(sentence.id))throw new Error(`Invalid source sentence ${sentence.id}`);knownSentenceIds.add(sentence.id);sentences.push(sentence);}
 
+const advancedPack = advancedLexicon as unknown as { words: VocabCard[]; sentences: ContextSentence[] };
+for (const word of advancedPack.words) {
+  if (knownWordIds.has(word.id)) throw new Error(`Duplicate advanced word ${word.id}`);
+  knownWordIds.add(word.id);
+  words.push(word);
+}
+for (const sentence of advancedPack.sentences) {
+  if (!knownWordIds.has(sentence.wordId) || knownSentenceIds.has(sentence.id)) throw new Error(`Invalid advanced sentence ${sentence.id}`);
+  knownSentenceIds.add(sentence.id);
+  sentences.push(sentence);
+}
+const tagsByWord = vocabularyTags as Record<string, string[]>;
+for (const word of words) if (word.lexiconSource && tagsByWord[word.id]) word.lexiconSource.examTags = tagsByWord[word.id];
+
 export const wordMap = Object.fromEntries(words.map(w => [w.id, w]));
 export const sentenceMap = Object.fromEntries(sentences.map(s => [s.id, s]));
 
@@ -214,13 +231,9 @@ paraphraseGroups.push(
   ...extendedConceptGroups.map(group => ({ ...group, category: 'concept' as const })),
 );
 
-const formOwners = new Map(words.flatMap(word => [word.word, ...word.forms].map(form => [form, word.id] as const)));
+export const findWordMatches = createWordMatcher(words);
 export function detectWords(text: string): string[] {
-  const found = new Set<string>();
-  for (const token of text.matchAll(/\b[a-z]+(?:['’‘][a-z]+)?\b/gi)) {
-    const owner = formOwners.get(token[0].toLowerCase().replace(/['’‘]s$/, ''));
-    if (owner) found.add(owner);
-  }
+  const found = new Set(findWordMatches(text).map(match => match.wordId));
   return words.filter(word => found.has(word.id)).map(word => word.id);
 }
 
@@ -241,9 +254,9 @@ export function detectTopic(text: string): Topic {
 
 export function getReviewSentence(word: VocabCard, lastId?: string, seen: string[] = [], archive: ArchiveEntryLike[] = []): ContextSentence {
   const personal = archive.filter(a => a.wordIds.includes(word.id)).flatMap(a => {
-    const match = new RegExp(`\\b(${[word.word, ...word.forms].sort((a,b) => b.length-a.length).join('|')})\\b`, 'i').exec(a.text);
+    const match = findWordMatches(a.text, [word.id])[0];
     const original=a.sentenceId?sentenceMap[a.sentenceId]:undefined;
-    return match ? [{ id: `archive-${a.id}-${word.id}`, wordId: word.id, topic: a.topic, register: original?.source?'Example' as const:'Reading' as const, text: a.text, translation: original?.text===a.text?original.translation:'', targetSpan: [match.index, match.index + match[0].length] as [number, number], collocation: '', ...(original?.text===a.text&&original.source?{source:original.source}:{}) }] : [];
+    return match ? [{ id: `archive-${a.id}-${word.id}`, wordId: word.id, topic: a.topic, register: original?.source?'Example' as const:'Reading' as const, text: a.text, translation: original?.text===a.text?original.translation:'', targetSpan: [match.start, match.end] as [number, number], collocation: '', ...(original?.text===a.text&&original.source?{source:original.source}:{}) }] : [];
   });
   const originals = word.sentenceIds.map(id => sentenceMap[id]);
   const normalise = (text: string) => text.toLowerCase().replace(/\s+/g, ' ').trim();

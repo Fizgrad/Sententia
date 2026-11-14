@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-13T17:36:10.047Z",
+  "checkedAt": "2026-11-14T04:10:59.406Z",
   "result": "All redistributed community texts, authors and bilingual pairs reconcile with hash-locked raw exports.",
-  "referencesChecked": 4734,
-  "uniqueEnglishSentences": 4405,
-  "bilingualReferencesChecked": 816,
+  "referencesChecked": 7731,
+  "uniqueEnglishSentences": 7122,
+  "bilingualReferencesChecked": 853,
   "rawEnglishRowsScanned": 2040567,
   "sourceHashes": [
     {

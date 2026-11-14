@@ -10,6 +10,8 @@ import assert from 'node:assert/strict';
 
 const read=async path=>JSON.parse(await readFile(path,'utf8'));
 const pack=await read('data/lexicon-import.json');
+const advanced=await read('data/advanced-vocabulary.json');
+pack.sentences.push(...advanced.sentences);
 assert.ok(pack.words.length>=1700,'Assemble at least 1700 reviewed additions first.');
 const registry=await read('data/sources/sentence-source-registry.json');
 const sourceHashes=[];
@@ -20,6 +22,8 @@ for(const source of registry.sources){
   sourceHashes.push({filename:source.filename,sha256:hash});
 }
 const selected=await read('data/sources/selected-contexts.json');
+const advancedSelected=await read('data/sources/advanced-contexts.json');
+Object.assign(selected.examples,advancedSelected.examples);
 const refs=Object.values(selected.examples).flat();
 const needed=new Map();
 for(const row of refs){

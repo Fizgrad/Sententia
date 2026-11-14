@@ -40,3 +40,11 @@ npm.cmd run build
 ```
 
 Do not regenerate the mutable upstream community export and silently reuse old approvals. Sentence text, meaning, POS and attribution must be checked again when its source changes.
+
+## Advanced collection
+
+The advanced collection contains 1,000 reviewed additions. Source CET6, TOEFL or GRE tags are required; school and CET4 tags are excluded. Each word has a positive BNC or contemporary rank within 20,000, three sense-matched contexts, and an explicit approval in `data/advanced-reviews`. The selection prioritises academic concepts, formal expression and IELTS topics.
+
+`npm run lexicon:advanced` reconstructs `data/advanced-vocabulary.json` from the fixed `data/advanced-selection.json`, dictionary candidates, approvals and `data/sources/advanced-contexts.json`. Original bilingual contexts live in the approval records. Source examples retain exact text and attribution. `data/vocabulary-tags.json` supplies the examination-list evidence used by the difficulty filters.
+
+After vocabulary changes, run `npm run lexicon:verify`, `npm run corpus:build -- --offline`, `npm run corpus:verify`, and `node --import tsx backend/build-manifest.mts`, followed by the normal product checks. The public server manifest contains the same 3,000 word IDs and 9,000 context IDs used by the browser.

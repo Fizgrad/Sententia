@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-13T17:37:17.635Z",
+  "checkedAt": "2026-11-14T04:07:59.428Z",
   "method": "Independent case-insensitive whole-word regular expressions over extracted source bodies; does not call the frequency/tokenisation implementation.",
-  "wordsChecked": 2000,
+  "wordsChecked": 3000,
   "result": "all counts and document frequencies reconcile",
   "manualExtractionChecks": [
     "Selected reading pages contain only passage bodies, with page/task headers, source attributions and question/answer sheets removed.",

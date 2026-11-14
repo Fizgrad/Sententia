@@ -10,6 +10,7 @@ import { createMeaningQuestion, judgeMeaning } from '@/lib/meaning-quiz';
 import { MeaningChoices, type GuessResult } from './meaning-choices';
 import { sortByCorpusPriority } from '@/lib/frequency';
 import { SourceCredit } from './source-credit';
+import { matchesVocabularyLevel, vocabularyLevels, type VocabularyLevel } from '@/lib/vocabulary-level';
 
 type CommonProps = { data: AppData; onChange: (data: AppData) => Promise<void>; notify: (message: string) => void; onNavigate: (view: View) => void; speak: (text: string) => void; speaking: boolean };
 export function localDay(date: Date | string = new Date()) { const d = new Date(date); return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`; }
@@ -57,6 +58,7 @@ export function LearnView({ data, onChange, notify, onNavigate, speak, speaking,
   const [context, setContext] = useState(0);
   const [topic, setTopic] = useState<Topic | 'all'>('all');
   const [order, setOrder] = useState<'priority'|'original'>('priority');
+  const [level, setLevel] = useState<VocabularyLevel>('advanced');
   const [filterOpen, setFilterOpen] = useState(false);
   const [pending, setPending] = useState(false);
   const [bonus, setBonus] = useState(false);
@@ -64,7 +66,7 @@ export function LearnView({ data, onChange, notify, onNavigate, speak, speaking,
   const [pinned, setPinned] = useState<string|null>(focusWord);
   const today = localDay();
   const learnedToday = new Set(data.logs.filter(l => l.mode==='learn' && localDay(l.at)===today).map(l=>l.wordId)).size;
-  const candidates = useMemo(()=>{const pool=words.filter(w=>!data.records[w.id] && (topic==='all' || sentenceMap[w.sentenceIds[0]].topic===topic));return order==='priority'?sortByCorpusPriority(pool):pool;},[data.records,topic,order]);
+  const candidates = useMemo(()=>{const pool=words.filter(w=>!data.records[w.id] && (w.id===pinned || (matchesVocabularyLevel(w,level) && (topic==='all' || sentenceMap[w.sentenceIds[0]].topic===topic))));return order==='priority'?sortByCorpusPriority(pool):pool;},[data.records,topic,order,level,pinned]);
   const word = (pinned && candidates.find(w=>w.id===pinned)) || candidates[0];
   const sentence = word ? sentenceMap[word.sentenceIds[context]] : null;
   const question = useMemo(()=>word?createMeaningQuestion(word,words):null,[word?.id]); // eslint-disable-line react-hooks/exhaustive-deps
@@ -116,7 +118,7 @@ export function LearnView({ data, onChange, notify, onNavigate, speak, speaking,
     </div>
     <div className="workspace-grid"><div className="learning-column">
       <div className="priority-learning-link"><span>{words.length} 词 · {words.length*3} 条学习语境</span><button onClick={()=>onNavigate('vocabulary')}>查看词频与来源 <ArrowRight size={14}/></button></div>
-      <label className="learning-order-select">学习顺序<select aria-label="学习顺序" value={order} onChange={e=>{setOrder(e.target.value as typeof order);setResult(null);setSelection(null);setContext(0);setPinned(null);}}><option value="priority">官方样题语料优先级</option><option value="original">词册顺序</option></select></label>
+      <div className="learning-filters"><label className="learning-order-select">词汇难度<select aria-label="学习词汇难度" value={level} onChange={e=>{setLevel(e.target.value as VocabularyLevel);setResult(null);setSelection(null);setContext(0);setPinned(null);}}>{vocabularyLevels.map(item=><option key={item.id} value={item.id}>{item.label}</option>)}</select></label><label className="learning-order-select">学习顺序<select aria-label="学习顺序" value={order} onChange={e=>{setOrder(e.target.value as typeof order);setResult(null);setSelection(null);setContext(0);setPinned(null);}}><option value="priority">官方样题语料优先级</option><option value="original">词册顺序</option></select></label></div>
       <div className="section-heading"><h2>今日语境 <span>THE DAILY CONTEXT</span></h2><div className="topic-filter"><button className="text-button" aria-expanded={filterOpen} onClick={()=>setFilterOpen(!filterOpen)}>{topic==='all'?'全部话题':topics.find(t=>t.id===topic)?.short}<ChevronDown size={14}/></button>{filterOpen&&<div className="filter-menu">{[{id:'all',short:'全部话题'},...topics].map(t=><button className={topic===t.id?'selected':''} key={t.id} onClick={()=>{setTopic(t.id as Topic|'all');setFilterOpen(false);setContext(0);setResult(null);setSelection(null);setPinned(null);}}>{t.short}{topic===t.id&&<Check size={13}/>}</button>)}</div>}</div></div>
       {goalComplete || !word || !sentence ? <div className="panel completion-panel"><div className="completion-mark"><CheckCheck size={37}/></div><div className="eyebrow">A CHAPTER WELL READ</div><h2>{goalComplete?'今天的积累，已经生根。':topic==='all'?'这一册，已与你相识。':'这个话题，暂时读到这里。'}</h2><p>{goalComplete?`你今天已拾得 ${learnedToday} 个新词。给记忆一点时间，再听听它们的回响。`:'已学过的词会按记忆状态安排复习。你也可以在句匣加入新的个人语境。'}</p><div className="completion-actions"><button className="primary-button" onClick={()=>onNavigate('review')}>去听回响 <ArrowRight size={16}/></button>{goalComplete?<button className="secondary-button" onClick={()=>setBonus(true)}>再拾一句</button>:<button className="secondary-button" onClick={()=>{setTopic('all');onNavigate('archive');}}>打开句匣</button>}</div></div> : <>
       <motion.article className="study-card panel" key={word.id} initial={{opacity:0,y:9}} animate={{opacity:1,y:0}} transition={{duration:.3}}>

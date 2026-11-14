@@ -62,8 +62,9 @@ test('the source-backed expansion contains at least 2,000 distinct words and pre
   assert.equal(new Set(words.map(word => word.id)).size, words.length);
   assert.equal(new Set(words.map(word => word.word)).size, words.length);
   assert.equal(importedIds.size, pack.words.length);
-  assert.equal(words.length - importedIds.size, 300);
-  assert.equal(sentences.filter(sentence => !importedIds.has(sentence.wordId)).length, 900);
+  const baseWords=words.filter(word=>word.collection!=='advanced');
+  assert.equal(baseWords.length - importedIds.size, 300);
+  assert.equal(sentences.filter(sentence => !importedIds.has(sentence.wordId)&&wordMap[sentence.wordId].collection!=='advanced').length, 900);
   assert.ok(sentences.length >= 6000);
   for (const word of pack.words) {
     assert.ok(wordMap[word.id], `missing imported card ${word.id}`);
@@ -78,11 +79,11 @@ test('the source-backed expansion contains at least 2,000 distinct words and pre
 });
 
 test('IELTS membership and general corpus ranks retain their actual evidence and cover most of the library', () => {
-  const publicWords = words as ImportedWord[];
+  const publicWords = words.filter(word=>word.collection!=='advanced') as ImportedWord[];
   const tagged = publicWords.filter(word => word.lexiconSource?.ieltsTagged).length;
   const common = publicWords.filter(word => word.lexiconSource && bestRank(word.lexiconSource) <= 10_000).length;
-  assert.ok(tagged / words.length >= .95, `${tagged}/${words.length} have ECDICT IELTS-list evidence; expected at least 95%`);
-  assert.ok(common / words.length >= .95, `${common}/${words.length} have a positive BNC or contemporary rank <=10,000; expected at least 95%`);
+  assert.ok(tagged / publicWords.length >= .95, `${tagged}/${publicWords.length} have ECDICT IELTS-list evidence; expected at least 95%`);
+  assert.ok(common / publicWords.length >= .95, `${common}/${publicWords.length} have a positive BNC or contemporary rank <=10,000; expected at least 95%`);
   for (const word of publicWords) {
     assert.ok(word.lexiconSource, `${word.id}, including curated cards, needs preserved lexical evidence`);
     assert.ok(bestRank(word.lexiconSource) <= 20_000, `${word.id} has no positive general-corpus rank within 20,000`);

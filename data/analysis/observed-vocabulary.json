@@ -2,13 +2,13 @@
   "summary": {
     "documentCount": 22,
     "tokenCount": 10492,
-    "uniqueLemmaCount": 2652,
+    "uniqueLemmaCount": 2647,
     "sourceCount": 10,
     "description": "IELTS 官方公开阅读样题与听力录音稿；文档年份不等于实际考试年份。",
-    "generatedAt": "2026-11-13T17:37:11.770Z",
+    "generatedAt": "2026-11-14T04:07:35.659Z",
     "scope": "official-public-samples",
-    "trackedWordCount": 2000,
-    "attestedWordCount": 577,
+    "trackedWordCount": 3000,
+    "attestedWordCount": 647,
     "examYearCoverage": null,
     "documentYearRange": [
       2023,
@@ -3121,6 +3121,11 @@
       "documentFrequency": 2
     },
     {
+      "word": "excavate",
+      "count": 2,
+      "documentFrequency": 2
+    },
+    {
       "word": "existence",
       "count": 2,
       "documentFrequency": 2
@@ -3781,7 +3786,7 @@
       "documentFrequency": 2
     },
     {
-      "word": "similarities",
+      "word": "similarity",
       "count": 2,
       "documentFrequency": 2
     },
@@ -4136,6 +4141,11 @@
       "documentFrequency": 1
     },
     {
+      "word": "beetle",
+      "count": 8,
+      "documentFrequency": 1
+    },
+    {
       "word": "factor",
       "count": 8,
       "documentFrequency": 1
@@ -4158,11 +4168,6 @@
     {
       "word": "sport",
       "count": 8,
-      "documentFrequency": 1
-    },
-    {
-      "word": "beetles",
-      "count": 7,
       "documentFrequency": 1
     },
     {
@@ -4441,6 +4446,11 @@
       "documentFrequency": 1
     },
     {
+      "word": "propel",
+      "count": 4,
+      "documentFrequency": 1
+    },
+    {
       "word": "respondents",
       "count": 4,
       "documentFrequency": 1
@@ -4586,6 +4596,11 @@
       "documentFrequency": 1
     },
     {
+      "word": "fluctuation",
+      "count": 3,
+      "documentFrequency": 1
+    },
+    {
       "word": "food",
       "count": 3,
       "documentFrequency": 1
@@ -4707,6 +4722,11 @@
     },
     {
       "word": "situations",
+      "count": 3,
+      "documentFrequency": 1
+    },
+    {
+      "word": "skeleton",
       "count": 3,
       "documentFrequency": 1
     },
@@ -5176,11 +5196,6 @@
       "documentFrequency": 1
     },
     {
-      "word": "fluctuation",
-      "count": 2,
-      "documentFrequency": 1
-    },
-    {
       "word": "flying",
       "count": 2,
       "documentFrequency": 1
@@ -5571,16 +5586,6 @@
       "documentFrequency": 1
     },
     {
-      "word": "propel",
-      "count": 2,
-      "documentFrequency": 1
-    },
-    {
-      "word": "propelled",
-      "count": 2,
-      "documentFrequency": 1
-    },
-    {
       "word": "psychological",
       "count": 2,
       "documentFrequency": 1
@@ -5647,11 +5652,6 @@
     },
     {
       "word": "sister",
-      "count": 2,
-      "documentFrequency": 1
-    },
-    {
-      "word": "skeletons",
       "count": 2,
       "documentFrequency": 1
     },
@@ -5891,7 +5891,7 @@
       "documentFrequency": 1
     },
     {
-      "word": "administered",
+      "word": "administer",
       "count": 1,
       "documentFrequency": 1
     },
@@ -6386,11 +6386,6 @@
       "documentFrequency": 1
     },
     {
-      "word": "beetle",
-      "count": 1,
-      "documentFrequency": 1
-    },
-    {
       "word": "beginnings",
       "count": 1,
       "documentFrequency": 1
@@ -6681,7 +6676,7 @@
       "documentFrequency": 1
     },
     {
-      "word": "capabilities",
+      "word": "capability",
       "count": 1,
       "documentFrequency": 1
     },
@@ -7816,7 +7811,7 @@
       "documentFrequency": 1
     },
     {
-      "word": "diverting",
+      "word": "divert",
       "count": 1,
       "documentFrequency": 1
     },
@@ -8251,16 +8246,6 @@
       "documentFrequency": 1
     },
     {
-      "word": "excavate",
-      "count": 1,
-      "documentFrequency": 1
-    },
-    {
-      "word": "excavated",
-      "count": 1,
-      "documentFrequency": 1
-    },
-    {
       "word": "excavation",
       "count": 1,
       "documentFrequency": 1
@@ -8512,11 +8497,6 @@
     },
     {
       "word": "flows",
-      "count": 1,
-      "documentFrequency": 1
-    },
-    {
-      "word": "fluctuations",
       "count": 1,
       "documentFrequency": 1
     },
@@ -10006,7 +9986,7 @@
       "documentFrequency": 1
     },
     {
-      "word": "microbes",
+      "word": "microbe",
       "count": 1,
       "documentFrequency": 1
     },
@@ -10016,7 +9996,7 @@
       "documentFrequency": 1
     },
     {
-      "word": "mimicked",
+      "word": "mimic",
       "count": 1,
       "documentFrequency": 1
     },
@@ -10041,7 +10021,7 @@
       "documentFrequency": 1
     },
     {
-      "word": "minimizes",
+      "word": "minimize",
       "count": 1,
       "documentFrequency": 1
     },
@@ -10096,7 +10076,7 @@
       "documentFrequency": 1
     },
     {
-      "word": "modules",
+      "word": "module",
       "count": 1,
       "documentFrequency": 1
     },
@@ -10876,7 +10856,7 @@
       "documentFrequency": 1
     },
     {
-      "word": "predators",
+      "word": "predator",
       "count": 1,
       "documentFrequency": 1
     },
@@ -11041,7 +11021,7 @@
       "documentFrequency": 1
     },
     {
-      "word": "prolonging",
+      "word": "prolong",
       "count": 1,
       "documentFrequency": 1
     },
@@ -11291,7 +11271,7 @@
       "documentFrequency": 1
     },
     {
-      "word": "reconstructs",
+      "word": "reconstruct",
       "count": 1,
       "documentFrequency": 1
     },
@@ -11711,7 +11691,7 @@
       "documentFrequency": 1
     },
     {
-      "word": "saturated",
+      "word": "saturate",
       "count": 1,
       "documentFrequency": 1
     },
@@ -12026,11 +12006,6 @@
       "documentFrequency": 1
     },
     {
-      "word": "skeleton",
-      "count": 1,
-      "documentFrequency": 1
-    },
-    {
       "word": "skepticism",
       "count": 1,
       "documentFrequency": 1
@@ -12071,7 +12046,7 @@
       "documentFrequency": 1
     },
     {
-      "word": "slumps",
+      "word": "slump",
       "count": 1,
       "documentFrequency": 1
     },
@@ -12351,7 +12326,7 @@
       "documentFrequency": 1
     },
     {
-      "word": "streaks",
+      "word": "streak",
       "count": 1,
       "documentFrequency": 1
     },
@@ -12506,7 +12481,7 @@
       "documentFrequency": 1
     },
     {
-      "word": "synchronized",
+      "word": "synchronize",
       "count": 1,
       "documentFrequency": 1
     },

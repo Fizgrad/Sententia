@@ -132,6 +132,21 @@ class APITest(unittest.TestCase):
             total = connection.execute("SELECT COUNT(*) FROM sessions WHERE user_id=(SELECT id FROM users WHERE username='publicone')").fetchone()[0]
         self.assertEqual(total, 1)
 
+    def test_advanced_card_and_personal_archive_sync_with_the_expanded_manifest(self):
+        manifest = SnapshotValidator()
+        word_id, sentence_ids = next((word, ids) for word, ids in manifest.words.items() if any("-advanced-" in sid for sid in ids))
+        data = studied_state()
+        record = data["records"].pop("mitigate")
+        record.update(id=word_id, lastSentenceId=sentence_ids[0], seenSentenceIds=[sentence_ids[0]])
+        data["records"][word_id] = record
+        data["logs"][0].update(wordId=word_id, sentenceId=sentence_ids[0], guess={"choiceId": word_id, "correct": True})
+        data["archive"][0].update(text=f"This reading note includes {word_id} in a new context.", wordIds=[word_id], sentenceId=sentence_ids[0])
+        headers = self.auth()
+        result = self.put(data, headers=headers)
+        self.assertEqual(result.status_code, 200, result.text)
+        restored = self.client.get("/api/v1/state", headers=headers)
+        self.assertEqual(restored.json()["data"], data)
+
     def test_two_users_cannot_read_or_overwrite_each_others_progress(self):
         first, second = self.auth(), self.auth("another")
         data = studied_state()
@@ -248,8 +263,8 @@ class SnapshotValidationTest(unittest.TestCase):
         data = studied_state()
         data["records"]["mitigate"]["lastSentenceId"] = "archive-deleted-sentence-mitigate"
         self.assertEqual(self.validator.validate(data), data)
-        self.assertEqual(len(self.validator.words), 2000)
-        self.assertEqual(len(self.validator.sentences), 6000)
+        self.assertEqual(len(self.validator.words), 3000)
+        self.assertEqual(len(self.validator.sentences), 9000)
 
     def test_invalid_fields_numbers_dates_topics_and_guesses_are_rejected(self):
         mutations = [

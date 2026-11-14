@@ -14,6 +14,7 @@
     "lexicon:dictionary": "node scripts/lexicon/build-dictionary.mjs",
     "lexicon:sentences": "node scripts/sentences/build.mjs",
     "lexicon:build": "tsx scripts/lexicon/assemble.mts",
+    "lexicon:advanced": "tsx scripts/lexicon/build-advanced.mts",
     "lexicon:verify": "node scripts/lexicon/verify-sources.mjs"
   },
   "dependencies": {

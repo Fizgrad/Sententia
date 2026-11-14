@@ -9,6 +9,7 @@ export interface LexiconEvidence {
   bncRank: number | null;
   contemporaryRank: number | null;
   url: string;
+  examTags?: string[];
 }
 export interface SentenceAttribution {
   provider: 'Tatoeba';
@@ -44,6 +45,7 @@ export interface VocabCard {
   lexiconSource?: LexiconEvidence;
   definitionOrigin?: 'curated' | 'dictionary' | 'edited';
   contextOrigin?: 'curated' | 'Tatoeba' | 'editorial';
+  collection?: 'advanced';
 }
 export type StoredCard = Omit<Card, 'due' | 'last_review'> & { due: string; last_review?: string };
 export interface MemoryRecord {

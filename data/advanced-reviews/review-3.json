@@ -1,0 +1,3637 @@
+{
+  "entries": [
+    {
+      "word": "bureaucracy",
+      "definitionEN": "an administrative system, especially one involving complicated rules and procedures",
+      "definitionCN": "官僚机构；繁琐的行政程序",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11758283",
+        "tatoeba-eng-11758235",
+        "tatoeba-eng-717915"
+      ]
+    },
+    {
+      "word": "deprive",
+      "definitionEN": "to take away or deny someone something they need or have a right to",
+      "definitionCN": "剥夺；使丧失",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10795112",
+        "tatoeba-eng-46105",
+        "tatoeba-eng-278411"
+      ]
+    },
+    {
+      "word": "chronic",
+      "definitionCN": "长期持续的；慢性的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8621825",
+        "tatoeba-eng-10948794",
+        "tatoeba-eng-11338279"
+      ]
+    },
+    {
+      "word": "diagnose",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-13900467",
+        "tatoeba-eng-7127761",
+        "tatoeba-eng-8377095"
+      ]
+    },
+    {
+      "word": "sediment",
+      "definitionCN": "沉积物；沉淀物",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5354744",
+        "tatoeba-eng-8269861",
+        "tatoeba-eng-6920719"
+      ]
+    },
+    {
+      "word": "immune",
+      "definitionEN": "relating to the body's defence against disease, or protected against a particular disease",
+      "definitionCN": "免疫的；对某种疾病有抵抗力的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8855557",
+        "tatoeba-eng-8626120",
+        "tatoeba-eng-6590260"
+      ]
+    },
+    {
+      "word": "vegetation",
+      "definitionCN": "植被；植物群",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11567738",
+        "tatoeba-eng-11567762",
+        "tatoeba-eng-7767301"
+      ]
+    },
+    {
+      "word": "erosion",
+      "definitionEN": "the gradual wearing away of soil or rock by water, wind, or other natural forces",
+      "definitionCN": "侵蚀；冲蚀",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6604285",
+        "tatoeba-eng-6604284",
+        "tatoeba-eng-6696016"
+      ]
+    },
+    {
+      "word": "confer",
+      "definitionEN": "to discuss something together, or to grant someone a title, right, or benefit",
+      "definitionCN": "商议；授予，赋予",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2264623",
+        "tatoeba-eng-45499",
+        "tatoeba-eng-12486973"
+      ]
+    },
+    {
+      "word": "withhold",
+      "definitionCN": "扣留；拒绝提供",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-313383",
+        "tatoeba-eng-2287008",
+        "tatoeba-eng-7025717"
+      ]
+    },
+    {
+      "word": "concession",
+      "definitionEN": "something agreed to or given up in order to reach an agreement",
+      "definitionCN": "让步；让价",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8657088",
+        "tatoeba-eng-20183",
+        "tatoeba-eng-59462"
+      ]
+    },
+    {
+      "word": "incidence",
+      "definitionCN": "发生率；发生频度",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5357891",
+        "tatoeba-eng-3087571",
+        "tatoeba-eng-8989604"
+      ]
+    },
+    {
+      "word": "intensify",
+      "definitionCN": "加强；加剧",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12115440",
+        "tatoeba-eng-12562398",
+        "tatoeba-eng-7043610"
+      ]
+    },
+    {
+      "word": "formidable",
+      "definitionEN": "difficult to deal with because of great strength, power, or ability",
+      "definitionCN": "强大得令人敬畏的；难以应付的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6404942",
+        "tatoeba-eng-11802821",
+        "tatoeba-eng-11669676"
+      ]
+    },
+    {
+      "word": "thermal",
+      "definitionCN": "热的；与热量有关的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6684666",
+        "tatoeba-eng-8969659",
+        "tatoeba-eng-2366879"
+      ]
+    },
+    {
+      "word": "credible",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12412529",
+        "tatoeba-eng-11642207",
+        "tatoeba-eng-1075916"
+      ]
+    },
+    {
+      "word": "illuminate",
+      "definitionEN": "to light something up, or to make a subject easier to understand",
+      "definitionCN": "照亮；阐明",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1327465",
+        "tatoeba-eng-10579516",
+        "tatoeba-eng-801132"
+      ]
+    },
+    {
+      "word": "underestimate",
+      "partOfSpeech": "v.",
+      "definitionEN": "to judge something to be smaller, less important, or less difficult than it really is",
+      "definitionCN": "低估",
+      "forms": [
+        "underestimated",
+        "underestimating",
+        "underestimates"
+      ],
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5206912",
+        "tatoeba-eng-2280683",
+        "tatoeba-eng-2783162"
+      ]
+    },
+    {
+      "word": "hygiene",
+      "definitionEN": "conditions and practices that keep people clean and help prevent disease",
+      "definitionCN": "卫生；卫生习惯",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12115418",
+        "tatoeba-eng-10504934",
+        "tatoeba-eng-3002415"
+      ]
+    },
+    {
+      "word": "assimilate",
+      "definitionEN": "to become part of a group or adapt to its culture and way of life",
+      "definitionCN": "融入；同化",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5057446",
+        "tatoeba-eng-24077",
+        "tatoeba-eng-8988127"
+      ]
+    },
+    {
+      "word": "finite",
+      "definitionCN": "有限的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5272310",
+        "tatoeba-eng-5830780",
+        "tatoeba-eng-10471359"
+      ]
+    },
+    {
+      "word": "analogy",
+      "definitionEN": "a comparison or similarity between different things that helps explain an idea",
+      "definitionCN": "类比；相似之处",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12184139",
+        "tatoeba-eng-16878",
+        "tatoeba-eng-4657523"
+      ]
+    },
+    {
+      "word": "consolidate",
+      "definitionEN": "to combine things into a whole, or make a position, power, or knowledge more secure",
+      "definitionCN": "整合；巩固",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6884350",
+        "tatoeba-eng-10094382",
+        "tatoeba-eng-12229323"
+      ]
+    },
+    {
+      "word": "prone",
+      "definitionCN": "易于……的；有……倾向的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-9291676",
+        "tatoeba-eng-3113753",
+        "tatoeba-eng-7966924"
+      ]
+    },
+    {
+      "word": "ultraviolet",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-4418141",
+        "tatoeba-eng-9013073",
+        "tatoeba-eng-5322382"
+      ]
+    },
+    {
+      "word": "culminate",
+      "definitionCN": "达到高潮；以……告终",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-258709",
+        "tatoeba-eng-11535804",
+        "tatoeba-eng-699986"
+      ]
+    },
+    {
+      "word": "unravel",
+      "definitionEN": "to explain or solve something complicated or mysterious",
+      "definitionCN": "阐明；解开（谜团或问题）",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8638667",
+        "tatoeba-eng-11301852",
+        "tatoeba-eng-9980673"
+      ]
+    },
+    {
+      "word": "myriad",
+      "definitionCN": "无数；大量",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6604362",
+        "tatoeba-eng-5824692",
+        "tatoeba-eng-11223103"
+      ]
+    },
+    {
+      "word": "impart",
+      "definitionCN": "传授；告知",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11899415",
+        "tatoeba-eng-10223695",
+        "tatoeba-eng-12928432"
+      ]
+    },
+    {
+      "word": "excavate",
+      "definitionEN": "to dig out earth or uncover things buried in the ground",
+      "definitionCN": "挖掘；发掘",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11122030",
+        "tatoeba-eng-11122023",
+        "tatoeba-eng-13900461"
+      ]
+    },
+    {
+      "word": "imperative",
+      "partOfSpeech": "adj.",
+      "definitionEN": "extremely important or urgent",
+      "definitionCN": "极其重要的；紧迫的",
+      "forms": [],
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12562419",
+        "tatoeba-eng-17650",
+        "tatoeba-eng-564472"
+      ]
+    },
+    {
+      "word": "potent",
+      "definitionEN": "having a strong effect or influence",
+      "definitionCN": "强有力的；效力强的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5761667",
+        "tatoeba-eng-9638333",
+        "tatoeba-eng-11691677"
+      ]
+    },
+    {
+      "word": "detriment",
+      "definitionCN": "损害；不利影响",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1602175",
+        "tatoeba-eng-59283",
+        "tatoeba-eng-11825549"
+      ],
+      "definitionEN": "harm or damage"
+    },
+    {
+      "word": "strenuous",
+      "definitionEN": "requiring or involving great effort, energy, or determination",
+      "definitionCN": "费力的；艰苦的；坚决的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-314985",
+        "tatoeba-eng-12900384",
+        "tatoeba-eng-847225"
+      ]
+    },
+    {
+      "word": "migratory",
+      "definitionCN": "迁徙的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-7781942",
+        "tatoeba-eng-6604234",
+        "tatoeba-eng-11567790"
+      ]
+    },
+    {
+      "word": "erroneous",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-417474",
+        "tatoeba-eng-6130486",
+        "tatoeba-eng-12724054"
+      ]
+    },
+    {
+      "word": "generalize",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2609606",
+        "tatoeba-eng-10184966",
+        "tatoeba-eng-5270120"
+      ]
+    },
+    {
+      "word": "persevere",
+      "definitionCN": "坚持不懈；锲而不舍",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8568251",
+        "tatoeba-eng-11736897",
+        "tatoeba-eng-270117"
+      ]
+    },
+    {
+      "word": "insulate",
+      "definitionCN": "使隔热；使绝缘",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-327834",
+        "tatoeba-eng-329640",
+        "tatoeba-eng-1344666"
+      ]
+    },
+    {
+      "word": "stagnant",
+      "definitionEN": "not flowing, moving, or developing",
+      "definitionCN": "不流动的；停滞的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1990",
+        "tatoeba-eng-8557141",
+        "tatoeba-eng-7023320"
+      ]
+    },
+    {
+      "word": "substantiate",
+      "definitionEN": "to provide evidence that shows something is true",
+      "definitionCN": "证实；为……提供证据",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1956",
+        "tatoeba-eng-6376268",
+        "tatoeba-eng-5991383"
+      ]
+    },
+    {
+      "word": "deviate",
+      "definitionCN": "偏离；背离",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-694440",
+        "tatoeba-eng-2025850",
+        "tatoeba-eng-13305968"
+      ]
+    },
+    {
+      "word": "misrepresent",
+      "definitionCN": "歪曲；不实地描述",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11413939",
+        "tatoeba-eng-9260564",
+        "tatoeba-eng-11986310"
+      ]
+    },
+    {
+      "word": "mediocre",
+      "definitionCN": "平庸的；不出色的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6293818",
+        "tatoeba-eng-9573302",
+        "tatoeba-eng-2975814"
+      ]
+    },
+    {
+      "word": "dearth",
+      "reason": "Only two natural examples of the shortage sense; the third uses an obscure archaic famine sense.",
+      "status": "reject"
+    },
+    {
+      "word": "manifold",
+      "reason": "Two highly technical mathematical noun examples and one unrelated adjective use do not provide a coherent three-context card.",
+      "status": "reject"
+    },
+    {
+      "word": "module",
+      "definitionEN": "one of the separate units that form part of a larger system, machine, or course",
+      "definitionCN": "模块；组件；课程单元",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10913358",
+        "tatoeba-eng-9732165",
+        "tatoeba-eng-4435390"
+      ]
+    },
+    {
+      "word": "sanction",
+      "definitionEN": "an official penalty or restriction imposed to enforce a law or influence a country's actions",
+      "definitionCN": "制裁；处罚",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11736240",
+        "tatoeba-eng-13420558",
+        "tatoeba-eng-12255722"
+      ]
+    },
+    {
+      "word": "colonial",
+      "definitionCN": "殖民的；殖民地的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10815240",
+        "tatoeba-eng-10623723",
+        "tatoeba-eng-10138845"
+      ]
+    },
+    {
+      "word": "lure",
+      "partOfSpeech": "v.",
+      "definitionEN": "to attract or tempt someone to do something by offering something appealing",
+      "definitionCN": "引诱；诱使",
+      "forms": [
+        "lured",
+        "luring",
+        "lures"
+      ],
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6853585",
+        "tatoeba-eng-6993448",
+        "tatoeba-eng-9846400"
+      ]
+    },
+    {
+      "word": "domain",
+      "definitionEN": "an area of activity, knowledge, ownership, or control",
+      "definitionCN": "领域；（public domain）公共领域",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10008671",
+        "tatoeba-eng-10954194",
+        "tatoeba-eng-11042996"
+      ]
+    },
+    {
+      "word": "outbreak",
+      "definitionCN": "（疾病等的）暴发；爆发",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-9314393",
+        "tatoeba-eng-8643333",
+        "tatoeba-eng-6684664"
+      ]
+    },
+    {
+      "word": "assault",
+      "definitionEN": "a violent attack or an illegal threat of physical force against someone",
+      "definitionCN": "袭击；人身攻击",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3861687",
+        "tatoeba-eng-3121056",
+        "tatoeba-eng-6293799"
+      ]
+    },
+    {
+      "word": "plea",
+      "definitionEN": "an urgent request, or a defendant's formal answer to a criminal charge",
+      "definitionCN": "恳求；（法庭上的）答辩",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3698193",
+        "tatoeba-eng-10829989",
+        "tatoeba-eng-11119972"
+      ]
+    },
+    {
+      "word": "orientation",
+      "definitionEN": "an introduction to a new activity or setting, or the direction in which something is positioned",
+      "definitionCN": "入职或入学介绍；方向，朝向",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12604621",
+        "tatoeba-eng-3118220",
+        "tatoeba-eng-6709572"
+      ]
+    },
+    {
+      "word": "fitness",
+      "definitionEN": "the condition of being physically healthy and able to exercise effectively",
+      "definitionCN": "身体健康；体能",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8322721",
+        "tatoeba-eng-11887564",
+        "tatoeba-eng-6838038"
+      ]
+    },
+    {
+      "word": "plead",
+      "definitionCN": "恳求；请求",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11662711",
+        "tatoeba-eng-276891",
+        "tatoeba-eng-874542"
+      ]
+    },
+    {
+      "word": "monster",
+      "reason": "Basic headword with mostly fantastical or sensational examples; weaker fit for the advanced academic expansion.",
+      "status": "reject"
+    },
+    {
+      "word": "premium",
+      "definitionEN": "an insurance payment or an extra amount of money or value above the usual level",
+      "definitionCN": "保险费；额外报酬；溢价",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10183886",
+        "tatoeba-eng-8137848",
+        "tatoeba-eng-6907399"
+      ]
+    },
+    {
+      "word": "sociology",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1737631",
+        "tatoeba-eng-13561904",
+        "tatoeba-eng-11755107"
+      ]
+    },
+    {
+      "word": "bleak",
+      "definitionEN": "cold, bare, and unwelcoming, or offering little hope for the future",
+      "definitionCN": "荒凉阴冷的；前景暗淡的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5922215",
+        "tatoeba-eng-10903607",
+        "tatoeba-eng-8504185"
+      ]
+    },
+    {
+      "word": "spouse",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-941310",
+        "tatoeba-eng-10853816",
+        "tatoeba-eng-554825"
+      ]
+    },
+    {
+      "word": "prevention",
+      "definitionEN": "action taken to stop something harmful or unwanted from happening",
+      "definitionCN": "预防；防止",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8764012",
+        "tatoeba-eng-4282120",
+        "tatoeba-eng-329478"
+      ]
+    },
+    {
+      "word": "conspiracy",
+      "definitionCN": "阴谋；密谋",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8733356",
+        "tatoeba-eng-13196715",
+        "tatoeba-eng-6577540"
+      ]
+    },
+    {
+      "word": "pottery",
+      "definitionCN": "陶器",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2128883",
+        "tatoeba-eng-12572959",
+        "tatoeba-eng-956243"
+      ]
+    },
+    {
+      "word": "imperial",
+      "definitionEN": "relating to an empire, or to the traditional British system of weights and measures",
+      "definitionCN": "帝国的；英制的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1131482",
+        "tatoeba-eng-26154",
+        "tatoeba-eng-8705691"
+      ]
+    },
+    {
+      "word": "expedition",
+      "definitionEN": "an organized journey made for a particular purpose, especially exploration or research",
+      "definitionCN": "考察；探险；考察队",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12041208",
+        "tatoeba-eng-12652654",
+        "tatoeba-eng-49469"
+      ]
+    },
+    {
+      "word": "disturbance",
+      "definitionEN": "an interruption of peace, order, or normal activity",
+      "definitionCN": "扰乱；干扰；骚动",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10292484",
+        "tatoeba-eng-6604352",
+        "tatoeba-eng-6696013"
+      ]
+    },
+    {
+      "word": "revive",
+      "definitionEN": "to bring something back to life, consciousness, strength, or activity",
+      "definitionCN": "使恢复生机；使苏醒；使重新燃起",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11736352",
+        "tatoeba-eng-6216540",
+        "tatoeba-eng-3930887"
+      ]
+    },
+    {
+      "word": "authorize",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-9938267",
+        "tatoeba-eng-6056959",
+        "tatoeba-eng-1728446"
+      ]
+    },
+    {
+      "word": "brutal",
+      "definitionEN": "very violent, cruel, or severe",
+      "definitionCN": "残暴的；猛烈的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-57830",
+        "tatoeba-eng-2909531",
+        "tatoeba-eng-5774009"
+      ]
+    },
+    {
+      "word": "calcium",
+      "definitionEN": "a chemical element that is an important component of bones, teeth, and many minerals",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3941674",
+        "tatoeba-eng-9013228",
+        "tatoeba-eng-2815087"
+      ]
+    },
+    {
+      "word": "corps",
+      "reason": "Only three examples, including a fictional spacetime corps and an unnatural generalization; insufficient natural contexts.",
+      "status": "reject"
+    },
+    {
+      "word": "forthcoming",
+      "definitionEN": "about to happen, willing to provide information, or available when needed",
+      "definitionCN": "即将发生的；乐于提供信息的；可得到的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12412528",
+        "tatoeba-eng-11066171",
+        "tatoeba-eng-874573"
+      ]
+    },
+    {
+      "word": "conceive",
+      "definitionEN": "to imagine something or form an idea in the mind",
+      "definitionCN": "构想；想象",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5680729",
+        "tatoeba-eng-608100",
+        "tatoeba-eng-13419019"
+      ]
+    },
+    {
+      "word": "prosecute",
+      "definitionCN": "起诉；提起公诉",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-747250",
+        "tatoeba-eng-1954708",
+        "tatoeba-eng-13456784"
+      ]
+    },
+    {
+      "word": "inflict",
+      "definitionCN": "使遭受；施加（伤害等）",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-13416849",
+        "tatoeba-eng-8983295",
+        "tatoeba-eng-14090457"
+      ]
+    },
+    {
+      "word": "slang",
+      "definitionEN": "very informal words and expressions used by particular groups of people",
+      "definitionCN": "俚语；非正式用语",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10559281",
+        "tatoeba-eng-10559348",
+        "tatoeba-eng-6000164"
+      ]
+    },
+    {
+      "word": "execution",
+      "definitionCN": "处决；死刑的执行",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11634941",
+        "tatoeba-eng-10231301",
+        "tatoeba-eng-5298700"
+      ]
+    },
+    {
+      "word": "costume",
+      "definitionCN": "戏服；装束；特定场合的服装",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6375014",
+        "tatoeba-eng-6574081",
+        "tatoeba-eng-11498075"
+      ]
+    },
+    {
+      "word": "intersection",
+      "definitionEN": "a point where roads, lines, or areas of interest meet or cross",
+      "definitionCN": "十字路口；交点；交汇处",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-9836922",
+        "tatoeba-eng-11746631",
+        "tatoeba-eng-5295120"
+      ]
+    },
+    {
+      "word": "monarchy",
+      "definitionEN": "a system of government with a king or queen as head of state",
+      "definitionCN": "君主政体；君主国",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8905724",
+        "tatoeba-eng-8388996",
+        "tatoeba-eng-8905992"
+      ]
+    },
+    {
+      "word": "denounce",
+      "definitionCN": "公开谴责；抨击",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2020",
+        "tatoeba-eng-6892195",
+        "tatoeba-eng-12864064"
+      ]
+    },
+    {
+      "word": "activate",
+      "definitionCN": "激活；使启动",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-328356",
+        "tatoeba-eng-5983905",
+        "tatoeba-eng-5206615"
+      ]
+    },
+    {
+      "word": "mutation",
+      "definitionCN": "基因突变",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-4445286",
+        "tatoeba-eng-4904729",
+        "tatoeba-eng-1363512"
+      ]
+    },
+    {
+      "word": "misfortune",
+      "definitionCN": "不幸；灾祸",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1652197",
+        "tatoeba-eng-7813209",
+        "tatoeba-eng-10491088"
+      ]
+    },
+    {
+      "word": "patron",
+      "definitionCN": "顾客；常客",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10212551",
+        "tatoeba-eng-8181772",
+        "tatoeba-eng-68108"
+      ]
+    },
+    {
+      "word": "subordinate",
+      "partOfSpeech": "adj.",
+      "definitionEN": "dependent on something else or lower in rank or importance",
+      "definitionCN": "从属的；下级的；次要的",
+      "forms": [],
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3343654",
+        "tatoeba-eng-274659",
+        "tatoeba-eng-8550087"
+      ]
+    },
+    {
+      "word": "rim",
+      "definitionEN": "the edge or border of a circular object or opening",
+      "definitionCN": "（圆形物体或开口的）边缘",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-13441939",
+        "tatoeba-eng-62920",
+        "tatoeba-eng-10861354"
+      ]
+    },
+    {
+      "word": "blur",
+      "definitionCN": "使模糊；使不清晰",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8713645",
+        "tatoeba-eng-10220461",
+        "tatoeba-eng-8245906"
+      ]
+    },
+    {
+      "word": "relaxation",
+      "definitionEN": "rest and freedom from stress or tension",
+      "definitionCN": "放松；休息",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8946846",
+        "tatoeba-eng-11266094",
+        "tatoeba-eng-11766532"
+      ]
+    },
+    {
+      "word": "clutch",
+      "definitionEN": "the mechanism in a vehicle that connects or disconnects the engine from the gears",
+      "definitionCN": "离合器",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2668353",
+        "tatoeba-eng-587927",
+        "tatoeba-eng-3444304"
+      ]
+    },
+    {
+      "word": "ensemble",
+      "definitionCN": "合奏团；合唱团",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11121927",
+        "tatoeba-eng-878211",
+        "tatoeba-eng-1112559"
+      ]
+    },
+    {
+      "word": "plague",
+      "definitionCN": "瘟疫；鼠疫",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8969609",
+        "tatoeba-eng-3959132",
+        "tatoeba-eng-4609561"
+      ]
+    },
+    {
+      "word": "offspring",
+      "definitionEN": "the young of a person, animal, or other living organism",
+      "definitionCN": "子女；后代；幼崽",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-4005408",
+        "tatoeba-eng-9592471",
+        "tatoeba-eng-9195491"
+      ]
+    },
+    {
+      "word": "tilt",
+      "reason": "Only two noun examples and one verb example; insufficient coherent contexts for a single part of speech.",
+      "status": "reject"
+    },
+    {
+      "word": "haunt",
+      "reason": "Only two noun examples; remaining verb examples repeat the same dream sentence or use a different ghost sense.",
+      "status": "reject"
+    },
+    {
+      "word": "affiliate",
+      "reason": "Only two verb examples; noun alternatives largely duplicate a privacy statement and do not supply three distinct aligned contexts.",
+      "status": "reject"
+    },
+    {
+      "word": "bleach",
+      "definitionCN": "使褪色；漂白",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6684626",
+        "tatoeba-eng-6684666",
+        "tatoeba-eng-6101721"
+      ]
+    },
+    {
+      "word": "loom",
+      "reason": "Only three contexts, one with an incorrect weaving past participle, leaving insufficient natural examples.",
+      "status": "reject"
+    },
+    {
+      "word": "courtesy",
+      "definitionCN": "礼貌；礼遇",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8607997",
+        "tatoeba-eng-4138193",
+        "tatoeba-eng-7414196"
+      ]
+    },
+    {
+      "word": "picturesque",
+      "definitionCN": "风景如画的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11243464",
+        "tatoeba-eng-10821887",
+        "tatoeba-eng-9096755"
+      ]
+    },
+    {
+      "word": "feat",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-517803",
+        "tatoeba-eng-8689406",
+        "tatoeba-eng-11401870"
+      ]
+    },
+    {
+      "word": "spiral",
+      "definitionEN": "a curve that winds around a centre, or a continuing cycle of change that becomes more extreme",
+      "definitionCN": "螺旋形；不断恶化的循环",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12362206",
+        "tatoeba-eng-4984621",
+        "tatoeba-eng-7264502"
+      ]
+    },
+    {
+      "word": "crisp",
+      "definitionEN": "pleasantly cool and fresh, or clean, neat, and firm in appearance",
+      "definitionCN": "清新凉爽的；整洁挺括的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-13567284",
+        "tatoeba-eng-9473351",
+        "tatoeba-eng-5834786"
+      ]
+    },
+    {
+      "word": "pier",
+      "definitionCN": "突堤码头；栈桥",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11112181",
+        "tatoeba-eng-7675196",
+        "tatoeba-eng-9935559"
+      ]
+    },
+    {
+      "word": "handbook",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1538641",
+        "tatoeba-eng-13946501",
+        "tatoeba-eng-6974628"
+      ]
+    },
+    {
+      "word": "paranoia",
+      "reason": "Only three weak contexts, including an unexplained fictional worldwide virus effect; unsuitable as an academic learning card.",
+      "status": "reject"
+    },
+    {
+      "word": "soar",
+      "reason": "Source POS is noun but all examples are verbs; two of only three examples merely swap kite and plane without useful context diversity.",
+      "status": "reject"
+    },
+    {
+      "word": "instantaneous",
+      "definitionEN": "happening without delay, or existing at a particular instant",
+      "definitionCN": "即刻的；瞬时的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11500038",
+        "tatoeba-eng-5620965",
+        "tatoeba-eng-8543273"
+      ]
+    },
+    {
+      "word": "bribe",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5397006",
+        "tatoeba-eng-6130521",
+        "tatoeba-eng-2056627"
+      ]
+    },
+    {
+      "word": "petty",
+      "definitionEN": "small and unimportant",
+      "definitionCN": "琐碎的；微不足道的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10744534",
+        "tatoeba-eng-5860171",
+        "tatoeba-eng-10516131"
+      ]
+    },
+    {
+      "word": "yearn",
+      "definitionEN": "to want something very strongly, often with sadness or longing",
+      "definitionCN": "渴望；向往",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-67390",
+        "tatoeba-eng-4512515",
+        "tatoeba-eng-433674"
+      ]
+    },
+    {
+      "word": "superstition",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-19131",
+        "tatoeba-eng-9085592",
+        "tatoeba-eng-4400729"
+      ]
+    },
+    {
+      "word": "refrain",
+      "partOfSpeech": "v.",
+      "definitionEN": "to deliberately avoid doing something",
+      "definitionCN": "克制；避免做某事",
+      "forms": [
+        "refrained",
+        "refraining",
+        "refrains"
+      ],
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11765106",
+        "tatoeba-eng-11874848",
+        "tatoeba-eng-5674495"
+      ]
+    },
+    {
+      "word": "outright",
+      "definitionEN": "complete and total",
+      "definitionCN": "完全的；彻底的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-326812",
+        "tatoeba-eng-9843267",
+        "tatoeba-eng-11157175"
+      ]
+    },
+    {
+      "word": "tug",
+      "definitionCN": "猛拉；用力一拉",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11739164",
+        "tatoeba-eng-12650070",
+        "tatoeba-eng-44974"
+      ]
+    },
+    {
+      "word": "token",
+      "definitionEN": "something given or used as a sign of a feeling or intention",
+      "definitionCN": "表示；象征；信物",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-625170",
+        "tatoeba-eng-12902533",
+        "tatoeba-eng-11101619"
+      ]
+    },
+    {
+      "word": "mobilize",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5276655",
+        "tatoeba-eng-12228321",
+        "tatoeba-eng-8656730"
+      ]
+    },
+    {
+      "word": "brace",
+      "definitionCN": "（固定或支撑身体部位的）支具，支架",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6580774",
+        "tatoeba-eng-9956982",
+        "tatoeba-eng-9956674"
+      ]
+    },
+    {
+      "word": "foil",
+      "definitionCN": "（金属）箔",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-453638",
+        "tatoeba-eng-9765436",
+        "tatoeba-eng-12382836"
+      ]
+    },
+    {
+      "word": "void",
+      "definitionEN": "an empty space or a feeling that something important is missing",
+      "definitionCN": "空洞；空虚感",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2674767",
+        "tatoeba-eng-11847037",
+        "tatoeba-eng-9777500"
+      ]
+    },
+    {
+      "word": "mimic",
+      "partOfSpeech": "v.",
+      "definitionEN": "to imitate the actions, appearance, or effects of something",
+      "definitionCN": "模仿；模拟",
+      "forms": [
+        "mimicked",
+        "mimicking",
+        "mimics"
+      ],
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8992172",
+        "tatoeba-eng-3753009",
+        "tatoeba-eng-11251406"
+      ]
+    },
+    {
+      "word": "bypass",
+      "partOfSpeech": "v.",
+      "definitionEN": "to go around or avoid an obstacle, rule, or procedure",
+      "definitionCN": "绕过；避开",
+      "forms": [
+        "bypassed",
+        "bypassing",
+        "bypasses"
+      ],
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-558510",
+        "tatoeba-eng-8894586",
+        "tatoeba-eng-10096563"
+      ]
+    },
+    {
+      "word": "emigrate",
+      "reason": "The limited pool contains an incomplete dated statement and a near-duplicate opportunity sentence; fewer than three useful distinct contexts.",
+      "status": "reject"
+    },
+    {
+      "word": "dodge",
+      "definitionEN": "to move quickly to avoid something, or evade a duty or difficult matter",
+      "definitionCN": "躲避；逃避",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-328272",
+        "tatoeba-eng-540500",
+        "tatoeba-eng-11254351"
+      ]
+    },
+    {
+      "word": "defiance",
+      "definitionEN": "open resistance to authority, opposition, or danger",
+      "definitionCN": "公然反抗；蔑视",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-318319",
+        "tatoeba-eng-7483202",
+        "tatoeba-eng-13153672"
+      ]
+    },
+    {
+      "word": "hysterical",
+      "reason": "Only three contexts, one using an obsolete medical diagnosis and another dependent on an odd violent narrative; insufficient useful examples.",
+      "status": "reject"
+    },
+    {
+      "word": "lament",
+      "partOfSpeech": "v.",
+      "definitionEN": "to express sadness, grief, or regret about something",
+      "definitionCN": "悲叹；哀悼",
+      "forms": [
+        "lamented",
+        "lamenting",
+        "laments"
+      ],
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-930023",
+        "tatoeba-eng-14088656",
+        "tatoeba-eng-8892594"
+      ]
+    },
+    {
+      "word": "gust",
+      "definitionCN": "一阵强风",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6461984",
+        "tatoeba-eng-824275",
+        "tatoeba-eng-12593748"
+      ]
+    },
+    {
+      "word": "plank",
+      "definitionEN": "a long, flat piece of wood",
+      "definitionCN": "厚木板",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10275339",
+        "tatoeba-eng-5263020",
+        "tatoeba-eng-10641133"
+      ]
+    },
+    {
+      "word": "crouch",
+      "partOfSpeech": "v.",
+      "definitionEN": "to lower the body by bending the knees and bringing it close to the ground",
+      "definitionCN": "蹲下；蹲伏",
+      "forms": [
+        "crouched",
+        "crouching",
+        "crouches"
+      ],
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8987953",
+        "tatoeba-eng-3076230",
+        "tatoeba-eng-8188181"
+      ]
+    },
+    {
+      "word": "commend",
+      "definitionCN": "赞扬；称赞",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10076825",
+        "tatoeba-eng-12457379",
+        "tatoeba-eng-826032"
+      ]
+    },
+    {
+      "word": "mesh",
+      "definitionEN": "material made of a network of wire or threads with spaces between them",
+      "definitionCN": "网状材料；网眼织物",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10203248",
+        "tatoeba-eng-8567632",
+        "tatoeba-eng-391895"
+      ]
+    },
+    {
+      "word": "succumb",
+      "definitionEN": "to give way to pressure, temptation, or a stronger influence",
+      "definitionCN": "屈服；屈从",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3149833",
+        "tatoeba-eng-237971",
+        "tatoeba-eng-5363962"
+      ]
+    },
+    {
+      "word": "monstrous",
+      "definitionEN": "extremely shocking or frightening, or unnaturally large and ugly",
+      "definitionCN": "骇人的；畸形可怕的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5966568",
+        "tatoeba-eng-11661007",
+        "tatoeba-eng-7414208"
+      ]
+    },
+    {
+      "word": "tow",
+      "definitionCN": "拖运；牵引",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11573753",
+        "tatoeba-eng-3933108",
+        "tatoeba-eng-11535803"
+      ]
+    },
+    {
+      "word": "inaccurate",
+      "definitionCN": "不准确的；失实的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-883152",
+        "tatoeba-eng-3349307",
+        "tatoeba-eng-7752116"
+      ]
+    },
+    {
+      "word": "latitude",
+      "definitionCN": "纬度",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6604234",
+        "tatoeba-eng-6675773",
+        "tatoeba-eng-6684360"
+      ]
+    },
+    {
+      "word": "observatory",
+      "definitionCN": "天文台；观测站",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6285318",
+        "tatoeba-eng-803220",
+        "tatoeba-eng-11124979"
+      ]
+    },
+    {
+      "word": "baffle",
+      "definitionEN": "to confuse someone so that they cannot understand or explain something",
+      "definitionCN": "使困惑；难住",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8681638",
+        "tatoeba-eng-12249835",
+        "tatoeba-eng-8860335"
+      ]
+    },
+    {
+      "word": "porcelain",
+      "definitionEN": "a hard, fine, usually white ceramic material, or objects made from it",
+      "definitionCN": "瓷；瓷器",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-13556548",
+        "tatoeba-eng-6010385",
+        "tatoeba-eng-11498669"
+      ]
+    },
+    {
+      "word": "grit",
+      "partOfSpeech": "v.",
+      "definitionEN": "to press the teeth firmly together in anger or determination",
+      "definitionCN": "咬紧（牙关）",
+      "forms": [
+        "gritted",
+        "gritting",
+        "grits"
+      ],
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10251316",
+        "tatoeba-eng-1316921",
+        "tatoeba-eng-10251323"
+      ]
+    },
+    {
+      "word": "tutorial",
+      "definitionEN": "a lesson or set of instructions that teaches a particular subject or skill",
+      "definitionCN": "教程；辅导课",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11017953",
+        "tatoeba-eng-10822483",
+        "tatoeba-eng-777628"
+      ]
+    },
+    {
+      "word": "wholesale",
+      "reason": "Only three examples, using unrelated adjective, adverb, and trade-attributive senses; insufficient single-POS contexts.",
+      "status": "reject"
+    },
+    {
+      "word": "devour",
+      "definitionEN": "to eat something quickly and greedily",
+      "definitionCN": "狼吞虎咽地吃；吞食",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10129617",
+        "tatoeba-eng-10613963",
+        "tatoeba-eng-7767308"
+      ]
+    },
+    {
+      "word": "clamp",
+      "reason": "Only one noun context; verb alternatives include a phrasal sense and a sentence with a typo, leaving insufficient examples.",
+      "status": "reject"
+    },
+    {
+      "word": "pilgrim",
+      "definitionEN": "a person who travels to a holy place for religious reasons",
+      "definitionCN": "朝圣者；香客",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8604737",
+        "tatoeba-eng-13460067",
+        "tatoeba-eng-8781724"
+      ]
+    },
+    {
+      "word": "enlighten",
+      "definitionCN": "启发；使了解",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-4779311",
+        "tatoeba-eng-11122076",
+        "tatoeba-eng-1153908"
+      ]
+    },
+    {
+      "word": "freak",
+      "definitionEN": "a person regarded as markedly unusual or extremely concerned with a particular thing",
+      "definitionCN": "怪人；对某事极度执着的人",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3152599",
+        "tatoeba-eng-11034767",
+        "tatoeba-eng-2963591"
+      ]
+    },
+    {
+      "word": "detergent",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-9136073",
+        "tatoeba-eng-10680214",
+        "tatoeba-eng-6993627"
+      ]
+    },
+    {
+      "word": "tamper",
+      "definitionCN": "擅自改动；篡改；破坏",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5725218",
+        "tatoeba-eng-9800806",
+        "tatoeba-eng-27150"
+      ]
+    },
+    {
+      "word": "duplicate",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10680284",
+        "tatoeba-eng-10081179",
+        "tatoeba-eng-5145763"
+      ]
+    },
+    {
+      "word": "eddy",
+      "definitionCN": "漩涡；回流",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6708785",
+        "tatoeba-eng-6708782",
+        "tatoeba-eng-11119820"
+      ]
+    },
+    {
+      "word": "virtuous",
+      "definitionCN": "品德高尚的；有德行的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3399838",
+        "tatoeba-eng-7490024",
+        "tatoeba-eng-5967723"
+      ]
+    },
+    {
+      "word": "notch",
+      "definitionEN": "a small cut or indentation, or a degree in a scale or level",
+      "definitionCN": "刻痕；档次；程度",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1488801",
+        "tatoeba-eng-8412125",
+        "tatoeba-eng-11892130"
+      ]
+    },
+    {
+      "word": "ascend",
+      "definitionEN": "to move upwards or reach a higher position",
+      "definitionCN": "上升；登上",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-694036",
+        "tatoeba-eng-11473160",
+        "tatoeba-eng-10317361"
+      ]
+    },
+    {
+      "word": "overflow",
+      "partOfSpeech": "v.",
+      "definitionEN": "to flow over the edge or exceed the capacity of a container or channel",
+      "definitionCN": "溢出；泛滥",
+      "forms": [
+        "overflowed",
+        "overflowing",
+        "overflows"
+      ],
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6989055",
+        "tatoeba-eng-8481799",
+        "tatoeba-eng-7769058"
+      ]
+    },
+    {
+      "word": "bulge",
+      "reason": "Only two suitable noun contexts; the other noun example is a distracting sexualized sentence and the remaining example is a verb.",
+      "status": "reject"
+    },
+    {
+      "word": "browse",
+      "definitionCN": "浏览；随意翻阅",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8051554",
+        "tatoeba-eng-11737856",
+        "tatoeba-eng-12424393"
+      ]
+    },
+    {
+      "word": "brew",
+      "reason": "Only two noun and two verb contexts, including an odd witch recipe; insufficient three-context single-POS set.",
+      "status": "reject"
+    },
+    {
+      "word": "hoist",
+      "reason": "Only one noun context; other examples are verbs including an unrelated informal drinking idiom.",
+      "status": "reject"
+    },
+    {
+      "word": "tempo",
+      "definitionCN": "（音乐的）速度；节奏",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-328763",
+        "tatoeba-eng-8993202",
+        "tatoeba-eng-8062924"
+      ]
+    },
+    {
+      "word": "prelude",
+      "definitionEN": "an event or short piece of music that introduces or comes before something else",
+      "definitionCN": "前奏；序幕；前奏曲",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6717753",
+        "tatoeba-eng-307033",
+        "tatoeba-eng-9140009"
+      ]
+    },
+    {
+      "word": "persecute",
+      "definitionCN": "迫害；长期骚扰",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5797061",
+        "tatoeba-eng-10531955",
+        "tatoeba-eng-2975063"
+      ]
+    },
+    {
+      "word": "wrench",
+      "definitionEN": "a tool used for gripping and turning nuts, bolts, or pipe fittings",
+      "definitionCN": "扳手",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8681658",
+        "tatoeba-eng-11892573",
+        "tatoeba-eng-644647"
+      ]
+    },
+    {
+      "word": "muster",
+      "partOfSpeech": "v.",
+      "definitionEN": "to gather or bring together enough courage, energy, or resources for a purpose",
+      "definitionCN": "鼓起；集中，调集",
+      "forms": [
+        "mustered",
+        "mustering",
+        "musters"
+      ],
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-413334",
+        "tatoeba-eng-7117891",
+        "tatoeba-eng-11249531"
+      ]
+    },
+    {
+      "word": "puncture",
+      "definitionEN": "a small hole or wound made by a sharp object, especially in a tyre",
+      "definitionCN": "刺孔；刺伤；轮胎扎破",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8811188",
+        "tatoeba-eng-245497",
+        "tatoeba-eng-12766435"
+      ]
+    },
+    {
+      "word": "exposition",
+      "definitionEN": "a public exhibition of art, manufactured goods, or other displays",
+      "definitionCN": "展览；博览会",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-13842815",
+        "tatoeba-eng-2755229",
+        "tatoeba-eng-8904986"
+      ]
+    },
+    {
+      "word": "extravagant",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-847263",
+        "tatoeba-eng-10306123",
+        "tatoeba-eng-326645"
+      ]
+    },
+    {
+      "word": "barometer",
+      "definitionEN": "an instrument that measures atmospheric pressure, or an indicator of changing conditions",
+      "definitionCN": "气压计；晴雨表；指标",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10010374",
+        "tatoeba-eng-10349237",
+        "tatoeba-eng-267667"
+      ]
+    },
+    {
+      "word": "drench",
+      "definitionEN": "to make someone or something completely wet",
+      "definitionCN": "使湿透；浸透",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-324682",
+        "tatoeba-eng-8097900",
+        "tatoeba-eng-11567717"
+      ]
+    },
+    {
+      "word": "refund",
+      "definitionCN": "退款；退还的款项",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-644648",
+        "tatoeba-eng-10079654",
+        "tatoeba-eng-7209551"
+      ]
+    },
+    {
+      "word": "synonym",
+      "definitionEN": "a word with the same or nearly the same meaning as another word",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-977291",
+        "tatoeba-eng-3153620",
+        "tatoeba-eng-12424556"
+      ]
+    },
+    {
+      "word": "quiver",
+      "reason": "Only three contexts, split between a technical mathematical sense and a trembling sense; no coherent three-example set.",
+      "status": "reject"
+    },
+    {
+      "word": "smother",
+      "definitionEN": "to suppress a feeling or information, or put out a fire by covering it",
+      "definitionCN": "抑制；扼杀；闷熄",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6888742",
+        "tatoeba-eng-12989596",
+        "tatoeba-eng-11254391"
+      ]
+    },
+    {
+      "word": "pretext",
+      "definitionCN": "借口；托词",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11559666",
+        "tatoeba-eng-7760654",
+        "tatoeba-eng-10744629"
+      ]
+    },
+    {
+      "word": "adjoin",
+      "definitionEN": "to be next to or joined onto something",
+      "definitionCN": "紧挨；毗连",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11510165",
+        "tatoeba-eng-6937111",
+        "tatoeba-eng-10753672"
+      ]
+    },
+    {
+      "word": "kernel",
+      "definitionEN": "the inner part of a seed, the central part of an idea, or the core of a computer operating system",
+      "definitionCN": "谷粒；核心；计算机内核",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-13828934",
+        "tatoeba-eng-11047998",
+        "tatoeba-eng-722650"
+      ]
+    },
+    {
+      "word": "perplex",
+      "definitionCN": "使困惑；使费解",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6691512",
+        "tatoeba-eng-1563852",
+        "tatoeba-eng-12305332"
+      ]
+    },
+    {
+      "word": "jagged",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6168573",
+        "tatoeba-eng-6359758",
+        "tatoeba-eng-63404"
+      ]
+    },
+    {
+      "word": "ransom",
+      "definitionCN": "赎金；勒索款",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10025589",
+        "tatoeba-eng-50030",
+        "tatoeba-eng-11850477"
+      ]
+    },
+    {
+      "word": "bustle",
+      "definitionCN": "忙碌喧闹；熙攘",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11822035",
+        "tatoeba-eng-275854",
+        "tatoeba-eng-11766505"
+      ]
+    },
+    {
+      "word": "conqueror",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6121132",
+        "tatoeba-eng-4540427",
+        "tatoeba-eng-6121133"
+      ]
+    },
+    {
+      "word": "ghastly",
+      "definitionCN": "可怕的；糟糕透顶的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-743748",
+        "tatoeba-eng-6606483",
+        "tatoeba-eng-6606847"
+      ]
+    },
+    {
+      "word": "mirage",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5243053",
+        "tatoeba-eng-13075231",
+        "tatoeba-eng-3491948"
+      ]
+    },
+    {
+      "word": "quench",
+      "definitionCN": "解渴；止渴",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2184943",
+        "tatoeba-eng-11607547",
+        "tatoeba-eng-13751991"
+      ]
+    },
+    {
+      "word": "teem",
+      "definitionEN": "to be full of or contain a large number of living things",
+      "definitionCN": "充满；有大量……",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-9774035",
+        "tatoeba-eng-11567771",
+        "tatoeba-eng-11815837"
+      ]
+    },
+    {
+      "word": "blunder",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-303241",
+        "tatoeba-eng-3877546",
+        "tatoeba-eng-11543093"
+      ]
+    },
+    {
+      "word": "sarcasm",
+      "definitionCN": "挖苦；讽刺",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10259230",
+        "tatoeba-eng-13049463",
+        "tatoeba-eng-9012587"
+      ]
+    },
+    {
+      "word": "insomnia",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11386724",
+        "tatoeba-eng-10259263",
+        "tatoeba-eng-13569529"
+      ]
+    },
+    {
+      "word": "untold",
+      "definitionCN": "无数的；不可估量的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10143373",
+        "tatoeba-eng-10320788",
+        "tatoeba-eng-6108141"
+      ]
+    },
+    {
+      "word": "impromptu",
+      "partOfSpeech": "adj.",
+      "definitionEN": "done or made without preparation",
+      "definitionCN": "即兴的；即席的",
+      "forms": [],
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-713046",
+        "tatoeba-eng-1611756",
+        "tatoeba-eng-2300060"
+      ]
+    },
+    {
+      "word": "ovation",
+      "reason": "Only three contexts; the first uses the unnatural collocation 'paid a standing ovation', leaving two usable examples.",
+      "status": "reject"
+    },
+    {
+      "word": "sieve",
+      "definitionEN": "a tool with small holes for separating fine material or liquid from larger pieces",
+      "definitionCN": "筛子；滤网",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3884623",
+        "tatoeba-eng-5610265",
+        "tatoeba-eng-10856519"
+      ]
+    },
+    {
+      "word": "crevice",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-13849964",
+        "tatoeba-eng-8983278",
+        "tatoeba-eng-10104680"
+      ]
+    },
+    {
+      "word": "chisel",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10612127",
+        "tatoeba-eng-1746578",
+        "tatoeba-eng-12401029"
+      ]
+    },
+    {
+      "word": "clockwise",
+      "partOfSpeech": "adv.",
+      "definitionEN": "in the direction in which the hands of a clock move",
+      "definitionCN": "顺时针地",
+      "forms": [],
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12382826",
+        "tatoeba-eng-10099910",
+        "tatoeba-eng-11887636"
+      ]
+    },
+    {
+      "word": "steadfast",
+      "definitionCN": "坚定不移的；忠诚可靠的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12562424",
+        "tatoeba-eng-12560304",
+        "tatoeba-eng-8895265"
+      ]
+    },
+    {
+      "word": "nourishment",
+      "definitionEN": "food or nutrients needed for health and growth",
+      "definitionCN": "营养；滋养",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-501178",
+        "tatoeba-eng-12079171",
+        "tatoeba-eng-23599"
+      ]
+    },
+    {
+      "word": "oar",
+      "definitionCN": "船桨",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-718480",
+        "tatoeba-eng-6958003",
+        "tatoeba-eng-6213128"
+      ]
+    },
+    {
+      "word": "shimmer",
+      "reason": "Only two noun contexts and one verb context; no three-context set aligned with a single part of speech.",
+      "status": "reject"
+    },
+    {
+      "word": "pretentious",
+      "definitionCN": "自命不凡的；故作高雅的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2040361",
+        "tatoeba-eng-8530315",
+        "tatoeba-eng-6289673"
+      ]
+    },
+    {
+      "word": "abbreviation",
+      "definitionCN": "缩写；缩略形式",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8490187",
+        "tatoeba-eng-9589237",
+        "tatoeba-eng-10056981"
+      ]
+    },
+    {
+      "word": "null",
+      "reason": "Legal contexts are insufficient and alternatives contain inaccurate or incoherent statistical and numerical claims.",
+      "status": "reject"
+    },
+    {
+      "word": "neurosis",
+      "reason": "Only three contexts, with dated psychiatric terminology and an unsupported biochemical comparison; weak learning material.",
+      "status": "reject"
+    },
+    {
+      "word": "nautical",
+      "definitionCN": "航海的；海事的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6708747",
+        "tatoeba-eng-6708746",
+        "tatoeba-eng-6708749"
+      ]
+    },
+    {
+      "word": "platitude",
+      "reason": "Only three contexts; one contains distracting vulgar wording and another is vague, leaving too few useful examples.",
+      "status": "reject"
+    },
+    {
+      "word": "penicillin",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-33919",
+        "tatoeba-eng-33920",
+        "tatoeba-eng-71824"
+      ]
+    },
+    {
+      "word": "fastidious",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12910406",
+        "tatoeba-eng-5119723",
+        "tatoeba-eng-5189239"
+      ]
+    },
+    {
+      "word": "fruition",
+      "definitionEN": "the successful development or completion of a plan or idea",
+      "definitionCN": "实现；成果",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10265204",
+        "tatoeba-eng-11904092",
+        "tatoeba-eng-4239235"
+      ]
+    },
+    {
+      "word": "lenient",
+      "definitionCN": "宽容的；从宽处理的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-695227",
+        "tatoeba-eng-292197",
+        "tatoeba-eng-12816063"
+      ]
+    },
+    {
+      "word": "decrepit",
+      "definitionCN": "衰老体弱的；老朽的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-9938748",
+        "tatoeba-eng-4097566",
+        "tatoeba-eng-10891622"
+      ]
+    },
+    {
+      "word": "inevitably",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-14034437",
+        "tatoeba-eng-13206124",
+        "tatoeba-eng-10905620"
+      ]
+    },
+    {
+      "word": "solicitor",
+      "definitionEN": "a legal professional who gives legal advice and prepares legal documents, especially in Britain",
+      "definitionCN": "（英国等国家的）事务律师",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11985413",
+        "tatoeba-eng-320437",
+        "tatoeba-eng-263811"
+      ]
+    },
+    {
+      "word": "interface",
+      "definitionEN": "the means through which a user interacts with a computer system or program",
+      "definitionCN": "界面；交互界面",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10093505",
+        "tatoeba-eng-930450",
+        "tatoeba-eng-5941885"
+      ]
+    },
+    {
+      "word": "clinical",
+      "definitionCN": "临床的；与诊疗有关的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-4264682",
+        "tatoeba-eng-10022011",
+        "tatoeba-eng-950932"
+      ]
+    },
+    {
+      "word": "empower",
+      "definitionCN": "赋权；使有能力",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11758214",
+        "tatoeba-eng-10322409",
+        "tatoeba-eng-8602734"
+      ]
+    },
+    {
+      "word": "violation",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2840463",
+        "tatoeba-eng-5310968",
+        "tatoeba-eng-277167"
+      ]
+    },
+    {
+      "word": "linguistic",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6099112",
+        "tatoeba-eng-3438092",
+        "tatoeba-eng-6099010"
+      ]
+    },
+    {
+      "word": "inspector",
+      "definitionEN": "an official who checks that rules are followed, or a police officer of a particular rank",
+      "definitionCN": "检查员；督察",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-9431677",
+        "tatoeba-eng-6015144",
+        "tatoeba-eng-11137899"
+      ]
+    },
+    {
+      "word": "subsequently",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5519757",
+        "tatoeba-eng-11122053",
+        "tatoeba-eng-12170094"
+      ]
+    },
+    {
+      "word": "evaluation",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-422017",
+        "tatoeba-eng-10752287",
+        "tatoeba-eng-8958453"
+      ]
+    },
+    {
+      "word": "enact",
+      "definitionEN": "to formally make a proposal into law",
+      "definitionCN": "制定；颁布（法律）",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8229887",
+        "tatoeba-eng-5804073",
+        "tatoeba-eng-1143050"
+      ]
+    },
+    {
+      "word": "constantly",
+      "definitionEN": "continuously or repeatedly",
+      "definitionCN": "持续地；不断地",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6709365",
+        "tatoeba-eng-11476921",
+        "tatoeba-eng-291601"
+      ]
+    },
+    {
+      "word": "lawsuit",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3731874",
+        "tatoeba-eng-8782342",
+        "tatoeba-eng-13574250"
+      ]
+    },
+    {
+      "word": "senator",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-717964",
+        "tatoeba-eng-640841",
+        "tatoeba-eng-4418143"
+      ]
+    },
+    {
+      "word": "squad",
+      "definitionEN": "a small group organized for a particular activity, especially in the military, police, or sport",
+      "definitionCN": "小队；运动队",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3154106",
+        "tatoeba-eng-2318105",
+        "tatoeba-eng-8681223"
+      ]
+    },
+    {
+      "word": "variability",
+      "definitionCN": "变动性；变异性",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-7523551",
+        "tatoeba-eng-12602806",
+        "tatoeba-eng-8904642"
+      ]
+    },
+    {
+      "word": "scenario",
+      "definitionEN": "a possible situation or series of events, especially in the future",
+      "definitionCN": "情景；设想；可能发生的情况",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10295380",
+        "tatoeba-eng-8575722",
+        "tatoeba-eng-10740908"
+      ]
+    },
+    {
+      "word": "founder",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11769404",
+        "tatoeba-eng-462976",
+        "tatoeba-eng-663000"
+      ]
+    },
+    {
+      "word": "diabetes",
+      "definitionEN": "a disease in which blood glucose levels are too high because the body cannot properly produce or use insulin",
+      "definitionCN": "糖尿病",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5905774",
+        "tatoeba-eng-6331968",
+        "tatoeba-eng-10366222"
+      ]
+    },
+    {
+      "word": "commissioner",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12464152",
+        "tatoeba-eng-2950156",
+        "tatoeba-eng-1386689"
+      ]
+    },
+    {
+      "word": "plaintiff",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2251983",
+        "tatoeba-eng-2313139",
+        "tatoeba-eng-11986310"
+      ]
+    },
+    {
+      "word": "minimize",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-7767289",
+        "tatoeba-eng-11260595",
+        "tatoeba-eng-6604352"
+      ]
+    },
+    {
+      "word": "frustration",
+      "definitionCN": "挫败感；沮丧",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2135142",
+        "tatoeba-eng-8609876",
+        "tatoeba-eng-245724"
+      ]
+    },
+    {
+      "word": "lily",
+      "reason": "Lower-value flower vocabulary for this advanced expansion; most contexts concern water lilies, inconsistent with the supplied Lilium definition.",
+      "status": "reject"
+    },
+    {
+      "word": "feminist",
+      "definitionCN": "女权主义者；主张性别平等的人",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3154231",
+        "tatoeba-eng-5697134",
+        "tatoeba-eng-9958561"
+      ]
+    },
+    {
+      "word": "accountability",
+      "definitionCN": "责任；问责",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11758241",
+        "tatoeba-eng-12560187",
+        "tatoeba-eng-11209592"
+      ]
+    },
+    {
+      "word": "allegation",
+      "definitionCN": "指控；未经证实的指称",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1464367",
+        "tatoeba-eng-5992327",
+        "tatoeba-eng-14073268"
+      ]
+    },
+    {
+      "word": "guilt",
+      "definitionEN": "responsibility for wrongdoing, or the feeling of remorse for something one has done",
+      "definitionCN": "罪责；内疚",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-300612",
+        "tatoeba-eng-8657850",
+        "tatoeba-eng-1127422"
+      ]
+    },
+    {
+      "word": "desperately",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11776591",
+        "tatoeba-eng-6713867",
+        "tatoeba-eng-8116741"
+      ]
+    },
+    {
+      "word": "pitcher",
+      "definitionEN": "a large container with a handle and a spout for holding and pouring liquids",
+      "definitionCN": "有柄大水罐",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2267655",
+        "tatoeba-eng-9145856",
+        "tatoeba-eng-7867712"
+      ]
+    },
+    {
+      "word": "adoption",
+      "definitionEN": "the acceptance or use of an idea or practice, or bringing a child or animal into a new family",
+      "definitionCN": "采用；采纳；收养",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11899582",
+        "tatoeba-eng-6719149",
+        "tatoeba-eng-9756857"
+      ]
+    },
+    {
+      "word": "corruption",
+      "definitionEN": "dishonest or illegal behaviour by people in positions of power",
+      "definitionCN": "腐败；贪污",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10781210",
+        "tatoeba-eng-10854514",
+        "tatoeba-eng-2020"
+      ]
+    },
+    {
+      "word": "meaningful",
+      "definitionCN": "有意义的；意味深长的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10721687",
+        "tatoeba-eng-6918507",
+        "tatoeba-eng-11846076"
+      ]
+    },
+    {
+      "word": "pregnancy",
+      "definitionCN": "怀孕；妊娠期",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-9338298",
+        "tatoeba-eng-4672667",
+        "tatoeba-eng-12028066"
+      ]
+    },
+    {
+      "word": "endanger",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8626831",
+        "tatoeba-eng-6558409",
+        "tatoeba-eng-9002298"
+      ]
+    },
+    {
+      "word": "amendment",
+      "definitionEN": "a change made to a law, document, or proposal",
+      "definitionCN": "修正案；修订",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12094804",
+        "tatoeba-eng-2043628",
+        "tatoeba-eng-10459708"
+      ]
+    },
+    {
+      "word": "similarity",
+      "definitionCN": "相似性；相似之处",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5972696",
+        "tatoeba-eng-6060922",
+        "tatoeba-eng-2514678"
+      ]
+    },
+    {
+      "word": "irrelevant",
+      "definitionCN": "不相关的；无关紧要的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-9595549",
+        "tatoeba-eng-12921025",
+        "tatoeba-eng-11520399"
+      ]
+    },
+    {
+      "word": "simultaneously",
+      "definitionCN": "同时地",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-332331",
+        "tatoeba-eng-5687945",
+        "tatoeba-eng-269139"
+      ]
+    },
+    {
+      "word": "popularity",
+      "definitionCN": "受欢迎程度；流行",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11111126",
+        "tatoeba-eng-11805165",
+        "tatoeba-eng-279245"
+      ]
+    },
+    {
+      "word": "locally",
+      "definitionCN": "在当地；局部地",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12086561",
+        "tatoeba-eng-8242136",
+        "tatoeba-eng-8579080"
+      ]
+    },
+    {
+      "word": "ideological",
+      "definitionCN": "意识形态的；思想体系的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10266859",
+        "tatoeba-eng-2355477",
+        "tatoeba-eng-2514678"
+      ]
+    },
+    {
+      "word": "documentary",
+      "definitionCN": "纪录片",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-9553704",
+        "tatoeba-eng-6066555",
+        "tatoeba-eng-10028229"
+      ]
+    },
+    {
+      "word": "convinced",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-258947",
+        "tatoeba-eng-1307980",
+        "tatoeba-eng-10166989"
+      ]
+    },
+    {
+      "word": "skull",
+      "definitionCN": "颅骨；头骨",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12079177",
+        "tatoeba-eng-12586419",
+        "tatoeba-eng-6980616"
+      ]
+    },
+    {
+      "word": "syndrome",
+      "definitionEN": "a group of symptoms or features that occur together and characterize a particular condition",
+      "definitionCN": "综合征",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12538298",
+        "tatoeba-eng-405854",
+        "tatoeba-eng-4282141"
+      ]
+    },
+    {
+      "word": "legislature",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-13570519",
+        "tatoeba-eng-2514700",
+        "tatoeba-eng-60852"
+      ]
+    },
+    {
+      "word": "banker",
+      "definitionCN": "银行家；银行高级职员",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5987417",
+        "tatoeba-eng-279683",
+        "tatoeba-eng-7123800"
+      ]
+    },
+    {
+      "word": "cooperative",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5871718",
+        "tatoeba-eng-1699577",
+        "tatoeba-eng-256910"
+      ]
+    },
+    {
+      "word": "embryo",
+      "definitionEN": "an animal or plant in an early stage of development",
+      "definitionCN": "胚胎；胚芽",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10478436",
+        "tatoeba-eng-6956366",
+        "tatoeba-eng-5651288"
+      ]
+    },
+    {
+      "word": "composer",
+      "definitionCN": "作曲家",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12115086",
+        "tatoeba-eng-244310",
+        "tatoeba-eng-10073458"
+      ]
+    },
+    {
+      "word": "envision",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6907491",
+        "tatoeba-eng-14064278",
+        "tatoeba-eng-10524848"
+      ]
+    },
+    {
+      "word": "mentor",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-700000",
+        "tatoeba-eng-11729662",
+        "tatoeba-eng-12784642"
+      ]
+    },
+    {
+      "word": "salmon",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3690722",
+        "tatoeba-eng-11119888",
+        "tatoeba-eng-10104691"
+      ]
+    },
+    {
+      "word": "villa",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11240491",
+        "tatoeba-eng-2052107",
+        "tatoeba-eng-12502156"
+      ]
+    },
+    {
+      "word": "questionable",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10112076",
+        "tatoeba-eng-10185036",
+        "tatoeba-eng-59023"
+      ]
+    },
+    {
+      "word": "presidency",
+      "definitionEN": "the position or period of office of a president",
+      "definitionCN": "总统职位；校长或会长的职位；任期",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2753433",
+        "tatoeba-eng-694083",
+        "tatoeba-eng-291787"
+      ]
+    },
+    {
+      "word": "factual",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6011170",
+        "tatoeba-eng-859577",
+        "tatoeba-eng-11541517"
+      ]
+    },
+    {
+      "word": "confession",
+      "definitionCN": "供认；坦白；认罪书",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6560130",
+        "tatoeba-eng-10649963",
+        "tatoeba-eng-6227938"
+      ]
+    },
+    {
+      "word": "straighten",
+      "definitionEN": "to make something orderly or put a difficult situation right",
+      "definitionCN": "整理；理顺；纠正",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11590294",
+        "tatoeba-eng-11590103",
+        "tatoeba-eng-11590167"
+      ]
+    },
+    {
+      "word": "disappearance",
+      "definitionEN": "the act of vanishing or becoming missing",
+      "definitionCN": "消失；失踪",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-682168",
+        "tatoeba-eng-813079",
+        "tatoeba-eng-11042134"
+      ]
+    },
+    {
+      "word": "restoration",
+      "definitionCN": "修复；恢复",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11567785",
+        "tatoeba-eng-9199752",
+        "tatoeba-eng-13564150"
+      ]
+    },
+    {
+      "word": "utterance",
+      "definitionEN": "something that is said; a spoken expression",
+      "definitionCN": "话语；言语表达",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2009637",
+        "tatoeba-eng-7758203",
+        "tatoeba-eng-14018252"
+      ]
+    },
+    {
+      "word": "accusation",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-28175",
+        "tatoeba-eng-11205324",
+        "tatoeba-eng-1951609"
+      ]
+    },
+    {
+      "word": "surveillance",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-526843",
+        "tatoeba-eng-3991346",
+        "tatoeba-eng-13946479"
+      ]
+    },
+    {
+      "word": "legendary",
+      "definitionEN": "described in legends, or extremely famous and admired",
+      "definitionCN": "传说中的；传奇般的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5320367",
+        "tatoeba-eng-12340465",
+        "tatoeba-eng-10765259"
+      ]
+    },
+    {
+      "word": "sensation",
+      "definitionCN": "感觉；知觉",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1123544",
+        "tatoeba-eng-10067797",
+        "tatoeba-eng-1153524"
+      ]
+    },
+    {
+      "word": "discretion",
+      "definitionEN": "freedom to judge or act, or care in deciding what should be said or done",
+      "definitionCN": "酌情决定权；谨慎；守口如瓶",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5940131",
+        "tatoeba-eng-2893188",
+        "tatoeba-eng-657067"
+      ]
+    },
+    {
+      "word": "immunity",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8663630",
+        "tatoeba-eng-10289309",
+        "tatoeba-eng-8992173"
+      ]
+    },
+    {
+      "word": "respectable",
+      "definitionEN": "worthy of respect or socially acceptable, or reasonably good in quality or amount",
+      "definitionCN": "值得尊重的；体面的；相当好的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-4025129",
+        "tatoeba-eng-8421189",
+        "tatoeba-eng-11157162"
+      ]
+    },
+    {
+      "word": "crab",
+      "definitionCN": "螃蟹",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6680092",
+        "tatoeba-eng-7767302",
+        "tatoeba-eng-13467229"
+      ]
+    },
+    {
+      "word": "sheriff",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12033156",
+        "tatoeba-eng-8403863",
+        "tatoeba-eng-5928064"
+      ]
+    },
+    {
+      "word": "preservation",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-14064219",
+        "tatoeba-eng-11736211",
+        "tatoeba-eng-293740"
+      ]
+    },
+    {
+      "word": "believer",
+      "definitionCN": "信徒；相信某事的人",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8433354",
+        "tatoeba-eng-4418149",
+        "tatoeba-eng-9628523"
+      ]
+    },
+    {
+      "word": "astonishing",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11127175",
+        "tatoeba-eng-6090584",
+        "tatoeba-eng-6195558"
+      ]
+    },
+    {
+      "word": "endowment",
+      "definitionEN": "money donated to an institution and held or invested to support its work",
+      "definitionCN": "捐赠基金；捐赠",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8577871",
+        "tatoeba-eng-1534333",
+        "tatoeba-eng-696898"
+      ]
+    },
+    {
+      "word": "subsidize",
+      "definitionEN": "to provide financial support that helps pay the costs of an activity or organization",
+      "definitionCN": "给予补贴；资助",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5249147",
+        "tatoeba-eng-6128605",
+        "tatoeba-eng-13646915"
+      ]
+    },
+    {
+      "word": "shove",
+      "definitionEN": "a strong push, especially with the hands or body",
+      "definitionCN": "猛推；一推",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-738224",
+        "tatoeba-eng-1832177",
+        "tatoeba-eng-4515229"
+      ]
+    },
+    {
+      "word": "methodology",
+      "definitionEN": "a system of methods used in a study or activity",
+      "definitionCN": "研究方法；方法论",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-286000",
+        "tatoeba-eng-6013064",
+        "tatoeba-eng-597361"
+      ]
+    },
+    {
+      "word": "parameter",
+      "definitionEN": "a variable or factor that determines a characteristic of a system or model",
+      "definitionCN": "参数；参量",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2334833",
+        "tatoeba-eng-2349858",
+        "tatoeba-eng-8657117"
+      ]
+    },
+    {
+      "word": "salvation",
+      "definitionCN": "拯救；救赎",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5226036",
+        "tatoeba-eng-11076975",
+        "tatoeba-eng-1342124"
+      ]
+    },
+    {
+      "word": "warrant",
+      "definitionCN": "（法院签发的）令状；搜查令",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5880603",
+        "tatoeba-eng-3728635",
+        "tatoeba-eng-963943"
+      ]
+    },
+    {
+      "word": "terribly",
+      "definitionCN": "非常；极其",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-299118",
+        "tatoeba-eng-3232117",
+        "tatoeba-eng-13065333"
+      ]
+    },
+    {
+      "word": "dangle",
+      "definitionEN": "to hang loosely, or offer something attractive in order to persuade someone",
+      "definitionCN": "悬垂；以……诱惑",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10808882",
+        "tatoeba-eng-2451746",
+        "tatoeba-eng-11658961"
+      ]
+    },
+    {
+      "word": "dynamics",
+      "definitionEN": "the forces or processes that produce motion or change in a system",
+      "definitionCN": "动力学；动态；作用机制",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1160196",
+        "tatoeba-eng-13712966",
+        "tatoeba-eng-11738032"
+      ]
+    },
+    {
+      "word": "embryonic",
+      "definitionEN": "relating to an early stage in the development of an organism, idea, or activity",
+      "definitionCN": "胚胎的；萌芽期的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11500038",
+        "tatoeba-eng-9013147",
+        "tatoeba-eng-8452952"
+      ]
+    },
+    {
+      "word": "evenly",
+      "definitionCN": "均匀地；平均地",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1892069",
+        "tatoeba-eng-9125544",
+        "tatoeba-eng-13573799"
+      ]
+    },
+    {
+      "word": "depressed",
+      "definitionEN": "very unhappy or without hope",
+      "definitionCN": "沮丧的；消沉的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-68615",
+        "tatoeba-eng-282857",
+        "tatoeba-eng-12980329"
+      ]
+    },
+    {
+      "word": "absorption",
+      "definitionCN": "吸收",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6604284",
+        "tatoeba-eng-13606032",
+        "tatoeba-eng-10856499"
+      ]
+    },
+    {
+      "word": "precede",
+      "definitionCN": "在……之前；先于",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11509398",
+        "tatoeba-eng-7760810",
+        "tatoeba-eng-9243503"
+      ]
+    },
+    {
+      "word": "armor",
+      "definitionEN": "a protective covering, especially hard material used in combat or found on animals",
+      "definitionCN": "盔甲；装甲；甲壳",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2616282",
+        "tatoeba-eng-10743034",
+        "tatoeba-eng-8357601"
+      ]
+    },
+    {
+      "word": "packaging",
+      "definitionEN": "materials used to cover and protect goods, or the process of wrapping goods",
+      "definitionCN": "包装材料；包装",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8383500",
+        "tatoeba-eng-12245615",
+        "tatoeba-eng-6574107"
+      ]
+    },
+    {
+      "word": "gloom",
+      "definitionEN": "darkness, or a feeling of sadness and pessimism",
+      "definitionCN": "昏暗；忧郁；悲观",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2015894",
+        "tatoeba-eng-11612642",
+        "tatoeba-eng-7453202"
+      ]
+    },
+    {
+      "word": "underscore",
+      "reason": "Only two verb examples; the third is a computing noun, so a three-example coherent card cannot be formed.",
+      "status": "reject"
+    },
+    {
+      "word": "knight",
+      "definitionCN": "骑士",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-25630",
+        "tatoeba-eng-6167605",
+        "tatoeba-eng-1142330"
+      ]
+    },
+    {
+      "word": "stun",
+      "definitionEN": "to shock or surprise someone so much that they cannot react normally",
+      "definitionCN": "使震惊；使惊愕",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3135948",
+        "tatoeba-eng-13849902",
+        "tatoeba-eng-6197653"
+      ]
+    },
+    {
+      "word": "alteration",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-413859",
+        "tatoeba-eng-1105796",
+        "tatoeba-eng-10191214"
+      ]
+    },
+    {
+      "word": "vector",
+      "definitionEN": "a quantity that has both magnitude and direction",
+      "definitionCN": "向量；矢量",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5325805",
+        "tatoeba-eng-5325758",
+        "tatoeba-eng-13391970"
+      ]
+    },
+    {
+      "word": "align",
+      "definitionEN": "to arrange things in line, or bring things or people into agreement or a common position",
+      "definitionCN": "对齐；使一致；结盟",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-13570140",
+        "tatoeba-eng-10695518",
+        "tatoeba-eng-5479413"
+      ]
+    },
+    {
+      "word": "injustice",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-270125",
+        "tatoeba-eng-258610",
+        "tatoeba-eng-1411022"
+      ]
+    },
+    {
+      "word": "syllable",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10637329",
+        "tatoeba-eng-10112592",
+        "tatoeba-eng-13786167"
+      ]
+    },
+    {
+      "word": "stunt",
+      "definitionCN": "特技；噱头；引人注目的举动",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12850601",
+        "tatoeba-eng-11382608",
+        "tatoeba-eng-4282319"
+      ]
+    },
+    {
+      "word": "streak",
+      "definitionEN": "an unbroken series of events, or a long thin mark",
+      "definitionCN": "连续一段（好运或坏运）；条纹",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-28592",
+        "tatoeba-eng-307685",
+        "tatoeba-eng-12647834"
+      ]
+    },
+    {
+      "word": "miniature",
+      "partOfSpeech": "adj.",
+      "definitionEN": "very small, especially as a reduced version of something larger",
+      "definitionCN": "微型的；缩小的",
+      "forms": [],
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8579713",
+        "tatoeba-eng-1008894",
+        "tatoeba-eng-11500555"
+      ]
+    },
+    {
+      "word": "beneficiary",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6567083",
+        "tatoeba-eng-6575149",
+        "tatoeba-eng-10088046"
+      ]
+    },
+    {
+      "word": "compost",
+      "definitionCN": "堆肥",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3229791",
+        "tatoeba-eng-12117693",
+        "tatoeba-eng-12117695"
+      ]
+    },
+    {
+      "word": "lobster",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2577673",
+        "tatoeba-eng-9988613",
+        "tatoeba-eng-8226679"
+      ]
+    },
+    {
+      "word": "benign",
+      "definitionEN": "not harmful or dangerous, especially not cancerous",
+      "definitionCN": "良性的；无害的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10115306",
+        "tatoeba-eng-12732889",
+        "tatoeba-eng-3659659"
+      ]
+    },
+    {
+      "word": "equate",
+      "definitionEN": "to regard things as equal or the same, or be equivalent to something",
+      "definitionCN": "把……等同；相当于",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-18560",
+        "tatoeba-eng-1487458",
+        "tatoeba-eng-9770199"
+      ]
+    },
+    {
+      "word": "validate",
+      "definitionEN": "to confirm the truth or acceptability of something, or make it officially valid",
+      "definitionCN": "证实；验证；使正式生效",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-9510792",
+        "tatoeba-eng-5382508",
+        "tatoeba-eng-7813703"
+      ]
+    },
+    {
+      "word": "persuasion",
+      "definitionEN": "the act of influencing someone's beliefs or actions, or a particular set of beliefs",
+      "definitionCN": "说服；信念；派别",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6861566",
+        "tatoeba-eng-5993737",
+        "tatoeba-eng-9723336"
+      ]
+    },
+    {
+      "word": "obstruction",
+      "definitionEN": "something that blocks movement or progress, or the act of preventing a process",
+      "definitionCN": "障碍物；阻挠",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2313164",
+        "tatoeba-eng-11121996",
+        "tatoeba-eng-1482482"
+      ]
+    },
+    {
+      "word": "dissatisfaction",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-321705",
+        "tatoeba-eng-7987846",
+        "tatoeba-eng-5136421"
+      ]
+    },
+    {
+      "word": "imbalance",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-239565",
+        "tatoeba-eng-8907290",
+        "tatoeba-eng-13857175"
+      ]
+    },
+    {
+      "word": "contour",
+      "reason": "Only two noun examples; the remaining example uses the verb makeup sense, leaving insufficient coherent contexts.",
+      "status": "reject"
+    },
+    {
+      "word": "sensory",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-55890",
+        "tatoeba-eng-12586419",
+        "tatoeba-eng-4427155"
+      ]
+    },
+    {
+      "word": "geometric",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1363639",
+        "tatoeba-eng-10538166",
+        "tatoeba-eng-534721"
+      ]
+    },
+    {
+      "word": "hallmark",
+      "definitionCN": "显著特征；标志",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12994347",
+        "tatoeba-eng-2114591",
+        "tatoeba-eng-4086036"
+      ]
+    },
+    {
+      "word": "toxin",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2053891",
+        "tatoeba-eng-501178",
+        "tatoeba-eng-11500655"
+      ]
+    },
+    {
+      "word": "renovate",
+      "definitionCN": "翻修；修缮；更新",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12036245",
+        "tatoeba-eng-12120644",
+        "tatoeba-eng-2588499"
+      ]
+    },
+    {
+      "word": "intuitive",
+      "definitionEN": "understood or felt without conscious reasoning",
+      "definitionCN": "直觉的；易于凭直觉理解的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2971652",
+        "tatoeba-eng-10250745",
+        "tatoeba-eng-10250737"
+      ]
+    },
+    {
+      "word": "longevity",
+      "definitionEN": "a long life or a long period of effective service",
+      "definitionCN": "长寿；寿命；使用年限",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1689055",
+        "tatoeba-eng-7788013",
+        "tatoeba-eng-8713579"
+      ]
+    },
+    {
+      "word": "derivative",
+      "reason": "Only two adjective contexts that repeat the same copyright assertion; the third example is a mathematical noun.",
+      "status": "reject"
+    },
+    {
+      "word": "refinery",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12621058",
+        "tatoeba-eng-7127447",
+        "tatoeba-eng-11576945"
+      ]
+    },
+    {
+      "word": "predicament",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3089798",
+        "tatoeba-eng-9280513",
+        "tatoeba-eng-13247131"
+      ]
+    },
+    {
+      "word": "loophole",
+      "definitionCN": "（法律或规则的）漏洞",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-321051",
+        "tatoeba-eng-9189882",
+        "tatoeba-eng-269203"
+      ]
+    },
+    {
+      "word": "recur",
+      "definitionCN": "再次发生；重现；复发",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-237953",
+        "tatoeba-eng-60433",
+        "tatoeba-eng-10619596"
+      ]
+    },
+    {
+      "word": "coercion",
+      "definitionCN": "强迫；胁迫",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-329259",
+        "tatoeba-eng-13075016",
+        "tatoeba-eng-1929"
+      ]
+    },
+    {
+      "word": "involuntary",
+      "definitionEN": "not done intentionally or under conscious control",
+      "definitionCN": "非自愿的；无意识的；非故意的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-667888",
+        "tatoeba-eng-1507512",
+        "tatoeba-eng-9368993"
+      ]
+    },
+    {
+      "word": "infancy",
+      "definitionCN": "婴儿期；初期",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6918516",
+        "tatoeba-eng-8813364",
+        "tatoeba-eng-10725389"
+      ]
+    },
+    {
+      "word": "coexist",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8185374",
+        "tatoeba-eng-11241518",
+        "tatoeba-eng-8222703"
+      ]
+    },
+    {
+      "word": "captivity",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10922923",
+        "tatoeba-eng-2722056",
+        "tatoeba-eng-9823736"
+      ]
+    },
+    {
+      "word": "disproportionate",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11783605",
+        "tatoeba-eng-2866100",
+        "tatoeba-eng-2866101"
+      ]
+    },
+    {
+      "word": "negligent",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-7414237",
+        "tatoeba-eng-16002",
+        "tatoeba-eng-11112562"
+      ]
+    },
+    {
+      "word": "infiltrate",
+      "definitionEN": "to enter or become part of a place, network, or organization secretly",
+      "definitionCN": "潜入；渗透",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5631852",
+        "tatoeba-eng-424818",
+        "tatoeba-eng-11166067"
+      ]
+    },
+    {
+      "word": "electromagnetic",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5322376",
+        "tatoeba-eng-6551447",
+        "tatoeba-eng-10261927"
+      ]
+    },
+    {
+      "word": "overstate",
+      "definitionCN": "夸大；过分强调",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12910396",
+        "tatoeba-eng-6884984",
+        "tatoeba-eng-6885019"
+      ]
+    },
+    {
+      "word": "confinement",
+      "definitionEN": "the state of being forced to stay in a place or live under restrictions",
+      "definitionCN": "禁闭；拘禁；隔离限制",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-9034289",
+        "tatoeba-eng-8941126",
+        "tatoeba-eng-3930930"
+      ]
+    },
+    {
+      "word": "repercussion",
+      "definitionCN": "（通常不良的）后果；间接影响",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10744248",
+        "tatoeba-eng-6130544",
+        "tatoeba-eng-5732560"
+      ]
+    },
+    {
+      "word": "narration",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-9973932",
+        "tatoeba-eng-12033736",
+        "tatoeba-eng-13023123"
+      ]
+    },
+    {
+      "word": "incubate",
+      "definitionCN": "孵化；培养",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5254483",
+        "tatoeba-eng-5257465",
+        "tatoeba-eng-5259661"
+      ]
+    },
+    {
+      "word": "tenuous",
+      "definitionEN": "weak, slight, or insecure",
+      "definitionCN": "薄弱的；脆弱的；微弱的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2085160",
+        "tatoeba-eng-720854",
+        "tatoeba-eng-278697"
+      ]
+    },
+    {
+      "word": "allusion",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2693808",
+        "tatoeba-eng-9517151",
+        "tatoeba-eng-12085026"
+      ]
+    },
+    {
+      "word": "adversity",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1986867",
+        "tatoeba-eng-3549400",
+        "tatoeba-eng-10056619"
+      ]
+    },
+    {
+      "word": "evasion",
+      "definitionEN": "deliberately avoiding a responsibility, requirement, or payment",
+      "definitionCN": "逃避；规避；逃税",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2313164",
+        "tatoeba-eng-301372",
+        "tatoeba-eng-10138502"
+      ]
+    },
+    {
+      "word": "microorganism",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1521852",
+        "tatoeba-eng-8160387",
+        "tatoeba-eng-11711667"
+      ]
+    },
+    {
+      "word": "antidote",
+      "definitionEN": "a substance that counteracts a poison, or something that corrects a harmful effect",
+      "definitionCN": "解毒剂；矫正不良影响的办法",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-9501235",
+        "tatoeba-eng-1072510",
+        "tatoeba-eng-6687031"
+      ]
+    },
+    {
+      "word": "counterproductive",
+      "definitionCN": "适得其反的；事与愿违的",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5993737",
+        "tatoeba-eng-9788578",
+        "tatoeba-eng-13224180"
+      ]
+    },
+    {
+      "word": "inexplicable",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-433034",
+        "tatoeba-eng-876012",
+        "tatoeba-eng-2865982"
+      ]
+    },
+    {
+      "word": "scaffolding",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3874152",
+        "tatoeba-eng-11161758",
+        "tatoeba-eng-2896271"
+      ]
+    }
+  ]
+}

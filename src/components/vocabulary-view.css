@@ -4,6 +4,7 @@
 @media(max-width:640px){.vocabulary-metrics>div{padding:1rem}.vocabulary-metrics strong{font-size:1.8rem}.vocabulary-metrics span{font-size:.75rem}.frequency-scope{padding:1rem;gap:.85rem}.frequency-scope>div{gap:.6rem}.vocabulary-search{max-width:none;flex-basis:100%}.vocabulary-filters{justify-content:space-between;width:100%;gap:.75rem}.vocabulary-filters label{flex-wrap:wrap;min-width:0}.vocabulary-filters select{font-size:.875rem}.vocabulary-row{padding:1.15rem;gap:.7rem}.vocabulary-identity h2{font-size:1.6rem}.vocabulary-identity p{font-size:.875rem}.vocabulary-filter-note{font-size:.75rem;gap:.5rem}.frequency-sources>summary{padding:1.15rem}.frequency-sources>summary h2{font-size:1.4rem}.frequency-source-content{padding:0 1.15rem 1.15rem}.frequency-method{padding:1rem}.frequency-method-note{font-size:.75rem}.vocabulary-footnote{font-size:.75rem}.vocabulary-action{font-size:.8125rem}.priority-learning-link{padding:.8rem .9rem}}
 
 /* Reflow the evidence view around readable text instead of clipping enlarged fonts. */
+.learning-filters{display:flex;flex-wrap:wrap;gap:.5rem 1.5rem;align-items:flex-start;margin-bottom:1rem}.learning-filters .learning-order-select{margin-bottom:0}.advanced-level-tag{color:var(--blue);background:color-mix(in srgb,var(--blue) 6%,var(--surface))}.vocabulary-filters{flex-wrap:wrap}
 .vocabulary-view{container-type:inline-size;min-width:0}
 .vocabulary-metrics>div{display:flex;flex-wrap:wrap;align-content:flex-start;gap:.6rem .8rem}
 .vocabulary-metrics strong{min-width:0;max-width:100%;overflow-wrap:anywhere}

@@ -5,7 +5,7 @@ const APP_ROOT = new URL(self.registration.scope);
 const ROOT_PATH = APP_ROOT.pathname;
 // Other Pages repositories on the same *.github.io origin keep separate caches.
 const CACHE_PREFIX = `sententia-offline-${encodeURIComponent(ROOT_PATH)}-`;
-const CACHE_NAME = `${CACHE_PREFIX}v5`;
+const CACHE_NAME = `${CACHE_PREFIX}v6`;
 const ROOT_URL = APP_ROOT.href;
 const FALLBACK_URL = new URL('__sententia_offline__', APP_ROOT).href;
 const FALLBACK_HTML = `<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#faf9f6"><title>拾句 · 暂时离线</title><style>body{margin:0;background:#faf9f6;color:#1e2022;font:.9375rem/1.9 system-ui,sans-serif;min-height:100vh;display:grid;place-items:center}main{max-width:420px;padding:40px}small{color:#536c5d;letter-spacing:3px}h1{font:normal 1.875rem/1.6 Georgia,'Songti SC',serif;margin:20px 0}p{color:#777b74;font-size:.875rem}button{margin-top:15px;border:0;border-radius:6px;background:#284d3d;color:white;padding:12px 22px;font:inherit;cursor:pointer}</style><main><small>SENTENTIA · 拾句</small><h1>稍作停留，<br>等连接再次回响。</h1><p>当前设备还没有缓存完整的阅读界面。联网打开一次拾句后，即可在这里继续离线学习。已保存在浏览器的学习记录与收藏不会丢失。</p><button onclick="location.reload()">重新连接</button></main></html>`;
