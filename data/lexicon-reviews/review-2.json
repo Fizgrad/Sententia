@@ -1,0 +1,4301 @@
+{
+  "reviewer": "words_nouns: contextual and definition review",
+  "entries": [
+    {
+      "word": "central",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "in the middle of something or especially important to it",
+      "definitionCN": "中心的；核心的；至关重要的",
+      "authoredContexts": [
+        {
+          "text": "A central courtyard brings daylight into the classrooms surrounding the old school building.",
+          "translation": "中央庭院让日光照进环绕旧校舍的教室。",
+          "collocation": "A central courtyard",
+          "register": "Reading"
+        },
+        {
+          "text": "Reliable evidence should play a central role in decisions about expensive public projects.",
+          "translation": "在决定昂贵的公共项目时，可靠证据应发挥核心作用。",
+          "collocation": "a central role",
+          "register": "Writing"
+        },
+        {
+          "text": "Is the central entrance still open, or should we use the door beside the café?",
+          "translation": "中央入口还开着吗，还是我们应该走咖啡馆旁边的门？",
+          "collocation": "the central entrance",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "movie",
+      "status": "approved"
+    },
+    {
+      "word": "amount",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "the quantity of something that can be measured or counted as a whole",
+      "definitionCN": "数量；总量",
+      "authoredContexts": [
+        {
+          "text": "The amount of water in the tank changes as rain enters and gardeners draw supplies.",
+          "translation": "随着雨水流入、园丁取水，水箱中的水量不断变化。",
+          "collocation": "The amount of water",
+          "register": "Reading"
+        },
+        {
+          "text": "The amount of homework matters less than whether each task helps students practise a useful skill.",
+          "translation": "家庭作业的数量不如每项任务是否帮助学生练习有用技能重要。",
+          "collocation": "The amount of homework",
+          "register": "Writing"
+        },
+        {
+          "text": "Is this the right amount of flour, or does the recipe need another spoonful?",
+          "translation": "这些面粉的量对吗，还是食谱要求再加一勺？",
+          "collocation": "the right amount of flour",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "firm",
+      "status": "approved",
+      "definitionEN": "a business that provides goods or services",
+      "definitionCN": "公司；商行"
+    },
+    {
+      "word": "shop",
+      "status": "approved",
+      "definitionCN": "商店；店铺"
+    },
+    {
+      "word": "store",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a shop where goods are sold to customers",
+      "definitionCN": "商店；店铺",
+      "authoredContexts": [
+        {
+          "text": "The small grocery store serves several villages and orders fresh bread from a nearby bakery.",
+          "translation": "这家小杂货店为几个村庄提供商品，并从附近的面包店订购新鲜面包。",
+          "collocation": "The small grocery store",
+          "register": "Reading"
+        },
+        {
+          "text": "A local store can remain valuable even when online shopping offers a wider range of products.",
+          "translation": "即使网购提供更多种类的商品，本地商店仍可能具有重要价值。",
+          "collocation": "A local store",
+          "register": "Writing"
+        },
+        {
+          "text": "Does the store beside the station sell notebooks, or should I try the supermarket?",
+          "translation": "车站旁边的商店卖笔记本吗，还是我应该去超市看看？",
+          "collocation": "the store beside the station",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "hotel",
+      "status": "approved"
+    },
+    {
+      "word": "science",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "the systematic study of the natural world through observation, testing, and explanation",
+      "definitionCN": "科学；自然科学",
+      "authoredContexts": [
+        {
+          "text": "The school’s science lessons combine outdoor observations with simple experiments carried out in the classroom.",
+          "translation": "学校的科学课将户外观察与在教室中开展的简单实验相结合。",
+          "collocation": "science lessons",
+          "register": "Reading"
+        },
+        {
+          "text": "Teaching science through practical questions can help students understand why evidence matters in everyday decisions.",
+          "translation": "通过实际问题教授科学，可以帮助学生理解证据为何对日常决策重要。",
+          "collocation": "Teaching science",
+          "register": "Writing"
+        },
+        {
+          "text": "Which part of science interests you most: living things, the weather, or how machines work?",
+          "translation": "你对科学的哪个部分最感兴趣：生物、天气，还是机器如何运转？",
+          "collocation": "part of science",
+          "register": "Listening"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "word": "professor",
+      "status": "approved"
+    },
+    {
+      "word": "customer",
+      "status": "approved",
+      "definitionCN": "顾客；客户"
+    },
+    {
+      "word": "client",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a person or organisation that pays for professional advice or services",
+      "definitionCN": "客户；委托人",
+      "authoredContexts": [
+        {
+          "text": "The designer asks each client about their daily routine before suggesting changes to a room.",
+          "translation": "设计师在提出房间改造建议之前，会询问每位客户的日常生活习惯。",
+          "collocation": "each client",
+          "register": "Reading"
+        },
+        {
+          "text": "A professional adviser should explain potential costs clearly before a client agrees to any service.",
+          "translation": "在客户同意接受任何服务之前，专业顾问应清楚说明可能产生的费用。",
+          "collocation": "a client agrees",
+          "register": "Writing"
+        },
+        {
+          "text": "Has the client approved our draft, or are we still waiting for feedback on the colours?",
+          "translation": "客户批准我们的草稿了吗，还是我们仍在等对颜色的反馈？",
+          "collocation": "the client approved our draft",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "employee",
+      "status": "approved"
+    },
+    {
+      "word": "holiday",
+      "status": "approved",
+      "definitionEN": "a period away from work or school for rest or recreation, or a day of celebration",
+      "definitionCN": "假期；假日"
+    },
+    {
+      "word": "pupil",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a child or young person who is taught at a school",
+      "definitionCN": "学生；小学生",
+      "authoredContexts": [
+        {
+          "text": "Each pupil chooses a library book on Friday and shares a short response the following week.",
+          "translation": "每位学生周五选择一本图书馆的书，并在下一周分享简短的读后感。",
+          "collocation": "Each pupil chooses",
+          "register": "Reading"
+        },
+        {
+          "text": "A pupil who needs extra time should receive support rather than be excluded from challenging activities.",
+          "translation": "需要额外时间的学生应得到支持，而不是被排除在有挑战性的活动之外。",
+          "collocation": "A pupil who needs extra time",
+          "register": "Writing"
+        },
+        {
+          "text": "How many books can a pupil borrow at once, and when do they need to come back?",
+          "translation": "每位学生一次可以借几本书，什么时候需要归还？",
+          "collocation": "How many books can a pupil borrow",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "status": "approved"
+    },
+    {
+      "word": "survey",
+      "status": "approved",
+      "definitionEN": "a study that gathers information by asking a group of people questions",
+      "definitionCN": "调查；问卷调查"
+    },
+    {
+      "word": "dinner",
+      "status": "approved"
+    },
+    {
+      "word": "lack",
+      "status": "approved",
+      "definitionCN": "缺乏；不足",
+      "forms": []
+    },
+    {
+      "word": "equipment",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "the tools, machines, and other items needed for a particular activity",
+      "definitionCN": "设备；器材；装备",
+      "authoredContexts": [
+        {
+          "text": "The workshop lends basic equipment to residents who want to repair furniture instead of buying replacements.",
+          "translation": "这家工坊向希望修理家具而不是购置替代品的居民借出基本器材。",
+          "collocation": "basic equipment",
+          "register": "Reading"
+        },
+        {
+          "text": "Schools need reliable equipment, but investment in teacher training is equally important for improving practical lessons.",
+          "translation": "学校需要可靠的设备，但投资教师培训对改善实践课同样重要。",
+          "collocation": "reliable equipment",
+          "register": "Writing"
+        },
+        {
+          "text": "Will we need any special equipment for the photography course, or can we use our phones?",
+          "translation": "摄影课需要什么特殊设备吗，还是我们可以使用手机？",
+          "collocation": "special equipment",
+          "register": "Listening"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "word": "tea",
+      "status": "approved",
+      "definitionEN": "a drink made by pouring hot water over dried leaves from a particular plant",
+      "definitionCN": "茶；茶饮料",
+      "forms": []
+    },
+    {
+      "word": "obvious",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "easy to notice or understand without much explanation",
+      "definitionCN": "明显的；显而易见的",
+      "authoredContexts": [
+        {
+          "text": "The most obvious change is the new footpath linking the station with the riverside park.",
+          "translation": "最明显的变化是新增了一条人行道，将车站与河滨公园连接起来。",
+          "collocation": "The most obvious change",
+          "register": "Reading"
+        },
+        {
+          "text": "An obvious short-term saving may prove expensive if a public building becomes difficult to maintain.",
+          "translation": "如果公共建筑变得难以维护，一项明显的短期节省最终可能带来高昂成本。",
+          "collocation": "An obvious short-term saving",
+          "register": "Writing"
+        },
+        {
+          "text": "Was it obvious where to collect your ticket, or did you have to ask someone?",
+          "translation": "领票地点明显吗，还是你不得不找人询问？",
+          "collocation": "obvious where to collect your ticket",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "transport",
+      "status": "approved",
+      "definitionEN": "the movement of people or goods from one place to another",
+      "definitionCN": "运输；交通运输"
+    },
+    {
+      "word": "boat",
+      "status": "approved"
+    },
+    {
+      "word": "practical",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "useful in real situations or connected with doing things rather than theory alone",
+      "definitionCN": "实用的；实际的；实践的",
+      "authoredContexts": [
+        {
+          "text": "The course includes practical sessions in which students measure rooms and draw simple building plans.",
+          "translation": "课程包括实践课，学生在课上测量房间并绘制简单的建筑平面图。",
+          "collocation": "practical sessions",
+          "register": "Reading"
+        },
+        {
+          "text": "A practical solution must consider who will maintain the service after the initial funding ends.",
+          "translation": "切实可行的解决方案必须考虑，在初期资金结束后由谁维护服务。",
+          "collocation": "A practical solution",
+          "register": "Writing"
+        },
+        {
+          "text": "Do you have any practical advice for packing books without making each box too heavy?",
+          "translation": "关于如何打包书籍而不让每个箱子太重，你有什么实用建议吗？",
+          "collocation": "practical advice",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "border",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "the line or area separating two countries or regions",
+      "definitionCN": "边境；国界；边界",
+      "authoredContexts": [
+        {
+          "text": "The railway follows the border between the two regions before turning towards the coast.",
+          "translation": "铁路先沿着两个地区之间的边界延伸，然后转向海岸。",
+          "collocation": "the border between the two regions",
+          "register": "Reading"
+        },
+        {
+          "text": "A border should not prevent neighbouring communities from cooperating on shared environmental problems.",
+          "translation": "边界不应阻碍相邻社区就共同的环境问题开展合作。",
+          "collocation": "A border should not prevent",
+          "register": "Writing"
+        },
+        {
+          "text": "Do we need to change trains near the border, or does this service continue all the way?",
+          "translation": "我们需要在边境附近换乘吗，还是这班列车会一直开到目的地？",
+          "collocation": "near the border",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "editor",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a person who prepares written material for publication by checking and improving it",
+      "definitionCN": "编辑；编者",
+      "authoredContexts": [
+        {
+          "text": "The editor checks each article for unclear explanations before sending the magazine to the printer.",
+          "translation": "编辑在把杂志交给印刷厂之前，会检查每篇文章是否存在不清楚的解释。",
+          "collocation": "The editor checks each article",
+          "register": "Reading"
+        },
+        {
+          "text": "An editor should preserve a writer’s meaning while helping readers follow the argument more easily.",
+          "translation": "编辑应保留作者的原意，同时帮助读者更容易理解论证。",
+          "collocation": "An editor should preserve",
+          "register": "Writing"
+        },
+        {
+          "text": "Has the editor seen our revised introduction, or should I send another copy this afternoon?",
+          "translation": "编辑看过我们修改后的引言了吗，还是我应该今天下午再发一份？",
+          "collocation": "the editor seen our revised introduction",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "launch",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "the event or process of introducing a new product or service to the public",
+      "definitionCN": "发布；推出；上市",
+      "authoredContexts": [
+        {
+          "text": "The launch of the online catalogue was accompanied by demonstrations for staff and regular library users.",
+          "translation": "网上目录推出时，图书馆同时为员工和经常到馆的读者安排了使用演示。",
+          "collocation": "The launch of the online catalogue",
+          "register": "Reading"
+        },
+        {
+          "text": "A successful launch requires clear instructions and reliable support as well as effective advertising.",
+          "translation": "成功推出产品或服务，既需要有效宣传，也需要清晰说明和可靠支持。",
+          "collocation": "A successful launch",
+          "register": "Writing"
+        },
+        {
+          "text": "Are we inviting customers to the launch, or will the first demonstration be for staff only?",
+          "translation": "我们会邀请客户参加发布活动吗，还是第一次演示只面向员工？",
+          "collocation": "inviting customers to the launch",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "loan",
+      "status": "approved"
+    },
+    {
+      "word": "photograph",
+      "status": "approved",
+      "definitionEN": "an image recorded with a camera",
+      "definitionCN": "照片；相片"
+    },
+    {
+      "word": "pension",
+      "status": "approved",
+      "definitionCN": "养老金；退休金；抚恤金"
+    },
+    {
+      "word": "factory",
+      "status": "approved"
+    },
+    {
+      "word": "suitable",
+      "status": "approved"
+    },
+    {
+      "word": "instruction",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a statement telling someone what to do or how to do it",
+      "definitionCN": "指示；操作说明",
+      "authoredContexts": [
+        {
+          "text": "A written instruction beside the machine explains how to switch it off after use.",
+          "translation": "机器旁的一条书面说明解释了使用后如何将其关闭。",
+          "collocation": "A written instruction",
+          "register": "Reading"
+        },
+        {
+          "text": "Every instruction in a public guide should be clear enough for a first-time visitor to follow.",
+          "translation": "公共指南中的每条指示，都应清楚到让初次来访的人能够照着执行。",
+          "collocation": "Every instruction in a public guide",
+          "register": "Writing"
+        },
+        {
+          "text": "Could you repeat that instruction about uploading the file? I missed the last step.",
+          "translation": "你能重复一下关于上传文件的那条说明吗？我没听清最后一步。",
+          "collocation": "repeat that instruction",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "lunch",
+      "status": "approved"
+    },
+    {
+      "word": "athlete",
+      "status": "approved"
+    },
+    {
+      "word": "unlikely",
+      "status": "approved"
+    },
+    {
+      "word": "desk",
+      "status": "approved",
+      "definitionEN": "a table or counter used for writing, work, or serving customers",
+      "definitionCN": "书桌；办公桌；服务台"
+    },
+    {
+      "word": "chest",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "the front part of the body between the neck and the abdomen",
+      "definitionCN": "胸部；胸膛",
+      "authoredContexts": [
+        {
+          "text": "The diagram shows how the straps cross the chest before joining at the side of the bag.",
+          "translation": "示意图显示，带子如何穿过胸前，再连接到包的侧面。",
+          "collocation": "cross the chest",
+          "register": "Reading"
+        },
+        {
+          "text": "Equipment designed to protect the chest should be available in sizes suitable for different users.",
+          "translation": "用于保护胸部的装备应提供适合不同使用者的尺码。",
+          "collocation": "protect the chest",
+          "register": "Writing"
+        },
+        {
+          "text": "This strap feels tight across my chest; could you help me adjust the bag?",
+          "translation": "这根带子勒得我的胸口有点紧，你能帮我调整一下包吗？",
+          "collocation": "across my chest",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "airport",
+      "status": "approved"
+    },
+    {
+      "word": "soil",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "the loose upper layer of earth in which plants grow",
+      "definitionCN": "土壤；泥土",
+      "authoredContexts": [
+        {
+          "text": "The gardeners tested the soil before choosing vegetables for the new community growing beds.",
+          "translation": "园丁在为新的社区种植畦选择蔬菜之前，先检测了土壤。",
+          "collocation": "tested the soil",
+          "register": "Reading"
+        },
+        {
+          "text": "Protecting soil is essential because productive farmland cannot be replaced simply by building new roads or factories.",
+          "translation": "保护土壤十分必要，因为新建道路或工厂并不能替代肥沃的农田。",
+          "collocation": "Protecting soil",
+          "register": "Writing"
+        },
+        {
+          "text": "Should we add more soil to this pot, or is there enough room for the roots already?",
+          "translation": "我们应该往这个花盆里再加些土吗，还是现在已经给根留够了空间？",
+          "collocation": "more soil",
+          "register": "Listening"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "word": "golf",
+      "status": "approved",
+      "forms": []
+    },
+    {
+      "word": "solve",
+      "status": "approved",
+      "definitionEN": "to find an answer to a problem or a way to deal with a difficulty",
+      "definitionCN": "解决；解答"
+    },
+    {
+      "word": "defendant",
+      "status": "approved"
+    },
+    {
+      "word": "accompany",
+      "status": "approved"
+    },
+    {
+      "word": "barely",
+      "status": "approved",
+      "definitionEN": "only just; almost not at all",
+      "definitionCN": "勉强；几乎不"
+    },
+    {
+      "word": "enormous",
+      "status": "approved",
+      "definitionEN": "extremely large in size, amount, or degree",
+      "definitionCN": "巨大的；庞大的"
+    },
+    {
+      "word": "breakfast",
+      "status": "approved"
+    },
+    {
+      "word": "virtually",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "almost completely or for nearly all practical purposes",
+      "definitionCN": "几乎；实际上",
+      "authoredContexts": [
+        {
+          "text": "The archive is virtually complete, although a few handwritten letters still need to be added.",
+          "translation": "档案几乎完整了，不过仍有几封手写信件需要补入。",
+          "collocation": "virtually complete",
+          "register": "Reading"
+        },
+        {
+          "text": "A service offered virtually everywhere online should still provide support for users who cannot connect reliably.",
+          "translation": "即使一项服务几乎随处都能在线获取，仍应为无法稳定联网的使用者提供支持。",
+          "collocation": "virtually everywhere online",
+          "register": "Writing"
+        },
+        {
+          "text": "The hall was virtually empty when I arrived; did the invitation give the wrong starting time?",
+          "translation": "我到达时，礼堂几乎空无一人；邀请函是不是写错了开始时间？",
+          "collocation": "virtually empty",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "immigrant",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a person who moves to another country to live there for a long period",
+      "definitionCN": "移民；移入者",
+      "authoredContexts": [
+        {
+          "text": "The interview follows an immigrant who opened a repair business after settling in a coastal town.",
+          "translation": "这段访谈讲述了一位移民在海滨小镇定居后开办维修店的经历。",
+          "collocation": "an immigrant who opened a repair business",
+          "register": "Reading"
+        },
+        {
+          "text": "An immigrant should have a fair opportunity to demonstrate existing skills when applying for professional training.",
+          "translation": "移民申请职业培训时，应有公平机会展示已有技能。",
+          "collocation": "An immigrant should have a fair opportunity",
+          "register": "Writing"
+        },
+        {
+          "text": "Is this programme open to any new immigrant, or only to people already enrolled at the college?",
+          "translation": "这个项目对所有新移民开放吗，还是只面向已经在学院注册的人？",
+          "collocation": "any new immigrant",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "lab",
+      "status": "approved"
+    },
+    {
+      "word": "emotion",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a strong feeling such as happiness, fear, sadness, or excitement",
+      "definitionCN": "情感；情绪",
+      "authoredContexts": [
+        {
+          "text": "The actor uses changes in voice and posture to express emotion without explaining the character’s thoughts directly.",
+          "translation": "演员通过声音和姿态的变化表达情感，而不直接解释角色的想法。",
+          "collocation": "express emotion",
+          "register": "Reading"
+        },
+        {
+          "text": "Recognising emotion in public debate can improve understanding, provided that feelings do not replace careful examination of evidence.",
+          "translation": "承认公共讨论中的情感可以增进理解，但情感不应取代对证据的仔细审视。",
+          "collocation": "Recognising emotion in public debate",
+          "register": "Writing"
+        },
+        {
+          "text": "Which emotion were you trying to show in that scene: surprise, relief, or something else?",
+          "translation": "你想在那个场景中表现哪种情绪：惊讶、宽慰，还是其他情绪？",
+          "collocation": "Which emotion were you trying to show",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "premise",
+      "status": "approved",
+      "definitionCN": "前提；假定"
+    },
+    {
+      "word": "spokesman",
+      "status": "approved"
+    },
+    {
+      "word": "steel",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a strong metal made mainly from iron with a small amount of carbon",
+      "definitionCN": "钢；钢材",
+      "authoredContexts": [
+        {
+          "text": "The bridge uses steel beams beneath a wooden walkway, leaving a wide opening for boats below.",
+          "translation": "这座桥在木质步道下使用钢梁，为下方的船只留出宽阔通道。",
+          "collocation": "steel beams",
+          "register": "Reading"
+        },
+        {
+          "text": "Reusing steel from older buildings can reduce demand for new materials when its condition is properly assessed.",
+          "translation": "在妥善评估材料状况的前提下，重新使用旧建筑中的钢材可以减少对新材料的需求。",
+          "collocation": "Reusing steel",
+          "register": "Writing"
+        },
+        {
+          "text": "Is this shelf made from steel, or is it aluminium with a painted surface?",
+          "translation": "这个架子是钢制的，还是表面喷漆的铝制品？",
+          "collocation": "made from steel",
+          "register": "Listening"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "word": "reckon",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "to estimate an amount, number, or likely outcome",
+      "definitionCN": "估计；预计",
+      "authoredContexts": [
+        {
+          "text": "The builders reckon the repairs will take another week because several replacement parts must be ordered.",
+          "translation": "施工人员估计维修还需一周，因为有几个替换部件必须订购。",
+          "collocation": "reckon the repairs will take another week",
+          "register": "Reading"
+        },
+        {
+          "text": "Planners should reckon the full cost of maintenance before committing public money to an ambitious construction project.",
+          "translation": "在向雄心勃勃的建设项目投入公共资金之前，规划者应估算完整的维护成本。",
+          "collocation": "reckon the full cost of maintenance",
+          "register": "Writing"
+        },
+        {
+          "text": "How much do you reckon the tickets will cost if we book them a month ahead?",
+          "translation": "如果我们提前一个月预订，你估计这些票要花多少钱？",
+          "collocation": "reckon the tickets will cost",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "silver",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a shiny white precious metal used in jewellery, coins, and other objects",
+      "definitionCN": "银；银制材料",
+      "authoredContexts": [
+        {
+          "text": "The museum displays a small bowl made of silver beside the tools used to shape it.",
+          "translation": "博物馆将一个银制小碗与制作它的工具一起展出。",
+          "collocation": "made of silver",
+          "register": "Reading"
+        },
+        {
+          "text": "Recycling silver from unwanted electronic products can recover useful material that might otherwise be discarded.",
+          "translation": "从废弃电子产品中回收银，可以取回原本可能被丢弃的有用材料。",
+          "collocation": "Recycling silver",
+          "register": "Writing"
+        },
+        {
+          "text": "Is this necklace real silver, and does the price include the chain as well as the pendant?",
+          "translation": "这条项链是纯银的吗？价格包括链条和吊坠吗？",
+          "collocation": "real silver",
+          "register": "Listening"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "word": "sauce",
+      "status": "approved"
+    },
+    {
+      "word": "mood",
+      "status": "approved",
+      "definitionEN": "a person’s emotional state at a particular time",
+      "definitionCN": "心情；情绪"
+    },
+    {
+      "word": "entertainment",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "activities or performances that provide enjoyment and hold people’s attention",
+      "definitionCN": "娱乐；文娱活动",
+      "authoredContexts": [
+        {
+          "text": "The evening entertainment includes live music and short performances prepared by members of local community groups.",
+          "translation": "晚间文娱活动包括现场音乐和当地社区团体成员准备的短小演出。",
+          "collocation": "The evening entertainment",
+          "register": "Reading"
+        },
+        {
+          "text": "Affordable entertainment can help public spaces attract a wider range of visitors without making expensive purchases necessary.",
+          "translation": "价格可负担的文娱活动可以吸引更多不同访客来到公共空间，而不要求他们进行昂贵消费。",
+          "collocation": "Affordable entertainment",
+          "register": "Writing"
+        },
+        {
+          "text": "What sort of entertainment will there be after dinner, and do we need to reserve seats?",
+          "translation": "晚饭后有什么娱乐活动？我们需要预留座位吗？",
+          "collocation": "sort of entertainment",
+          "register": "Listening"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "word": "nervous",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "worried or uneasy about what may happen",
+      "definitionCN": "紧张的；不安的",
+      "authoredContexts": [
+        {
+          "text": "Several students felt nervous before their first presentation, although the small audience listened patiently and asked friendly questions.",
+          "translation": "几名学生在第一次演讲前感到紧张，不过人数不多的听众耐心倾听，并友好地提问。",
+          "collocation": "felt nervous",
+          "register": "Reading"
+        },
+        {
+          "text": "Supportive feedback can help a nervous learner attempt difficult tasks without fear of public embarrassment.",
+          "translation": "支持性的反馈可以帮助紧张的学习者尝试困难任务，而不必害怕当众难堪。",
+          "collocation": "a nervous learner",
+          "register": "Writing"
+        },
+        {
+          "text": "Are you nervous about the interview, or have the practice sessions made you feel more confident?",
+          "translation": "你对面试感到紧张吗，还是练习已经让你更有信心了？",
+          "collocation": "nervous about the interview",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "bathroom",
+      "status": "approved"
+    },
+    {
+      "word": "remarkable",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "unusual or impressive enough to deserve attention",
+      "definitionCN": "非凡的；引人注目的；显著的",
+      "authoredContexts": [
+        {
+          "text": "The restored building contains a remarkable collection of photographs showing how the neighbourhood changed over a century.",
+          "translation": "修复后的建筑收藏了一批引人注目的照片，展示社区在一个世纪中的变化。",
+          "collocation": "a remarkable collection",
+          "register": "Reading"
+        },
+        {
+          "text": "A remarkable improvement in results deserves examination before other schools are encouraged to copy the same method.",
+          "translation": "在鼓励其他学校采用同样方法之前，应仔细研究成绩的显著提高。",
+          "collocation": "A remarkable improvement",
+          "register": "Writing"
+        },
+        {
+          "text": "It is remarkable how much space we gained by moving that cupboard; shall we rearrange the chairs too?",
+          "translation": "挪动那个柜子后多出了这么多空间，真让人惊讶；我们也重新摆一下椅子吗？",
+          "collocation": "remarkable how much space we gained",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "overcome",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "to deal successfully with a difficulty or prevent it from stopping progress",
+      "definitionCN": "克服；战胜（困难）",
+      "authoredContexts": [
+        {
+          "text": "The team used weekly planning meetings to overcome delays caused by missing materials and changing delivery dates.",
+          "translation": "团队通过每周的规划会，克服材料缺失和交货日期变化造成的延误。",
+          "collocation": "overcome delays",
+          "register": "Reading"
+        },
+        {
+          "text": "Financial support can help students overcome barriers that talent and determination alone cannot remove.",
+          "translation": "经济支持可以帮助学生克服仅凭才华和决心无法消除的障碍。",
+          "collocation": "overcome barriers",
+          "register": "Writing"
+        },
+        {
+          "text": "How did you overcome the problem with the booking system? I am getting the same error message.",
+          "translation": "你是怎么解决预订系统的问题的？我也遇到了同样的错误提示。",
+          "collocation": "overcome the problem",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "recipe",
+      "status": "approved",
+      "definitionEN": "a set of instructions for preparing a particular dish",
+      "definitionCN": "食谱；烹饪方法"
+    },
+    {
+      "word": "presumably",
+      "status": "approved",
+      "definitionCN": "大概；想必；据推测"
+    },
+    {
+      "word": "clock",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a device that shows the time of day",
+      "definitionCN": "钟；时钟",
+      "authoredContexts": [
+        {
+          "text": "The clock above the station entrance is visible from the bus stop and the main pedestrian crossing.",
+          "translation": "从公交车站和主要人行横道，都能看到车站入口上方的钟。",
+          "collocation": "The clock above the station entrance",
+          "register": "Reading"
+        },
+        {
+          "text": "A public clock can be useful where passengers need reliable time information without checking a phone.",
+          "translation": "在乘客需要准确时间信息又不便查看手机的地方，公共时钟能够发挥作用。",
+          "collocation": "A public clock",
+          "register": "Writing"
+        },
+        {
+          "text": "Does that clock show the correct time? My phone says the train leaves in five minutes.",
+          "translation": "那座钟显示的时间准确吗？我的手机显示火车五分钟后出发。",
+          "collocation": "that clock show the correct time",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "assure",
+      "status": "approved"
+    },
+    {
+      "word": "pregnant",
+      "status": "reject",
+      "reason": "The second context asserts a controversial claim about fetal personhood rather than a neutral language example."
+    },
+    {
+      "word": "yield",
+      "status": "reject",
+      "reason": "The third context describes the result of a hunt in archaic language; the full set also needs a clearer shared production/return definition."
+    },
+    {
+      "word": "disabled",
+      "status": "approved",
+      "definitionEN": "having a physical or mental condition that limits some activities or requires particular support",
+      "definitionCN": "有残疾的；有障碍的"
+    },
+    {
+      "word": "summary",
+      "status": "approved"
+    },
+    {
+      "word": "solar",
+      "status": "approved"
+    },
+    {
+      "word": "tunnel",
+      "status": "reject",
+      "reason": "The third context is a threatening train joke, and the second is an obscure literary quotation."
+    },
+    {
+      "word": "economics",
+      "status": "approved"
+    },
+    {
+      "word": "characterize",
+      "status": "approved",
+      "definitionEN": "to describe or show the typical qualities of a person, group, or thing",
+      "definitionCN": "描述……的特征；成为……的特征"
+    },
+    {
+      "word": "tragedy",
+      "status": "reject",
+      "reason": "The first context is an archaic suspense scene with repeated screaming; the selected meaning is a dramatic work while the examples concern real calamities."
+    },
+    {
+      "word": "excitement",
+      "status": "approved",
+      "definitionCN": "兴奋；激动"
+    },
+    {
+      "word": "segment",
+      "status": "approved",
+      "definitionEN": "a distinct part or section of a larger whole",
+      "definitionCN": "部分；段；群体的一部分"
+    },
+    {
+      "word": "objection",
+      "status": "approved",
+      "definitionEN": "a reason or statement expressing disagreement or opposition",
+      "definitionCN": "异议；反对"
+    },
+    {
+      "word": "lawn",
+      "status": "approved"
+    },
+    {
+      "word": "psychology",
+      "status": "approved",
+      "definitionEN": "the study of the mind and behaviour",
+      "definitionCN": "心理学",
+      "forms": []
+    },
+    {
+      "word": "grammar",
+      "status": "approved",
+      "definitionEN": "the rules that organise words into meaningful sentences in a language",
+      "definitionCN": "语法；语法规则"
+    },
+    {
+      "word": "incredible",
+      "status": "approved"
+    },
+    {
+      "word": "porch",
+      "status": "reject",
+      "reason": "The first context is an incomplete literary comparison without a clear main clause."
+    },
+    {
+      "word": "resemble",
+      "status": "approved"
+    },
+    {
+      "word": "myth",
+      "status": "approved",
+      "definitionEN": "a widely repeated story or belief that is not true or supported by evidence",
+      "definitionCN": "不实的传说；错误观念"
+    },
+    {
+      "word": "bitter",
+      "status": "reject",
+      "reason": "The first context concerns an enemy fighting to the bitter end, unsuitable for this neutral set."
+    },
+    {
+      "word": "undoubtedly",
+      "status": "approved"
+    },
+    {
+      "word": "discount",
+      "status": "approved"
+    },
+    {
+      "word": "audit",
+      "status": "approved",
+      "definitionCN": "审计；查账"
+    },
+    {
+      "word": "electrical",
+      "status": "reject",
+      "reason": "The set includes putting a pickle into an outlet and unqualified electrical/legal safety claims; a safer set is required."
+    },
+    {
+      "word": "civilian",
+      "status": "reject",
+      "reason": "The first context describes wholesale slaughter of civilians."
+    },
+    {
+      "word": "conception",
+      "status": "reject",
+      "reason": "The contexts mix an abstract idea with biological fertilisation, and the Chinese and English definitions disagree."
+    },
+    {
+      "word": "accountant",
+      "status": "approved"
+    },
+    {
+      "word": "cinema",
+      "status": "approved"
+    },
+    {
+      "word": "cognitive",
+      "status": "approved",
+      "definitionEN": "relating to thinking, learning, remembering, and understanding",
+      "definitionCN": "认知的"
+    },
+    {
+      "word": "container",
+      "status": "reject",
+      "reason": "The second contains an unexplained personal name and technical chemistry; the third has unnatural wording about a liquid submitting a container to stress."
+    },
+    {
+      "word": "nursery",
+      "status": "approved",
+      "definitionEN": "a place where young children are cared for during the day",
+      "definitionCN": "托儿所；日托机构"
+    },
+    {
+      "word": "magic",
+      "status": "reject",
+      "reason": "The contexts mix literal supernatural practices, figurative appeal, and a fantasy elf scene."
+    },
+    {
+      "word": "stem",
+      "status": "reject",
+      "reason": "The contexts mix archaic noble ancestry, plant stalks, and a definition about a pipe component."
+    },
+    {
+      "word": "subtle",
+      "status": "reject",
+      "reason": "The third context is an obscure literary assertion about the spheres of the heart; the definition also misses the intended hard-to-notice sense."
+    },
+    {
+      "word": "essence",
+      "status": "reject",
+      "reason": "The definition describes an extract, but the contexts use an essential nature sense; the third is an archaic philosophical verse."
+    },
+    {
+      "word": "humanity",
+      "status": "reject",
+      "reason": "The set includes an implausible general history of constructed languages and an archaic exhortation; the definition also differs from the collective human-race sense."
+    },
+    {
+      "word": "motivate",
+      "status": "reject",
+      "reason": "Candies and the whip is not a natural English expression, and the store/mother context lacks a clear natural purpose."
+    },
+    {
+      "word": "provoke",
+      "status": "reject",
+      "reason": "The third context explicitly discusses provoking violence; the second is an obscure generalisation about genius and scandals."
+    },
+    {
+      "word": "mathematics",
+      "status": "reject",
+      "reason": "The first two contexts are obscure aphoristic assertions rather than clear natural illustrations of the subject."
+    },
+    {
+      "word": "doctrine",
+      "status": "reject",
+      "reason": "The set contains religious and scientific polemics rather than neutral examples."
+    },
+    {
+      "word": "receipt",
+      "status": "reject",
+      "reason": "The last two contexts repeat the same extended cash-register metaphor with only wording changes."
+    },
+    {
+      "word": "nasty",
+      "status": "approved",
+      "definitionEN": "very unpleasant, unkind, or difficult to deal with",
+      "definitionCN": "令人不快的；恶意的；棘手的"
+    },
+    {
+      "word": "cupboard",
+      "status": "approved"
+    },
+    {
+      "word": "abstract",
+      "status": "approved"
+    },
+    {
+      "word": "trait",
+      "status": "approved",
+      "definitionCN": "性格特征；特性"
+    },
+    {
+      "word": "spouse",
+      "status": "reject",
+      "reason": "The third context disparagingly advises replacing a spouse who complains."
+    },
+    {
+      "word": "conceive",
+      "status": "reject",
+      "reason": "The contexts use archaic philosophical prose and an unsupported supernatural assertion, while the English definition teaches pregnancy."
+    },
+    {
+      "word": "poster",
+      "status": "approved",
+      "definitionCN": "海报；招贴"
+    },
+    {
+      "word": "hug",
+      "status": "reject",
+      "reason": "The second context depicts a teacher coercing pupils into physical contact in exchange for bathroom access."
+    },
+    {
+      "word": "reign",
+      "status": "reject",
+      "reason": "The set mixes governing as a monarch with the adjective reigning in reigning champion."
+    },
+    {
+      "word": "destination",
+      "status": "reject",
+      "reason": "The second context contains the unnatural phrase a few chance words and phrases of your destination."
+    },
+    {
+      "word": "subsidy",
+      "status": "approved",
+      "definitionEN": "money given, especially by a government, to support an activity or reduce its cost",
+      "definitionCN": "补贴；补助金"
+    },
+    {
+      "word": "metaphor",
+      "status": "reject",
+      "reason": "The third is an unhelpful word-comparison joke about an amphora rather than a contextual illustration."
+    },
+    {
+      "word": "prevention",
+      "status": "reject",
+      "reason": "The set presents oversimplified medical and climate prescriptions, with too little context to support the claims."
+    },
+    {
+      "word": "geography",
+      "status": "reject",
+      "reason": "The third context is a polemical assertion about imaginary national rights rather than a neutral geographic example."
+    },
+    {
+      "word": "precious",
+      "status": "approved"
+    },
+    {
+      "word": "pillow",
+      "status": "reject",
+      "reason": "The first context is an archaic oath about a funeral pillow."
+    },
+    {
+      "word": "occupational",
+      "status": "reject",
+      "reason": "The third context makes a body-focused generalisation about office workers."
+    },
+    {
+      "word": "cart",
+      "status": "reject",
+      "reason": "Two contexts repeat putting the cart before the horse, while the first is a shopping trolley and the definition a horse-drawn wagon."
+    },
+    {
+      "word": "slap",
+      "status": "reject",
+      "reason": "The set mixes physical assault with figurative insult and repeats slap in the face throughout."
+    },
+    {
+      "word": "donate",
+      "status": "approved"
+    },
+    {
+      "word": "mature",
+      "status": "approved",
+      "definitionEN": "fully grown or developed",
+      "definitionCN": "成熟的；发育完全的"
+    },
+    {
+      "word": "ancestor",
+      "status": "reject",
+      "reason": "The third context is an obscure unnatural sentence about delight in ancient times; the definition also excludes the language and organism senses in the other contexts."
+    },
+    {
+      "word": "verdict",
+      "status": "approved"
+    },
+    {
+      "word": "vaccine",
+      "status": "approved",
+      "definitionEN": "a preparation given to help the body develop protection against a particular infection",
+      "definitionCN": "疫苗"
+    },
+    {
+      "word": "exotic",
+      "status": "reject",
+      "reason": "The third context objectifies a woman as tropical and exotic; a neutral consistent set is required."
+    },
+    {
+      "word": "breeze",
+      "status": "approved"
+    },
+    {
+      "word": "minimal",
+      "status": "reject",
+      "reason": "The second context describes missile damage."
+    },
+    {
+      "word": "shed",
+      "status": "approved",
+      "definitionEN": "a small building used for storage or shelter",
+      "definitionCN": "棚屋；储藏棚"
+    },
+    {
+      "word": "naval",
+      "status": "approved"
+    },
+    {
+      "word": "lounge",
+      "status": "approved",
+      "definitionEN": "a comfortable room where people can sit, relax, or wait",
+      "definitionCN": "休息室；候机室；休闲厅"
+    },
+    {
+      "word": "referendum",
+      "status": "reject",
+      "reason": "The second context gives an unexplained directive to vote yes in a dated political vote."
+    },
+    {
+      "word": "scent",
+      "status": "approved",
+      "definitionEN": "a smell, especially one that is pleasant or can be followed by an animal",
+      "definitionCN": "气味；香味；气味痕迹"
+    },
+    {
+      "word": "mobile",
+      "status": "reject",
+      "reason": "The first incorrectly suggests universal access to mobile phones in the 1980s and 1990s; the third concerns a missile weapon."
+    },
+    {
+      "word": "warehouse",
+      "status": "approved"
+    },
+    {
+      "word": "depart",
+      "status": "reject",
+      "reason": "The first two contexts are archaic religious passages, including a coercive circumcision condition."
+    },
+    {
+      "word": "hurricane",
+      "status": "approved",
+      "definitionEN": "a powerful tropical storm with extremely strong winds and heavy rain",
+      "definitionCN": "飓风"
+    },
+    {
+      "word": "dreadful",
+      "status": "reject",
+      "reason": "The set contains archaic frightening imagery and a fatal riding injury."
+    },
+    {
+      "word": "cemetery",
+      "status": "approved"
+    },
+    {
+      "word": "toll",
+      "status": "reject",
+      "reason": "The examples mix road fatalities, a road-use fee, and psychological harm; one fee definition cannot cover them."
+    },
+    {
+      "word": "cheer",
+      "status": "reject",
+      "reason": "The first is archaic festal wording, the second is unnatural, and only the third teaches the defined approving shout."
+    },
+    {
+      "word": "steak",
+      "status": "approved"
+    },
+    {
+      "word": "useless",
+      "status": "reject",
+      "reason": "The first depicts a pupil hitting a teacher; the others are speculative or literary rather than clear modern neutral contexts."
+    },
+    {
+      "word": "underline",
+      "status": "reject",
+      "reason": "The first context insults someone’s appearance; the third uses the target as a plural noun rather than a verb."
+    },
+    {
+      "word": "brutal",
+      "status": "reject",
+      "reason": "The set includes a politically specific massacre and violent fighting."
+    },
+    {
+      "word": "morality",
+      "status": "reject",
+      "reason": "The first is archaic religious polemic; the set does not provide three clear modern neutral examples."
+    },
+    {
+      "word": "despair",
+      "status": "reject",
+      "reason": "The second context explicitly describes suicidal thinking."
+    },
+    {
+      "word": "authorize",
+      "status": "reject",
+      "reason": "The last two contexts repeat the same template with unnatural permission scenarios involving smoking and bad movies."
+    },
+    {
+      "word": "mist",
+      "status": "approved"
+    },
+    {
+      "word": "rubber",
+      "status": "reject",
+      "reason": "Two contexts mean a pencil eraser while one means an elastic material; one material definition does not teach the full set."
+    },
+    {
+      "word": "blond",
+      "status": "approved",
+      "definitionEN": "having pale yellow or light-coloured hair",
+      "definitionCN": "金发的；浅黄色头发的"
+    },
+    {
+      "word": "consecutive",
+      "status": "approved"
+    },
+    {
+      "word": "biography",
+      "status": "approved"
+    },
+    {
+      "word": "stereotype",
+      "status": "reject",
+      "reason": "The set repeats class-based, body-based, and gendered stereotypes, including a slur even while criticising it."
+    },
+    {
+      "word": "wit",
+      "status": "reject",
+      "reason": "The third context has an apparent error worse for worth, and the first is an obscure aphorism."
+    },
+    {
+      "word": "surge",
+      "status": "approved",
+      "definitionEN": "a sudden large increase",
+      "definitionCN": "激增；急剧上升"
+    },
+    {
+      "word": "outbreak",
+      "status": "reject",
+      "reason": "The second context graphically describes bodies piled beside a road."
+    },
+    {
+      "word": "fake",
+      "status": "reject",
+      "reason": "The first context is adjectival fake passports, while the other two are nouns."
+    },
+    {
+      "word": "kidney",
+      "status": "reject",
+      "reason": "The second asks about selling an organ; the third makes a questionable numerical physiological claim."
+    },
+    {
+      "word": "appetite",
+      "status": "approved",
+      "definitionEN": "the desire to eat food",
+      "definitionCN": "食欲；胃口"
+    },
+    {
+      "word": "pesticide",
+      "status": "approved",
+      "definitionCN": "农药；杀虫剂"
+    },
+    {
+      "word": "furnish",
+      "status": "reject",
+      "reason": "Two contexts are near-identical furnished-accommodation requests, while the middle means providing information."
+    },
+    {
+      "word": "roar",
+      "status": "reject",
+      "reason": "All three contexts closely repeat hearing the roar of lions; a more varied set is needed."
+    },
+    {
+      "word": "inflict",
+      "status": "reject",
+      "reason": "The contexts centre on stings, injuries, and evils done to others rather than a neutral set."
+    },
+    {
+      "word": "grim",
+      "status": "approved",
+      "definitionEN": "serious, stern, or suggesting something unpleasant",
+      "definitionCN": "严肃的；阴沉的；令人不安的"
+    },
+    {
+      "word": "clarity",
+      "status": "reject",
+      "reason": "The first two examples are dense and awkward specialist assertions rather than clear accessible contexts."
+    },
+    {
+      "word": "illuminate",
+      "status": "reject",
+      "reason": "The second makes an outdated cosmological assertion about the sun’s central position in the universe."
+    },
+    {
+      "word": "psychiatric",
+      "status": "reject",
+      "reason": "The set includes a stigmatising psychiatric-hospital joke and a claim about mass shooters."
+    },
+    {
+      "word": "jam",
+      "status": "reject",
+      "reason": "The first two contexts mean traffic congestion; the last means a fruit preserve."
+    },
+    {
+      "word": "optical",
+      "status": "approved",
+      "definitionCN": "光学的；视觉的"
+    },
+    {
+      "word": "scrap",
+      "status": "approved",
+      "definitionEN": "a small piece left over, or material discarded for reuse or recycling",
+      "definitionCN": "碎片；边角料；废料"
+    },
+    {
+      "word": "melody",
+      "status": "approved",
+      "definitionEN": "a sequence of musical notes forming a recognisable tune",
+      "definitionCN": "旋律；曲调"
+    },
+    {
+      "word": "microphone",
+      "status": "reject",
+      "reason": "The second context has the unnatural construction You need have a good microphone."
+    },
+    {
+      "word": "spontaneous",
+      "status": "reject",
+      "reason": "The set mixes an unsupported generalisation about beloved people with a specialist medical diagnosis and unsolicited offers."
+    },
+    {
+      "word": "linen",
+      "status": "reject",
+      "reason": "The third context uses the idiom dirty linen in public rather than the defined cloth sense."
+    },
+    {
+      "word": "haven",
+      "status": "approved",
+      "definitionEN": "a place where someone or something is protected from danger or difficulty",
+      "definitionCN": "避风港；庇护所"
+    },
+    {
+      "word": "antique",
+      "status": "reject",
+      "reason": "The second context uses antique as an adjective rather than a noun."
+    },
+    {
+      "word": "cough",
+      "status": "reject",
+      "reason": "The second has the unnatural wording on the rise in the last years."
+    },
+    {
+      "word": "playground",
+      "status": "approved",
+      "definitionCN": "操场；儿童游乐场"
+    },
+    {
+      "word": "tuition",
+      "status": "reject",
+      "reason": "The second promises that merely working hard guarantees earning back all fees, without a meaningful supporting condition."
+    },
+    {
+      "word": "monarchy",
+      "status": "reject",
+      "reason": "The first and third contexts are virtually identical questions."
+    },
+    {
+      "word": "thrill",
+      "status": "approved",
+      "definitionEN": "a sudden strong feeling of excitement or pleasure",
+      "definitionCN": "强烈的兴奋感；激动"
+    },
+    {
+      "word": "aquarium",
+      "status": "approved"
+    },
+    {
+      "word": "lick",
+      "status": "reject",
+      "reason": "The examples use unrelated paint, amount, and musical-riff senses rather than touching with the tongue."
+    },
+    {
+      "word": "deter",
+      "status": "approved",
+      "definitionEN": "to discourage someone or something from acting through fear, difficulty, or risk",
+      "definitionCN": "阻止；使打消念头；威慑"
+    },
+    {
+      "word": "expel",
+      "status": "approved",
+      "definitionCN": "驱逐；开除；逐出"
+    },
+    {
+      "word": "embed",
+      "status": "reject",
+      "reason": "The first is an implausible alien mind-control scenario; the remaining contexts do not share the restricted military definition."
+    },
+    {
+      "word": "inhabit",
+      "status": "reject",
+      "reason": "The second contains a dated ethnic label and generalisation about roaming people."
+    },
+    {
+      "word": "motorcycle",
+      "status": "approved"
+    },
+    {
+      "word": "bacon",
+      "status": "reject",
+      "reason": "Two contexts use bring home the bacon rather than the food sense, and repeat the same idiom."
+    },
+    {
+      "word": "shrub",
+      "status": "approved",
+      "definitionCN": "灌木"
+    },
+    {
+      "word": "velvet",
+      "status": "reject",
+      "reason": "The first means the skin on growing deer antlers, while the other contexts refer to fabric or its metaphorical softness."
+    },
+    {
+      "word": "fixture",
+      "status": "approved",
+      "definitionEN": "something permanently attached to or regularly present in a place",
+      "definitionCN": "固定装置；固定物；常驻的人物"
+    },
+    {
+      "word": "poise",
+      "status": "reject",
+      "reason": "Two contexts are near-identical archaic squire/noblewoman passages; the definition instead gives a viscosity unit."
+    },
+    {
+      "word": "prototype",
+      "status": "approved",
+      "definitionEN": "an original model on which a later design or representation is based",
+      "definitionCN": "原型；最初的模型"
+    },
+    {
+      "word": "cynical",
+      "status": "reject",
+      "reason": "The first is a dense literary exhortation; the set also mixes distrust with deliberate insincerity."
+    },
+    {
+      "word": "invaluable",
+      "status": "approved",
+      "definitionEN": "extremely useful or important",
+      "definitionCN": "非常宝贵的；极其有用的"
+    },
+    {
+      "word": "recite",
+      "status": "reject",
+      "reason": "The second context describes a teacher caning children."
+    },
+    {
+      "word": "fuss",
+      "status": "approved",
+      "definitionEN": "unnecessary excitement, concern, or complaint about something",
+      "definitionCN": "大惊小怪；小题大做；纷扰"
+    },
+    {
+      "word": "prestigious",
+      "status": "approved",
+      "definitionEN": "widely respected and admired because of high quality or success",
+      "definitionCN": "有声望的；备受尊重的"
+    },
+    {
+      "word": "resemblance",
+      "status": "approved",
+      "definitionCN": "相似；相像"
+    },
+    {
+      "word": "mentality",
+      "status": "reject",
+      "reason": "The set contains specialist age-regression jargon and obscure or overgeneralised descriptions of mental states."
+    },
+    {
+      "word": "submarine",
+      "status": "approved",
+      "definitionEN": "a vessel designed to travel and operate underwater",
+      "definitionCN": "潜艇；潜水艇"
+    },
+    {
+      "word": "perfume",
+      "status": "reject",
+      "reason": "The first and third are awkward or densely romantic literary descriptions rather than clear modern examples."
+    },
+    {
+      "word": "catastrophe",
+      "status": "reject",
+      "reason": "The second describes a fatal riding injury, and the supplied definition is restricted to geological change."
+    },
+    {
+      "word": "anthropology",
+      "status": "approved",
+      "forms": []
+    },
+    {
+      "word": "void",
+      "status": "reject",
+      "reason": "The first is a literary captive-soul image using a noun, while the last two use null and void as adjectives."
+    },
+    {
+      "word": "beverage",
+      "status": "reject",
+      "reason": "The second has a icy rather than an icy; the third omits an article before singular countable beverage."
+    },
+    {
+      "word": "drastic",
+      "status": "approved"
+    },
+    {
+      "word": "loaf",
+      "status": "reject",
+      "reason": "The second is an archaic command involving multiple wives, while the definition oddly excludes bread."
+    },
+    {
+      "word": "frost",
+      "status": "approved",
+      "definitionEN": "a thin layer of ice crystals that forms on a cold surface",
+      "definitionCN": "霜；霜冻"
+    },
+    {
+      "word": "kidnap",
+      "status": "reject",
+      "reason": "The set contains a misogynistic ransom joke, a satanic-cult scenario, and child abduction."
+    },
+    {
+      "word": "cafeteria",
+      "status": "approved"
+    },
+    {
+      "word": "novice",
+      "status": "approved"
+    },
+    {
+      "word": "feat",
+      "status": "reject",
+      "reason": "The third uses feat as a misspelling of feet, and the first has a questionable lay low construction."
+    },
+    {
+      "word": "vice",
+      "status": "reject",
+      "reason": "The examples are moralising aphorisms, including a disparaging statement about poverty."
+    },
+    {
+      "word": "shovel",
+      "status": "approved",
+      "definitionEN": "a tool or machine with a broad scoop used for digging or moving loose material",
+      "definitionCN": "铲；铁锹；挖掘铲"
+    },
+    {
+      "word": "veil",
+      "status": "approved",
+      "definitionEN": "a thin covering of cloth or something that hides what is behind it",
+      "definitionCN": "面纱；薄薄的遮蔽物"
+    },
+    {
+      "word": "raft",
+      "status": "approved"
+    },
+    {
+      "word": "contaminate",
+      "status": "approved",
+      "definitionEN": "to make something impure or unsafe by introducing harmful or unwanted substances",
+      "definitionCN": "污染；弄脏"
+    },
+    {
+      "word": "disgust",
+      "status": "approved",
+      "forms": []
+    },
+    {
+      "word": "plank",
+      "status": "reject",
+      "reason": "The second describes walking the plank, and the supplied English definition is a different political-policy sense."
+    },
+    {
+      "word": "pointless",
+      "status": "approved",
+      "definitionEN": "having no useful purpose, result, or value",
+      "definitionCN": "无意义的；徒劳的"
+    },
+    {
+      "word": "vicinity",
+      "status": "approved"
+    },
+    {
+      "word": "bruise",
+      "status": "approved",
+      "definitionCN": "淤青；瘀伤"
+    },
+    {
+      "word": "briefcase",
+      "status": "approved",
+      "definitionCN": "公文包"
+    },
+    {
+      "word": "adore",
+      "status": "approved"
+    },
+    {
+      "word": "endurance",
+      "status": "approved",
+      "definitionCN": "耐力；忍耐力"
+    },
+    {
+      "word": "gigantic",
+      "status": "reject",
+      "reason": "The second is a fanciful and biologically misleading description of whales squirting water through their nostrils."
+    },
+    {
+      "word": "convene",
+      "status": "approved",
+      "definitionEN": "to bring people together, or come together, for a meeting",
+      "definitionCN": "召集；集会；开会"
+    },
+    {
+      "word": "succumb",
+      "status": "reject",
+      "reason": "The set contains dense abstract philosophy and an unkind wedding remark about lunacy rather than clear natural examples."
+    },
+    {
+      "word": "gland",
+      "status": "approved",
+      "definitionEN": "an organ that makes and releases a substance used by the body",
+      "definitionCN": "腺；腺体"
+    },
+    {
+      "word": "yearn",
+      "status": "reject",
+      "reason": "The third is an archaic personification of the sun, and the first is an awkward contributor-specific metalinguistic wish."
+    },
+    {
+      "word": "carpenter",
+      "status": "approved",
+      "definitionEN": "a person who makes and repairs wooden structures and objects",
+      "definitionCN": "木匠；木工"
+    },
+    {
+      "word": "parachute",
+      "status": "approved",
+      "definitionEN": "a device that opens into a large canopy to slow a person or object falling through the air",
+      "definitionCN": "降落伞"
+    },
+    {
+      "word": "alienate",
+      "status": "approved",
+      "definitionEN": "to make someone feel distant, unwelcome, or no longer supportive",
+      "definitionCN": "使疏远；使失去支持"
+    },
+    {
+      "word": "pianist",
+      "status": "approved"
+    },
+    {
+      "word": "retrospect",
+      "status": "reject",
+      "reason": "The second has an unclear comma-spliced construction and an unresolved claim about what is more beautiful."
+    },
+    {
+      "word": "hamper",
+      "status": "reject",
+      "reason": "Two examples repeat the same laundry instruction; the third is an awkward obscure suggestion about a used fishing creel."
+    },
+    {
+      "word": "refrain",
+      "status": "reject",
+      "reason": "The first two use the verb refrain, while the third uses the noun for a repeated song section."
+    },
+    {
+      "word": "boycott",
+      "status": "approved",
+      "definitionEN": "an organised refusal to buy from, use, or deal with a person or organisation as a protest",
+      "definitionCN": "抵制；联合抵制"
+    },
+    {
+      "word": "vengeance",
+      "status": "reject",
+      "reason": "The first two are near-identical revenge statements, and the third turns against a religion."
+    },
+    {
+      "word": "amaze",
+      "status": "approved",
+      "definitionEN": "to surprise someone very much",
+      "definitionCN": "使十分惊讶；使惊叹"
+    },
+    {
+      "word": "unravel",
+      "status": "reject",
+      "reason": "The set mixes plans falling apart with mysteries being solved; the definition instead concerns separating threads."
+    },
+    {
+      "word": "statesman",
+      "status": "reject",
+      "reason": "The second contains the error in really rather than in reality or really."
+    },
+    {
+      "word": "impede",
+      "status": "approved",
+      "definitionEN": "to slow down or make progress more difficult",
+      "definitionCN": "妨碍；阻碍"
+    },
+    {
+      "word": "sparkle",
+      "status": "reject",
+      "reason": "The first and third use verbs, while the middle uses a noun."
+    },
+    {
+      "word": "workload",
+      "status": "approved"
+    },
+    {
+      "word": "salute",
+      "status": "reject",
+      "reason": "All three are archaic literary greetings or rhymes rather than modern clear contexts."
+    },
+    {
+      "word": "ballroom",
+      "status": "reject",
+      "reason": "The first depicts dancers from different worlds in a space hotel."
+    },
+    {
+      "word": "nuance",
+      "status": "approved",
+      "definitionEN": "a small difference or detail in meaning, feeling, or expression",
+      "definitionCN": "细微差别；微妙之处"
+    },
+    {
+      "word": "homogeneous",
+      "status": "reject",
+      "reason": "The third uses the unclear technical expression homogeneous cycle; the set needs a clearer consistent ordinary sense."
+    },
+    {
+      "word": "dissertation",
+      "status": "approved",
+      "definitionEN": "a long piece of research writing submitted for an advanced academic degree",
+      "definitionCN": "学位论文；专题研究论文"
+    },
+    {
+      "word": "bandage",
+      "status": "approved"
+    },
+    {
+      "word": "emigrate",
+      "status": "reject",
+      "reason": "The second is an incomplete and dated generalisation about migration motives and servants."
+    },
+    {
+      "word": "vanity",
+      "status": "reject",
+      "reason": "The contexts are aphoristic or archaic descriptions of self-regard, while the English definition means worthlessness."
+    },
+    {
+      "word": "robber",
+      "status": "approved",
+      "definitionCN": "强盗；抢劫犯"
+    },
+    {
+      "word": "auditorium",
+      "status": "approved",
+      "definitionEN": "a large room or hall where an audience gathers for a performance or event",
+      "definitionCN": "礼堂；观众厅"
+    },
+    {
+      "word": "esteem",
+      "status": "approved",
+      "definitionEN": "a feeling of respect or admiration for someone or something",
+      "definitionCN": "尊重；敬重；推崇",
+      "forms": []
+    },
+    {
+      "word": "vibrate",
+      "status": "reject",
+      "reason": "The second gives an unreliable oversimplification linking all objects’ electron vibration directly to thermal-radiation wavelength."
+    },
+    {
+      "word": "crocodile",
+      "status": "reject",
+      "reason": "The set describes an attack on a handler and a crocodile eating a young hippopotamus."
+    },
+    {
+      "word": "errand",
+      "status": "approved",
+      "definitionEN": "a short trip made to carry out a practical task",
+      "definitionCN": "差事；跑腿的事"
+    },
+    {
+      "word": "paralysis",
+      "status": "approved",
+      "definitionEN": "a loss of the ability to move all or part of the body",
+      "definitionCN": "瘫痪；麻痹"
+    },
+    {
+      "word": "gust",
+      "status": "approved"
+    },
+    {
+      "word": "insulate",
+      "status": "approved",
+      "definitionEN": "to surround or cover something with material that limits heat, sound, or electrical flow",
+      "definitionCN": "使隔热；使隔音；使绝缘"
+    },
+    {
+      "word": "monstrous",
+      "status": "reject",
+      "reason": "The examples contain archaic wording, paranoid conspiracy imagery, and a serious crime; the size definition does not cover the set."
+    },
+    {
+      "word": "fabricate",
+      "status": "reject",
+      "reason": "The first and third are dense archaic passages about a woman’s writing and alleged miracles."
+    },
+    {
+      "word": "bribe",
+      "status": "approved"
+    },
+    {
+      "word": "fanatic",
+      "status": "reject",
+      "reason": "The set includes direct insults and disparaging descriptions of religious people."
+    },
+    {
+      "word": "sanity",
+      "status": "approved",
+      "definitionEN": "the ability to think and act in a sensible, balanced way",
+      "definitionCN": "心智健全；头脑清醒",
+      "forms": []
+    },
+    {
+      "word": "extinguish",
+      "status": "reject",
+      "reason": "The set includes an apocalyptic super-robot scenario and a funeral-pile metaphor."
+    },
+    {
+      "word": "bookshelf",
+      "status": "approved",
+      "definitionCN": "书架"
+    },
+    {
+      "word": "adjoin",
+      "status": "reject",
+      "reason": "All contexts use adjoining as an attributive adjective, and one is a dated royal courtship passage; the verb definition is also mismatched."
+    },
+    {
+      "word": "electrician",
+      "status": "reject",
+      "reason": "The first gives an unqualified legal rule, and the third gives unsafe blanket reassurance about replacing a light switch without professional help."
+    },
+    {
+      "word": "malice",
+      "status": "reject",
+      "reason": "The second directly disparages a group as stupid or malicious."
+    },
+    {
+      "word": "superstition",
+      "status": "reject",
+      "reason": "The first and third are near-identical statements, and the middle is an archaic generalisation about the populace."
+    },
+    {
+      "word": "etiquette",
+      "status": "reject",
+      "reason": "The first falsely presents eating dumplings only with a fork as a universal etiquette rule."
+    },
+    {
+      "word": "acclaim",
+      "status": "approved",
+      "definitionCN": "赞誉；高度评价",
+      "forms": []
+    },
+    {
+      "word": "tamper",
+      "status": "reject",
+      "reason": "The first describes deliberate brake sabotage causing a crash; the third uses the noun witness tampering rather than the selected verb."
+    },
+    {
+      "word": "chronological",
+      "status": "approved",
+      "definitionEN": "arranged according to the order in which events happened or will happen",
+      "definitionCN": "按时间顺序的"
+    },
+    {
+      "word": "hijack",
+      "status": "reject",
+      "reason": "The set centres on fugitives and aircraft seizure rather than a neutral consistent set."
+    },
+    {
+      "word": "bookcase",
+      "status": "approved"
+    },
+    {
+      "word": "raincoat",
+      "status": "reject",
+      "reason": "The first and third are the same counterfactual sentence with synonymous phrasing."
+    },
+    {
+      "word": "twinkle",
+      "status": "reject",
+      "reason": "The second uses the nonstandard expression in the twinkle of an eye; the other two repeat the same eye-gleam idea."
+    },
+    {
+      "word": "untold",
+      "status": "reject",
+      "reason": "The contexts mix a very large quantity with an undisclosed secret."
+    },
+    {
+      "word": "pamper",
+      "status": "approved",
+      "definitionEN": "to give someone excessive care, attention, or comfort",
+      "definitionCN": "娇惯；纵容；过分照顾"
+    },
+    {
+      "word": "crevice",
+      "status": "approved",
+      "definitionEN": "a narrow crack or gap in a surface or between objects",
+      "definitionCN": "裂缝；缝隙"
+    },
+    {
+      "word": "persevere",
+      "status": "reject",
+      "reason": "The second and third are near-identical proverbs about persisting in error."
+    },
+    {
+      "word": "considerate",
+      "status": "approved"
+    },
+    {
+      "word": "custodian",
+      "status": "approved",
+      "definitionCN": "管理员；看管人；保管人"
+    },
+    {
+      "word": "escalator",
+      "status": "approved"
+    },
+    {
+      "word": "potion",
+      "status": "reject",
+      "reason": "The set is fantasy-potion dialogue, including secret mandrake ingredients, rather than clear modern neutral examples."
+    },
+    {
+      "word": "oscillate",
+      "status": "reject",
+      "reason": "The first is a demeaning literary description comparing a person’s face to a reptile."
+    },
+    {
+      "word": "prologue",
+      "status": "approved",
+      "definitionEN": "an introductory section before the main action or text of a work",
+      "definitionCN": "序幕；序言"
+    },
+    {
+      "word": "nautical",
+      "status": "approved"
+    },
+    {
+      "word": "eddy",
+      "status": "reject",
+      "reason": "The third context pairs singular swirling motion with plural cause, an agreement error."
+    },
+    {
+      "word": "teem",
+      "status": "reject",
+      "reason": "The first two are near-identical habitat-and-animal-list templates; the third is a crude pile-of-poop example."
+    },
+    {
+      "word": "platitude",
+      "status": "reject",
+      "reason": "The third context refers to skanky clothing and manipulating a dean."
+    },
+    {
+      "word": "similar",
+      "status": "approved"
+    },
+    {
+      "word": "award",
+      "status": "approved",
+      "definitionEN": "a prize or other honour given in recognition of achievement",
+      "definitionCN": "奖；奖项；荣誉"
+    },
+    {
+      "word": "summer",
+      "status": "approved",
+      "definitionCN": "夏天；夏季"
+    },
+    {
+      "word": "choice",
+      "status": "approved",
+      "definitionEN": "the freedom or opportunity to select between possibilities, or an available option",
+      "definitionCN": "选择；选择权；选项"
+    },
+    {
+      "word": "basis",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "the main reason, principle, or supporting information on which something depends",
+      "definitionCN": "基础；依据",
+      "authoredContexts": [
+        {
+          "text": "The interviews formed the basis of a report about how residents use their local library.",
+          "translation": "这些访谈构成了一份报告的基础，报告讨论居民如何使用当地图书馆。",
+          "collocation": "the basis of a report",
+          "register": "Reading"
+        },
+        {
+          "text": "Shared evidence provides a stronger basis for public debate than assumptions about what other people believe.",
+          "translation": "与猜测他人的想法相比，共同认可的证据能为公共讨论提供更坚实的基础。",
+          "collocation": "a stronger basis for public debate",
+          "register": "Writing"
+        },
+        {
+          "text": "What was the basis for your estimate? Did you compare prices from several suppliers?",
+          "translation": "你估价的依据是什么？你比较过几家供应商的价格吗？",
+          "collocation": "the basis for your estimate",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "village",
+      "status": "approved"
+    },
+    {
+      "word": "cup",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a small open container, usually with a handle, used for drinking",
+      "definitionCN": "杯子；茶杯",
+      "authoredContexts": [
+        {
+          "text": "Each visitor receives a reusable cup that can be returned at any drink stall inside the festival grounds.",
+          "translation": "每位访客都会获得一个可重复使用的杯子，可在节庆场地内的任何饮料摊归还。",
+          "collocation": "a reusable cup",
+          "register": "Reading"
+        },
+        {
+          "text": "Charging a deposit for a cup may encourage visitors to return it instead of leaving litter behind.",
+          "translation": "对杯子收取押金，可能鼓励访客将其归还，而不是留下垃圾。",
+          "collocation": "a deposit for a cup",
+          "register": "Writing"
+        },
+        {
+          "text": "Could you pass me the blue cup? I would like some water with my lunch.",
+          "translation": "你能把蓝色杯子递给我吗？我想午餐时喝点水。",
+          "collocation": "the blue cup",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "attack",
+      "status": "reject",
+      "reason": "The set mixes military and nuclear violence with a medical event."
+    },
+    {
+      "word": "horse",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a large four-legged animal kept for riding, carrying loads, or pulling vehicles",
+      "definitionCN": "马",
+      "authoredContexts": [
+        {
+          "text": "The farm’s oldest horse spends much of the day grazing in a field beside the visitor centre.",
+          "translation": "农场里最年长的马，白天大部分时间都在游客中心旁的草地上吃草。",
+          "collocation": "The farm’s oldest horse",
+          "register": "Reading"
+        },
+        {
+          "text": "Anyone keeping a horse should provide suitable shelter and enough space for regular exercise.",
+          "translation": "饲养马的人应提供合适的住所，并留出足够的日常活动空间。",
+          "collocation": "keeping a horse",
+          "register": "Writing"
+        },
+        {
+          "text": "Have you ridden a horse before, or will this be your first lesson at the farm?",
+          "translation": "你以前骑过马吗，还是这会是你在农场的第一堂骑马课？",
+          "collocation": "ridden a horse",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "previous",
+      "status": "approved",
+      "definitionEN": "happening or existing before the one being discussed",
+      "definitionCN": "先前的；以前的"
+    },
+    {
+      "word": "discussion",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a conversation in which people exchange ideas or opinions about a subject",
+      "definitionCN": "讨论；商讨",
+      "authoredContexts": [
+        {
+          "text": "The discussion brought together farmers and shopkeepers who had different views about the proposed weekend market.",
+          "translation": "这场讨论汇集了农民和店主，他们对拟议的周末集市持有不同看法。",
+          "collocation": "The discussion brought together",
+          "register": "Reading"
+        },
+        {
+          "text": "A useful discussion requires participants to listen carefully as well as explain their own opinions.",
+          "translation": "有益的讨论要求参与者认真倾听，同时解释自己的观点。",
+          "collocation": "A useful discussion",
+          "register": "Writing"
+        },
+        {
+          "text": "Can we leave ten minutes for discussion after the presentation, so everyone has a chance to speak?",
+          "translation": "演示结束后，我们能留十分钟讨论，让每个人都有发言机会吗？",
+          "collocation": "ten minutes for discussion",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "conference",
+      "status": "approved"
+    },
+    {
+      "word": "radio",
+      "status": "approved",
+      "definitionEN": "a system of sending sound by wireless signals, or a receiver used to listen to broadcasts",
+      "definitionCN": "无线电广播；收音机"
+    },
+    {
+      "word": "heavy",
+      "status": "approved",
+      "definitionEN": "large or intense in amount, force, or degree",
+      "definitionCN": "大量的；强烈的；繁重的"
+    },
+    {
+      "word": "adult",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a person who has reached physical maturity or the legal age of independence",
+      "definitionCN": "成年人；成人",
+      "authoredContexts": [
+        {
+          "text": "The evening course is designed for an adult returning to education after several years in work.",
+          "translation": "这门晚间课程面向工作数年后重新接受教育的成年人。",
+          "collocation": "an adult returning to education",
+          "register": "Reading"
+        },
+        {
+          "text": "Every adult should have opportunities to learn new skills without having to abandon existing family responsibilities.",
+          "translation": "每个成年人都应有机会学习新技能，而不必放弃现有的家庭责任。",
+          "collocation": "Every adult",
+          "register": "Writing"
+        },
+        {
+          "text": "Does an adult need a separate ticket, or is everyone included in the family pass?",
+          "translation": "成年人需要另外买票吗，还是家庭通票已经包含所有人？",
+          "collocation": "Does an adult need a separate ticket",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "beautiful",
+      "status": "approved"
+    },
+    {
+      "word": "commercial",
+      "status": "approved",
+      "definitionEN": "relating to business, trade, or the sale of goods and services",
+      "definitionCN": "商业的；商用的"
+    },
+    {
+      "word": "positive",
+      "status": "approved",
+      "definitionEN": "hopeful, constructive, or expressing confidence and approval",
+      "definitionCN": "积极的；乐观的；肯定的"
+    },
+    {
+      "word": "audience",
+      "status": "approved"
+    },
+    {
+      "word": "forest",
+      "status": "approved",
+      "definitionEN": "a large area covered mainly with trees and other plants",
+      "definitionCN": "森林"
+    },
+    {
+      "word": "strength",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "the ability to exert physical force or cope with difficulty",
+      "definitionCN": "力量；体力；意志力",
+      "authoredContexts": [
+        {
+          "text": "The volunteers combined their strength to move the heavy tables before setting up the community exhibition.",
+          "translation": "志愿者合力搬动沉重的桌子，然后布置社区展览。",
+          "collocation": "combined their strength",
+          "register": "Reading"
+        },
+        {
+          "text": "A good education should develop the strength to face setbacks as well as knowledge needed for examinations.",
+          "translation": "良好的教育既应培养面对挫折的意志力，也应传授考试所需的知识。",
+          "collocation": "the strength to face setbacks",
+          "register": "Writing"
+        },
+        {
+          "text": "Do you have enough strength to carry this box, or should we move it together?",
+          "translation": "你有足够的力气搬这个箱子吗，还是我们一起搬？",
+          "collocation": "enough strength to carry this box",
+          "register": "Listening"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "word": "regional",
+      "status": "approved",
+      "definitionEN": "relating to a particular area within a country or the world",
+      "definitionCN": "地区的；区域的"
+    },
+    {
+      "word": "propose",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "to suggest an idea or plan for other people to consider",
+      "definitionCN": "提出；提议；建议",
+      "authoredContexts": [
+        {
+          "text": "Local residents propose a shared garden on unused land behind the community hall.",
+          "translation": "当地居民提议在社区礼堂后面的闲置土地上建设共享花园。",
+          "collocation": "propose a shared garden",
+          "register": "Reading"
+        },
+        {
+          "text": "Before officials propose a new transport scheme, they should ask residents which journeys are most difficult.",
+          "translation": "官员提出新的交通方案之前，应询问居民哪些出行最困难。",
+          "collocation": "propose a new transport scheme",
+          "register": "Writing"
+        },
+        {
+          "text": "Could you propose a different meeting time? Several people cannot get here before six.",
+          "translation": "你能提出一个不同的开会时间吗？有几个人六点之前赶不到这里。",
+          "collocation": "propose a different meeting time",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "faith",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "confidence or trust in someone or something",
+      "definitionCN": "信任；信心",
+      "authoredContexts": [
+        {
+          "text": "The team’s faith in their coach grew as training became more organised and individual progress was recognised.",
+          "translation": "随着训练变得更加有条理、个人进步得到认可，队员们对教练的信任增强了。",
+          "collocation": "faith in their coach",
+          "register": "Reading"
+        },
+        {
+          "text": "Public institutions should earn people’s faith through reliable service and honest explanations rather than reassuring promises alone.",
+          "translation": "公共机构应通过可靠的服务和诚实的解释赢得人们的信任，而不是仅靠安抚性的承诺。",
+          "collocation": "earn people’s faith",
+          "register": "Writing"
+        },
+        {
+          "text": "I have faith in your plan, but could you explain how we will cover the initial costs?",
+          "translation": "我对你的计划有信心，不过你能解释一下我们将如何支付初期费用吗？",
+          "collocation": "have faith in your plan",
+          "register": "Listening"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "word": "entry",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "the act of going into a place or being allowed to do so",
+      "definitionCN": "进入；入场",
+      "authoredContexts": [
+        {
+          "text": "Visitors receive a badge that allows entry to the exhibition halls during the advertised opening hours.",
+          "translation": "访客会获得一枚证件，凭它可在公布的开放时间内进入展厅。",
+          "collocation": "allows entry",
+          "register": "Reading"
+        },
+        {
+          "text": "Free entry can make museums more accessible, provided that stable funding supports their collections and staff.",
+          "translation": "如果有稳定资金支持馆藏和员工，免费入场可以让更多人有机会参观博物馆。",
+          "collocation": "Free entry",
+          "register": "Writing"
+        },
+        {
+          "text": "Does this ticket include entry to the garden, or is there a separate charge?",
+          "translation": "这张票包含花园的入场资格吗，还是需要另外收费？",
+          "collocation": "entry to the garden",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "exhibition",
+      "status": "approved",
+      "definitionEN": "a public display or presentation of objects, pictures, animals, or performances",
+      "definitionCN": "展览；展示"
+    },
+    {
+      "word": "session",
+      "status": "approved",
+      "definitionEN": "a period set aside for a particular meeting or activity",
+      "definitionCN": "一段活动时间；会议；课时"
+    },
+    {
+      "word": "historical",
+      "status": "approved",
+      "definitionEN": "relating to past events or the study of them",
+      "definitionCN": "历史的；有关历史的"
+    },
+    {
+      "word": "vary",
+      "status": "approved",
+      "definitionEN": "to change or differ according to time, situation, or other conditions",
+      "definitionCN": "变化；有所不同"
+    },
+    {
+      "word": "reasonable",
+      "status": "approved",
+      "definitionEN": "fair, sensible, and based on good judgement",
+      "definitionCN": "合理的；明智的"
+    },
+    {
+      "word": "scientific",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "based on systematic observation, testing, and evidence",
+      "definitionCN": "科学的；依据科学方法的",
+      "authoredContexts": [
+        {
+          "text": "The exhibition explains scientific methods through simple demonstrations involving light, sound, and moving objects.",
+          "translation": "展览通过涉及光、声音和运动物体的简单演示，解释科学方法。",
+          "collocation": "scientific methods",
+          "register": "Reading"
+        },
+        {
+          "text": "Scientific evidence should inform environmental policy, while public discussion helps determine which outcomes society values most.",
+          "translation": "科学证据应为环境政策提供依据，而公共讨论有助于确定社会最看重哪些结果。",
+          "collocation": "Scientific evidence",
+          "register": "Writing"
+        },
+        {
+          "text": "Do we need a scientific explanation of the results, or just a clear description of what happened?",
+          "translation": "我们需要对结果作出科学解释，还是只需清楚描述发生了什么？",
+          "collocation": "a scientific explanation",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "guide",
+      "status": "approved",
+      "definitionEN": "a person or source of information that shows the way or gives useful direction",
+      "definitionCN": "向导；导游；指导依据"
+    },
+    {
+      "word": "somehow",
+      "status": "approved",
+      "definitionCN": "以某种方式；不知怎么地"
+    },
+    {
+      "word": "theme",
+      "status": "approved",
+      "definitionEN": "a main subject or idea in a work, discussion, or area of research",
+      "definitionCN": "主题；主题思想"
+    },
+    {
+      "word": "beauty",
+      "status": "approved",
+      "definitionEN": "the quality of being pleasing to look at or experience, or a person admired for this quality",
+      "definitionCN": "美；美丽；美人"
+    },
+    {
+      "word": "pilot",
+      "status": "approved",
+      "definitionCN": "飞行员"
+    },
+    {
+      "word": "engineering",
+      "status": "approved",
+      "definitionCN": "工程学；工程",
+      "forms": []
+    },
+    {
+      "word": "typical",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "showing the usual features of a particular group, place, or situation",
+      "definitionCN": "典型的；有代表性的",
+      "authoredContexts": [
+        {
+          "text": "A typical day at the field station includes checking equipment, recording observations, and discussing results.",
+          "translation": "野外站典型的一天包括检查设备、记录观察结果和讨论结果。",
+          "collocation": "A typical day",
+          "register": "Reading"
+        },
+        {
+          "text": "Planning should consider a typical household without assuming that every family follows the same daily routine.",
+          "translation": "规划时应考虑一般家庭的情况，但不应假定每个家庭都有相同的日常作息。",
+          "collocation": "a typical household",
+          "register": "Writing"
+        },
+        {
+          "text": "Is this weather typical for the season, or have we arrived during an unusually warm week?",
+          "translation": "这种天气是这个季节的常见情况吗，还是我们碰巧赶上了格外暖和的一周？",
+          "collocation": "weather typical for the season",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "variable",
+      "status": "approved",
+      "definitionEN": "a symbol or named storage location whose value can change",
+      "definitionCN": "变量"
+    },
+    {
+      "word": "engineer",
+      "status": "approved",
+      "definitionCN": "工程师"
+    },
+    {
+      "word": "withdraw",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "to take money out of a bank account",
+      "definitionCN": "取款；提取（存款）",
+      "authoredContexts": [
+        {
+          "text": "Customers can withdraw small amounts of cash from a machine inside the village post office.",
+          "translation": "顾客可以在村里的邮局内，通过一台机器提取少量现金。",
+          "collocation": "withdraw small amounts of cash",
+          "register": "Reading"
+        },
+        {
+          "text": "Residents should be able to withdraw cash locally even as more banking services move online.",
+          "translation": "即使越来越多银行服务转到网上，居民仍应能在当地取现。",
+          "collocation": "withdraw cash locally",
+          "register": "Writing"
+        },
+        {
+          "text": "Can I withdraw money with this card here, or do I need to visit my own bank?",
+          "translation": "我可以在这里用这张卡取钱吗，还是需要去自己开户的银行？",
+          "collocation": "withdraw money with this card",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "mine",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a place where minerals are dug from the ground",
+      "definitionCN": "矿；矿山",
+      "authoredContexts": [
+        {
+          "text": "The former mine now contains an exhibition showing how workers extracted minerals from the surrounding hills.",
+          "translation": "这座旧矿山如今设有展览，展示工人过去如何从周围的山中开采矿物。",
+          "collocation": "The former mine",
+          "register": "Reading"
+        },
+        {
+          "text": "Before a mine closes, authorities should agree on plans to restore the land and support nearby communities.",
+          "translation": "矿山关闭之前，当局应就土地修复和支持周边社区的计划达成一致。",
+          "collocation": "a mine closes",
+          "register": "Writing"
+        },
+        {
+          "text": "How far is the old mine from the station, and can visitors walk there safely?",
+          "translation": "旧矿山离车站有多远？游客能安全地步行过去吗？",
+          "collocation": "the old mine",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "territory",
+      "status": "approved",
+      "definitionEN": "an area that someone controls, occupies, or regards as their own",
+      "definitionCN": "领地；地盘；领域"
+    },
+    {
+      "word": "unusual",
+      "status": "approved",
+      "definitionEN": "not common or ordinary; different from what is expected",
+      "definitionCN": "不同寻常的；罕见的"
+    },
+    {
+      "word": "proceed",
+      "status": "approved",
+      "definitionEN": "to continue with an activity or move on to the next stage",
+      "definitionCN": "继续进行；接着做"
+    },
+    {
+      "word": "currency",
+      "status": "approved",
+      "definitionEN": "the money officially used in a country or area",
+      "definitionCN": "货币；通货"
+    },
+    {
+      "word": "resolve",
+      "status": "approved",
+      "definitionEN": "to settle a problem, disagreement, or difficult situation",
+      "definitionCN": "解决；化解"
+    },
+    {
+      "word": "reputation",
+      "status": "approved",
+      "definitionEN": "the opinion people generally have about someone or something",
+      "definitionCN": "名声；声誉"
+    },
+    {
+      "word": "dust",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "fine dry particles that settle on surfaces or float in the air",
+      "definitionCN": "灰尘；尘土",
+      "authoredContexts": [
+        {
+          "text": "A thin layer of dust covered the display cases before volunteers began cleaning the unused exhibition room.",
+          "translation": "志愿者开始打扫闲置展厅之前，展柜上覆盖着一层薄薄的灰尘。",
+          "collocation": "A thin layer of dust",
+          "register": "Reading"
+        },
+        {
+          "text": "Construction projects should limit dust so that nearby residents can continue using their homes and outdoor spaces comfortably.",
+          "translation": "建设项目应限制扬尘，让附近居民仍能舒适地使用住宅和户外空间。",
+          "collocation": "limit dust",
+          "register": "Writing"
+        },
+        {
+          "text": "Could you cover the books before we move the shelves? There is quite a lot of dust here.",
+          "translation": "搬架子之前，你能把书盖起来吗？这里灰尘不少。",
+          "collocation": "a lot of dust",
+          "register": "Listening"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "word": "inspire",
+      "status": "approved",
+      "definitionEN": "to fill someone with the desire, confidence, or ideas to do something",
+      "definitionCN": "激励；鼓舞；启发"
+    },
+    {
+      "word": "disorder",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a condition that disrupts normal functioning of the body or mind",
+      "definitionCN": "疾病；机能障碍；紊乱",
+      "authoredContexts": [
+        {
+          "text": "The questionnaire asks whether participants have a diagnosed sleep disorder before collecting information about their daily routines.",
+          "translation": "问卷先询问参与者是否被诊断出睡眠障碍，再收集他们日常作息的信息。",
+          "collocation": "a diagnosed sleep disorder",
+          "register": "Reading"
+        },
+        {
+          "text": "A person living with a long-term disorder should receive support that respects both individual needs and personal independence.",
+          "translation": "患有长期疾病的人应获得既尊重个人需要、又维护自主性的支持。",
+          "collocation": "a long-term disorder",
+          "register": "Writing"
+        },
+        {
+          "text": "Is the lecture about a particular disorder, or will it explain how researchers study sleep more generally?",
+          "translation": "这场讲座讨论某一种特定的疾病，还是会更全面地解释研究人员如何研究睡眠？",
+          "collocation": "a particular disorder",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "luck",
+      "status": "approved"
+    },
+    {
+      "word": "qualification",
+      "status": "approved",
+      "definitionEN": "an ability, credential, or experience showing that someone is suitable for a job or activity",
+      "definitionCN": "资历；资格；学历"
+    },
+    {
+      "word": "ally",
+      "status": "approved",
+      "definitionEN": "a person, group, or country that supports or cooperates with another",
+      "definitionCN": "盟友；同盟者；同盟国"
+    },
+    {
+      "word": "throat",
+      "status": "approved",
+      "definitionEN": "the passage inside the neck through which air and food travel",
+      "definitionCN": "咽喉；喉咙"
+    },
+    {
+      "word": "rank",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a position within an ordered system based on status, ability, or performance",
+      "definitionCN": "等级；排名；级别",
+      "authoredContexts": [
+        {
+          "text": "The college’s rank in the survey reflects several measures, including student feedback and access to learning resources.",
+          "translation": "学院在调查中的排名反映了多项指标，包括学生反馈和学习资源的可获得性。",
+          "collocation": "rank in the survey",
+          "register": "Reading"
+        },
+        {
+          "text": "A school’s rank should not become the only measure of its contribution to the surrounding community.",
+          "translation": "学校的排名不应成为衡量其对周边社区贡献的唯一指标。",
+          "collocation": "A school’s rank",
+          "register": "Writing"
+        },
+        {
+          "text": "What is our team’s rank in the table now that all the weekend results have been recorded?",
+          "translation": "周末的所有比赛结果都记录后，我们队现在在积分榜上排第几？",
+          "collocation": "our team’s rank",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "historic",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "important enough to be remembered for a long time",
+      "definitionCN": "具有历史意义的；历史性的",
+      "authoredContexts": [
+        {
+          "text": "The museum explains the historic agreement that first allowed the neighbouring towns to share their water supply.",
+          "translation": "博物馆介绍了一项具有历史意义的协议，它首次让相邻城镇能够共享供水。",
+          "collocation": "the historic agreement",
+          "register": "Reading"
+        },
+        {
+          "text": "Protecting a historic building can preserve evidence of community life that a modern replacement would struggle to convey.",
+          "translation": "保护具有历史意义的建筑，可以保留社区生活的见证，而现代替代建筑很难传达这些信息。",
+          "collocation": "a historic building",
+          "register": "Writing"
+        },
+        {
+          "text": "This is a historic moment for our club: we have finally secured a permanent home after twenty years.",
+          "translation": "这是我们社团具有历史意义的一刻：二十年后，我们终于有了永久的活动场所。",
+          "collocation": "a historic moment",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "elementary",
+      "status": "approved",
+      "definitionEN": "basic or at an early stage of learning or development",
+      "definitionCN": "基础的；初级的"
+    },
+    {
+      "word": "essay",
+      "status": "approved",
+      "definitionCN": "文章；短文；论说文"
+    },
+    {
+      "word": "acquisition",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "the act of obtaining or buying something",
+      "definitionCN": "获得；购置；收购",
+      "authoredContexts": [
+        {
+          "text": "The acquisition of a digital scanner allowed the archive to make fragile documents available without repeated handling.",
+          "translation": "购置数字扫描仪后，档案馆能够提供易损文件的内容，而不必反复接触原件。",
+          "collocation": "The acquisition of a digital scanner",
+          "register": "Reading"
+        },
+        {
+          "text": "Public funding for the acquisition of artworks should consider educational value as well as the reputation of the artist.",
+          "translation": "用于购置艺术品的公共资金，既应考虑艺术家的声誉，也应考虑作品的教育价值。",
+          "collocation": "the acquisition of artworks",
+          "register": "Writing"
+        },
+        {
+          "text": "Has the acquisition of the new equipment been approved, or are we still comparing suppliers?",
+          "translation": "购置新设备的申请批准了吗，还是我们仍在比较供应商？",
+          "collocation": "the acquisition of the new equipment",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "survival",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "the continuation of life or existence despite danger or difficulty",
+      "definitionCN": "生存；幸存",
+      "authoredContexts": [
+        {
+          "text": "The birds’ survival depends on finding food and suitable shelter throughout the changing seasons.",
+          "translation": "这些鸟的生存有赖于在季节变化中持续找到食物和合适的庇护处。",
+          "collocation": "The birds’ survival",
+          "register": "Reading"
+        },
+        {
+          "text": "The survival of wildlife should be considered when planners decide how to use undeveloped land.",
+          "translation": "规划者决定如何使用未开发土地时，应考虑野生动物的生存。",
+          "collocation": "The survival of wildlife",
+          "register": "Writing"
+        },
+        {
+          "text": "Are we studying the survival of wild plants, or does the project focus on farm crops?",
+          "translation": "我们研究的是野生植物的生存，还是这个项目主要研究农作物？",
+          "collocation": "the survival of wild plants",
+          "register": "Listening"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "word": "ingredient",
+      "status": "approved",
+      "definitionEN": "one of the substances or qualities that combine to make something",
+      "definitionCN": "成分；原料；要素"
+    },
+    {
+      "word": "killer",
+      "status": "reject",
+      "reason": "The contexts include serial killing, a programmer-directed threat scenario, and a murdered son."
+    },
+    {
+      "word": "bunch",
+      "status": "approved",
+      "definitionEN": "a group or collection of similar people or things",
+      "definitionCN": "一群；一束；一堆"
+    },
+    {
+      "word": "enthusiasm",
+      "status": "approved",
+      "definitionCN": "热情；热忱",
+      "forms": []
+    },
+    {
+      "word": "strategic",
+      "status": "reject",
+      "reason": "The set includes a beard-stubble joke and accessing a teacher’s computer to obtain an exam."
+    },
+    {
+      "word": "dominant",
+      "status": "reject",
+      "reason": "The second presents left-brain personality pseudoscience as fact."
+    },
+    {
+      "word": "rice",
+      "status": "approved"
+    },
+    {
+      "word": "tournament",
+      "status": "approved"
+    },
+    {
+      "word": "deck",
+      "status": "reject",
+      "reason": "The first falsely asserts that every card shuffle is mathematically unique throughout history."
+    },
+    {
+      "word": "conviction",
+      "status": "reject",
+      "reason": "The first uses the unnatural every progress, and the second is an awkward abstract assertion about conviction in law."
+    },
+    {
+      "word": "fade",
+      "status": "reject",
+      "reason": "The second contains the clear error I don’t want to colors of my towels to fade."
+    },
+    {
+      "word": "confine",
+      "status": "reject",
+      "reason": "The third describes confining and dissecting a person."
+    },
+    {
+      "word": "diary",
+      "status": "approved",
+      "definitionEN": "a book or personal record used to note daily experiences or planned appointments",
+      "definitionCN": "日记；日记本；日程簿"
+    },
+    {
+      "word": "fantasy",
+      "status": "approved",
+      "definitionEN": "imagination of things that are not real or a product of such imagination",
+      "definitionCN": "幻想；想象"
+    },
+    {
+      "word": "privilege",
+      "status": "approved",
+      "definitionCN": "特权；特殊待遇；难得的机会"
+    },
+    {
+      "word": "privacy",
+      "status": "approved",
+      "definitionEN": "the right or ability to control access to personal information and to be free from unwanted attention",
+      "definitionCN": "隐私；私人空间",
+      "forms": []
+    },
+    {
+      "word": "format",
+      "status": "approved",
+      "definitionEN": "the way information or an activity is arranged, presented, or organised",
+      "definitionCN": "格式；形式；编排方式"
+    },
+    {
+      "word": "frequent",
+      "status": "approved",
+      "definitionCN": "频繁的；经常发生的"
+    },
+    {
+      "word": "overlook",
+      "status": "reject",
+      "reason": "The first two are identical apart from singular/plural forms."
+    },
+    {
+      "word": "particle",
+      "status": "reject",
+      "reason": "The set mixes a tiny amount, a grammatical function word, and a physical object."
+    },
+    {
+      "word": "swear",
+      "status": "reject",
+      "reason": "The third commands kneeling, hand-kissing, and declaring the speaker an angel."
+    },
+    {
+      "word": "artistic",
+      "status": "approved"
+    },
+    {
+      "word": "moderate",
+      "status": "approved",
+      "definitionEN": "not extreme or excessive in amount, degree, or intensity",
+      "definitionCN": "适度的；中等的；温和的"
+    },
+    {
+      "word": "miracle",
+      "status": "reject",
+      "reason": "The set mixes a dismissive hearsay definition and an impossible fairy/pumpkin scene."
+    },
+    {
+      "word": "removal",
+      "status": "approved",
+      "definitionEN": "the act of taking someone or something away from a place or position",
+      "definitionCN": "移走；清除；撤职"
+    },
+    {
+      "word": "domain",
+      "status": "reject",
+      "reason": "The second is a sweeping polemical assertion that all intellectual property is theft; the set also mixes a field of inquiry with public-domain copyright status."
+    },
+    {
+      "word": "couch",
+      "status": "approved",
+      "definitionEN": "a long upholstered seat for two or more people",
+      "definitionCN": "沙发；长沙发"
+    },
+    {
+      "word": "regulate",
+      "status": "approved",
+      "definitionEN": "to control or adjust something so that it stays within a suitable range",
+      "definitionCN": "调节；调控"
+    },
+    {
+      "word": "sculpture",
+      "status": "approved",
+      "definitionEN": "a three-dimensional work of art made by shaping, carving, or joining materials",
+      "definitionCN": "雕塑；雕塑作品"
+    },
+    {
+      "word": "hint",
+      "status": "approved",
+      "definitionEN": "a small sign of something or an indirect piece of helpful information",
+      "definitionCN": "迹象；暗示；提示"
+    },
+    {
+      "word": "fraud",
+      "status": "reject",
+      "reason": "The third uses the awkward accused of bribe rather than bribery or taking a bribe."
+    },
+    {
+      "word": "refusal",
+      "status": "approved",
+      "definitionEN": "a decision or statement saying that one will not do or accept something",
+      "definitionCN": "拒绝；回绝"
+    },
+    {
+      "word": "rip",
+      "status": "reject",
+      "reason": "The set mixes a tear, a dangerous sea current, and an unrelated colloquial expression."
+    },
+    {
+      "word": "spectrum",
+      "status": "approved",
+      "definitionEN": "a continuous range of related values, types, or positions",
+      "definitionCN": "谱；范围；系列"
+    },
+    {
+      "word": "basement",
+      "status": "approved",
+      "definitionCN": "地下室"
+    },
+    {
+      "word": "residence",
+      "status": "approved",
+      "definitionEN": "a place where someone lives",
+      "definitionCN": "住所；住宅"
+    },
+    {
+      "word": "twist",
+      "status": "approved",
+      "definitionEN": "an unexpected change or development in a story or situation",
+      "definitionCN": "意外的转折；曲折"
+    },
+    {
+      "word": "compromise",
+      "status": "approved",
+      "definitionEN": "an agreement reached when different sides each give up some demands",
+      "definitionCN": "妥协；折中；和解"
+    },
+    {
+      "word": "lobby",
+      "status": "reject",
+      "reason": "The second is an implausible luxurious space-hotel description; the English definition instead concerns an interest group."
+    },
+    {
+      "word": "bonus",
+      "status": "approved",
+      "definitionEN": "an extra payment or benefit given in addition to what is expected or normally received",
+      "definitionCN": "奖金；额外报酬；额外好处"
+    },
+    {
+      "word": "diagnose",
+      "status": "reject",
+      "reason": "Two near-identical contexts make claims about mass shooters and mental illness; the third concerns a politically sensitive child-diagnosis comparison."
+    },
+    {
+      "word": "feedback",
+      "status": "reject",
+      "reason": "The first discusses the quoted word itself without illustrating its ordinary meaning; two useful opinion-response examples are insufficient."
+    },
+    {
+      "word": "incidence",
+      "status": "reject",
+      "reason": "The third wrongly uses incidence where instance or incident is intended."
+    },
+    {
+      "word": "garbage",
+      "status": "approved",
+      "definitionEN": "waste materials or unwanted things that are thrown away",
+      "definitionCN": "垃圾；废物",
+      "forms": []
+    },
+    {
+      "word": "decorate",
+      "status": "reject",
+      "reason": "The first two repeat almost the same book-page/flag-colour sentence."
+    },
+    {
+      "word": "rage",
+      "status": "reject",
+      "reason": "The set contains an explicit profanity and an ableist description of a person."
+    },
+    {
+      "word": "coastal",
+      "status": "approved",
+      "definitionEN": "relating to land near the sea",
+      "definitionCN": "沿海的；海岸的"
+    },
+    {
+      "word": "genius",
+      "status": "reject",
+      "reason": "The set contains disparaging or unsupported aphorisms about intellectuals, scandal, and lack of success."
+    },
+    {
+      "word": "grief",
+      "status": "reject",
+      "reason": "The first and third are archaic or poetic; the second uses the separate colloquial trouble sense."
+    },
+    {
+      "word": "barn",
+      "status": "reject",
+      "reason": "The first omits an article in in barn, and the second contains a personal insult."
+    },
+    {
+      "word": "collaboration",
+      "status": "approved",
+      "definitionEN": "the process of working together on a shared activity or goal",
+      "definitionCN": "合作；协作"
+    },
+    {
+      "word": "marble",
+      "status": "approved",
+      "definitionCN": "大理石",
+      "forms": []
+    },
+    {
+      "word": "stitch",
+      "status": "reject",
+      "reason": "The set mixes a proverb, embroidery, and the figurative quantity expression a stitch of work."
+    },
+    {
+      "word": "certainty",
+      "status": "reject",
+      "reason": "The second asserts collective guilt for the inhabitants of an unnamed island without a suitable neutral context."
+    },
+    {
+      "word": "helmet",
+      "status": "approved",
+      "definitionEN": "a protective covering worn on the head",
+      "definitionCN": "头盔；防护帽"
+    },
+    {
+      "word": "enclose",
+      "status": "approved",
+      "definitionEN": "to surround something on all sides, often with a wall or barrier",
+      "definitionCN": "围住；包围；封闭"
+    },
+    {
+      "word": "momentum",
+      "status": "reject",
+      "reason": "The set includes throwing a princess into the sea and a physically impossible mirror-absorption scenario."
+    },
+    {
+      "word": "purse",
+      "status": "approved"
+    },
+    {
+      "word": "embassy",
+      "status": "approved",
+      "definitionEN": "an official office representing one country in another",
+      "definitionCN": "大使馆"
+    },
+    {
+      "word": "notebook",
+      "status": "approved"
+    },
+    {
+      "word": "proclaim",
+      "status": "approved",
+      "definitionEN": "to announce something publicly or officially",
+      "definitionCN": "宣布；宣告"
+    },
+    {
+      "word": "summon",
+      "status": "reject",
+      "reason": "The first presents spirit summoning as fortune telling; the second is archaic betrothal prose."
+    },
+    {
+      "word": "revive",
+      "status": "reject",
+      "reason": "The second describes a fatal self-sacrifice in front of an oncoming bus."
+    },
+    {
+      "word": "excess",
+      "status": "reject",
+      "reason": "Two contexts repeat dangerous high-speed police chases."
+    },
+    {
+      "word": "layout",
+      "status": "approved",
+      "definitionEN": "the arrangement of parts within a space, page, or design",
+      "definitionCN": "布局；布置；编排"
+    },
+    {
+      "word": "ferry",
+      "status": "approved",
+      "definitionCN": "渡轮；渡船"
+    },
+    {
+      "word": "carrot",
+      "status": "reject",
+      "reason": "Two contexts use carrot-and-stick incentives; the third is an unhelpful metalinguistic remark."
+    },
+    {
+      "word": "referee",
+      "status": "reject",
+      "reason": "The first is an awkward crowd-and-religious-gesture scene; the second omits the article in according to principle of advantage."
+    },
+    {
+      "word": "municipal",
+      "status": "approved",
+      "definitionEN": "relating to a city or its local government",
+      "definitionCN": "市政的；市的"
+    },
+    {
+      "word": "exhaust",
+      "status": "reject",
+      "reason": "The third describes connecting a hose to an exhaust, an unsafe scenario; the set also mixes gases and the exhaust pipe."
+    },
+    {
+      "word": "confer",
+      "status": "reject",
+      "reason": "The first and third mean consult, while the second means grant; the supplied Chinese gloss matches the other sense."
+    },
+    {
+      "word": "overwhelm",
+      "status": "approved",
+      "definitionEN": "to exceed the ability of someone or something to cope or continue functioning normally",
+      "definitionCN": "使难以应对；压倒；使不堪重负"
+    },
+    {
+      "word": "technician",
+      "status": "approved",
+      "definitionCN": "技术员；技师"
+    },
+    {
+      "word": "convenience",
+      "status": "approved",
+      "definitionEN": "the quality of being easy, useful, or suitable for someone’s needs",
+      "definitionCN": "方便；便利"
+    },
+    {
+      "word": "divert",
+      "status": "reject",
+      "reason": "The third means entertain, while the first two mean redirect from a purpose or focus."
+    },
+    {
+      "word": "laundry",
+      "status": "approved",
+      "definitionEN": "clothes or household fabrics that need washing, are being washed, or have just been washed",
+      "definitionCN": "待洗或洗过的衣物"
+    },
+    {
+      "word": "mercy",
+      "status": "reject",
+      "reason": "Two contexts use the fixed expression at the mercy of for being subject to power, while one means compassionate leniency."
+    },
+    {
+      "word": "surrender",
+      "status": "approved",
+      "definitionEN": "to stop resisting or give up control of something to someone else",
+      "definitionCN": "投降；放弃；交出"
+    },
+    {
+      "word": "cheerful",
+      "status": "approved",
+      "definitionEN": "happy, positive, and showing good spirits",
+      "definitionCN": "快乐的；开朗的"
+    },
+    {
+      "word": "tilt",
+      "status": "reject",
+      "reason": "The third uses the verb tilts rather than a noun."
+    },
+    {
+      "word": "inability",
+      "status": "approved",
+      "definitionEN": "the state of not being able to do something",
+      "definitionCN": "无力做到；不能；缺乏能力"
+    },
+    {
+      "word": "destiny",
+      "status": "reject",
+      "reason": "The set includes mutual extermination and a morbid grave-as-protection aphorism."
+    },
+    {
+      "word": "synthesis",
+      "status": "approved",
+      "definitionEN": "the process of combining different parts or ideas to form a new whole",
+      "definitionCN": "综合；合成"
+    },
+    {
+      "word": "cautious",
+      "status": "approved",
+      "definitionEN": "careful to avoid danger, error, or unwanted results",
+      "definitionCN": "谨慎的；小心的"
+    },
+    {
+      "word": "repetition",
+      "status": "approved",
+      "definitionEN": "the act of doing, saying, or presenting something again",
+      "definitionCN": "重复"
+    },
+    {
+      "word": "breakthrough",
+      "status": "approved",
+      "definitionEN": "an important discovery or development that makes progress possible",
+      "definitionCN": "重大突破；重要进展"
+    },
+    {
+      "word": "formidable",
+      "status": "reject",
+      "reason": "The first context promises a frightening struggle between a shark and a human."
+    },
+    {
+      "word": "optimism",
+      "status": "approved",
+      "definitionEN": "a hopeful expectation that things will improve or turn out well",
+      "definitionCN": "乐观；乐观的预期"
+    },
+    {
+      "word": "flush",
+      "status": "reject",
+      "reason": "The contexts use unrelated poker, blossom-colour, and water-surge meanings."
+    },
+    {
+      "word": "waiter",
+      "status": "approved"
+    },
+    {
+      "word": "coincidence",
+      "status": "approved",
+      "definitionEN": "an unexpected similarity or meeting of events that happens by chance",
+      "definitionCN": "巧合"
+    },
+    {
+      "word": "vigorous",
+      "status": "reject",
+      "reason": "The first context explicitly describes sexual activity and a partner collapsing."
+    },
+    {
+      "word": "cultivate",
+      "status": "approved",
+      "definitionEN": "to encourage growth or development, whether in living things, skills, or qualities",
+      "definitionCN": "培育；培养；养殖"
+    },
+    {
+      "word": "accord",
+      "status": "reject",
+      "reason": "The middle context uses the separate voluntary-action expression of her own accord."
+    },
+    {
+      "word": "nationality",
+      "status": "approved",
+      "definitionEN": "the legal or social identity connecting a person with a particular country or nation",
+      "definitionCN": "国籍；民族身份"
+    },
+    {
+      "word": "plantation",
+      "status": "approved",
+      "definitionEN": "a large area of land where one type of crop is grown",
+      "definitionCN": "种植园；大农场"
+    },
+    {
+      "word": "disco",
+      "status": "reject",
+      "reason": "The second and third are the same student/disco sentence with only the frequency changed."
+    },
+    {
+      "word": "recycle",
+      "status": "approved",
+      "definitionEN": "to process used materials so they can be made into new products or used again",
+      "definitionCN": "回收利用；再利用"
+    },
+    {
+      "word": "precaution",
+      "status": "approved",
+      "definitionEN": "an action taken beforehand to reduce the risk of harm or difficulty",
+      "definitionCN": "预防措施；防范措施"
+    },
+    {
+      "word": "hobby",
+      "status": "approved",
+      "definitionEN": "an activity done regularly for enjoyment outside one’s main work",
+      "definitionCN": "爱好；业余爱好"
+    },
+    {
+      "word": "appliance",
+      "status": "approved",
+      "definitionEN": "a machine or device designed for a particular task, especially in the home",
+      "definitionCN": "家用电器；器具"
+    },
+    {
+      "word": "dub",
+      "status": "approved",
+      "definitionEN": "to replace the original speech in a recording with voices in another language",
+      "definitionCN": "为……配音"
+    },
+    {
+      "word": "compartment",
+      "status": "approved",
+      "definitionEN": "a separate section or enclosed space within a larger object",
+      "definitionCN": "隔间；分隔空间；舱室"
+    },
+    {
+      "word": "stereo",
+      "status": "approved",
+      "definitionEN": "a sound system or recording method that reproduces sound through two or more channels",
+      "definitionCN": "立体声音响；立体声"
+    },
+    {
+      "word": "hose",
+      "status": "reject",
+      "reason": "The last two state the same hose-kink explanation with minimal rewording."
+    },
+    {
+      "word": "mutation",
+      "status": "reject",
+      "reason": "The third is a creationist polemic presented as a correction to evolutionary science."
+    },
+    {
+      "word": "bait",
+      "status": "reject",
+      "reason": "The middle context uses the idiom fish or cut bait instead of illustrating the concrete lure sense."
+    },
+    {
+      "word": "altitude",
+      "status": "approved",
+      "definitionCN": "海拔；高度"
+    },
+    {
+      "word": "ditch",
+      "status": "reject",
+      "reason": "The second combines a body-focused description with a slapstick fall; a neutral set is preferable."
+    },
+    {
+      "word": "hygiene",
+      "status": "reject",
+      "reason": "The first gives an unqualified instruction to wear a mask at all times and uses unnatural keep your personal hygiene wording."
+    },
+    {
+      "word": "bloom",
+      "status": "approved",
+      "definitionEN": "a flower or the state of producing open flowers",
+      "definitionCN": "花；开花"
+    },
+    {
+      "word": "intimidate",
+      "status": "approved",
+      "definitionEN": "to make someone feel afraid or less confident, often through threats or pressure",
+      "definitionCN": "恐吓；威吓；使胆怯"
+    },
+    {
+      "word": "curb",
+      "status": "reject",
+      "reason": "The second disparagingly describes using women and kicking them to the curb."
+    },
+    {
+      "word": "commuter",
+      "status": "approved",
+      "definitionEN": "a person who regularly travels between home and a place of work or study",
+      "definitionCN": "通勤者；往返上班或上学的人"
+    },
+    {
+      "word": "enrich",
+      "status": "reject",
+      "reason": "The third is archaic biblical-style prose and uses monetary wealth, unlike the improvement-in-quality contexts."
+    },
+    {
+      "word": "adolescence",
+      "status": "approved"
+    },
+    {
+      "word": "deceive",
+      "status": "approved",
+      "definitionEN": "to cause someone to believe something false, usually deliberately",
+      "definitionCN": "欺骗；蒙骗"
+    },
+    {
+      "word": "dodge",
+      "status": "reject",
+      "reason": "The set includes dangerous high-speed cycling through traffic and dodging an attack."
+    },
+    {
+      "word": "farewell",
+      "status": "approved",
+      "definitionEN": "an expression or act of saying goodbye",
+      "definitionCN": "告别；辞别"
+    },
+    {
+      "word": "maternal",
+      "status": "approved",
+      "definitionEN": "relating to a mother or to one’s mother’s side of the family",
+      "definitionCN": "母亲的；母系的；母方的"
+    },
+    {
+      "word": "harass",
+      "status": "reject",
+      "reason": "The contexts centre on personal harassment and threats; a neutral prevention-oriented set is needed."
+    },
+    {
+      "word": "seam",
+      "status": "reject",
+      "reason": "The second presents a sexist generalisation about women and sewing; the third wrongly uses seam of stairs."
+    },
+    {
+      "word": "renovation",
+      "status": "approved",
+      "definitionEN": "the process of repairing and improving a building or system",
+      "definitionCN": "翻修；修缮；更新"
+    },
+    {
+      "word": "offshore",
+      "status": "reject",
+      "reason": "The set mixes overseas banking and near-shore oil activity, including hiding drug proceeds."
+    },
+    {
+      "word": "nap",
+      "status": "reject",
+      "reason": "The second is an archaic poetic winter-nap passage with mamma and kerchief."
+    },
+    {
+      "word": "timely",
+      "status": "approved",
+      "definitionEN": "happening at a suitable moment or early enough to be useful",
+      "definitionCN": "及时的；适时的"
+    },
+    {
+      "word": "brink",
+      "status": "reject",
+      "reason": "The set includes a polemical claim about world destruction and starvation."
+    },
+    {
+      "word": "mesh",
+      "status": "reject",
+      "reason": "The third gives unsafe practical instructions for handling asbestos-covered material."
+    },
+    {
+      "word": "yoga",
+      "status": "approved",
+      "definitionEN": "a practice combining physical postures, breathing, and mental focus",
+      "definitionCN": "瑜伽"
+    },
+    {
+      "word": "hawk",
+      "status": "reject",
+      "reason": "The first is an implausible boast about outrunning every hawk, eagle, and other bird."
+    },
+    {
+      "word": "immerse",
+      "status": "reject",
+      "reason": "All three closely repeat culture-immersion language-learning advice."
+    },
+    {
+      "word": "blush",
+      "status": "approved",
+      "definitionEN": "to become red in the face because of embarrassment or another strong feeling",
+      "definitionCN": "脸红；羞红了脸"
+    },
+    {
+      "word": "slaughter",
+      "status": "reject",
+      "reason": "All three describe killing people or prisoners."
+    },
+    {
+      "word": "prolong",
+      "status": "reject",
+      "reason": "The second is a tautological lifespan aphorism and the third a contentious pandemic claim."
+    },
+    {
+      "word": "misfortune",
+      "status": "reject",
+      "reason": "The second is archaic prose; the third presents a supernatural drought belief."
+    },
+    {
+      "word": "gracious",
+      "status": "approved",
+      "definitionEN": "kind, polite, and generous in the way one treats others",
+      "definitionCN": "亲切有礼的；和蔼的"
+    },
+    {
+      "word": "endow",
+      "status": "approved",
+      "definitionEN": "to give someone or something a particular quality, ability, or resource",
+      "definitionCN": "赋予；使具有"
+    },
+    {
+      "word": "improvise",
+      "status": "approved",
+      "definitionEN": "to create, perform, or find a solution without full advance preparation",
+      "definitionCN": "即兴创作；临时想办法"
+    },
+    {
+      "word": "shutter",
+      "status": "approved",
+      "definitionEN": "a movable cover fitted outside or over a window",
+      "definitionCN": "百叶窗；护窗板"
+    },
+    {
+      "word": "phenomenal",
+      "status": "reject",
+      "reason": "The second uses the unnatural phrase I will be phenomenal to the women."
+    },
+    {
+      "word": "allergic",
+      "status": "reject",
+      "reason": "The second uses a downstairs euphemism for an intimate reaction, unsuitable for this neutral set."
+    },
+    {
+      "word": "gleam",
+      "status": "reject",
+      "reason": "The third uses a verb and refers to a firearm’s stock and sights; the set does not match one noun sense."
+    },
+    {
+      "word": "deflect",
+      "status": "approved",
+      "definitionEN": "to turn something away from its original direction or focus",
+      "definitionCN": "使转向；转移；挡开"
+    },
+    {
+      "word": "agreeable",
+      "status": "reject",
+      "reason": "The third makes a sexist assertion that friendship with a woman must pass through a mistress stage."
+    },
+    {
+      "word": "stationary",
+      "status": "approved",
+      "definitionEN": "not moving or changing position",
+      "definitionCN": "静止的；固定不动的"
+    },
+    {
+      "word": "aboriginal",
+      "status": "reject",
+      "reason": "The set includes racist treatment, a degrading feces-resource scenario, and discriminatory healthcare comparisons."
+    },
+    {
+      "word": "subtract",
+      "status": "reject",
+      "reason": "The third gives the wrong range calculation by subtracting the largest value from the smallest."
+    },
+    {
+      "word": "parody",
+      "status": "approved",
+      "definitionEN": "a humorous imitation of a person’s style, words, or work",
+      "definitionCN": "戏仿；诙谐的模仿"
+    },
+    {
+      "word": "refund",
+      "status": "approved",
+      "definitionEN": "money paid back to someone, usually after a purchase is returned or cancelled",
+      "definitionCN": "退款；退还的钱"
+    },
+    {
+      "word": "subtitle",
+      "status": "reject",
+      "reason": "The first and third are near-identical no-subtitle statements; all three repeat availability for the same movie."
+    },
+    {
+      "word": "handout",
+      "status": "reject",
+      "reason": "The first means financial charity, while the others mean printed educational notes; the press-announcement definition fits neither full set."
+    },
+    {
+      "word": "fortify",
+      "status": "approved",
+      "definitionEN": "to strengthen a place with barriers or other protective structures",
+      "definitionCN": "加固；设防"
+    },
+    {
+      "word": "bleach",
+      "status": "reject",
+      "reason": "The last two are near-identical coral-bleaching explanations, mixed with a cosmetic hair example."
+    },
+    {
+      "word": "septic",
+      "status": "approved",
+      "definitionEN": "involving bacterial decay or infection",
+      "definitionCN": "腐败的；化粪处理的"
+    },
+    {
+      "word": "decompose",
+      "status": "reject",
+      "reason": "The first describes a young girl’s decomposed body; the third a decomposing animal in a drink."
+    },
+    {
+      "word": "mildew",
+      "status": "approved",
+      "definitionEN": "a thin growth of fungus on damp surfaces",
+      "definitionCN": "霉；霉菌"
+    },
+    {
+      "word": "director",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a person responsible for managing an organisation or a particular area of its work",
+      "definitionCN": "主管；负责人；董事",
+      "authoredContexts": [
+        {
+          "text": "The director of the research centre meets each team monthly to discuss progress and equipment needs.",
+          "translation": "研究中心的负责人每月与各团队会面，讨论进度和设备需求。",
+          "collocation": "The director of the research centre",
+          "register": "Reading"
+        },
+        {
+          "text": "A director should explain major decisions clearly so that staff understand how their work supports shared goals.",
+          "translation": "负责人应清楚解释重大决定，让员工了解自己的工作如何服务于共同目标。",
+          "collocation": "A director should explain",
+          "register": "Writing"
+        },
+        {
+          "text": "Could you ask the director whether we can use the meeting room next Friday afternoon?",
+          "translation": "你能问问负责人，我们下周五下午能否使用会议室吗？",
+          "collocation": "ask the director",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "center",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "the middle point or area of something",
+      "definitionCN": "中心；中央",
+      "authoredContexts": [
+        {
+          "text": "The garden has a shallow pond at its center, with paths leading towards each corner.",
+          "translation": "花园中央有一个浅池，几条小路通向各个角落。",
+          "collocation": "at its center",
+          "register": "Reading"
+        },
+        {
+          "text": "Keeping a public square at the center of a neighbourhood can give residents a shared meeting place.",
+          "translation": "在社区中央保留公共广场，可以为居民提供共同的聚会场所。",
+          "collocation": "at the center of a neighbourhood",
+          "register": "Writing"
+        },
+        {
+          "text": "Could you move the table closer to the center of the room before everyone arrives?",
+          "translation": "大家到来之前，你能把桌子移到更靠近房间中央的位置吗？",
+          "collocation": "the center of the room",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "image",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a visual representation of a person, object, or scene",
+      "definitionCN": "图像；影像",
+      "authoredContexts": [
+        {
+          "text": "The satellite image shows a narrow river winding between farmland and the edge of the town.",
+          "translation": "卫星图像显示，一条狭窄的河流蜿蜒经过农田与城镇边缘之间。",
+          "collocation": "The satellite image",
+          "register": "Reading"
+        },
+        {
+          "text": "An image used in a public report should include enough detail to support the accompanying explanation.",
+          "translation": "公共报告中使用的图像应包含足够细节，以支持随附的解释。",
+          "collocation": "An image used in a public report",
+          "register": "Writing"
+        },
+        {
+          "text": "Can you send me a clearer image of the timetable? I cannot read the departure times.",
+          "translation": "你能发给我一张更清晰的时刻表图片吗？我看不清发车时间。",
+          "collocation": "a clearer image",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "wall",
+      "status": "approved"
+    },
+    {
+      "word": "secretary",
+      "status": "approved",
+      "definitionEN": "a person employed to organise records, correspondence, appointments, and office work",
+      "definitionCN": "秘书；文秘"
+    },
+    {
+      "word": "campaign",
+      "status": "approved",
+      "definitionCN": "有组织的活动；运动；竞选活动"
+    },
+    {
+      "word": "west",
+      "status": "approved",
+      "definitionEN": "the direction in which the sun appears to set",
+      "definitionCN": "西；西方"
+    },
+    {
+      "word": "agency",
+      "status": "approved",
+      "definitionEN": "an organisation that provides a particular service or carries out official work",
+      "definitionCN": "机构；代理机构；服务机构"
+    },
+    {
+      "word": "treatment",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "medical care or action intended to improve an illness or injury",
+      "definitionCN": "治疗；医疗处理",
+      "authoredContexts": [
+        {
+          "text": "The clinic records each patient’s treatment in a secure system that authorised staff can consult.",
+          "translation": "诊所将每位患者的治疗记录保存在安全系统中，供获授权的工作人员查阅。",
+          "collocation": "each patient’s treatment",
+          "register": "Reading"
+        },
+        {
+          "text": "Access to effective treatment should not depend entirely on whether a patient can afford private insurance.",
+          "translation": "能否获得有效治疗，不应完全取决于患者是否买得起私人保险。",
+          "collocation": "effective treatment",
+          "register": "Writing"
+        },
+        {
+          "text": "Will the nurse explain the treatment before my appointment, or should I ask the doctor?",
+          "translation": "护士会在预约开始前解释治疗安排吗，还是我应该问医生？",
+          "collocation": "explain the treatment",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "difficulty",
+      "status": "approved",
+      "definitionEN": "a problem or lack of ease in doing something",
+      "definitionCN": "困难；难处"
+    },
+    {
+      "word": "provision",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "the act of making a service, resource, or other necessity available",
+      "definitionCN": "提供；供应；供给",
+      "authoredContexts": [
+        {
+          "text": "The provision of free bicycles allows students to travel between the college’s two main buildings.",
+          "translation": "免费提供自行车，让学生能够往返于学院的两座主要建筑之间。",
+          "collocation": "The provision of free bicycles",
+          "register": "Reading"
+        },
+        {
+          "text": "Better provision of public toilets is necessary if town centres are to welcome people of all ages.",
+          "translation": "如果市中心要方便各个年龄段的人使用，就有必要提供更充足的公共厕所。",
+          "collocation": "provision of public toilets",
+          "register": "Writing"
+        },
+        {
+          "text": "Does the booking include the provision of chairs, or do we need to bring our own?",
+          "translation": "预订包括提供椅子吗，还是我们需要自己带？",
+          "collocation": "the provision of chairs",
+          "register": "Listening"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "word": "duty",
+      "status": "approved",
+      "definitionEN": "a task, role, or responsibility that someone is expected or required to perform",
+      "definitionCN": "职责；责任；义务"
+    },
+    {
+      "word": "stone",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a hard solid piece of the material that forms rocks",
+      "definitionCN": "石头；石料",
+      "authoredContexts": [
+        {
+          "text": "The old bridge is built from local stone, with a narrow arch above the stream.",
+          "translation": "这座老桥由当地石料建成，溪流上方是一道狭窄的拱。",
+          "collocation": "local stone",
+          "register": "Reading"
+        },
+        {
+          "text": "Using locally available stone can help new buildings reflect the character of the surrounding landscape.",
+          "translation": "使用当地可获得的石料，有助于新建筑体现周围景观的特色。",
+          "collocation": "locally available stone",
+          "register": "Writing"
+        },
+        {
+          "text": "Is that smooth stone from the beach, or did you find it beside the river?",
+          "translation": "那块光滑的石头来自海滩，还是你在河边找到的？",
+          "collocation": "that smooth stone",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "popular",
+      "status": "approved",
+      "definitionEN": "liked or supported by many people",
+      "definitionCN": "受欢迎的；流行的；得到广泛支持的"
+    },
+    {
+      "word": "text",
+      "status": "approved",
+      "definitionEN": "a piece of written language or the words it contains",
+      "definitionCN": "文本；文字；正文"
+    },
+    {
+      "word": "collection",
+      "status": "approved",
+      "definitionEN": "a group of things brought together or treated as a whole",
+      "definitionCN": "收藏品；合集；一组"
+    },
+    {
+      "word": "quarter",
+      "status": "approved",
+      "definitionEN": "one of four equal parts of something",
+      "definitionCN": "四分之一；一刻钟；一节比赛"
+    },
+    {
+      "word": "reform",
+      "status": "approved",
+      "definitionEN": "a change made to improve a system, institution, or practice",
+      "definitionCN": "改革；改良"
+    },
+    {
+      "word": "safety",
+      "status": "approved",
+      "definitionEN": "the state of being protected from danger or harm",
+      "definitionCN": "安全；平安",
+      "forms": []
+    },
+    {
+      "word": "copy",
+      "status": "approved",
+      "definitionEN": "an example of something made or reproduced, such as a document or recording",
+      "definitionCN": "副本；复制品；一份"
+    },
+    {
+      "word": "train",
+      "status": "approved",
+      "definitionEN": "a railway vehicle consisting of connected carriages or wagons",
+      "definitionCN": "火车；列车"
+    },
+    {
+      "word": "associate",
+      "status": "approved",
+      "definitionEN": "a person connected with someone through work or a shared activity",
+      "definitionCN": "同事；业务伙伴；合作者"
+    },
+    {
+      "word": "speed",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "the rate at which something moves or happens",
+      "definitionCN": "速度；速率",
+      "authoredContexts": [
+        {
+          "text": "The display records the speed of the conveyor belt as parcels move towards the sorting area.",
+          "translation": "包裹移向分拣区时，显示屏记录着传送带的速度。",
+          "collocation": "the speed of the conveyor belt",
+          "register": "Reading"
+        },
+        {
+          "text": "Reducing traffic speed near schools can make walking routes feel safer for children and their families.",
+          "translation": "降低学校附近的车速，可以让儿童及其家人感觉步行路线更加安全。",
+          "collocation": "Reducing traffic speed",
+          "register": "Writing"
+        },
+        {
+          "text": "Can we adjust the speed of this recording? The speaker is talking faster than I expected.",
+          "translation": "我们能调整这段录音的播放速度吗？说话人的语速比我预期的快。",
+          "collocation": "the speed of this recording",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "flower",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "the part of a plant that often has coloured petals and produces seeds",
+      "definitionCN": "花；花朵",
+      "authoredContexts": [
+        {
+          "text": "The guide describes how each flower changes as its petals open during the warmer part of the day.",
+          "translation": "指南介绍了每朵花在白天较暖和时花瓣展开后的变化。",
+          "collocation": "each flower changes",
+          "register": "Reading"
+        },
+        {
+          "text": "Planting more than one type of flower can make a shared garden more interesting throughout the growing season.",
+          "translation": "种植不止一种花，可以让公共花园在整个生长季节更有趣。",
+          "collocation": "one type of flower",
+          "register": "Writing"
+        },
+        {
+          "text": "What is the name of this yellow flower? I have seen it growing beside the river.",
+          "translation": "这种黄色的花叫什么？我见过它长在河边。",
+          "collocation": "this yellow flower",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "debt",
+      "status": "approved",
+      "definitionEN": "money that someone owes to another person or organisation",
+      "definitionCN": "债务；欠款"
+    },
+    {
+      "word": "engine",
+      "status": "approved",
+      "definitionEN": "a machine that converts energy into mechanical power",
+      "definitionCN": "发动机；引擎"
+    },
+    {
+      "word": "suit",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a matching set of formal clothes, usually including a jacket and trousers or a skirt",
+      "definitionCN": "套装；西服",
+      "authoredContexts": [
+        {
+          "text": "The tailor adjusts the sleeves of a suit after checking how the jacket sits on the customer’s shoulders.",
+          "translation": "裁缝检查外套在顾客肩部的贴合程度后，调整西服的袖子。",
+          "collocation": "the sleeves of a suit",
+          "register": "Reading"
+        },
+        {
+          "text": "Requiring every employee to wear a suit may create unnecessary expense where the work does not involve formal meetings.",
+          "translation": "如果工作并不涉及正式会议，要求每位员工穿西服可能造成不必要的开支。",
+          "collocation": "wear a suit",
+          "register": "Writing"
+        },
+        {
+          "text": "Would this suit be appropriate for the interview, or is the company usually less formal?",
+          "translation": "这套西服适合面试吗，还是这家公司平时着装没那么正式？",
+          "collocation": "this suit be appropriate",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "bridge",
+      "status": "approved",
+      "definitionCN": "桥；桥梁"
+    },
+    {
+      "word": "academic",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "relating to education, scholarly study, or research",
+      "definitionCN": "学术的；教学的",
+      "authoredContexts": [
+        {
+          "text": "The academic year begins with workshops that introduce new students to the library and its research tools.",
+          "translation": "新学年以一系列工作坊开始，向新生介绍图书馆及其研究工具。",
+          "collocation": "The academic year",
+          "register": "Reading"
+        },
+        {
+          "text": "Academic writing should make complex ideas understandable without removing the evidence needed to assess them.",
+          "translation": "学术写作应让复杂观点易于理解，同时保留评估这些观点所需的证据。",
+          "collocation": "Academic writing",
+          "register": "Writing"
+        },
+        {
+          "text": "Could my academic adviser help me choose a course that fits around my part-time job?",
+          "translation": "我的学业导师能否帮我选择一门可以兼顾兼职工作的课程？",
+          "collocation": "my academic adviser",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "tape",
+      "status": "approved",
+      "definitionEN": "a long narrow strip of flexible material used for fastening or recording",
+      "definitionCN": "胶带；带状物；录音带"
+    },
+    {
+      "word": "circle",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a round shape whose edge is equally distant from its middle at every point",
+      "definitionCN": "圆；圆形",
+      "authoredContexts": [
+        {
+          "text": "The diagram places a circle around each village connected to the new water supply system.",
+          "translation": "这张图在每个接入新供水系统的村庄周围画了一个圆。",
+          "collocation": "a circle around each village",
+          "register": "Reading"
+        },
+        {
+          "text": "A clear circle on a map can highlight an area without hiding important details underneath.",
+          "translation": "地图上清晰的圆圈可以突出显示一个区域，而不遮住下面的重要细节。",
+          "collocation": "A clear circle on a map",
+          "register": "Writing"
+        },
+        {
+          "text": "Can you draw a circle around the entrance we should use when we arrive?",
+          "translation": "你能把我们到达时应该使用的入口圈出来吗？",
+          "collocation": "draw a circle",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "output",
+      "status": "approved",
+      "definitionEN": "the amount of something produced, supplied, or passed out by a system or process",
+      "definitionCN": "产出；输出量；排出量"
+    },
+    {
+      "word": "appointment",
+      "status": "approved",
+      "definitionEN": "an arrangement to meet someone at a particular time and place",
+      "definitionCN": "预约；约定会面"
+    },
+    {
+      "word": "corporate",
+      "status": "approved",
+      "definitionEN": "relating to a company or companies",
+      "definitionCN": "公司的；企业的"
+    },
+    {
+      "word": "instrument",
+      "status": "approved",
+      "definitionEN": "a tool or device used for a particular purpose, such as making music",
+      "definitionCN": "器具；乐器"
+    },
+    {
+      "word": "minority",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a group that makes up less than half of a larger population or set",
+      "definitionCN": "少数；少数群体",
+      "authoredContexts": [
+        {
+          "text": "A minority of survey participants preferred evening classes, while most chose weekend sessions.",
+          "translation": "少数调查参与者更喜欢晚间课程，而大多数人选择了周末课程。",
+          "collocation": "A minority of survey participants",
+          "register": "Reading"
+        },
+        {
+          "text": "The needs of a minority still deserve consideration when a public service changes its opening hours.",
+          "translation": "公共服务调整开放时间时，少数人的需要仍值得考虑。",
+          "collocation": "The needs of a minority",
+          "register": "Writing"
+        },
+        {
+          "text": "Are we in the minority if we prefer the earlier train, or does anyone else want that option?",
+          "translation": "如果我们更想坐早一班火车，我们是少数吗，还是也有其他人想选这班？",
+          "collocation": "in the minority",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "angry",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "feeling or showing strong annoyance or displeasure",
+      "definitionCN": "生气的；愤怒的",
+      "authoredContexts": [
+        {
+          "text": "The customer sounded angry at first, but became calmer when the assistant explained the delay.",
+          "translation": "这位顾客起初听起来很生气，但店员解释延误原因后，他平静了下来。",
+          "collocation": "sounded angry",
+          "register": "Reading"
+        },
+        {
+          "text": "An angry response can prevent useful dialogue when people have not yet understood each other’s concerns.",
+          "translation": "当人们尚未理解彼此的关切时，愤怒的回应可能阻碍有益的对话。",
+          "collocation": "An angry response",
+          "register": "Writing"
+        },
+        {
+          "text": "Are you angry about the changed plans, or are you just worried about getting home late?",
+          "translation": "你是因为计划变了而生气，还是只是担心太晚回家？",
+          "collocation": "angry about the changed plans",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "castle",
+      "status": "approved",
+      "definitionCN": "城堡"
+    },
+    {
+      "word": "attractive",
+      "status": "approved",
+      "definitionEN": "appealing or pleasing in a way that makes people interested",
+      "definitionCN": "有吸引力的；迷人的"
+    },
+    {
+      "word": "lake",
+      "status": "approved",
+      "definitionCN": "湖；湖泊"
+    },
+    {
+      "word": "perception",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "the way someone notices and understands information or situations",
+      "definitionCN": "感知；认识；看法",
+      "authoredContexts": [
+        {
+          "text": "The interviews explored how residents’ perception of the neighbourhood changed after the park opened.",
+          "translation": "这些访谈探讨了公园开放后，居民对社区的看法如何变化。",
+          "collocation": "residents’ perception of the neighbourhood",
+          "register": "Reading"
+        },
+        {
+          "text": "Public perception matters, but decisions should also consider evidence that may challenge an initially popular interpretation.",
+          "translation": "公众的看法很重要，但决策也应考虑可能挑战最初流行解释的证据。",
+          "collocation": "Public perception",
+          "register": "Writing"
+        },
+        {
+          "text": "Did the visit change your perception of the museum, or was it much as you expected?",
+          "translation": "这次参观改变了你对博物馆的看法吗，还是它基本符合你的预期？",
+          "collocation": "your perception of the museum",
+          "register": "Listening"
+        }
+      ]
+    },
+    {
+      "word": "severe",
+      "status": "approved",
+      "definitionEN": "very serious, intense, or difficult to endure",
+      "definitionCN": "严重的；剧烈的；严峻的"
+    },
+    {
+      "word": "signal",
+      "status": "approved",
+      "definitionEN": "a transmitted pattern of sound, light, electricity, or other changes that carries information",
+      "definitionCN": "信号"
+    },
+    {
+      "word": "complaint",
+      "status": "approved",
+      "definitionEN": "a statement expressing dissatisfaction or formally reporting a problem",
+      "definitionCN": "投诉；抱怨；控告"
+    },
+    {
+      "word": "inflation",
+      "status": "approved",
+      "reason": "The definition was edited and all three incompatible source contexts were replaced with original bilingual learning contexts.",
+      "definitionEN": "a sustained rise in the general level of prices in an economy",
+      "definitionCN": "通货膨胀",
+      "authoredContexts": [
+        {
+          "text": "The report tracks inflation by comparing changes in the prices of goods and services over time.",
+          "translation": "报告通过比较商品和服务价格随时间发生的变化来追踪通货膨胀。",
+          "collocation": "tracks inflation",
+          "register": "Reading"
+        },
+        {
+          "text": "When inflation rises, support for vulnerable households should consider which essential costs are increasing fastest.",
+          "translation": "通货膨胀上升时，对弱势家庭的支持应考虑哪些基本生活成本增长最快。",
+          "collocation": "inflation rises",
+          "register": "Writing"
+        },
+        {
+          "text": "Does our presentation explain inflation clearly, or should we add an example using a shopping basket?",
+          "translation": "我们的演示把通货膨胀解释清楚了吗，还是应该增加一个购物篮的例子？",
+          "collocation": "explain inflation clearly",
+          "register": "Listening"
+        }
+      ],
+      "forms": []
+    }
+  ]
+}

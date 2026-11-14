@@ -1,0 +1,3999 @@
+{
+  "reviewer": "words_verbs: complete semantic review of all 567 frozen rows",
+  "entries": [
+    {
+      "word": "training",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2607441",
+        "tatoeba-eng-3496276",
+        "tatoeba-eng-11743835"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "method",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11882329",
+        "tatoeba-eng-4497379",
+        "tatoeba-eng-1451930"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "private",
+      "status": "approved"
+    },
+    {
+      "word": "scheme",
+      "status": "approved",
+      "definitionEN": "a plan, organised arrangement, or set of provisions for a particular purpose",
+      "definitionCN": "方案；计划；安排",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "future",
+      "status": "approved"
+    },
+    {
+      "word": "purpose",
+      "status": "approved",
+      "definitionEN": "the aim, intended result, or function of something",
+      "definitionCN": "目的；用途",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "decade",
+      "status": "approved"
+    },
+    {
+      "word": "disease",
+      "status": "approved"
+    },
+    {
+      "word": "lawyer",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-44064",
+        "tatoeba-eng-7751950",
+        "tatoeba-eng-12341732"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "strategy",
+      "status": "approved",
+      "definitionEN": "a carefully planned approach to achieving a particular goal",
+      "definitionCN": "战略；策略",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "expert",
+      "status": "approved"
+    },
+    {
+      "word": "aware",
+      "status": "approved",
+      "definitionEN": "knowing or noticing that something exists or is happening",
+      "definitionCN": "知道的；意识到的",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "fish",
+      "status": "approved",
+      "definitionEN": "an animal that lives in water and breathes through gills, or its flesh used as food",
+      "definitionCN": "鱼；鱼肉",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "technique",
+      "status": "approved"
+    },
+    {
+      "word": "advice",
+      "status": "approved",
+      "definitionCN": "建议；忠告",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "parliament",
+      "status": "approved"
+    },
+    {
+      "word": "consumer",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12148979",
+        "tatoeba-eng-779168",
+        "tatoeba-eng-6993439"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "railway",
+      "status": "approved",
+      "definitionEN": "tracks and associated services used by trains to carry passengers or goods",
+      "definitionCN": "铁路；铁路运输系统",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "restaurant",
+      "status": "approved"
+    },
+    {
+      "word": "status",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-242456",
+        "tatoeba-eng-4660535",
+        "tatoeba-eng-19124"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "conversation",
+      "status": "approved"
+    },
+    {
+      "word": "weekend",
+      "status": "approved",
+      "definitionEN": "the period at the end of the week, usually Saturday and Sunday",
+      "definitionCN": "周末",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "ship",
+      "status": "approved"
+    },
+    {
+      "word": "mountain",
+      "status": "approved"
+    },
+    {
+      "word": "employer",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-7255469",
+        "tatoeba-eng-10193016",
+        "tatoeba-eng-681453"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "baseball",
+      "status": "approved"
+    },
+    {
+      "word": "tour",
+      "status": "approved"
+    },
+    {
+      "word": "remind",
+      "status": "approved",
+      "definitionEN": "to make someone remember a fact, person, or action they need to take",
+      "definitionCN": "提醒；使想起",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "classroom",
+      "status": "approved"
+    },
+    {
+      "word": "daily",
+      "status": "approved"
+    },
+    {
+      "word": "asset",
+      "status": "approved",
+      "definitionEN": "a useful or valuable possession, quality, or person",
+      "definitionCN": "资产；有价值的人或事物",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "plastic",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1270797",
+        "tatoeba-eng-34218",
+        "tatoeba-eng-6692546"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "fuel",
+      "status": "approved"
+    },
+    {
+      "word": "expensive",
+      "status": "approved",
+      "definitionCN": "昂贵的；费用高的",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "acid",
+      "status": "approved",
+      "definitionCN": "酸；酸性物质",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "institute",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1153866",
+        "tatoeba-eng-48205",
+        "tatoeba-eng-9040903"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "nurse",
+      "status": "approved",
+      "definitionEN": "a trained healthcare professional who cares for ill or injured people",
+      "definitionCN": "护士",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "investigate",
+      "status": "approved",
+      "definitionEN": "to examine something carefully to discover facts or causes",
+      "definitionCN": "调查；研究",
+      "exampleIds": [
+        "tatoeba-eng-405048",
+        "tatoeba-eng-238234",
+        "tatoeba-eng-6990624"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "emergency",
+      "status": "approved"
+    },
+    {
+      "word": "meat",
+      "status": "approved"
+    },
+    {
+      "word": "blame",
+      "status": "approved",
+      "definitionEN": "responsibility or criticism for something that has gone wrong",
+      "definitionCN": "过错责任；责备",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "gender",
+      "status": "approved",
+      "definitionEN": "a social or grammatical category associated with distinctions such as male and female",
+      "definitionCN": "性别；语法性别",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "clause",
+      "status": "approved",
+      "definitionEN": "a group of words containing a subject and a verb, or a separate provision in a legal document",
+      "definitionCN": "分句；条款",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "beach",
+      "status": "approved"
+    },
+    {
+      "word": "abortion",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12028066",
+        "tatoeba-eng-43831",
+        "tatoeba-eng-12190269"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "occupy",
+      "status": "approved",
+      "definitionEN": "to fill or use time or space, or keep someone busy",
+      "definitionCN": "占用（时间、空间）；使忙于",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "expose",
+      "status": "approved",
+      "definitionEN": "to reveal something hidden or leave someone open to a risk or influence",
+      "definitionCN": "揭露；使暴露于",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "corporation",
+      "status": "approved",
+      "definitionCN": "公司；企业法人",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "transaction",
+      "status": "approved",
+      "definitionEN": "an act of buying, selling, or exchanging something",
+      "definitionCN": "交易",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "database",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-269850",
+        "tatoeba-eng-10359395",
+        "tatoeba-eng-20170"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "cheese",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-61171",
+        "tatoeba-eng-2188",
+        "tatoeba-eng-19472"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "tower",
+      "status": "approved"
+    },
+    {
+      "word": "schedule",
+      "status": "approved"
+    },
+    {
+      "word": "gene",
+      "status": "approved",
+      "definitionEN": "a unit of inherited information carried in a segment of DNA",
+      "definitionCN": "基因",
+      "exampleIds": [
+        "tatoeba-eng-681062",
+        "tatoeba-eng-8124978",
+        "tatoeba-eng-11737995"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "advertising",
+      "status": "approved",
+      "definitionEN": "the activity of promoting products or services to the public",
+      "definitionCN": "广告；广告宣传",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "coalition",
+      "status": "approved",
+      "definitionEN": "an alliance of people, groups, or parties working towards a shared purpose",
+      "definitionCN": "联盟；联合体",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "numerous",
+      "status": "approved"
+    },
+    {
+      "word": "disaster",
+      "status": "approved",
+      "definitionEN": "an event that causes great damage, suffering, or failure",
+      "definitionCN": "灾难；重大失败",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "certificate",
+      "status": "approved",
+      "definitionEN": "an official document confirming a fact, qualification, or entitlement",
+      "definitionCN": "证书；证明文件；凭证",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "missile",
+      "status": "approved"
+    },
+    {
+      "word": "toss",
+      "status": "approved",
+      "reason": "Original examples mixed separate idioms; supplied three original noun contexts for the clear ordinary coin-throwing meaning.",
+      "definitionEN": "a throw of a coin or other small object, often used to make a decision",
+      "definitionCN": "抛掷；掷硬币作决定",
+      "authoredContexts": [
+        {
+          "text": "A coin toss determines which team chooses its starting position before the match.",
+          "translation": "比赛前，掷硬币决定哪支球队选择自己的起始位置。",
+          "register": "Reading",
+          "collocation": "coin toss"
+        },
+        {
+          "text": "Relying on a coin toss can make a small decision fair when neither choice has a clear advantage.",
+          "translation": "当两个选择都没有明显优势时，依靠掷硬币可以让一个小决定更公平。",
+          "register": "Writing",
+          "collocation": "coin toss"
+        },
+        {
+          "text": "When did you last settle an argument with a coin toss?",
+          "translation": "你上次用掷硬币来解决争论是什么时候？",
+          "register": "Listening",
+          "collocation": "coin toss"
+        }
+      ]
+    },
+    {
+      "word": "smooth",
+      "status": "approved"
+    },
+    {
+      "word": "furniture",
+      "status": "approved"
+    },
+    {
+      "word": "buck",
+      "status": "approved",
+      "definitionCN": "雄鹿；某些哺乳动物的雄性",
+      "exampleIds": [
+        "tatoeba-eng-11738760",
+        "tatoeba-eng-11738774",
+        "tatoeba-eng-11738767"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "guitar",
+      "status": "approved"
+    },
+    {
+      "word": "historian",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-326127",
+        "tatoeba-eng-10893227",
+        "tatoeba-eng-13945241"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "defeat",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-32501",
+        "tatoeba-eng-12459437",
+        "tatoeba-eng-10314446"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "statistics",
+      "status": "approved",
+      "definitionEN": "numerical information about a subject, or the study of collecting and interpreting such information",
+      "definitionCN": "统计资料；统计学",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "clothing",
+      "status": "approved"
+    },
+    {
+      "word": "measurement",
+      "status": "approved",
+      "definitionEN": "the process or result of finding the size, amount, or degree of something",
+      "definitionCN": "测量；尺寸；计量单位",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "assistant",
+      "status": "approved"
+    },
+    {
+      "word": "replacement",
+      "status": "approved",
+      "definitionEN": "the act of putting something in another’s place, or the person or thing used instead",
+      "definitionCN": "更换；替代者；替代物",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "telescope",
+      "status": "approved"
+    },
+    {
+      "word": "salad",
+      "status": "approved"
+    },
+    {
+      "word": "readily",
+      "status": "approved"
+    },
+    {
+      "word": "rub",
+      "status": "approved",
+      "reason": "All three actual contexts use the verb; corrected POS, explicit verb forms, and ordinary literal/phrasal meanings.",
+      "partOfSpeech": "v.",
+      "forms": [
+        "rubs",
+        "rubbed",
+        "rubbing"
+      ],
+      "definitionEN": "to move against a surface with pressure, erase a mark, or transfer an influence through contact",
+      "definitionCN": "摩擦；擦去；（影响等）传给他人"
+    },
+    {
+      "word": "architect",
+      "status": "approved"
+    },
+    {
+      "word": "thereby",
+      "status": "approved"
+    },
+    {
+      "word": "shelf",
+      "status": "approved"
+    },
+    {
+      "word": "evolution",
+      "status": "approved",
+      "definitionEN": "a gradual process through which living things or other systems change and develop",
+      "definitionCN": "进化；演变；发展",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "ongoing",
+      "status": "approved"
+    },
+    {
+      "word": "divorce",
+      "status": "approved"
+    },
+    {
+      "word": "publicity",
+      "status": "approved",
+      "definitionEN": "public attention given to a person, organisation, product, or event",
+      "definitionCN": "公众关注；宣传",
+      "exampleIds": [
+        "tatoeba-eng-8184684",
+        "tatoeba-eng-58984",
+        "tatoeba-eng-7127505"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "flesh",
+      "status": "approved",
+      "definitionEN": "the soft parts of an animal or fruit, or the human body",
+      "definitionCN": "肉；果肉；肉体",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "scholarship",
+      "status": "approved"
+    },
+    {
+      "word": "taxation",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5563652",
+        "tatoeba-eng-241449",
+        "tatoeba-eng-9260639"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "wise",
+      "status": "approved"
+    },
+    {
+      "word": "helicopter",
+      "status": "approved",
+      "definitionEN": "an aircraft kept in the air by large rotating blades",
+      "definitionCN": "直升机",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "cotton",
+      "status": "approved",
+      "definitionEN": "soft fibres from a plant, used to make cloth and other products",
+      "definitionCN": "棉花；棉纤维",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "applicant",
+      "status": "approved"
+    },
+    {
+      "word": "excuse",
+      "status": "approved",
+      "definitionEN": "to forgive a minor fault or politely ask for someone’s attention or permission",
+      "definitionCN": "原谅；请谅解（礼貌用语）",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "comedy",
+      "status": "approved",
+      "definitionEN": "a humorous play, film, or situation intended to amuse people",
+      "definitionCN": "喜剧；滑稽的情景",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "physically",
+      "status": "approved",
+      "definitionEN": "with regard to the body or material things",
+      "definitionCN": "身体上；物质上",
+      "exampleIds": [
+        "tatoeba-eng-13905656",
+        "tatoeba-eng-6981680",
+        "tatoeba-eng-8697403"
+      ],
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "molecule",
+      "status": "approved",
+      "definitionEN": "a group of atoms joined together that forms a unit of a substance",
+      "definitionCN": "分子",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "consensus",
+      "status": "approved"
+    },
+    {
+      "word": "clue",
+      "status": "approved",
+      "definitionEN": "information or an indication that helps someone understand or solve something",
+      "definitionCN": "线索；提示；头绪",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "knit",
+      "status": "approved",
+      "definitionEN": "to make fabric from linked loops of yarn, or join parts closely together",
+      "definitionCN": "编织；使紧密结合",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "legend",
+      "status": "approved"
+    },
+    {
+      "word": "insect",
+      "status": "approved",
+      "definitionEN": "a small animal with six legs and a body divided into three main parts",
+      "definitionCN": "昆虫",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "surgeon",
+      "status": "approved",
+      "definitionEN": "a doctor trained to perform medical operations",
+      "definitionCN": "外科医生",
+      "reason": "Reviewed all three contexts; editorial meaning clarification and/or source-example replacement aligns the chosen POS and meanings."
+    },
+    {
+      "word": "flour",
+      "status": "approved"
+    },
+    {
+      "word": "midnight",
+      "status": "approved"
+    },
+    {
+      "word": "convenient",
+      "status": "approved"
+    },
+    {
+      "word": "suburb",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-7947940",
+        "tatoeba-eng-562269",
+        "tatoeba-eng-10248444"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "cliff",
+      "status": "approved"
+    },
+    {
+      "word": "supervisor",
+      "status": "approved",
+      "definitionEN": "a person responsible for directing or checking other people’s work",
+      "definitionCN": "主管；监督者",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "productivity",
+      "status": "approved",
+      "definitionEN": "the rate at which useful work or goods are produced",
+      "definitionCN": "生产效率；生产力",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "unfair",
+      "status": "approved"
+    },
+    {
+      "word": "spectacular",
+      "status": "approved",
+      "definitionEN": "very impressive or striking in appearance, scale, or effect",
+      "definitionCN": "壮观的；惊人的",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "towel",
+      "status": "approved"
+    },
+    {
+      "word": "ballot",
+      "status": "approved",
+      "definitionEN": "a formal vote, or a paper or form used to record a choice",
+      "definitionCN": "投票；选票",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "abolish",
+      "status": "approved",
+      "definitionEN": "to officially put an end to a law, system, or practice",
+      "definitionCN": "废除；废止",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "thumb",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-9440609",
+        "tatoeba-eng-709084",
+        "tatoeba-eng-1005356"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "click",
+      "status": "approved",
+      "partOfSpeech": "v.",
+      "forms": [
+        "clicks",
+        "clicked",
+        "clicking"
+      ],
+      "definitionEN": "to press a mouse button or similar control to select or activate something",
+      "definitionCN": "点击",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "ankle",
+      "status": "approved",
+      "definitionEN": "the joint connecting the foot to the lower leg",
+      "definitionCN": "脚踝",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "diagram",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1818237",
+        "tatoeba-eng-2026631",
+        "tatoeba-eng-11512480"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "pavement",
+      "status": "approved",
+      "definitionEN": "the hard surface of a road or a path beside it",
+      "definitionCN": "人行道；铺砌路面",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "fist",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-4766837",
+        "tatoeba-eng-1422539",
+        "tatoeba-eng-1409150"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "sunlight",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-9713723",
+        "tatoeba-eng-8125263",
+        "tatoeba-eng-7781768"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "therapist",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8165569",
+        "tatoeba-eng-620087",
+        "tatoeba-eng-11562071"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "chin",
+      "status": "approved"
+    },
+    {
+      "word": "thief",
+      "status": "approved"
+    },
+    {
+      "word": "descend",
+      "status": "approved",
+      "definitionEN": "to move downwards or fall to a lower position, level, or state",
+      "definitionCN": "下降；降低；降临",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "incur",
+      "status": "approved"
+    },
+    {
+      "word": "deadline",
+      "status": "approved"
+    },
+    {
+      "word": "sentiment",
+      "status": "approved",
+      "definitionEN": "an attitude, feeling, or opinion about something",
+      "definitionCN": "情感；态度；看法",
+      "exampleIds": [
+        "tatoeba-eng-5887829",
+        "tatoeba-eng-9026034",
+        "tatoeba-eng-11577575"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "talented",
+      "status": "approved",
+      "definitionEN": "showing a strong natural ability in a particular activity",
+      "definitionCN": "有天赋的；有才能的",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "toxic",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6604346",
+        "tatoeba-eng-6890210",
+        "tatoeba-eng-8400258"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "dilemma",
+      "status": "approved"
+    },
+    {
+      "word": "dot",
+      "status": "approved",
+      "definitionEN": "a very small round mark or spot",
+      "definitionCN": "点；圆点",
+      "exampleIds": [
+        "tatoeba-eng-249300",
+        "tatoeba-eng-8320031",
+        "tatoeba-eng-1172615"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "cartoon",
+      "status": "approved",
+      "definitionEN": "a humorous drawing, or a film made from sequences of drawings or animated images",
+      "definitionCN": "漫画；动画片",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "inhabitant",
+      "status": "approved",
+      "definitionEN": "a person or animal living in a particular place",
+      "definitionCN": "居民；栖居者",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "jewelry",
+      "status": "approved"
+    },
+    {
+      "word": "boil",
+      "status": "approved",
+      "definitionEN": "the state reached when a heated liquid bubbles strongly and produces vapour",
+      "definitionCN": "沸腾；沸点状态",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "fortnight",
+      "status": "approved"
+    },
+    {
+      "word": "cute",
+      "status": "approved",
+      "definitionEN": "attractive or endearing, often in a small or youthful way",
+      "definitionCN": "可爱的；讨人喜欢的",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "heal",
+      "status": "approved",
+      "definitionEN": "to become well again, or make an injury or emotional hurt better",
+      "definitionCN": "治愈；愈合；缓解创伤",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "handicap",
+      "status": "approved",
+      "definitionEN": "a disadvantage or limiting condition, or an adjustment that balances unequal competitors",
+      "definitionCN": "不利条件；障碍；竞赛让步",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "tourism",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-7023253",
+        "tatoeba-eng-3626982",
+        "tatoeba-eng-13415748"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "enthusiastic",
+      "status": "approved"
+    },
+    {
+      "word": "stack",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3332698",
+        "tatoeba-eng-1898175",
+        "tatoeba-eng-12117331"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "neglect",
+      "status": "approved",
+      "definitionEN": "a failure to give proper care or attention, or the resulting state",
+      "definitionCN": "疏于照顾；忽视",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "bucket",
+      "status": "approved"
+    },
+    {
+      "word": "chunk",
+      "status": "approved",
+      "definitionEN": "a large or thick piece, or a substantial amount of something",
+      "definitionCN": "大块；相当大的部分",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "occurrence",
+      "status": "approved",
+      "definitionEN": "an event or instance of something happening",
+      "definitionCN": "发生；事件",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "thrust",
+      "status": "approved",
+      "definitionEN": "a pushing force, especially one that drives an aircraft or rocket forwards",
+      "definitionCN": "推力",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "likelihood",
+      "status": "approved"
+    },
+    {
+      "word": "eligible",
+      "status": "approved"
+    },
+    {
+      "word": "elaborate",
+      "status": "approved"
+    },
+    {
+      "word": "dioxide",
+      "status": "approved"
+    },
+    {
+      "word": "cruise",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2042842",
+        "tatoeba-eng-11018124",
+        "tatoeba-eng-46250"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "width",
+      "status": "approved"
+    },
+    {
+      "word": "fragile",
+      "status": "approved",
+      "definitionEN": "easily broken, damaged, or harmed",
+      "definitionCN": "易碎的；脆弱的",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "rental",
+      "status": "approved",
+      "definitionEN": "something hired or leased, or the act of paying to use it",
+      "definitionCN": "租赁；租用物；出租房",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "prospective",
+      "status": "approved",
+      "definitionEN": "likely or expected to become something in the future",
+      "definitionCN": "潜在的；预期的",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "homework",
+      "status": "approved"
+    },
+    {
+      "word": "sweater",
+      "status": "approved"
+    },
+    {
+      "word": "gravel",
+      "status": "approved"
+    },
+    {
+      "word": "trauma",
+      "status": "approved",
+      "definitionCN": "心理创伤；精神冲击",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "cue",
+      "status": "approved",
+      "definitionEN": "a signal prompting action, or a long stick used to strike balls in games such as pool",
+      "definitionCN": "提示；球杆",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "parcel",
+      "status": "approved",
+      "definitionEN": "a package wrapped for sending by post or delivery",
+      "definitionCN": "包裹",
+      "exampleIds": [
+        "tatoeba-eng-239949",
+        "tatoeba-eng-308005",
+        "tatoeba-eng-12245680"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "locker",
+      "status": "approved",
+      "definitionEN": "a small cupboard that can be locked to store personal belongings",
+      "definitionCN": "储物柜；寄物柜",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "scar",
+      "status": "approved"
+    },
+    {
+      "word": "spectator",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11654884",
+        "tatoeba-eng-2268543",
+        "tatoeba-eng-2688480"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "antibiotic",
+      "status": "approved",
+      "definitionEN": "a medicine used to kill bacteria or stop their growth",
+      "definitionCN": "抗生素",
+      "exampleIds": [
+        "tatoeba-eng-2041761",
+        "tatoeba-eng-240877",
+        "tatoeba-eng-8462200"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "torch",
+      "status": "approved",
+      "definitionEN": "a portable light, or a burning stick used to provide light",
+      "definitionCN": "手电筒；火把",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "stride",
+      "status": "approved",
+      "definitionEN": "a long step, or significant progress towards a goal",
+      "definitionCN": "大步；进展",
+      "exampleIds": [
+        "tatoeba-eng-12900489",
+        "tatoeba-eng-11746611",
+        "tatoeba-eng-28091"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "comet",
+      "status": "approved"
+    },
+    {
+      "word": "motel",
+      "status": "approved",
+      "definitionEN": "a roadside hotel intended mainly for people travelling by car",
+      "definitionCN": "汽车旅馆",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "ignorance",
+      "status": "approved",
+      "definitionCN": "无知；缺乏知识",
+      "exampleIds": [
+        "tatoeba-eng-3149116",
+        "tatoeba-eng-2354",
+        "tatoeba-eng-12420955"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "passport",
+      "status": "approved"
+    },
+    {
+      "word": "banner",
+      "status": "approved",
+      "definitionEN": "a strip bearing a message or design, displayed physically or as an online advertisement",
+      "definitionCN": "横幅；旗帜；网页横幅广告",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "hazardous",
+      "status": "approved"
+    },
+    {
+      "word": "explosive",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-693405",
+        "tatoeba-eng-4241401",
+        "tatoeba-eng-4657588"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "discard",
+      "status": "approved"
+    },
+    {
+      "word": "vow",
+      "status": "approved"
+    },
+    {
+      "word": "spotlight",
+      "status": "approved",
+      "definitionEN": "public attention directed towards someone or something, or a lamp producing a focused beam",
+      "definitionCN": "公众关注；聚光灯",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "visa",
+      "status": "approved"
+    },
+    {
+      "word": "obsession",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10578590",
+        "tatoeba-eng-4956669",
+        "tatoeba-eng-12312920"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "agony",
+      "status": "approved"
+    },
+    {
+      "word": "bundle",
+      "status": "approved"
+    },
+    {
+      "word": "mosquito",
+      "status": "approved"
+    },
+    {
+      "word": "jealous",
+      "status": "approved",
+      "definitionEN": "unhappy because someone has something you want, or afraid of losing someone’s affection",
+      "definitionCN": "嫉妒的；妒忌的",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "harbor",
+      "status": "approved",
+      "definitionEN": "a sheltered area of water where ships can anchor or dock",
+      "definitionCN": "港口；港湾",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "bulletin",
+      "status": "approved",
+      "definitionEN": "an official notice or short report, or a publication containing such information",
+      "definitionCN": "公告；简报；公报",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "wetland",
+      "status": "approved"
+    },
+    {
+      "word": "harmful",
+      "status": "approved",
+      "definitionEN": "causing or likely to cause damage or injury",
+      "definitionCN": "有害的",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "terrify",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2047447",
+        "tatoeba-eng-6907373",
+        "tatoeba-eng-12347702"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "cafe",
+      "status": "approved",
+      "definitionCN": "咖啡馆；小餐馆",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "nitrogen",
+      "status": "approved"
+    },
+    {
+      "word": "sway",
+      "status": "approved",
+      "definitionEN": "influence or power over decisions and behaviour",
+      "definitionCN": "影响力；支配力",
+      "authoredContexts": [
+        {
+          "text": "Traditional leaders still hold considerable sway over decisions about land in many rural communities.",
+          "translation": "传统领袖在许多农村社区有关土地的决策中仍然拥有相当大的影响力。",
+          "register": "Reading",
+          "collocation": "hold considerable sway"
+        },
+        {
+          "text": "Advertising should not have excessive sway over children’s food choices when health information is difficult to assess.",
+          "translation": "当健康信息难以判断时，广告不应对儿童的食物选择有过大的影响。",
+          "register": "Writing",
+          "collocation": "have excessive sway"
+        },
+        {
+          "text": "Does your older sister still hold sway over where the family goes on holiday?",
+          "translation": "你姐姐仍然对全家去哪儿度假有决定性的影响吗？",
+          "register": "Listening",
+          "collocation": "hold sway"
+        }
+      ],
+      "reason": "Only two retained source uses are nouns; supplied three original noun contexts with honest editorial origin instead of mixing verb and noun senses."
+    },
+    {
+      "word": "resent",
+      "status": "approved"
+    },
+    {
+      "word": "ascertain",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-258093",
+        "tatoeba-eng-32808",
+        "tatoeba-eng-61427"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "wary",
+      "status": "approved"
+    },
+    {
+      "word": "apprentice",
+      "status": "approved",
+      "definitionEN": "a person learning a skilled job while working for an experienced practitioner",
+      "definitionCN": "学徒",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "excerpt",
+      "status": "approved"
+    },
+    {
+      "word": "siege",
+      "status": "approved"
+    },
+    {
+      "word": "kindergarten",
+      "status": "approved",
+      "definitionEN": "an early education class or school for young children before primary schooling",
+      "definitionCN": "幼儿园",
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "fellowship",
+      "status": "approved",
+      "definitionEN": "friendly association and a shared sense of community",
+      "definitionCN": "友谊；伙伴关系；团契",
+      "exampleIds": [
+        "tatoeba-eng-12269564",
+        "tatoeba-eng-295513",
+        "tatoeba-eng-12652713"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "solvent",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12272821",
+        "tatoeba-eng-2756679",
+        "tatoeba-eng-13606034"
+      ],
+      "reason": "Reviewed all three contexts; corrected ordinary meaning/POS and replaced incompatible or unnatural source examples where indicated."
+    },
+    {
+      "word": "archaeological",
+      "status": "approved"
+    },
+    {
+      "word": "diploma",
+      "status": "approved"
+    },
+    {
+      "word": "deteriorate",
+      "status": "approved"
+    },
+    {
+      "word": "tidy",
+      "status": "approved",
+      "partOfSpeech": "adj.",
+      "forms": [
+        "tidier",
+        "tidiest"
+      ],
+      "definitionEN": "neat, clean, and well organised",
+      "definitionCN": "整洁的",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "waitress",
+      "status": "approved",
+      "definitionEN": "a woman who serves food and drinks to customers",
+      "definitionCN": "女服务员",
+      "exampleIds": [
+        "tatoeba-eng-6832644",
+        "tatoeba-eng-7349931",
+        "tatoeba-eng-65662"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "vacancy",
+      "status": "approved",
+      "definitionEN": "an unfilled job or other available position",
+      "definitionCN": "职位空缺",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "customary",
+      "status": "approved"
+    },
+    {
+      "word": "astronomy",
+      "status": "approved"
+    },
+    {
+      "word": "marsh",
+      "status": "approved"
+    },
+    {
+      "word": "excursion",
+      "status": "approved",
+      "definitionCN": "远足；短途旅行",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "bookshop",
+      "status": "approved"
+    },
+    {
+      "word": "sturdy",
+      "status": "approved",
+      "definitionCN": "结实的；坚固的",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "heater",
+      "status": "approved"
+    },
+    {
+      "word": "giggle",
+      "status": "approved",
+      "definitionEN": "to laugh in a light, repeated way, often because of amusement or embarrassment",
+      "definitionCN": "咯咯地笑",
+      "exampleIds": [
+        "tatoeba-eng-11592390",
+        "tatoeba-eng-3885744",
+        "tatoeba-eng-327963"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "hum",
+      "status": "approved",
+      "definitionEN": "a continuous low sound made by a machine, insect, or quiet voices",
+      "definitionCN": "嗡嗡声；低沉的杂音",
+      "exampleIds": [
+        "tatoeba-eng-10152102",
+        "tatoeba-eng-6150573",
+        "tatoeba-eng-10780904"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "dubious",
+      "status": "approved",
+      "definitionEN": "doubtful, uncertain, or difficult to trust",
+      "definitionCN": "可疑的；不确定的；不可靠的",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "compliment",
+      "status": "approved"
+    },
+    {
+      "word": "famine",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-20073",
+        "tatoeba-eng-11562706",
+        "tatoeba-eng-2698891"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "tornado",
+      "status": "approved"
+    },
+    {
+      "word": "simplify",
+      "status": "approved",
+      "definitionEN": "to make something easier to understand or less complicated",
+      "definitionCN": "简化",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "glide",
+      "status": "approved",
+      "partOfSpeech": "v.",
+      "forms": [
+        "glides",
+        "glided",
+        "gliding"
+      ],
+      "definitionEN": "to move smoothly and quietly without sudden changes",
+      "definitionCN": "滑动；平稳移动",
+      "exampleIds": [
+        "tatoeba-eng-9518305",
+        "tatoeba-eng-2042156",
+        "tatoeba-eng-278219"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "embarrass",
+      "status": "approved",
+      "definitionEN": "to make someone feel awkward, ashamed, or self-conscious",
+      "definitionCN": "使尴尬",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "masculine",
+      "status": "approved",
+      "partOfSpeech": "adj.",
+      "forms": [],
+      "definitionEN": "associated with men or with qualities traditionally considered male",
+      "definitionCN": "男性的；阳性的",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "wax",
+      "status": "approved"
+    },
+    {
+      "word": "parasite",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11959187",
+        "tatoeba-eng-13571755",
+        "tatoeba-eng-4435309"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "aerial",
+      "status": "approved"
+    },
+    {
+      "word": "revolve",
+      "status": "approved"
+    },
+    {
+      "word": "frantic",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2629808",
+        "tatoeba-eng-6132710",
+        "tatoeba-eng-8664986"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "idle",
+      "status": "approved",
+      "definitionEN": "not working or active, or doing things of little use",
+      "definitionCN": "闲着的；懒散的；无益的",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "avert",
+      "status": "approved",
+      "definitionEN": "to prevent something bad from happening, or turn away from something",
+      "definitionCN": "避免；防止；移开",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "outskirts",
+      "status": "approved"
+    },
+    {
+      "word": "eclipse",
+      "status": "approved",
+      "definitionEN": "a temporary obscuring of the sun or moon when another body blocks its light",
+      "definitionCN": "日食；月食",
+      "exampleIds": [
+        "tatoeba-eng-5565057",
+        "tatoeba-eng-5564934",
+        "tatoeba-eng-3959546"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "bankrupt",
+      "status": "approved",
+      "partOfSpeech": "adj.",
+      "forms": [],
+      "definitionEN": "unable to pay debts and having little or no money left",
+      "definitionCN": "破产的",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "recede",
+      "status": "approved",
+      "definitionEN": "to move back or become weaker, smaller, or less noticeable",
+      "definitionCN": "后退；减弱；发际线后移",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "annoy",
+      "status": "approved",
+      "definitionEN": "to make someone slightly angry or irritated",
+      "definitionCN": "使恼怒；打扰",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "pedal",
+      "status": "approved"
+    },
+    {
+      "word": "buffet",
+      "status": "approved",
+      "definitionEN": "a meal where people choose their own food from a selection of dishes",
+      "definitionCN": "自助餐",
+      "exampleIds": [
+        "tatoeba-eng-5788692",
+        "tatoeba-eng-35106",
+        "tatoeba-eng-1465647"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "glacier",
+      "status": "approved"
+    },
+    {
+      "word": "cot",
+      "status": "approved",
+      "definitionEN": "a small portable bed or a baby’s bed with high sides",
+      "definitionCN": "简易床；婴儿床",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "martial",
+      "status": "approved",
+      "definitionEN": "relating to fighting, war, or armed forces",
+      "definitionCN": "武术的；军事的",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "waterfall",
+      "status": "approved"
+    },
+    {
+      "word": "nostalgia",
+      "status": "approved",
+      "definitionEN": "a longing for familiar places, people, or times from the past",
+      "definitionCN": "怀旧；乡愁",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "patriotism",
+      "status": "approved"
+    },
+    {
+      "word": "bamboo",
+      "status": "approved"
+    },
+    {
+      "word": "inclusive",
+      "status": "approved",
+      "definitionEN": "including the stated items or limits, or welcoming people without exclusion",
+      "definitionCN": "包含在内的；包容的",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "humidity",
+      "status": "approved"
+    },
+    {
+      "word": "lash",
+      "status": "approved",
+      "definitionEN": "a hair growing along the edge of an eyelid",
+      "definitionCN": "睫毛",
+      "exampleIds": [
+        "tatoeba-eng-7741330",
+        "tatoeba-eng-3420172",
+        "tatoeba-eng-6694929"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "economical",
+      "status": "approved",
+      "definitionEN": "using money, fuel, or other resources efficiently and at low cost",
+      "definitionCN": "经济实惠的；节约的",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "rejoice",
+      "status": "approved",
+      "definitionCN": "感到欣喜；欢庆",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "ape",
+      "status": "approved",
+      "definitionEN": "a primate without a tail, such as a gorilla, chimpanzee, or gibbon",
+      "definitionCN": "猿；类人猿",
+      "exampleIds": [
+        "tatoeba-eng-280367",
+        "tatoeba-eng-13077731",
+        "tatoeba-eng-1720363"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "seep",
+      "status": "approved"
+    },
+    {
+      "word": "gale",
+      "status": "approved",
+      "definitionEN": "a very strong wind",
+      "definitionCN": "强风；大风",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "facet",
+      "status": "approved",
+      "definitionEN": "an aspect of a situation or one flat surface of a cut object",
+      "definitionCN": "方面；侧面；琢面",
+      "exampleIds": [
+        "tatoeba-eng-390059",
+        "tatoeba-eng-8860378",
+        "tatoeba-eng-12382099"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "strait",
+      "status": "approved",
+      "definitionEN": "a narrow sea passage, or a difficult situation when used in the plural",
+      "definitionCN": "海峡；（复数）困境",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "anecdote",
+      "status": "approved"
+    },
+    {
+      "word": "freak",
+      "status": "reject",
+      "reason": "Chosen noun examples mix a verb with distinct potentially stigmatizing noun uses; retained alternatives do not supply three clear matching noun contexts."
+    },
+    {
+      "word": "fend",
+      "status": "approved",
+      "definitionEN": "to defend against something or manage without help",
+      "definitionCN": "抵挡；独立谋生",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "furnace",
+      "status": "approved"
+    },
+    {
+      "word": "malaria",
+      "status": "approved",
+      "definitionEN": "a disease spread by infected mosquitoes that can cause fever and chills",
+      "definitionCN": "疟疾",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "carton",
+      "status": "approved"
+    },
+    {
+      "word": "humiliate",
+      "status": "approved"
+    },
+    {
+      "word": "attentive",
+      "status": "approved",
+      "definitionEN": "watching or listening carefully and noticing what is needed",
+      "definitionCN": "专心的；留意的；体贴的",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "anthem",
+      "status": "approved",
+      "definitionCN": "国歌；颂歌",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "bilingual",
+      "status": "approved"
+    },
+    {
+      "word": "acquaint",
+      "status": "approved",
+      "definitionEN": "to make someone familiar with facts, a person, or a situation",
+      "definitionCN": "使了解；使熟悉",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "permeate",
+      "status": "approved"
+    },
+    {
+      "word": "thermometer",
+      "status": "approved"
+    },
+    {
+      "word": "quarterly",
+      "status": "approved",
+      "definitionEN": "occurring every three months, or relating to a three-month period",
+      "definitionCN": "每季度的；季度的",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "procure",
+      "status": "approved"
+    },
+    {
+      "word": "traitor",
+      "status": "approved",
+      "definitionEN": "a person who betrays a country, group, or someone who trusts them",
+      "definitionCN": "叛徒；背叛者",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "flask",
+      "status": "approved"
+    },
+    {
+      "word": "nourish",
+      "status": "approved",
+      "definitionEN": "to provide food or other support needed for growth and health",
+      "definitionCN": "滋养；供养",
+      "exampleIds": [
+        "tatoeba-eng-4131557",
+        "tatoeba-eng-11815762",
+        "tatoeba-eng-9422909"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "oasis",
+      "status": "approved",
+      "definitionEN": "a fertile place in a desert, or a pleasant refuge in difficult surroundings",
+      "definitionCN": "绿洲；舒适的避处",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "idiom",
+      "status": "approved"
+    },
+    {
+      "word": "reptile",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-13720296",
+        "tatoeba-eng-14020449",
+        "tatoeba-eng-9738061"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "quiver",
+      "status": "approved",
+      "definitionEN": "a case carried for holding arrows",
+      "definitionCN": "箭袋",
+      "authoredContexts": [
+        {
+          "text": "The archer carried a leather quiver containing several arrows during the hunting expedition.",
+          "translation": "那位弓箭手在狩猎行程中携带了一个装着几支箭的皮制箭袋。",
+          "register": "Reading",
+          "collocation": "leather quiver"
+        },
+        {
+          "text": "Museums should explain how objects such as a quiver were used in the societies that made them.",
+          "translation": "博物馆应解释箭袋等物品在制造它们的社会中如何使用。",
+          "register": "Writing",
+          "collocation": "a quiver"
+        },
+        {
+          "text": "Is that old quiver part of the equipment display near the entrance?",
+          "translation": "那个旧箭袋是入口附近器具展览的一部分吗？",
+          "register": "Listening",
+          "collocation": "old quiver"
+        }
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "burrow",
+      "status": "approved"
+    },
+    {
+      "word": "concerted",
+      "status": "approved",
+      "definitionCN": "共同努力的；协同的",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "saturate",
+      "status": "approved",
+      "definitionEN": "to fill or soak something completely so it can take no more",
+      "definitionCN": "使充满；使浸透；使饱和",
+      "exampleIds": [
+        "tatoeba-eng-5888040",
+        "tatoeba-eng-6696015",
+        "tatoeba-eng-3242417"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "janitor",
+      "status": "approved",
+      "definitionCN": "清洁工；楼宇管理员",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "coerce",
+      "status": "approved",
+      "definitionEN": "to make someone do something by pressure, threats, or force",
+      "definitionCN": "强迫；胁迫",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "coward",
+      "status": "approved",
+      "definitionEN": "a person who lacks the courage to face danger or difficulty",
+      "definitionCN": "胆小鬼；懦夫",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "omen",
+      "status": "approved"
+    },
+    {
+      "word": "commotion",
+      "status": "approved"
+    },
+    {
+      "word": "trifle",
+      "status": "approved",
+      "definitionEN": "an unimportant matter or a very small amount",
+      "definitionCN": "琐事；少量",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "reimburse",
+      "status": "approved"
+    },
+    {
+      "word": "surmount",
+      "status": "approved",
+      "definitionEN": "to overcome an obstacle, or be placed on top of something",
+      "definitionCN": "克服；位于……之上",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "migratory",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-7781942",
+        "tatoeba-eng-11567790",
+        "tatoeba-eng-1275136"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "calamity",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-971610",
+        "tatoeba-eng-10898871",
+        "tatoeba-eng-307171"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "erroneous",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6130486",
+        "tatoeba-eng-6095079",
+        "tatoeba-eng-12724054"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "insomnia",
+      "status": "approved",
+      "definitionEN": "difficulty falling asleep or staying asleep",
+      "definitionCN": "失眠",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "oppress",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-13792366",
+        "tatoeba-eng-6099107",
+        "tatoeba-eng-6707263"
+      ],
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "gaily",
+      "status": "approved",
+      "definitionEN": "in a cheerful, lively, or brightly coloured way",
+      "definitionCN": "欢乐地；鲜艳地",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "pretext",
+      "status": "approved"
+    },
+    {
+      "word": "eyesight",
+      "status": "approved"
+    },
+    {
+      "word": "physique",
+      "status": "approved"
+    },
+    {
+      "word": "oar",
+      "status": "approved"
+    },
+    {
+      "word": "fallacy",
+      "status": "approved"
+    },
+    {
+      "word": "obsess",
+      "status": "approved"
+    },
+    {
+      "word": "urchin",
+      "status": "approved",
+      "definitionEN": "a mischievous child, or a small spiny sea animal",
+      "definitionCN": "顽童；海胆",
+      "reason": "Reviewed all contexts and corrected the ordinary meaning/POS; source replacements or explicitly authored examples remove incompatible uses."
+    },
+    {
+      "word": "kangaroo",
+      "status": "approved"
+    },
+    {
+      "word": "downpour",
+      "status": "approved",
+      "definitionCN": "倾盆大雨",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "meddle",
+      "status": "approved"
+    },
+    {
+      "word": "pimple",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11777139",
+        "tatoeba-eng-891166",
+        "tatoeba-eng-9022871"
+      ],
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "bookkeeper",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-22457",
+        "tatoeba-eng-3950009",
+        "tatoeba-eng-6574006"
+      ],
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "site",
+      "status": "approved"
+    },
+    {
+      "word": "hospital",
+      "status": "approved"
+    },
+    {
+      "word": "tree",
+      "status": "approved"
+    },
+    {
+      "word": "contract",
+      "status": "approved"
+    },
+    {
+      "word": "blood",
+      "status": "approved",
+      "definitionEN": "the red liquid that circulates through the body carrying oxygen and nutrients",
+      "definitionCN": "血液",
+      "exampleIds": [
+        "tatoeba-eng-4197966",
+        "tatoeba-eng-238772",
+        "tatoeba-eng-921797"
+      ],
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "environment",
+      "status": "approved",
+      "definitionEN": "the conditions and surroundings in which life or an activity occurs",
+      "definitionCN": "环境；周围条件",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "career",
+      "status": "approved",
+      "definitionEN": "the series of jobs and work experiences a person has over time",
+      "definitionCN": "职业生涯；事业",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "ability",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1834938",
+        "tatoeba-eng-314643",
+        "tatoeba-eng-1938"
+      ],
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "skill",
+      "status": "approved",
+      "definitionEN": "an ability to do something well, gained through practice or experience",
+      "definitionCN": "技能；技巧",
+      "exampleIds": [
+        "tatoeba-eng-269874",
+        "tatoeba-eng-6682099",
+        "tatoeba-eng-9260581"
+      ],
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "environmental",
+      "status": "approved"
+    },
+    {
+      "word": "avoid",
+      "status": "approved"
+    },
+    {
+      "word": "hang",
+      "status": "approved",
+      "definitionEN": "the basic understanding or ability needed to do something, especially in a common expression about learning",
+      "definitionCN": "窍门；要领",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "procedure",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-10259277",
+        "tatoeba-eng-58533",
+        "tatoeba-eng-11562051"
+      ],
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "weapon",
+      "status": "approved"
+    },
+    {
+      "word": "item",
+      "status": "approved"
+    },
+    {
+      "word": "writer",
+      "status": "approved",
+      "definitionEN": "a person who produces books, stories, or articles",
+      "definitionCN": "作家；作者",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "payment",
+      "status": "approved",
+      "definitionEN": "money given to settle a debt or buy goods or services",
+      "definitionCN": "付款；款项",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "supply",
+      "status": "approved"
+    },
+    {
+      "word": "bear",
+      "status": "approved"
+    },
+    {
+      "word": "target",
+      "status": "approved",
+      "definitionEN": "a person or thing an action is directed towards, or a result being aimed for",
+      "definitionCN": "目标；对象；靶子",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "studio",
+      "status": "approved",
+      "definitionEN": "a room used for creative work or recording, or a small flat with one main room",
+      "definitionCN": "工作室；演播室；单间公寓",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "crisis",
+      "status": "approved"
+    },
+    {
+      "word": "estate",
+      "status": "approved",
+      "definitionEN": "land and buildings considered as property, or the possessions someone owns",
+      "definitionCN": "房地产；财产",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "sample",
+      "status": "approved"
+    },
+    {
+      "word": "package",
+      "status": "approved",
+      "definitionEN": "an object or group of objects wrapped or boxed for transport, sale, or storage",
+      "definitionCN": "包裹；包装",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "bus",
+      "status": "approved"
+    },
+    {
+      "word": "promise",
+      "status": "approved"
+    },
+    {
+      "word": "dangerous",
+      "status": "approved",
+      "definitionEN": "likely to cause injury, damage, or serious problems",
+      "definitionCN": "危险的",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "actor",
+      "status": "approved",
+      "definitionEN": "a person who performs characters in plays, films, or television programmes",
+      "definitionCN": "演员",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "neck",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8511557",
+        "tatoeba-eng-2506606",
+        "tatoeba-eng-283541"
+      ],
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "educational",
+      "status": "approved",
+      "definitionEN": "relating to teaching or learning, or intended to increase knowledge",
+      "definitionCN": "教育的；有教育意义的",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "temperature",
+      "status": "approved"
+    },
+    {
+      "word": "novel",
+      "status": "approved"
+    },
+    {
+      "word": "silence",
+      "status": "approved",
+      "definitionEN": "an absence of sound or speech",
+      "definitionCN": "寂静；沉默",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "afford",
+      "status": "approved",
+      "definitionEN": "to have enough money, time, or resources to pay for or do something",
+      "definitionCN": "负担得起；有能力做",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "membership",
+      "status": "approved",
+      "definitionEN": "the status of belonging to a group, or the people who belong to it",
+      "definitionCN": "会员资格；成员身份；全体成员",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "vital",
+      "status": "approved",
+      "definitionEN": "essential or extremely important",
+      "definitionCN": "至关重要的；必不可少的",
+      "exampleIds": [
+        "tatoeba-eng-9529786",
+        "tatoeba-eng-11815755",
+        "tatoeba-eng-6708762"
+      ],
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "request",
+      "status": "approved",
+      "definitionEN": "an act or message asking for something",
+      "definitionCN": "请求；申请",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "grand",
+      "status": "approved",
+      "definitionEN": "impressive or splendid, or the main and most important of its kind",
+      "definitionCN": "宏伟的；豪华的；最重要的",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "marketing",
+      "status": "approved"
+    },
+    {
+      "word": "liability",
+      "status": "approved",
+      "definitionEN": "a legal or financial responsibility, or something that creates a disadvantage",
+      "definitionCN": "责任；负债；不利因素",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "champion",
+      "status": "approved"
+    },
+    {
+      "word": "column",
+      "status": "approved",
+      "definitionEN": "a tall vertical shape or structure, or a series arranged in a line",
+      "definitionCN": "柱；柱状物；列",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "hat",
+      "status": "approved"
+    },
+    {
+      "word": "personality",
+      "status": "approved"
+    },
+    {
+      "word": "spiritual",
+      "status": "approved"
+    },
+    {
+      "word": "constitution",
+      "status": "approved",
+      "definitionEN": "the basic laws of a state, or a person’s physical condition and strength",
+      "definitionCN": "宪法；体质",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "album",
+      "status": "approved",
+      "definitionEN": "a collection of recorded music, or a book for storing photographs or other items",
+      "definitionCN": "音乐专辑；相册",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "symptom",
+      "status": "approved",
+      "definitionEN": "a sign of a disease or of a wider underlying problem",
+      "definitionCN": "症状；征兆",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "intense",
+      "status": "approved",
+      "definitionEN": "very strong, deep, or extreme",
+      "definitionCN": "强烈的；剧烈的",
+      "exampleIds": [
+        "tatoeba-eng-8825691",
+        "tatoeba-eng-280331",
+        "tatoeba-eng-3720652"
+      ],
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "anger",
+      "status": "approved",
+      "definitionCN": "愤怒",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "tendency",
+      "status": "approved"
+    },
+    {
+      "word": "phenomenon",
+      "status": "approved",
+      "definitionEN": "an event, fact, or process that can be observed",
+      "definitionCN": "现象",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "electronic",
+      "status": "approved",
+      "definitionEN": "using circuits or devices that control the flow of electrons, or stored in digital form",
+      "definitionCN": "电子的；数字形式的",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "maximum",
+      "status": "approved"
+    },
+    {
+      "word": "equation",
+      "status": "approved"
+    },
+    {
+      "word": "literally",
+      "status": "approved",
+      "definitionEN": "without a figurative meaning, or used to give strong emphasis in informal speech",
+      "definitionCN": "按字面意义地；确实（口语强调）",
+      "exampleIds": [
+        "tatoeba-eng-2176547",
+        "tatoeba-eng-10075706",
+        "tatoeba-eng-10185892"
+      ],
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "install",
+      "status": "approved"
+    },
+    {
+      "word": "delay",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2938645",
+        "tatoeba-eng-2938647",
+        "tatoeba-eng-63865"
+      ],
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "biological",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11746643",
+        "tatoeba-eng-780830",
+        "tatoeba-eng-9195490"
+      ],
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "remark",
+      "status": "approved"
+    },
+    {
+      "word": "workshop",
+      "status": "approved",
+      "definitionEN": "a room for practical work, or a session where people learn or discuss a skill together",
+      "definitionCN": "工坊；车间；研讨会；工作坊",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "compensation",
+      "status": "approved"
+    },
+    {
+      "word": "chocolate",
+      "status": "approved"
+    },
+    {
+      "word": "ownership",
+      "status": "approved",
+      "definitionEN": "the right to possess something, or responsibility for it",
+      "definitionCN": "所有权；责任归属",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "tissue",
+      "status": "approved",
+      "definitionEN": "a group of similar cells in a living thing, or thin soft paper used for cleaning",
+      "definitionCN": "生物组织；纸巾",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "exceed",
+      "status": "approved"
+    },
+    {
+      "word": "theoretical",
+      "status": "approved"
+    },
+    {
+      "word": "leisure",
+      "status": "approved"
+    },
+    {
+      "word": "sustain",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-5687529",
+        "tatoeba-eng-3561621",
+        "tatoeba-eng-8746031"
+      ],
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "reinforce",
+      "status": "approved"
+    },
+    {
+      "word": "pleasant",
+      "status": "approved"
+    },
+    {
+      "word": "venture",
+      "status": "approved",
+      "definitionEN": "a new undertaking, especially a business activity involving risk",
+      "definitionCN": "冒险事业；商业项目",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "violate",
+      "status": "approved",
+      "definitionEN": "to break a law, rule, agreement, or someone’s rights",
+      "definitionCN": "违反；侵犯",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "canal",
+      "status": "approved",
+      "definitionEN": "an artificial waterway used for transport or to carry water",
+      "definitionCN": "运河；人工水道",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "galaxy",
+      "status": "approved",
+      "definitionEN": "a vast group of stars, gas, and dust held together by gravity",
+      "definitionCN": "星系",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "scandal",
+      "status": "approved",
+      "definitionEN": "an event or behaviour that causes public shock or disapproval, often involving wrongdoing",
+      "definitionCN": "丑闻",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "specimen",
+      "status": "approved"
+    },
+    {
+      "word": "collapse",
+      "status": "approved",
+      "definitionEN": "a sudden failure, breakdown, falling down, or loss of physical strength",
+      "definitionCN": "崩溃；倒塌；虚脱",
+      "exampleIds": [
+        "tatoeba-eng-5774006",
+        "tatoeba-eng-7767302",
+        "tatoeba-eng-3626115"
+      ],
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "terrace",
+      "status": "approved",
+      "definitionEN": "a flat outdoor area beside a building, or a level strip cut into sloping land",
+      "definitionCN": "露台；平台；梯田",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "assert",
+      "status": "approved"
+    },
+    {
+      "word": "inadequate",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11736115",
+        "tatoeba-eng-62344",
+        "tatoeba-eng-44670"
+      ],
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "odds",
+      "status": "approved",
+      "definitionEN": "the chances of an outcome, or difficulties that must be overcome",
+      "definitionCN": "可能性；胜算；不利条件",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "portray",
+      "status": "approved",
+      "definitionEN": "to represent or describe someone or something in a particular way",
+      "definitionCN": "描绘；描述",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "pet",
+      "status": "approved",
+      "definitionEN": "an animal kept at home for company or enjoyment",
+      "definitionCN": "宠物",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "piano",
+      "status": "approved"
+    },
+    {
+      "word": "lamp",
+      "status": "approved"
+    },
+    {
+      "word": "bulk",
+      "status": "approved",
+      "definitionEN": "the large size or mass of something, or the greater part of a whole",
+      "definitionCN": "体积；大部分",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "mess",
+      "status": "approved",
+      "definitionEN": "a dirty or untidy state, or a difficult and confused situation",
+      "definitionCN": "杂乱；混乱；困境",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "desirable",
+      "status": "approved"
+    },
+    {
+      "word": "integrity",
+      "status": "approved",
+      "definitionEN": "the quality of being honest and guided by strong moral principles",
+      "definitionCN": "正直；诚信",
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "trunk",
+      "status": "approved"
+    },
+    {
+      "word": "assemble",
+      "status": "approved",
+      "definitionEN": "to gather people or things together, or put parts together to make a whole",
+      "definitionCN": "聚集；收集；装配",
+      "exampleIds": [
+        "tatoeba-eng-8597315",
+        "tatoeba-eng-238343",
+        "tatoeba-eng-48683"
+      ],
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "obstacle",
+      "status": "approved",
+      "definitionEN": "something that blocks movement or makes progress difficult",
+      "definitionCN": "障碍；阻碍",
+      "exampleIds": [
+        "tatoeba-eng-11698706",
+        "tatoeba-eng-6620896",
+        "tatoeba-eng-5635532"
+      ],
+      "reason": "All three contexts reviewed; editorial meaning clarification and retained-source replacements align the ordinary senses and remove unsuitable wording."
+    },
+    {
+      "word": "filter",
+      "status": "approved"
+    },
+    {
+      "word": "skirt",
+      "status": "approved",
+      "definitionEN": "a garment worn from the waist down, or the lower hanging part of another garment",
+      "definitionCN": "裙子；下摆",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "uncomfortable",
+      "status": "approved",
+      "definitionEN": "causing or feeling physical discomfort, embarrassment, or unease",
+      "definitionCN": "不舒服的；不自在的",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "trigger",
+      "status": "approved"
+    },
+    {
+      "word": "convict",
+      "status": "approved",
+      "reason": "The retained noun alternatives lacked three natural sentences with a single target occurrence; replaced the full set with three clearly labelled original noun contexts.",
+      "definitionEN": "a person found guilty of a crime, especially one serving a prison sentence",
+      "definitionCN": "被判有罪者；囚犯",
+      "authoredContexts": [
+        {
+          "text": "The escaped convict was found near the station after police searched the surrounding villages.",
+          "translation": "警方搜查周边村庄后，在车站附近找到了那名逃犯。",
+          "register": "Reading",
+          "collocation": "escaped convict"
+        },
+        {
+          "text": "A former convict should have access to training that supports a return to stable employment.",
+          "translation": "刑满释放人员应能获得帮助其重新取得稳定工作的培训。",
+          "register": "Writing",
+          "collocation": "former convict"
+        },
+        {
+          "text": "Was the man in that documentary a convict before he became a writer?",
+          "translation": "那部纪录片里的男人在成为作家之前是囚犯吗？",
+          "register": "Listening",
+          "collocation": "a convict"
+        }
+      ]
+    },
+    {
+      "word": "seminar",
+      "status": "approved"
+    },
+    {
+      "word": "panic",
+      "status": "approved"
+    },
+    {
+      "word": "shuttle",
+      "status": "approved",
+      "definitionEN": "a vehicle that travels regularly between places, or a reusable spacecraft",
+      "definitionCN": "往返班车；航天飞机",
+      "exampleIds": [
+        "tatoeba-eng-1315823",
+        "tatoeba-eng-51798",
+        "tatoeba-eng-49602"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "pursuit",
+      "status": "approved",
+      "definitionEN": "an activity or aim someone spends effort on, or the act of trying to achieve or catch something",
+      "definitionCN": "追求；活动；追赶",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "practically",
+      "status": "approved",
+      "definitionEN": "almost, or considering how things work in real situations",
+      "definitionCN": "几乎；实际地",
+      "exampleIds": [
+        "tatoeba-eng-304891",
+        "tatoeba-eng-6090585",
+        "tatoeba-eng-4336580"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "candle",
+      "status": "approved"
+    },
+    {
+      "word": "gravity",
+      "status": "approved"
+    },
+    {
+      "word": "magnitude",
+      "status": "approved",
+      "definitionEN": "the size, amount, or extent of something",
+      "definitionCN": "大小；程度",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "scan",
+      "status": "approved",
+      "definitionEN": "a systematic examination, often using a machine, or the image it produces",
+      "definitionCN": "扫描；扫描图像；检查",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "divine",
+      "status": "approved",
+      "definitionEN": "connected with a god, or exceptionally wonderful",
+      "definitionCN": "神的；神圣的；极好的",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "stiff",
+      "status": "approved",
+      "definitionEN": "rigid or difficult to bend, or tense and showing little emotion",
+      "definitionCN": "僵硬的；紧绷的；不露情绪的",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "parental",
+      "status": "approved",
+      "definitionEN": "relating to parents or the care they give their children",
+      "definitionCN": "父母的；育儿的",
+      "exampleIds": [
+        "tatoeba-eng-5215468",
+        "tatoeba-eng-265813",
+        "tatoeba-eng-12351526"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "drawer",
+      "status": "approved"
+    },
+    {
+      "word": "prey",
+      "status": "approved",
+      "definitionEN": "an animal hunted for food, or a person or group vulnerable to attack or exploitation",
+      "definitionCN": "猎物；受害者",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "terrific",
+      "status": "approved",
+      "definitionEN": "extremely good, or very great in degree or force",
+      "definitionCN": "极好的；很大的；强烈的",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "sympathetic",
+      "status": "approved",
+      "definitionEN": "showing understanding, kindness, or support for someone’s feelings or situation",
+      "definitionCN": "同情的；体谅的",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "tighten",
+      "status": "approved",
+      "definitionEN": "to make something firmer, less loose, or more strictly controlled",
+      "definitionCN": "拧紧；收紧；使更严格",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "crush",
+      "status": "approved",
+      "definitionEN": "a crowded mass of people, or a strong and often brief romantic attraction",
+      "definitionCN": "拥挤的人群；迷恋",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "hazard",
+      "status": "approved",
+      "definitionCN": "危险；危害；危险因素",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "charm",
+      "status": "approved",
+      "definitionEN": "an attractive or pleasing quality, or an object believed to bring good luck",
+      "definitionCN": "魅力；护身符；幸运物",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "fever",
+      "status": "approved"
+    },
+    {
+      "word": "outfit",
+      "status": "approved",
+      "definitionEN": "a set of clothes worn together, or equipment for a particular activity",
+      "definitionCN": "一套服装；装备",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "compel",
+      "status": "approved"
+    },
+    {
+      "word": "embark",
+      "status": "approved",
+      "definitionEN": "to begin a journey or activity, especially by going aboard a ship",
+      "definitionCN": "登船；开始从事",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "ambassador",
+      "status": "approved"
+    },
+    {
+      "word": "timetable",
+      "status": "approved"
+    },
+    {
+      "word": "glimpse",
+      "status": "approved"
+    },
+    {
+      "word": "revision",
+      "status": "approved",
+      "definitionEN": "the act of changing and improving something, or studying material again before an exam",
+      "definitionCN": "修订；复习",
+      "exampleIds": [
+        "tatoeba-eng-8160877",
+        "tatoeba-eng-12766331",
+        "tatoeba-eng-3483082"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "manuscript",
+      "status": "approved"
+    },
+    {
+      "word": "steer",
+      "status": "approved",
+      "definitionEN": "to control direction or guide a course of action, including avoiding something",
+      "definitionCN": "驾驶；引导；避开（常与 clear 连用）",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "dictate",
+      "status": "approved",
+      "definitionEN": "to say words for someone to write down, or control what others must do",
+      "definitionCN": "口述；命令；支配",
+      "exampleIds": [
+        "tatoeba-eng-2802476",
+        "tatoeba-eng-7325670",
+        "tatoeba-eng-7477384"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "threshold",
+      "status": "approved",
+      "definitionEN": "a doorway’s entrance or lower edge, or a level at which something begins to change",
+      "definitionCN": "门槛；阈值；起点",
+      "exampleIds": [
+        "tatoeba-eng-6219053",
+        "tatoeba-eng-10524989",
+        "tatoeba-eng-1256544"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "aspiration",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11874849",
+        "tatoeba-eng-8657121",
+        "tatoeba-eng-1490963"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "ego",
+      "status": "approved",
+      "definitionEN": "a person’s sense of self, especially their pride or self-importance",
+      "definitionCN": "自我；自尊；自负",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "preach",
+      "status": "approved",
+      "definitionEN": "to deliver a religious talk or strongly promote a belief or way of behaving",
+      "definitionCN": "讲道；宣扬；说教",
+      "exampleIds": [
+        "tatoeba-eng-2483511",
+        "tatoeba-eng-11761004",
+        "tatoeba-eng-403325"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "lace",
+      "status": "approved",
+      "definitionEN": "a delicate decorative fabric with an open pattern, or a cord used to fasten clothing",
+      "definitionCN": "花边；蕾丝；鞋带",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "butterfly",
+      "status": "approved"
+    },
+    {
+      "word": "bargain",
+      "status": "approved",
+      "definitionCN": "交易；协议",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "recorder",
+      "status": "approved",
+      "definitionEN": "a device that captures sound or other information, or a small woodwind instrument",
+      "definitionCN": "录音机；记录装置；竖笛",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "miserable",
+      "status": "approved",
+      "definitionEN": "very unhappy, unpleasant, or in a poor condition",
+      "definitionCN": "悲惨的；痛苦的；令人难受的",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "amateur",
+      "status": "approved"
+    },
+    {
+      "word": "exert",
+      "status": "approved",
+      "definitionEN": "to apply force or influence, or make a strong effort",
+      "definitionCN": "施加；发挥；努力",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "precedent",
+      "status": "approved"
+    },
+    {
+      "word": "fury",
+      "status": "approved",
+      "definitionEN": "extreme anger or violent force",
+      "definitionCN": "暴怒；猛烈",
+      "exampleIds": [
+        "tatoeba-eng-59596",
+        "tatoeba-eng-411809",
+        "tatoeba-eng-1225011"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "herd",
+      "status": "approved",
+      "definitionEN": "a group of large animals of the same kind that live or move together",
+      "definitionCN": "兽群",
+      "exampleIds": [
+        "tatoeba-eng-7023321",
+        "tatoeba-eng-322039",
+        "tatoeba-eng-11500475"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "choke",
+      "status": "approved",
+      "definitionEN": "to have difficulty breathing because the throat is blocked, or fail under pressure",
+      "definitionCN": "窒息；噎住；因紧张失常",
+      "exampleIds": [
+        "tatoeba-eng-266993",
+        "tatoeba-eng-9584713",
+        "tatoeba-eng-10055028"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "glorious",
+      "status": "approved",
+      "definitionEN": "wonderfully beautiful or enjoyable, or worthy of admiration and honour",
+      "definitionCN": "美好的；壮丽的；光荣的",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "cane",
+      "status": "approved"
+    },
+    {
+      "word": "uphold",
+      "status": "approved"
+    },
+    {
+      "word": "flaw",
+      "status": "approved",
+      "definitionEN": "a fault or weakness that reduces quality, strength, or effectiveness",
+      "definitionCN": "缺陷；瑕疵；缺点",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "ambiguity",
+      "status": "approved",
+      "definitionEN": "the possibility of more than one meaning, or a lack of clarity about what is meant",
+      "definitionCN": "歧义；含糊",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "portable",
+      "status": "approved"
+    },
+    {
+      "word": "glare",
+      "status": "approved",
+      "definitionEN": "a strong, unpleasantly bright light",
+      "definitionCN": "刺眼的强光",
+      "exampleIds": [
+        "tatoeba-eng-11870652",
+        "tatoeba-eng-2982372",
+        "tatoeba-eng-12079825"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "indulge",
+      "status": "approved",
+      "definitionEN": "to allow someone a pleasure, or give oneself freely to an activity",
+      "definitionCN": "纵容；沉溺；尽情享受",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "pillar",
+      "status": "approved",
+      "definitionEN": "an upright support, or a person, idea, or institution that provides essential support",
+      "definitionCN": "柱子；支柱",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "uneasy",
+      "status": "approved"
+    },
+    {
+      "word": "millennium",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3934916",
+        "tatoeba-eng-9211687",
+        "tatoeba-eng-11883550"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "applaud",
+      "status": "approved"
+    },
+    {
+      "word": "freight",
+      "status": "approved",
+      "definitionEN": "goods carried in bulk by road, rail, sea, or air, or the cost of transporting them",
+      "definitionCN": "货物；货运；运费",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "chord",
+      "status": "approved",
+      "definitionEN": "three or more musical notes sounded together",
+      "definitionCN": "和弦",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "corrupt",
+      "status": "approved"
+    },
+    {
+      "word": "cosmic",
+      "status": "approved"
+    },
+    {
+      "word": "lottery",
+      "status": "approved",
+      "definitionEN": "a game or process in which chance determines who receives a prize or advantage",
+      "definitionCN": "彩票；抽签；靠运气的机会",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "gossip",
+      "status": "approved"
+    },
+    {
+      "word": "cushion",
+      "status": "approved",
+      "definitionEN": "a soft padded object used to support the body or make a seat more comfortable",
+      "definitionCN": "靠垫；坐垫",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "denote",
+      "status": "approved"
+    },
+    {
+      "word": "dwarf",
+      "status": "approved",
+      "definitionEN": "an unusually small person or thing, including certain celestial objects",
+      "definitionCN": "矮人；矮小者；矮星",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "emit",
+      "status": "approved",
+      "definitionEN": "to send out light, heat, sound, gas, or other substances",
+      "definitionCN": "发出；释放；排放",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "oblige",
+      "status": "approved",
+      "definitionEN": "to require or force someone to do something",
+      "definitionCN": "迫使；使不得不",
+      "exampleIds": [
+        "tatoeba-eng-311440",
+        "tatoeba-eng-312382",
+        "tatoeba-eng-245268"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "badge",
+      "status": "approved"
+    },
+    {
+      "word": "undo",
+      "status": "approved",
+      "definitionEN": "to reverse an action or unfasten something",
+      "definitionCN": "撤销；解开",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "scenery",
+      "status": "approved",
+      "definitionEN": "the natural features of a place, especially those admired as a view",
+      "definitionCN": "风景；景色",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "tractor",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1422539",
+        "tatoeba-eng-266264",
+        "tatoeba-eng-6431142"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "cape",
+      "status": "approved",
+      "definitionEN": "a sleeveless garment hanging from the shoulders, or a headland extending into the sea",
+      "definitionCN": "披风；海角",
+      "exampleIds": [
+        "tatoeba-eng-10637183",
+        "tatoeba-eng-8855841",
+        "tatoeba-eng-11502061"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "bust",
+      "status": "approved",
+      "partOfSpeech": "adj.",
+      "forms": [],
+      "definitionEN": "bankrupt or unsuccessful after failure",
+      "definitionCN": "破产的；失败的",
+      "exampleIds": [
+        "tatoeba-eng-3069409",
+        "tatoeba-eng-3291581",
+        "tatoeba-eng-9125608"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "linguistics",
+      "status": "approved"
+    },
+    {
+      "word": "discrepancy",
+      "status": "approved"
+    },
+    {
+      "word": "scout",
+      "status": "approved",
+      "definitionEN": "a person sent to gather information, or a member of a youth organisation teaching outdoor skills",
+      "definitionCN": "侦察员；童子军",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "pathetic",
+      "status": "approved",
+      "definitionEN": "causing pity, or so poor or weak that it deserves criticism",
+      "definitionCN": "可怜的；差劲的",
+      "exampleIds": [
+        "tatoeba-eng-7954959",
+        "tatoeba-eng-2817694",
+        "tatoeba-eng-612235"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "lever",
+      "status": "approved"
+    },
+    {
+      "word": "susceptible",
+      "status": "approved",
+      "definitionEN": "easily affected or harmed by something",
+      "definitionCN": "易受影响的；易受损害的",
+      "exampleIds": [
+        "tatoeba-eng-10284730",
+        "tatoeba-eng-8905603",
+        "tatoeba-eng-8819084"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "crumble",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-695215",
+        "tatoeba-eng-10982655",
+        "tatoeba-eng-10551659"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "blaze",
+      "status": "approved",
+      "definitionEN": "a large strong fire, or a bright burst of light or colour",
+      "definitionCN": "大火；火焰；强光",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "dwell",
+      "status": "approved",
+      "definitionEN": "to live or exist in a particular place",
+      "definitionCN": "居住；存在",
+      "authoredContexts": [
+        {
+          "text": "Several communities dwell in the forest and depend on its rivers for food and transport.",
+          "translation": "几个社区居住在森林里，依靠其中的河流获取食物并运输。",
+          "register": "Reading",
+          "collocation": "dwell in the forest"
+        },
+        {
+          "text": "People who dwell in remote villages should have access to reliable healthcare and education.",
+          "translation": "居住在偏远村庄的人们也应能获得可靠的医疗和教育服务。",
+          "register": "Writing",
+          "collocation": "dwell in remote villages"
+        },
+        {
+          "text": "I never knew that so many species dwell in this tiny patch of woodland.",
+          "translation": "我以前从不知道这么多物种栖居在这片小小的林地中。",
+          "register": "Listening",
+          "collocation": "species dwell"
+        }
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "dart",
+      "status": "approved",
+      "authoredContexts": [
+        {
+          "text": "The player’s final dart landed near the centre of the board and won the match.",
+          "translation": "那位选手的最后一支飞镖落在靶心附近，赢得了比赛。",
+          "register": "Reading",
+          "collocation": "final dart"
+        },
+        {
+          "text": "A sharp dart should be stored safely when children use the room for other activities.",
+          "translation": "孩子们在房间里进行其他活动时，锋利的飞镖应妥善存放。",
+          "register": "Writing",
+          "collocation": "sharp dart"
+        },
+        {
+          "text": "Could you pick up the dart that fell beside your chair?",
+          "translation": "你能捡起掉在椅子旁边的那支飞镖吗？",
+          "register": "Listening",
+          "collocation": "the dart that fell"
+        }
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "flicker",
+      "status": "approved",
+      "definitionEN": "a brief, unsteady light or a slight momentary sign of a feeling",
+      "definitionCN": "闪烁；一丝（情绪）",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "bully",
+      "status": "approved",
+      "definitionEN": "a person who repeatedly hurts, threatens, or frightens someone weaker",
+      "definitionCN": "欺凌他人者；霸凌者",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "wield",
+      "status": "approved",
+      "definitionEN": "to hold and use a weapon or tool, or exercise power or influence",
+      "definitionCN": "使用；挥舞；行使",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "reap",
+      "status": "approved",
+      "definitionEN": "to harvest a crop or receive the results of earlier actions",
+      "definitionCN": "收割；获得（结果）",
+      "exampleIds": [
+        "tatoeba-eng-1697",
+        "tatoeba-eng-2840539",
+        "tatoeba-eng-10138994"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "masterpiece",
+      "status": "approved"
+    },
+    {
+      "word": "temperament",
+      "status": "approved",
+      "definitionEN": "a person’s or animal’s usual emotional character, or a system for tuning musical notes",
+      "definitionCN": "性情；气质；（音乐）调律法",
+      "exampleIds": [
+        "tatoeba-eng-5798524",
+        "tatoeba-eng-6712947",
+        "tatoeba-eng-11738353"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "intuition",
+      "status": "approved",
+      "definitionEN": "an understanding or feeling reached without conscious reasoning",
+      "definitionCN": "直觉",
+      "exampleIds": [
+        "tatoeba-eng-10617447",
+        "tatoeba-eng-10610452",
+        "tatoeba-eng-5756480"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "buzz",
+      "status": "approved",
+      "definitionEN": "a low vibrating sound, or an informal telephone call",
+      "definitionCN": "嗡嗡声；电话（口语）",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "ore",
+      "status": "approved"
+    },
+    {
+      "word": "jog",
+      "status": "approved",
+      "definitionEN": "a slow, steady run, especially for exercise",
+      "definitionCN": "慢跑",
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "multitude",
+      "status": "approved",
+      "definitionEN": "a very large number of people or things",
+      "definitionCN": "众多；大量；人群",
+      "exampleIds": [
+        "tatoeba-eng-4456136",
+        "tatoeba-eng-6203055",
+        "tatoeba-eng-5374462"
+      ],
+      "reason": "All three uses reviewed; adjusted ordinary meanings/POS and replaced incompatible, archaic, or unsuitable contexts with genuine source alternatives or clearly original learning contexts."
+    },
+    {
+      "word": "evade",
+      "status": "approved",
+      "definitionEN": "to escape, avoid, or remain beyond someone’s reach or understanding",
+      "definitionCN": "逃避；躲避；使难以理解",
+      "exampleIds": [
+        "tatoeba-eng-11567762",
+        "tatoeba-eng-1224521",
+        "tatoeba-eng-14035620"
+      ],
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "skim",
+      "status": "approved",
+      "definitionEN": "to move lightly over a surface or read quickly for the main points",
+      "definitionCN": "掠过；略读",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "cradle",
+      "status": "approved"
+    },
+    {
+      "word": "amuse",
+      "status": "approved"
+    },
+    {
+      "word": "hinge",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6980555",
+        "tatoeba-eng-6620953",
+        "tatoeba-eng-11891751"
+      ],
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "banquet",
+      "status": "approved",
+      "authoredContexts": [
+        {
+          "text": "The university held a banquet for visiting researchers after the final lecture of the conference.",
+          "translation": "大学在会议最后一场讲座后为来访研究人员举行了宴会。",
+          "register": "Reading",
+          "collocation": "held a banquet"
+        },
+        {
+          "text": "Money spent on a lavish banquet should be justified when an organisation relies on public funding.",
+          "translation": "依赖公共资金的机构应说明举办奢华宴会的开支是否合理。",
+          "register": "Writing",
+          "collocation": "lavish banquet"
+        },
+        {
+          "text": "Have you decided what to wear to the banquet at the town hall?",
+          "translation": "你决定好穿什么去参加市政厅的宴会了吗？",
+          "register": "Listening",
+          "collocation": "the banquet at the town hall"
+        }
+      ],
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "caption",
+      "status": "approved",
+      "definitionEN": "words explaining an image or displaying speech and sounds on a screen",
+      "definitionCN": "图片说明；字幕",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "nausea",
+      "status": "approved"
+    },
+    {
+      "word": "haste",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1490918",
+        "tatoeba-eng-7120824",
+        "tatoeba-eng-5941959"
+      ],
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "unhealthy",
+      "status": "approved",
+      "definitionEN": "not good for physical or mental wellbeing",
+      "definitionCN": "不健康的",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "feeble",
+      "status": "approved",
+      "definitionEN": "weak in strength, power, or effectiveness",
+      "definitionCN": "虚弱的；微弱的；无力的",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "tempo",
+      "status": "approved"
+    },
+    {
+      "word": "proficiency",
+      "status": "approved",
+      "definitionEN": "the ability to do something skilfully and well",
+      "definitionCN": "熟练程度；精通",
+      "authoredContexts": [
+        {
+          "text": "The course measures proficiency through short interviews, written tasks, and practical conversations with other learners.",
+          "translation": "这门课程通过简短面试、写作任务以及与其他学习者的实际对话来衡量熟练程度。",
+          "register": "Reading",
+          "collocation": "measures proficiency"
+        },
+        {
+          "text": "Language tests should assess proficiency in realistic situations rather than reward memorised answers alone.",
+          "translation": "语言考试应评估真实情境中的熟练程度，而不应仅奖励背下来的答案。",
+          "register": "Writing",
+          "collocation": "assess proficiency"
+        },
+        {
+          "text": "How much did your proficiency improve after you spent a summer working abroad?",
+          "translation": "在国外工作了一个夏天后，你的熟练程度提高了多少？",
+          "register": "Listening",
+          "collocation": "your proficiency"
+        }
+      ],
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "detergent",
+      "status": "approved"
+    },
+    {
+      "word": "glitter",
+      "status": "approved",
+      "definitionEN": "tiny shiny particles used for decoration, or a bright sparkling light",
+      "definitionCN": "闪粉；闪光",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "evict",
+      "status": "approved",
+      "definitionEN": "to force someone to leave property, usually using legal authority",
+      "definitionCN": "驱逐（房客等）",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "bustle",
+      "status": "approved",
+      "definitionEN": "busy movement and noise",
+      "definitionCN": "喧闹；忙碌",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "dazzle",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-11870652",
+        "tatoeba-eng-6309911",
+        "tatoeba-eng-4540433"
+      ],
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "epoch",
+      "status": "approved",
+      "definitionEN": "a distinct period of history or of someone’s life",
+      "definitionCN": "时代；时期",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "dearth",
+      "status": "approved",
+      "definitionEN": "a serious shortage of something needed",
+      "definitionCN": "缺乏；短缺",
+      "authoredContexts": [
+        {
+          "text": "Researchers reported a dearth of reliable measurements from the remote northern coastline.",
+          "translation": "研究人员报告说，偏远的北部海岸缺乏可靠的测量资料。",
+          "register": "Reading",
+          "collocation": "a dearth of reliable measurements"
+        },
+        {
+          "text": "A dearth of affordable housing can force essential workers to live far from their workplaces.",
+          "translation": "缺乏可负担住房会迫使从事必要服务的劳动者住在远离工作地点的地方。",
+          "register": "Writing",
+          "collocation": "dearth of affordable housing"
+        },
+        {
+          "text": "Is the dearth of volunteers the reason the event was postponed?",
+          "translation": "志愿者短缺是这次活动推迟的原因吗？",
+          "register": "Listening",
+          "collocation": "dearth of volunteers"
+        }
+      ],
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "repent",
+      "status": "approved",
+      "definitionEN": "to feel sorry for past wrongdoing and decide to change",
+      "definitionCN": "悔改；忏悔",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "kindle",
+      "status": "approved",
+      "definitionEN": "to start a fire or awaken a strong feeling",
+      "definitionCN": "点燃；唤起",
+      "authoredContexts": [
+        {
+          "text": "The exhibition helped kindle public interest in crafts that had nearly disappeared from the region.",
+          "translation": "这次展览帮助唤起了公众对该地区几乎消失的手工艺的兴趣。",
+          "register": "Reading",
+          "collocation": "kindle public interest"
+        },
+        {
+          "text": "Schools can kindle curiosity by encouraging children to ask questions and test their own ideas.",
+          "translation": "学校可以通过鼓励孩子提问并验证自己的想法来激发好奇心。",
+          "register": "Writing",
+          "collocation": "kindle curiosity"
+        },
+        {
+          "text": "Could you bring some dry twigs so we can kindle a small fire?",
+          "translation": "你能拿些干树枝来，让我们生一小堆火吗？",
+          "register": "Listening",
+          "collocation": "kindle a small fire"
+        }
+      ],
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "season",
+      "status": "approved",
+      "definitionEN": "a period of the year with particular weather conditions or activities",
+      "definitionCN": "季节；时节",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "window",
+      "status": "approved"
+    },
+    {
+      "word": "common",
+      "status": "approved",
+      "definitionEN": "found or happening often, or shared by more than one person or thing",
+      "definitionCN": "常见的；共同的",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "date",
+      "status": "approved",
+      "definitionCN": "日期",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "king",
+      "status": "approved"
+    },
+    {
+      "word": "congress",
+      "status": "approved",
+      "definitionEN": "a national law-making assembly or a formal meeting of representatives",
+      "definitionCN": "国会；代表大会；会议",
+      "exampleIds": [
+        "tatoeba-eng-9356892",
+        "tatoeba-eng-4314113",
+        "tatoeba-eng-13570532"
+      ],
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "behavior",
+      "status": "approved"
+    },
+    {
+      "word": "goal",
+      "status": "approved",
+      "definitionEN": "a result or purpose someone is trying to achieve",
+      "definitionCN": "目标",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "response",
+      "status": "approved",
+      "definitionEN": "a reaction, answer, or action taken because something has happened",
+      "definitionCN": "反应；回应；答复",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "sign",
+      "status": "approved",
+      "definitionEN": "an indication or symbol, or a board displaying information or instructions",
+      "definitionCN": "迹象；符号；标牌",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "resource",
+      "status": "approved",
+      "definitionEN": "something useful that can be drawn on to meet a need or achieve a purpose",
+      "definitionCN": "资源；有用的资料或手段",
+      "exampleIds": [
+        "tatoeba-eng-883152",
+        "tatoeba-eng-11567787",
+        "tatoeba-eng-9422930"
+      ],
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "glass",
+      "status": "approved",
+      "definitionEN": "a hard transparent material used in windows and containers, or a drinking vessel made from it",
+      "definitionCN": "玻璃；玻璃杯",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "rock",
+      "status": "approved"
+    },
+    {
+      "word": "original",
+      "status": "approved",
+      "definitionEN": "existing from the beginning, or new and independently created rather than copied",
+      "definitionCN": "最初的；原创的；有创意的",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "majority",
+      "status": "approved",
+      "definitionEN": "the greater part or number of a whole, or the margin by which votes exceed the alternative",
+      "definitionCN": "大多数；过半数；多数票差",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "coach",
+      "status": "approved",
+      "definitionCN": "教练",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "damage",
+      "status": "approved",
+      "definitionEN": "harm that reduces the value, usefulness, or condition of something",
+      "definitionCN": "损害；损伤",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "speech",
+      "status": "approved",
+      "definitionEN": "spoken communication, or a formal talk delivered to an audience",
+      "definitionCN": "言语；演讲",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "credit",
+      "status": "approved",
+      "definitionEN": "recognition or trust given to someone, or money available to borrow",
+      "definitionCN": "功劳；信誉；信贷",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "length",
+      "status": "approved",
+      "definitionEN": "the distance from one end to the other, or the time something lasts",
+      "definitionCN": "长度；时长",
+      "exampleIds": [
+        "tatoeba-eng-287281",
+        "tatoeba-eng-320156",
+        "tatoeba-eng-4222591"
+      ],
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "conflict",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-318880",
+        "tatoeba-eng-246109",
+        "tatoeba-eng-6015148"
+      ],
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "pair",
+      "status": "approved"
+    },
+    {
+      "word": "driver",
+      "status": "approved",
+      "definitionEN": "a person who operates a car, bus, train, or other vehicle",
+      "definitionCN": "驾驶员；司机",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "danger",
+      "status": "approved"
+    },
+    {
+      "word": "flight",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12819238",
+        "tatoeba-eng-950933",
+        "tatoeba-eng-3885748"
+      ],
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "confidence",
+      "status": "approved",
+      "definitionEN": "belief in one’s own ability, or trust in someone or something",
+      "definitionCN": "信心；信任",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "grant",
+      "status": "approved",
+      "definitionCN": "资助金；补助金",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "traffic",
+      "status": "approved"
+    },
+    {
+      "word": "description",
+      "status": "approved"
+    },
+    {
+      "word": "medicine",
+      "status": "approved",
+      "definitionEN": "a substance used to treat illness, or the study and practice of maintaining health",
+      "definitionCN": "药物；医学",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "birth",
+      "status": "approved"
+    },
+    {
+      "word": "declare",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8607907",
+        "tatoeba-eng-623174",
+        "tatoeba-eng-9640970"
+      ],
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "desire",
+      "status": "approved",
+      "definitionEN": "a strong wish or feeling of wanting something",
+      "definitionCN": "愿望；渴望",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "ticket",
+      "status": "approved"
+    },
+    {
+      "word": "settlement",
+      "status": "approved",
+      "definitionEN": "a place where people have established a community, or an agreement resolving a dispute",
+      "definitionCN": "聚居地；定居点；解决协议",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "waste",
+      "status": "approved",
+      "definitionEN": "the unnecessary use or loss of time, money, or other resources",
+      "definitionCN": "浪费",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "publication",
+      "status": "approved",
+      "definitionEN": "the act of making information or a written work available to the public, or the work itself",
+      "definitionCN": "发表；出版；出版物",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "crown",
+      "status": "approved",
+      "definitionEN": "a royal head covering or a similar ornament, or a protective covering fitted over a tooth",
+      "definitionCN": "王冠；冠状饰物；牙冠",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "suggestion",
+      "status": "approved",
+      "definitionEN": "an idea offered for consideration, or a slight indication of something",
+      "definitionCN": "建议；暗示",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "characteristic",
+      "status": "approved",
+      "partOfSpeech": "adj.",
+      "forms": [],
+      "definitionEN": "typical of or serving to distinguish a person, group, or thing",
+      "definitionCN": "特有的；典型的",
+      "exampleIds": [
+        "tatoeba-eng-258109",
+        "tatoeba-eng-13047962",
+        "tatoeba-eng-10478436"
+      ],
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "smart",
+      "status": "approved",
+      "definitionEN": "intelligent and quick to understand, or neat and stylish in appearance",
+      "definitionCN": "聪明的；整洁时髦的",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "bind",
+      "status": "approved"
+    },
+    {
+      "word": "justify",
+      "status": "approved"
+    },
+    {
+      "word": "gap",
+      "status": "approved",
+      "definitionEN": "a space, distance, or noticeable difference between things or people",
+      "definitionCN": "差距；隔阂；间隔",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    },
+    {
+      "word": "invest",
+      "status": "approved",
+      "definitionEN": "to put money, time, or effort into something in the hope of future benefit",
+      "definitionCN": "投资；投入（时间、精力等）",
+      "reason": "All three contexts reviewed; ordinary meanings/POS corrected, unsuitable examples replaced, and scarce matching-source cases receive explicitly original learning contexts."
+    }
+  ]
+}

@@ -1,0 +1,4227 @@
+{
+  "abundance": {
+    "word": "abundance",
+    "bncRank": 7038,
+    "contemporaryRank": 5425,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "access": {
+    "word": "access",
+    "bncRank": 999,
+    "contemporaryRank": 1113,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "accessible": {
+    "word": "accessible",
+    "bncRank": 4162,
+    "contemporaryRank": 4377,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet6",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "accommodation": {
+    "word": "accommodation",
+    "bncRank": 2048,
+    "contemporaryRank": 5369,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "account": {
+    "word": "account",
+    "bncRank": 498,
+    "contemporaryRank": 1071,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "accumulate": {
+    "word": "accumulate",
+    "bncRank": 4997,
+    "contemporaryRank": 5083,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "accuracy": {
+    "word": "accuracy",
+    "bncRank": 3958,
+    "contemporaryRank": 4076,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "accurate": {
+    "word": "accurate",
+    "bncRank": 2738,
+    "contemporaryRank": 2728,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "achieve": {
+    "word": "achieve",
+    "bncRank": 592,
+    "contemporaryRank": 1152,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "achievement": {
+    "word": "achievement",
+    "bncRank": 1978,
+    "contemporaryRank": 2021,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "acknowledge": {
+    "word": "acknowledge",
+    "bncRank": 2105,
+    "contemporaryRank": 1654,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "acquire": {
+    "word": "acquire",
+    "bncRank": 1407,
+    "contemporaryRank": 2063,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "adapt": {
+    "word": "adapt",
+    "bncRank": 2816,
+    "contemporaryRank": 2933,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "adequate": {
+    "word": "adequate",
+    "bncRank": 2398,
+    "contemporaryRank": 3297,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "adjacent": {
+    "word": "adjacent",
+    "bncRank": 5391,
+    "contemporaryRank": 6649,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "adjust": {
+    "word": "adjust",
+    "bncRank": 2811,
+    "contemporaryRank": 2300,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "administration": {
+    "word": "administration",
+    "bncRank": 1383,
+    "contemporaryRank": 635,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "adopt": {
+    "word": "adopt",
+    "bncRank": 1157,
+    "contemporaryRank": 1632,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "advocate": {
+    "word": "advocate",
+    "bncRank": 4031,
+    "contemporaryRank": 2623,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "affect": {
+    "word": "affect",
+    "bncRank": 754,
+    "contemporaryRank": 963,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "agriculture": {
+    "word": "agriculture",
+    "bncRank": 2274,
+    "contemporaryRank": 4165,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "alleviate": {
+    "word": "alleviate",
+    "bncRank": 7706,
+    "contemporaryRank": 7531,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "allocate": {
+    "word": "allocate",
+    "bncRank": 3035,
+    "contemporaryRank": 6763,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "allocation": {
+    "word": "allocation",
+    "bncRank": 3262,
+    "contemporaryRank": 7082,
+    "ieltsTagged": false,
+    "tags": [],
+    "sourceId": "ecdict"
+  },
+  "alternative": {
+    "word": "alternative",
+    "bncRank": 1752,
+    "contemporaryRank": 2073,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "ambiguous": {
+    "word": "ambiguous",
+    "bncRank": 6442,
+    "contemporaryRank": 7071,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "amend": {
+    "word": "amend",
+    "bncRank": 4585,
+    "contemporaryRank": 7371,
+    "ieltsTagged": true,
+    "tags": [
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "analyse": {
+    "word": "analyse",
+    "bncRank": 2142,
+    "contemporaryRank": 12788,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky"
+    ],
+    "sourceId": "ecdict"
+  },
+  "annual": {
+    "word": "annual",
+    "bncRank": 1215,
+    "contemporaryRank": 1361,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "anticipate": {
+    "word": "anticipate",
+    "bncRank": 3106,
+    "contemporaryRank": 3187,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "apparent": {
+    "word": "apparent",
+    "bncRank": 1770,
+    "contemporaryRank": 2502,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "appeal": {
+    "word": "appeal",
+    "bncRank": 942,
+    "contemporaryRank": 1852,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "apply": {
+    "word": "apply",
+    "bncRank": 522,
+    "contemporaryRank": 938,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "approach": {
+    "word": "approach",
+    "bncRank": 583,
+    "contemporaryRank": 750,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "approximately": {
+    "word": "approximately",
+    "bncRank": 2850,
+    "contemporaryRank": 2365,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "arbitrary": {
+    "word": "arbitrary",
+    "bncRank": 5353,
+    "contemporaryRank": 7545,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "arise": {
+    "word": "arise",
+    "bncRank": 1043,
+    "contemporaryRank": 2581,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "aspect": {
+    "word": "aspect",
+    "bncRank": 862,
+    "contemporaryRank": 1357,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "assess": {
+    "word": "assess",
+    "bncRank": 1488,
+    "contemporaryRank": 2042,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "assessment": {
+    "word": "assessment",
+    "bncRank": 1249,
+    "contemporaryRank": 1552,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet6",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "assumption": {
+    "word": "assumption",
+    "bncRank": 1693,
+    "contemporaryRank": 2606,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "attach": {
+    "word": "attach",
+    "bncRank": 1849,
+    "contemporaryRank": 2320,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "attain": {
+    "word": "attain",
+    "bncRank": 5042,
+    "contemporaryRank": 5323,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "attribute": {
+    "word": "attribute",
+    "bncRank": 3247,
+    "contemporaryRank": 3346,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "authority": {
+    "word": "authority",
+    "bncRank": 285,
+    "contemporaryRank": 832,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "available": {
+    "word": "available",
+    "bncRank": 334,
+    "contemporaryRank": 622,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "awareness": {
+    "word": "awareness",
+    "bncRank": 2404,
+    "contemporaryRank": 2784,
+    "ieltsTagged": true,
+    "tags": [
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "barrier": {
+    "word": "barrier",
+    "bncRank": 2629,
+    "contemporaryRank": 2609,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "beneficial": {
+    "word": "beneficial",
+    "bncRank": 4578,
+    "contemporaryRank": 4991,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "benefit": {
+    "word": "benefit",
+    "bncRank": 656,
+    "contemporaryRank": 812,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "bias": {
+    "word": "bias",
+    "bncRank": 4611,
+    "contemporaryRank": 3925,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "biodiversity": {
+    "word": "biodiversity",
+    "bncRank": 29524,
+    "contemporaryRank": 7767,
+    "ieltsTagged": false,
+    "tags": [],
+    "sourceId": "ecdict"
+  },
+  "boundary": {
+    "word": "boundary",
+    "bncRank": 2050,
+    "contemporaryRank": 2776,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "burden": {
+    "word": "burden",
+    "bncRank": 2696,
+    "contemporaryRank": 2665,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "capable": {
+    "word": "capable",
+    "bncRank": 1848,
+    "contemporaryRank": 2392,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "capacity": {
+    "word": "capacity",
+    "bncRank": 1507,
+    "contemporaryRank": 1777,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "category": {
+    "word": "category",
+    "bncRank": 1419,
+    "contemporaryRank": 1461,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "challenge": {
+    "word": "challenge",
+    "bncRank": 1506,
+    "contemporaryRank": 984,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "circumstance": {
+    "word": "circumstance",
+    "bncRank": 905,
+    "contemporaryRank": 1780,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "citizen": {
+    "word": "citizen",
+    "bncRank": 1924,
+    "contemporaryRank": 1084,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky"
+    ],
+    "sourceId": "ecdict"
+  },
+  "clarify": {
+    "word": "clarify",
+    "bncRank": 4552,
+    "contemporaryRank": 5050,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "classify": {
+    "word": "classify",
+    "bncRank": 4168,
+    "contemporaryRank": 4515,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "cognition": {
+    "word": "cognition",
+    "bncRank": 22519,
+    "contemporaryRank": 10977,
+    "ieltsTagged": false,
+    "tags": [],
+    "sourceId": "ecdict"
+  },
+  "coherent": {
+    "word": "coherent",
+    "bncRank": 5289,
+    "contemporaryRank": 7004,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "coincide": {
+    "word": "coincide",
+    "bncRank": 4134,
+    "contemporaryRank": 6656,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "collaborate": {
+    "word": "collaborate",
+    "bncRank": 7961,
+    "contemporaryRank": 6388,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "collective": {
+    "word": "collective",
+    "bncRank": 3132,
+    "contemporaryRank": 3342,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "commit": {
+    "word": "commit",
+    "bncRank": 1393,
+    "contemporaryRank": 1394,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "commitment": {
+    "word": "commitment",
+    "bncRank": 1355,
+    "contemporaryRank": 1616,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "commodity": {
+    "word": "commodity",
+    "bncRank": 4365,
+    "contemporaryRank": 4581,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "communication": {
+    "word": "communication",
+    "bncRank": 1039,
+    "contemporaryRank": 1250,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "community": {
+    "word": "community",
+    "bncRank": 335,
+    "contemporaryRank": 296,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "compatible": {
+    "word": "compatible",
+    "bncRank": 5142,
+    "contemporaryRank": 7017,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "compensate": {
+    "word": "compensate",
+    "bncRank": 4464,
+    "contemporaryRank": 5037,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "competition": {
+    "word": "competition",
+    "bncRank": 992,
+    "contemporaryRank": 1345,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "compile": {
+    "word": "compile",
+    "bncRank": 4566,
+    "contemporaryRank": 5289,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "complement": {
+    "word": "complement",
+    "bncRank": 5703,
+    "contemporaryRank": 6760,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "complex": {
+    "word": "complex",
+    "bncRank": 1339,
+    "contemporaryRank": 1598,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "complexity": {
+    "word": "complexity",
+    "bncRank": 3335,
+    "contemporaryRank": 3757,
+    "ieltsTagged": false,
+    "tags": [
+      "cet6",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "component": {
+    "word": "component",
+    "bncRank": 1631,
+    "contemporaryRank": 1760,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "comprehensive": {
+    "word": "comprehensive",
+    "bncRank": 2442,
+    "contemporaryRank": 2896,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "comprise": {
+    "word": "comprise",
+    "bncRank": 2504,
+    "contemporaryRank": 4392,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "concentrate": {
+    "word": "concentrate",
+    "bncRank": 1341,
+    "contemporaryRank": 2358,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "concept": {
+    "word": "concept",
+    "bncRank": 1101,
+    "contemporaryRank": 1158,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "conclude": {
+    "word": "conclude",
+    "bncRank": 1687,
+    "contemporaryRank": 1670,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "conduct": {
+    "word": "conduct",
+    "bncRank": 1792,
+    "contemporaryRank": 1162,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "confirm": {
+    "word": "confirm",
+    "bncRank": 1156,
+    "contemporaryRank": 1851,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "consent": {
+    "word": "consent",
+    "bncRank": 2503,
+    "contemporaryRank": 4391,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "consequence": {
+    "word": "consequence",
+    "bncRank": 1234,
+    "contemporaryRank": 1626,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "consequently": {
+    "word": "consequently",
+    "bncRank": 3023,
+    "contemporaryRank": 4363,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "conservation": {
+    "word": "conservation",
+    "bncRank": 3076,
+    "contemporaryRank": 2820,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "conserve": {
+    "word": "conserve",
+    "bncRank": 7632,
+    "contemporaryRank": 7938,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "considerable": {
+    "word": "considerable",
+    "bncRank": 1042,
+    "contemporaryRank": 2855,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "consistent": {
+    "word": "consistent",
+    "bncRank": 2670,
+    "contemporaryRank": 2225,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "constant": {
+    "word": "constant",
+    "bncRank": 1915,
+    "contemporaryRank": 2386,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "constitute": {
+    "word": "constitute",
+    "bncRank": 2270,
+    "contemporaryRank": 2887,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "constrain": {
+    "word": "constrain",
+    "bncRank": 5685,
+    "contemporaryRank": 7740,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "constraint": {
+    "word": "constraint",
+    "bncRank": 2988,
+    "contemporaryRank": 4643,
+    "ieltsTagged": false,
+    "tags": [
+      "cet6",
+      "toefl",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "construct": {
+    "word": "construct",
+    "bncRank": 2058,
+    "contemporaryRank": 2477,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "consult": {
+    "word": "consult",
+    "bncRank": 2826,
+    "contemporaryRank": 3591,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "consume": {
+    "word": "consume",
+    "bncRank": 3627,
+    "contemporaryRank": 3006,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "consumption": {
+    "word": "consumption",
+    "bncRank": 2561,
+    "contemporaryRank": 3146,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "contemporary": {
+    "word": "contemporary",
+    "bncRank": 2068,
+    "contemporaryRank": 1947,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "context": {
+    "word": "context",
+    "bncRank": 1019,
+    "contemporaryRank": 1427,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "contradict": {
+    "word": "contradict",
+    "bncRank": 6870,
+    "contemporaryRank": 6863,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "contribute": {
+    "word": "contribute",
+    "bncRank": 1483,
+    "contemporaryRank": 1312,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "controversial": {
+    "word": "controversial",
+    "bncRank": 3444,
+    "contemporaryRank": 3090,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "controversy": {
+    "word": "controversy",
+    "bncRank": 3460,
+    "contemporaryRank": 2876,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "conventional": {
+    "word": "conventional",
+    "bncRank": 2253,
+    "contemporaryRank": 2554,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "convert": {
+    "word": "convert",
+    "bncRank": 2245,
+    "contemporaryRank": 2895,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "cooperate": {
+    "word": "cooperate",
+    "bncRank": 8712,
+    "contemporaryRank": 4015,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "coordinate": {
+    "word": "coordinate",
+    "bncRank": 7991,
+    "contemporaryRank": 4847,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "correlation": {
+    "word": "correlation",
+    "bncRank": 3912,
+    "contemporaryRank": 3502,
+    "ieltsTagged": false,
+    "tags": [
+      "cet6"
+    ],
+    "sourceId": "ecdict"
+  },
+  "correspond": {
+    "word": "correspond",
+    "bncRank": 3234,
+    "contemporaryRank": 5415,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "create": {
+    "word": "create",
+    "bncRank": 449,
+    "contemporaryRank": 332,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "criterion": {
+    "word": "criterion",
+    "bncRank": 1799,
+    "contemporaryRank": null,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet6",
+      "ky",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "crucial": {
+    "word": "crucial",
+    "bncRank": 2013,
+    "contemporaryRank": 2397,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "cumulative": {
+    "word": "cumulative",
+    "bncRank": 7270,
+    "contemporaryRank": 8447,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "curriculum": {
+    "word": "curriculum",
+    "bncRank": 1694,
+    "contemporaryRank": 2077,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "data": {
+    "word": "data",
+    "bncRank": 552,
+    "contemporaryRank": 559,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "debate": {
+    "word": "debate",
+    "bncRank": 1210,
+    "contemporaryRank": 1082,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "decline": {
+    "word": "decline",
+    "bncRank": 2190,
+    "contemporaryRank": 2000,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "deduce": {
+    "word": "deduce",
+    "bncRank": 7733,
+    "contemporaryRank": 13290,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "define": {
+    "word": "define",
+    "bncRank": 1053,
+    "contemporaryRank": 1210,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky"
+    ],
+    "sourceId": "ecdict"
+  },
+  "definition": {
+    "word": "definition",
+    "bncRank": 1533,
+    "contemporaryRank": 2110,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "deliver": {
+    "word": "deliver",
+    "bncRank": 1459,
+    "contemporaryRank": 1288,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "demand": {
+    "word": "demand",
+    "bncRank": 723,
+    "contemporaryRank": 1287,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "democracy": {
+    "word": "democracy",
+    "bncRank": 1981,
+    "contemporaryRank": 1502,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "demonstrate": {
+    "word": "demonstrate",
+    "bncRank": 1392,
+    "contemporaryRank": 1379,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "density": {
+    "word": "density",
+    "bncRank": 3745,
+    "contemporaryRank": 4513,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "deny": {
+    "word": "deny",
+    "bncRank": 1258,
+    "contemporaryRank": 1406,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "depict": {
+    "word": "depict",
+    "bncRank": 4373,
+    "contemporaryRank": 3205,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "derive": {
+    "word": "derive",
+    "bncRank": 1798,
+    "contemporaryRank": 3051,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "detect": {
+    "word": "detect",
+    "bncRank": 2502,
+    "contemporaryRank": 2763,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "determine": {
+    "word": "determine",
+    "bncRank": 845,
+    "contemporaryRank": 773,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "detrimental": {
+    "word": "detrimental",
+    "bncRank": 9873,
+    "contemporaryRank": 10826,
+    "ieltsTagged": true,
+    "tags": [
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "devote": {
+    "word": "devote",
+    "bncRank": 3407,
+    "contemporaryRank": 3225,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "differ": {
+    "word": "differ",
+    "bncRank": 2552,
+    "contemporaryRank": 2990,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "differentiate": {
+    "word": "differentiate",
+    "bncRank": 5138,
+    "contemporaryRank": 6387,
+    "ieltsTagged": true,
+    "tags": [
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "dimension": {
+    "word": "dimension",
+    "bncRank": 2699,
+    "contemporaryRank": 2420,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "diminish": {
+    "word": "diminish",
+    "bncRank": 4526,
+    "contemporaryRank": 3958,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "disparity": {
+    "word": "disparity",
+    "bncRank": 10067,
+    "contemporaryRank": 7067,
+    "ieltsTagged": false,
+    "tags": [
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "displace": {
+    "word": "displace",
+    "bncRank": 6936,
+    "contemporaryRank": 6789,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "distinct": {
+    "word": "distinct",
+    "bncRank": 2609,
+    "contemporaryRank": 3254,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "distinguish": {
+    "word": "distinguish",
+    "bncRank": 2265,
+    "contemporaryRank": 3246,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "distribute": {
+    "word": "distribute",
+    "bncRank": 2662,
+    "contemporaryRank": 2944,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "distribution": {
+    "word": "distribution",
+    "bncRank": 1456,
+    "contemporaryRank": 2373,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "diverse": {
+    "word": "diverse",
+    "bncRank": 4813,
+    "contemporaryRank": 2813,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "diversity": {
+    "word": "diversity",
+    "bncRank": 4642,
+    "contemporaryRank": 2531,
+    "ieltsTagged": false,
+    "tags": [
+      "toefl",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "domestic": {
+    "word": "domestic",
+    "bncRank": 1381,
+    "contemporaryRank": 1547,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "dominate": {
+    "word": "dominate",
+    "bncRank": 2041,
+    "contemporaryRank": 2312,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "duration": {
+    "word": "duration",
+    "bncRank": 3698,
+    "contemporaryRank": 5426,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "dynamic": {
+    "word": "dynamic",
+    "bncRank": 4218,
+    "contemporaryRank": 3978,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "effective": {
+    "word": "effective",
+    "bncRank": 1007,
+    "contemporaryRank": 1133,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "efficiency": {
+    "word": "efficiency",
+    "bncRank": 2306,
+    "contemporaryRank": 3047,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "efficient": {
+    "word": "efficient",
+    "bncRank": 2196,
+    "contemporaryRank": 2998,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "eliminate": {
+    "word": "eliminate",
+    "bncRank": 3110,
+    "contemporaryRank": 1838,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "emerge": {
+    "word": "emerge",
+    "bncRank": 1252,
+    "contemporaryRank": 1300,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "emission": {
+    "word": "emission",
+    "bncRank": 3483,
+    "contemporaryRank": 2915,
+    "ieltsTagged": false,
+    "tags": [
+      "cet6",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "emphasis": {
+    "word": "emphasis",
+    "bncRank": 1719,
+    "contemporaryRank": 2346,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "emphasise": {
+    "word": "emphasise",
+    "bncRank": 2686,
+    "contemporaryRank": null,
+    "ieltsTagged": false,
+    "tags": [],
+    "sourceId": "ecdict"
+  },
+  "empirical": {
+    "word": "empirical",
+    "bncRank": 4444,
+    "contemporaryRank": 5285,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "employment": {
+    "word": "employment",
+    "bncRank": 933,
+    "contemporaryRank": 2534,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "enable": {
+    "word": "enable",
+    "bncRank": 991,
+    "contemporaryRank": 2192,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "encounter": {
+    "word": "encounter",
+    "bncRank": 2892,
+    "contemporaryRank": 2712,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "enforce": {
+    "word": "enforce",
+    "bncRank": 3577,
+    "contemporaryRank": 3545,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "enhance": {
+    "word": "enhance",
+    "bncRank": 2669,
+    "contemporaryRank": 2331,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "ensure": {
+    "word": "ensure",
+    "bncRank": 712,
+    "contemporaryRank": 1754,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "entrepreneur": {
+    "word": "entrepreneur",
+    "bncRank": 6601,
+    "contemporaryRank": 4279,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "equality": {
+    "word": "equality",
+    "bncRank": 4197,
+    "contemporaryRank": 4590,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "equilibrium": {
+    "word": "equilibrium",
+    "bncRank": 4064,
+    "contemporaryRank": 9063,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "equivalent": {
+    "word": "equivalent",
+    "bncRank": 3051,
+    "contemporaryRank": 4330,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "essential": {
+    "word": "essential",
+    "bncRank": 1155,
+    "contemporaryRank": 1949,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "establish": {
+    "word": "establish",
+    "bncRank": 576,
+    "contemporaryRank": 896,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "evaluate": {
+    "word": "evaluate",
+    "bncRank": 3168,
+    "contemporaryRank": 2339,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "evidence": {
+    "word": "evidence",
+    "bncRank": 456,
+    "contemporaryRank": 606,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "evident": {
+    "word": "evident",
+    "bncRank": 2975,
+    "contemporaryRank": 3466,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "exacerbate": {
+    "word": "exacerbate",
+    "bncRank": 7893,
+    "contemporaryRank": 7171,
+    "ieltsTagged": true,
+    "tags": [
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "exception": {
+    "word": "exception",
+    "bncRank": 2045,
+    "contemporaryRank": 2401,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "exclude": {
+    "word": "exclude",
+    "bncRank": 1940,
+    "contemporaryRank": 3470,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "exhibit": {
+    "word": "exhibit",
+    "bncRank": 3872,
+    "contemporaryRank": 3303,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "expand": {
+    "word": "expand",
+    "bncRank": 2124,
+    "contemporaryRank": 1572,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "expenditure": {
+    "word": "expenditure",
+    "bncRank": 1658,
+    "contemporaryRank": 5170,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "expertise": {
+    "word": "expertise",
+    "bncRank": 2982,
+    "contemporaryRank": 3898,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "explicit": {
+    "word": "explicit",
+    "bncRank": 3722,
+    "contemporaryRank": 4826,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "exploit": {
+    "word": "exploit",
+    "bncRank": 3034,
+    "contemporaryRank": 4374,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "exposure": {
+    "word": "exposure",
+    "bncRank": 3141,
+    "contemporaryRank": 2229,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "extent": {
+    "word": "extent",
+    "bncRank": 990,
+    "contemporaryRank": 1758,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "external": {
+    "word": "external",
+    "bncRank": 1870,
+    "contemporaryRank": 2864,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "facilitate": {
+    "word": "facilitate",
+    "bncRank": 4044,
+    "contemporaryRank": 3568,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "facility": {
+    "word": "facility",
+    "bncRank": 1014,
+    "contemporaryRank": 1297,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "factor": {
+    "word": "factor",
+    "bncRank": 666,
+    "contemporaryRank": 729,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "feasible": {
+    "word": "feasible",
+    "bncRank": 6420,
+    "contemporaryRank": 7591,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "finance": {
+    "word": "finance",
+    "bncRank": 1515,
+    "contemporaryRank": 2808,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "flexible": {
+    "word": "flexible",
+    "bncRank": 3127,
+    "contemporaryRank": 4227,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "fluctuate": {
+    "word": "fluctuate",
+    "bncRank": 11623,
+    "contemporaryRank": 12670,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "formulate": {
+    "word": "formulate",
+    "bncRank": 4149,
+    "contemporaryRank": 5843,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "foster": {
+    "word": "foster",
+    "bncRank": 5618,
+    "contemporaryRank": 4359,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "framework": {
+    "word": "framework",
+    "bncRank": 2177,
+    "contemporaryRank": 2968,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "fundamental": {
+    "word": "fundamental",
+    "bncRank": 2031,
+    "contemporaryRank": 2328,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "generate": {
+    "word": "generate",
+    "bncRank": 1716,
+    "contemporaryRank": 1692,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "global": {
+    "word": "global",
+    "bncRank": 2410,
+    "contemporaryRank": 1110,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "gradual": {
+    "word": "gradual",
+    "bncRank": 5327,
+    "contemporaryRank": 6796,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "habitat": {
+    "word": "habitat",
+    "bncRank": 4609,
+    "contemporaryRank": 3221,
+    "ieltsTagged": false,
+    "tags": [
+      "ky",
+      "toefl",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "hierarchy": {
+    "word": "hierarchy",
+    "bncRank": 3591,
+    "contemporaryRank": 5206,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "hypothesis": {
+    "word": "hypothesis",
+    "bncRank": 3265,
+    "contemporaryRank": 3377,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "identical": {
+    "word": "identical",
+    "bncRank": 3273,
+    "contemporaryRank": 3822,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "identify": {
+    "word": "identify",
+    "bncRank": 757,
+    "contemporaryRank": 770,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "identity": {
+    "word": "identity",
+    "bncRank": 2061,
+    "contemporaryRank": 1322,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "illustrate": {
+    "word": "illustrate",
+    "bncRank": 1676,
+    "contemporaryRank": 2348,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "impact": {
+    "word": "impact",
+    "bncRank": 1263,
+    "contemporaryRank": 919,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "implement": {
+    "word": "implement",
+    "bncRank": 2149,
+    "contemporaryRank": 2285,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "implicit": {
+    "word": "implicit",
+    "bncRank": 5088,
+    "contemporaryRank": 6734,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "imply": {
+    "word": "imply",
+    "bncRank": 1675,
+    "contemporaryRank": 2796,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "impose": {
+    "word": "impose",
+    "bncRank": 1517,
+    "contemporaryRank": 2334,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "incentive": {
+    "word": "incentive",
+    "bncRank": 3252,
+    "contemporaryRank": 2726,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "incorporate": {
+    "word": "incorporate",
+    "bncRank": 2095,
+    "contemporaryRank": 2600,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "increasingly": {
+    "word": "increasingly",
+    "bncRank": 1453,
+    "contemporaryRank": 1585,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky"
+    ],
+    "sourceId": "ecdict"
+  },
+  "independent": {
+    "word": "independent",
+    "bncRank": 1013,
+    "contemporaryRank": 1265,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "indicate": {
+    "word": "indicate",
+    "bncRank": 812,
+    "contemporaryRank": 785,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "induce": {
+    "word": "induce",
+    "bncRank": 3326,
+    "contemporaryRank": 5257,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "inequality": {
+    "word": "inequality",
+    "bncRank": 4436,
+    "contemporaryRank": 6991,
+    "ieltsTagged": false,
+    "tags": [],
+    "sourceId": "ecdict"
+  },
+  "inevitable": {
+    "word": "inevitable",
+    "bncRank": 2837,
+    "contemporaryRank": 3561,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "infer": {
+    "word": "infer",
+    "bncRank": 7194,
+    "contemporaryRank": 9219,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "infrastructure": {
+    "word": "infrastructure",
+    "bncRank": 5839,
+    "contemporaryRank": 3613,
+    "ieltsTagged": false,
+    "tags": [
+      "cet6",
+      "ky"
+    ],
+    "sourceId": "ecdict"
+  },
+  "inherent": {
+    "word": "inherent",
+    "bncRank": 4850,
+    "contemporaryRank": 4924,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "inhibit": {
+    "word": "inhibit",
+    "bncRank": 5110,
+    "contemporaryRank": 7404,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "initial": {
+    "word": "initial",
+    "bncRank": 1525,
+    "contemporaryRank": 1943,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "initiate": {
+    "word": "initiate",
+    "bncRank": 3422,
+    "contemporaryRank": 3524,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "innovation": {
+    "word": "innovation",
+    "bncRank": 3151,
+    "contemporaryRank": 3657,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "innovative": {
+    "word": "innovative",
+    "bncRank": 5826,
+    "contemporaryRank": 4435,
+    "ieltsTagged": false,
+    "tags": [
+      "toefl",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "insight": {
+    "word": "insight",
+    "bncRank": 3302,
+    "contemporaryRank": 2840,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "inspect": {
+    "word": "inspect",
+    "bncRank": 4286,
+    "contemporaryRank": 5031,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "institution": {
+    "word": "institution",
+    "bncRank": 880,
+    "contemporaryRank": 987,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "instruct": {
+    "word": "instruct",
+    "bncRank": 3820,
+    "contemporaryRank": 4243,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "integrate": {
+    "word": "integrate",
+    "bncRank": 3349,
+    "contemporaryRank": 3431,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "interact": {
+    "word": "interact",
+    "bncRank": 6221,
+    "contemporaryRank": 4341,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "interaction": {
+    "word": "interaction",
+    "bncRank": 2517,
+    "contemporaryRank": 2075,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "toefl",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "internal": {
+    "word": "internal",
+    "bncRank": 1418,
+    "contemporaryRank": 1728,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "interpret": {
+    "word": "interpret",
+    "bncRank": 2094,
+    "contemporaryRank": 2755,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "intervene": {
+    "word": "intervene",
+    "bncRank": 3956,
+    "contemporaryRank": 5091,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "intervention": {
+    "word": "intervention",
+    "bncRank": 2405,
+    "contemporaryRank": 1926,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "intrinsic": {
+    "word": "intrinsic",
+    "bncRank": 7995,
+    "contemporaryRank": 7449,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "investment": {
+    "word": "investment",
+    "bncRank": 816,
+    "contemporaryRank": 1040,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "labour": {
+    "word": "labour",
+    "bncRank": 724,
+    "contemporaryRank": 16348,
+    "ieltsTagged": false,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6"
+    ],
+    "sourceId": "ecdict"
+  },
+  "legislation": {
+    "word": "legislation",
+    "bncRank": 1365,
+    "contemporaryRank": 2017,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "legitimate": {
+    "word": "legitimate",
+    "bncRank": 4329,
+    "contemporaryRank": 3195,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "maintain": {
+    "word": "maintain",
+    "bncRank": 825,
+    "contemporaryRank": 922,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "marginal": {
+    "word": "marginal",
+    "bncRank": 3361,
+    "contemporaryRank": 6094,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "mechanism": {
+    "word": "mechanism",
+    "bncRank": 1869,
+    "contemporaryRank": 2677,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "mitigate": {
+    "word": "mitigate",
+    "bncRank": 11489,
+    "contemporaryRank": 8991,
+    "ieltsTagged": true,
+    "tags": [
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "mutual": {
+    "word": "mutual",
+    "bncRank": 3301,
+    "contemporaryRank": 2799,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "neutral": {
+    "word": "neutral",
+    "bncRank": 4121,
+    "contemporaryRank": 4223,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "objective": {
+    "word": "objective",
+    "bncRank": 1322,
+    "contemporaryRank": 2406,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "obtain": {
+    "word": "obtain",
+    "bncRank": 793,
+    "contemporaryRank": 1595,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "perceive": {
+    "word": "perceive",
+    "bncRank": 2776,
+    "contemporaryRank": 2165,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "persist": {
+    "word": "persist",
+    "bncRank": 3785,
+    "contemporaryRank": 4351,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "persistent": {
+    "word": "persistent",
+    "bncRank": 4704,
+    "contemporaryRank": 5269,
+    "ieltsTagged": false,
+    "tags": [
+      "cet6",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "plausible": {
+    "word": "plausible",
+    "bncRank": 6473,
+    "contemporaryRank": 7125,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "potential": {
+    "word": "potential",
+    "bncRank": 1438,
+    "contemporaryRank": 1260,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "precise": {
+    "word": "precise",
+    "bncRank": 2761,
+    "contemporaryRank": 3826,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "predominant": {
+    "word": "predominant",
+    "bncRank": 10173,
+    "contemporaryRank": 11628,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "predominantly": {
+    "word": "predominantly",
+    "bncRank": 5150,
+    "contemporaryRank": 5942,
+    "ieltsTagged": false,
+    "tags": [
+      "cet6",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "preliminary": {
+    "word": "preliminary",
+    "bncRank": 3851,
+    "contemporaryRank": 4404,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "preserve": {
+    "word": "preserve",
+    "bncRank": 2287,
+    "contemporaryRank": 2209,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "prevalent": {
+    "word": "prevalent",
+    "bncRank": 8828,
+    "contemporaryRank": 6987,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "prior": {
+    "word": "prior",
+    "bncRank": 5045,
+    "contemporaryRank": 2856,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "priority": {
+    "word": "priority",
+    "bncRank": 1729,
+    "contemporaryRank": 2112,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "profound": {
+    "word": "profound",
+    "bncRank": 4372,
+    "contemporaryRank": 3735,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "prominent": {
+    "word": "prominent",
+    "bncRank": 3221,
+    "contemporaryRank": 2897,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "proportion": {
+    "word": "proportion",
+    "bncRank": 1247,
+    "contemporaryRank": 3063,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "rational": {
+    "word": "rational",
+    "bncRank": 3243,
+    "contemporaryRank": 4481,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "relatively": {
+    "word": "relatively",
+    "bncRank": 1237,
+    "contemporaryRank": 1462,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6"
+    ],
+    "sourceId": "ecdict"
+  },
+  "relevant": {
+    "word": "relevant",
+    "bncRank": 1241,
+    "contemporaryRank": 2814,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "reliable": {
+    "word": "reliable",
+    "bncRank": 3271,
+    "contemporaryRank": 3504,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "remote": {
+    "word": "remote",
+    "bncRank": 2684,
+    "contemporaryRank": 2778,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "renewable": {
+    "word": "renewable",
+    "bncRank": 12843,
+    "contemporaryRank": 7302,
+    "ieltsTagged": false,
+    "tags": [
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "representative": {
+    "word": "representative",
+    "bncRank": 1470,
+    "contemporaryRank": 1976,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "resilient": {
+    "word": "resilient",
+    "bncRank": 13884,
+    "contemporaryRank": 10634,
+    "ieltsTagged": false,
+    "tags": [
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "respectively": {
+    "word": "respectively",
+    "bncRank": 2622,
+    "contemporaryRank": 3726,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "retain": {
+    "word": "retain",
+    "bncRank": 1460,
+    "contemporaryRank": 2724,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "rigid": {
+    "word": "rigid",
+    "bncRank": 4475,
+    "contemporaryRank": 5469,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "robust": {
+    "word": "robust",
+    "bncRank": 6874,
+    "contemporaryRank": 6419,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "scarce": {
+    "word": "scarce",
+    "bncRank": 6882,
+    "contemporaryRank": 6771,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "significant": {
+    "word": "significant",
+    "bncRank": 841,
+    "contemporaryRank": 719,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "stable": {
+    "word": "stable",
+    "bncRank": 2637,
+    "contemporaryRank": 2903,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "subsequent": {
+    "word": "subsequent",
+    "bncRank": 2113,
+    "contemporaryRank": 3267,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "substantial": {
+    "word": "substantial",
+    "bncRank": 1536,
+    "contemporaryRank": 2544,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "sufficient": {
+    "word": "sufficient",
+    "bncRank": 1582,
+    "contemporaryRank": 3099,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "sustainable": {
+    "word": "sustainable",
+    "bncRank": 7345,
+    "contemporaryRank": 4895,
+    "ieltsTagged": false,
+    "tags": [],
+    "sourceId": "ecdict"
+  },
+  "temporary": {
+    "word": "temporary",
+    "bncRank": 2302,
+    "contemporaryRank": 3150,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "transparent": {
+    "word": "transparent",
+    "bncRank": 6902,
+    "contemporaryRank": 5884,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "ubiquitous": {
+    "word": "ubiquitous",
+    "bncRank": 10091,
+    "contemporaryRank": 8148,
+    "ieltsTagged": false,
+    "tags": [
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "ultimately": {
+    "word": "ultimately",
+    "bncRank": 2786,
+    "contemporaryRank": 1774,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "undergo": {
+    "word": "undergo",
+    "bncRank": 3059,
+    "contemporaryRank": 3141,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "unique": {
+    "word": "unique",
+    "bncRank": 2090,
+    "contemporaryRank": 1726,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "valid": {
+    "word": "valid",
+    "bncRank": 3211,
+    "contemporaryRank": 4703,
+    "ieltsTagged": false,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl"
+    ],
+    "sourceId": "ecdict"
+  },
+  "viable": {
+    "word": "viable",
+    "bncRank": 5700,
+    "contemporaryRank": 5049,
+    "ieltsTagged": true,
+    "tags": [
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  },
+  "voluntary": {
+    "word": "voluntary",
+    "bncRank": 2263,
+    "contemporaryRank": 4701,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict"
+  },
+  "vulnerable": {
+    "word": "vulnerable",
+    "bncRank": 2998,
+    "contemporaryRank": 2955,
+    "ieltsTagged": true,
+    "tags": [
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts",
+      "gre"
+    ],
+    "sourceId": "ecdict"
+  }
+}

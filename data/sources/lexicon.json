@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "ecdict",
+  "title": "ECDICT English–Chinese dictionary",
+  "publisher": "Linwei / skywind3000 and ECDICT contributors",
+  "repository": "https://github.com/skywind3000/ECDICT",
+  "commit": "39cfb9672c0906b63569e0453c2e6abfb9ab182a",
+  "commitDate": "2026-11-02T07:58:21Z",
+  "license": "MIT",
+  "licenseFile": "data/sources/licenses/ECDICT-MIT.txt",
+  "inheritedDefinitionNotice": {
+    "name": "WordNet 3.0",
+    "basis": "ECDICT README identifies WordNet as a contributor to its English definitions. Preserve the inherited notice alongside the ECDICT MIT licence.",
+    "url": "https://wordnet.princeton.edu/license-and-commercial-use",
+    "licenseFile": "data/sources/licenses/WordNet-3.0-LICENSE.txt"
+  },
+  "documentationUrl": "https://github.com/skywind3000/ECDICT/blob/39cfb9672c0906b63569e0453c2e6abfb9ab182a/README.md",
+  "file": {
+    "name": "ecdict.csv",
+    "url": "https://raw.githubusercontent.com/skywind3000/ECDICT/39cfb9672c0906b63569e0453c2e6abfb9ab182a/ecdict.csv",
+    "cacheFile": ".npm-cache/lexicon/ecdict.csv",
+    "bytes": 66009548,
+    "gitBlobSha1": "0e527e22e0e0d22f012b0ed251a8dddd5891773b"
+  },
+  "fieldMeaning": {
+    "ieltsTagged": "The source tag field contains the separate token ielts. This is an independent dictionary tag, not IELTS endorsement or an observed examination frequency.",
+    "bncRank": "The source bnc field, described by ECDICT as a British National Corpus frequency order; zero or missing is null.",
+    "contemporaryRank": "The source frq field, described by ECDICT as a contemporary-corpus frequency order. The corpus identity and a measurement date are not independently established here; zero or missing is null.",
+    "phonetic": "Source phonetic field, described by ECDICT as primarily British pronunciation. Apostrophe stress, colon length, legacy schwa and unambiguous legacy diphthongs are normalised; vowel quality is not guessed. The dictionary does not distinguish UK/US for every entry, and these are not individually verified UK IPA transcriptions.",
+    "forms": "Explicit inflection entries from exchange keys p,d,i,3,r,t,s; no derivational stemming or fabricated frequency values."
+  },
+  "limitations": [
+    "IELTS tags are a vocabulary-selection aid and do not establish frequency in recent IELTS examinations.",
+    "General corpus ranks and the project's separately measured official public-sample counts have different populations and must not be merged into a single observed count.",
+    "The dictionary includes multiple senses and automatically derived morphology. Final context selection must check the intended sense and usable forms.",
+    "Source English sense markers are normalised for display; source Chinese glosses are lightly cleaned, not newly translated."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-11-13T15:56:00Z",
+  "scope": "Official recent-book metadata and attempted public excerpts; none of these books is included in the frequency counts.",
+  "sources": [
+    {
+      "id": "cambridge-ielts-19-academic-2024",
+      "title": "IELTS 19 Academic Student's Book with Answers with Audio with Resource Bank",
+      "isbn": "9781009454735",
+      "publicationYear": 2024,
+      "publicationDate": "2024-06-03",
+      "publicationEvidenceUrl": "https://shop.cambridge.org/english/product/2700241558",
+      "excerptUrl": "https://assets.cambridge.org/97810094/54735/excerpt/9781009454735_excerpt.pdf",
+      "examYear": null,
+      "kind": "publisher-authentic-practice-tests",
+      "status": "not-included-download-unavailable",
+      "attemptResult": "The official asset connection closed during TLS negotiation before any PDF bytes were received. The web reader returned 502; Node fetch and PowerShell independently failed. HTTP also closed before a response.",
+      "countsIncluded": false
+    },
+    {
+      "id": "cambridge-ielts-20-academic-2025",
+      "title": "IELTS Academic 20 Practice Tests Academic Student's Book with Answers with Digital Pack",
+      "isbn": "9781009814904",
+      "publicationYear": 2025,
+      "publicationDate": "2025-07-17",
+      "publicationEvidenceUrl": "https://www.cambridgebookshop.co.uk/products/ielts-20-practice-test-academic-students-book-with-answers-with-digital-pack",
+      "excerptUrl": "https://assets.cambridge.org/97810098/14904/excerpt/9781009814904_excerpt.pdf",
+      "examYear": null,
+      "kind": "publisher-authentic-practice-tests",
+      "status": "not-included-download-unavailable",
+      "attemptResult": "The official asset connection closed during TLS negotiation before any PDF bytes were received. The web reader returned 502; Node fetch and PowerShell independently failed.",
+      "countsIncluded": false
+    }
+  ],
+  "interpretation": "The product pages verify recent publication metadata, not the content or year of a live examination. The excerpt files were not obtained; no passage, token, or word count from these books is claimed. Public IELTS samples remain the observed corpus."
+}

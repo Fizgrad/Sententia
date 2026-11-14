@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-13T17:37:10.952Z",
+  "totalWords": 2000,
+  "curatedWords": 300,
+  "importedWords": 1700,
+  "totalContexts": 6000,
+  "ieltsTagged": 1931,
+  "rankAtMost5000": 1530,
+  "rankAtMost10000": 1996,
+  "rankAtMost20000": 2000,
+  "sourceContexts": 4734,
+  "editorialContexts": 1266,
+  "translatedContexts": 2082,
+  "approvedAvailable": 1818,
+  "rejected": 209,
+  "skipped": [],
+  "reviewFiles": [
+    {
+      "file": "data/lexicon-reviews/review-1.json",
+      "sha256": "2844d760b5c3d7f3d316321a8ae174b85994c0eefc9b4e367237899afcafbda1",
+      "count": 567
+    },
+    {
+      "file": "data/lexicon-reviews/review-2.json",
+      "sha256": "2f9c364bc8b20e9a6b9e5e423b124fd6a2776e4efb6a4d4a5cba85e062bccaa9",
+      "count": 567
+    },
+    {
+      "file": "data/lexicon-reviews/review-3.json",
+      "sha256": "623de7d1c6d3520044c8cf38fef53f6d03060e4d105a10190239a55496a1f382",
+      "count": 566
+    },
+    {
+      "file": "data/lexicon-reviews/review-reserve-1.json",
+      "sha256": "eba8f3793744a7967c4dd53c662f2c5d5cb237105d49976854ebef29c5aa6af0",
+      "count": 150
+    },
+    {
+      "file": "data/lexicon-reviews/review-reserve-2.json",
+      "sha256": "b333cd072380b4d04f895eb7d2e5e7f1ca18fcd4fd0269892d9253e1f9550480",
+      "count": 150
+    },
+    {
+      "file": "data/lexicon-reviews/core-editorial.json",
+      "sha256": "34075e6fcc64cf97111669b37aaf774aaf27b84b509c537b846868bb0f2f2ae2",
+      "count": 32
+    }
+  ],
+  "limitations": [
+    "IELTS membership is an independent ECDICT word-list tag, not official exam frequency.",
+    "BNC and contemporary corpus ranks measure general English; the latter corpus identity is not independently verified.",
+    "Three contexts per card were individually checked against the selected sense. Community examples are not IELTS exam excerpts.",
+    "Official IELTS public-sample observed counts are reported separately in vocabulary-frequency.json."
+  ],
+  "independentAudit": {
+    "schemaVersion": 1,
+    "checkedAt": "2026-11-13T17:40:15.691Z",
+    "result": "All final acceptance checks passed.",
+    "finalInputs": [
+      {
+        "file": "data/lexicon-import.json",
+        "sha256": "d8da42af76edca9a7eba14eb79f12e24554609923373f6a95d610ecb6d6b3ad5"
+      },
+      {
+        "file": "data/sources/selected-contexts.json",
+        "sha256": "29dbb4d2fe93000ef356b93f64bf7e62d9322e063703978042355166ece58596"
+      },
+      {
+        "file": "tests/lexicon-quality.test.ts",
+        "sha256": "deccfffae5a07225401013e4f7723f42f7cd21762690fdd5274eeed7ca7f28f2"
+      }
+    ],
+    "computedCounts": {
+      "words": 2000,
+      "curatedCards": 300,
+      "importedCards": 1700,
+      "contexts": 6000,
+      "ieltsTagged": 1931,
+      "positiveRankAtMost10000": 1996,
+      "positiveRankAtMost20000": 2000,
+      "attributedCommunityContexts": 4734,
+      "originalContexts": 1266,
+      "contextsWithChineseTranslation": 2082,
+      "ieltsTaggedPercent": 96.55,
+      "rankAtMost10000Percent": 99.8,
+      "bncAloneRankAtMost10000": 1903,
+      "bncAloneRankAtMost10000Percent": 95.15
+    },
+    "acceptanceCriteria": {
+      "minimumWords": 2000,
+      "minimumIeltsTagShare": 0.95,
+      "minimumGeneralRank10000Share": 0.95,
+      "maximumPositiveGeneralRankForEveryWord": 20000,
+      "contextsPerWord": 3
+    },
+    "structuralAndOriginTests": {
+      "command": "npx tsx --test tests/lexicon-quality.test.ts",
+      "testsPassed": 5,
+      "testsFailed": 0,
+      "coverage": "All 2,000 cards for vocabulary size, uniqueness and retained rank evidence; all 1,700 additions for bilingual gloss, POS, IPA, origin labels and context links; all 5,100 added contexts for target spans, lengths, source records or original genres; a deterministic 41-card sample for distinct English quiz choices."
+    },
+    "rawSourceReconciliation": {
+      "command": "npm run lexicon:verify",
+      "report": "data/analysis/sentence-verification.json",
+      "checkedAt": "2026-11-13T17:36:10.047Z",
+      "referencesChecked": 4734,
+      "uniqueEnglishSentences": 4405,
+      "bilingualReferencesChecked": 816,
+      "rawEnglishRowsScanned": 2040567,
+      "result": "All redistributed community texts, authors and bilingual pairs reconcile with hash-locked raw exports."
+    },
+    "importedOrigins": {
+      "dictionaryDefinitions": 700,
+      "editedDefinitions": 1000,
+      "communityContextCards": 1578,
+      "originalContextCards": 122
+    },
+    "focusedSemanticReview": {
+      "files": [
+        {
+          "file": "data/lexicon-reviews/review-3.json",
+          "sha256": "623de7d1c6d3520044c8cf38fef53f6d03060e4d105a10190239a55496a1f382"
+        },
+        {
+          "file": "data/lexicon-reviews/review-reserve-2.json",
+          "sha256": "b333cd072380b4d04f895eb7d2e5e7f1ca18fcd4fd0269892d9253e1f9550480"
+        }
+      ],
+      "rowsIndividuallyRead": 716,
+      "approved": 702,
+      "rejected": 14,
+      "definitionAdaptations": 335,
+      "sourceAlternativeCards": 171,
+      "originalContextCards": 24,
+      "publishedCardsFromThisReview": 657,
+      "checks": "POS, English/Chinese sense agreement, and every one of the three selected or replacement contexts were read individually. Both review outputs were also checked for source-ID existence, complete coverage, exact target counts, unique contexts, original translations and verbatim collocations."
+    },
+    "resolvedFindings": [
+      {
+        "severity": "high",
+        "issue": "First-source WordNet senses sometimes selected a rare or unrelated meaning, including proper names.",
+        "remediation": "Individually reviewed selection, explicit exclusions, common-sense editorial definitions, POS and heteronym corrections; adaptations carry the edited origin label."
+      },
+      {
+        "severity": "high",
+        "issue": "Automated POS and author filters admitted wrong-POS, archaic, offensive, duplicated, or misleading examples.",
+        "remediation": "Individually inspected source alternatives or three newly authored contexts. Original material has no community attribution and uses the editorial origin label."
+      },
+      {
+        "severity": "high",
+        "issue": "Dictionary membership and general-language rank could be mistaken for recent IELTS exam frequency.",
+        "remediation": "UI and retained metadata distinguish ECDICT IELTS-list membership, BNC/source contemporary ranks, and separately observed official public-sample counts."
+      }
+    ],
+    "evidenceLabels": {
+      "ieltsMembership": "ECDICT 雅思词表标签",
+      "generalFrequency": "BNC / 来源记录的当代通用语料排名",
+      "observedFrequency": "官方样题实测次数",
+      "originalContext": "原创语境",
+      "communityContext": "Tatoeba"
+    },
+    "materialLimits": [
+      "IELTS tags are independent dictionary selection evidence, not IELTS endorsement, a recent exam count, or an exam probability.",
+      "The identity and measurement date of the dictionary contemporary-corpus field are not independently established; it is not relabelled as COCA.",
+      "Source phonetics are primarily British according to ECDICT, with legacy notation normalised; every imported UK/US pronunciation variant has not been independently certified.",
+      "Community author/native-language claims and source licensing metadata do not themselves certify linguistic quality. Individual review reduced identified defects; it is not a guarantee against every possible stylistic or sense issue.",
+      "Only genuine aligned community translations are displayed. Missing source translations remain empty; the separately labelled original contexts have authored Chinese translations."
+    ],
+    "rawLexicalSourceReconciliation": {
+      "report": "data/analysis/lexicon-source-verification.json",
+      "reportSha256": "849d19d55a1f42a6573676ac5ed82548f3f0af4c6b7c5a90ebbf0c3f5a060cd0",
+      "checkedAt": "2026-11-13T17:38:38.0713863Z",
+      "parser": "PowerShell native Import-Csv with UTF-8; does not import or call the dictionary builder",
+      "rawRows": 770611,
+      "wordsChecked": 2000,
+      "mismatchCount": 0,
+      "sourceCommit": "39cfb9672c0906b63569e0453c2e6abfb9ab182a",
+      "sourceSha256": "d1ecbdf9ee2b920afb6f430ca6b6bb9f559588cf0dff86e04bd255f9390843cc",
+      "coverage": {
+        "totalWords": 2000,
+        "ieltsTagged": 1931,
+        "bncRankAtMost10000": 1903,
+        "contemporaryRankAtMost10000": 1951,
+        "eitherRankAtMost10000": 1996,
+        "eitherRankAtMost20000": 2000,
+        "bothRanksAtMost20000": 1979,
+        "bncTop10000ButNotContemporaryTop10000": 45
+      },
+      "result": "All 2,000 final-word IELTS tags and both general rank fields match the independently parsed raw CSV; the verified evidence vector also matches the final frozen pack."
+    },
+    "namedCorpusFinding": "The named BNC rank alone places 1,903 of 2,000 words (95.15%) within its first 10,000 ranks; this finding does not depend on the unidentified contemporary-corpus field."
+  }
+}

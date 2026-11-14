@@ -1,0 +1,1173 @@
+{
+  "reviewer": "words_verbs: complete semantic review of all 150 frozen reserve rows",
+  "entries": [
+    {
+      "word": "model",
+      "status": "approved",
+      "definitionEN": "a particular design or version of a product, or a representation of something",
+      "definitionCN": "型号；模型",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "claim",
+      "status": "approved",
+      "definitionEN": "a statement presented as true, or a demand for something considered due",
+      "definitionCN": "说法；断言；索赔；权利要求",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "star",
+      "status": "approved",
+      "definitionEN": "a bright celestial body producing its own light, or a shape with radiating points",
+      "definitionCN": "恒星；星形",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "picture",
+      "status": "approved"
+    },
+    {
+      "word": "test",
+      "status": "approved",
+      "definitionEN": "an examination or procedure used to check knowledge, ability, quality, or condition",
+      "definitionCN": "考试；测试",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "chapter",
+      "status": "approved"
+    },
+    {
+      "word": "organization",
+      "status": "approved"
+    },
+    {
+      "word": "source",
+      "status": "approved",
+      "definitionEN": "a place, person, or thing from which something comes or begins",
+      "definitionCN": "来源；源头；根源",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "application",
+      "status": "approved",
+      "definitionEN": "a formal request, a practical use, or a computer program",
+      "definitionCN": "申请；应用；应用程序",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "board",
+      "status": "approved",
+      "definitionEN": "a flat piece of material used for a purpose, or a group responsible for directing an organisation",
+      "definitionCN": "板；布告栏；理事会；董事会",
+      "exampleIds": [
+        "tatoeba-eng-263455",
+        "tatoeba-eng-718063",
+        "tatoeba-eng-5854717"
+      ],
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "plant",
+      "status": "approved",
+      "definitionEN": "a living thing such as a tree or flower, or a factory and its equipment",
+      "definitionCN": "植物；工厂",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "loss",
+      "status": "approved",
+      "definitionEN": "the fact of no longer having something, or a financial or other disadvantage",
+      "definitionCN": "失去；损失；不知所措",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "sport",
+      "status": "approved",
+      "definitionEN": "an organised game or activity involving skill, competition, or physical effort",
+      "definitionCN": "运动；竞技活动",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "top",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-44472",
+        "tatoeba-eng-5720756",
+        "tatoeba-eng-388009"
+      ],
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "focus",
+      "status": "approved",
+      "partOfSpeech": "v.",
+      "forms": [
+        "focuses",
+        "focused",
+        "focusing",
+        "focussed",
+        "focussing"
+      ],
+      "definitionEN": "to direct attention or effort towards a particular subject or activity",
+      "definitionCN": "集中注意力；着重于",
+      "authoredContexts": [
+        {
+          "text": "The students focus on one research question before collecting evidence from several different sources.",
+          "translation": "学生在从几个不同来源收集证据之前，先集中研究一个问题。",
+          "register": "Reading",
+          "collocation": "focus on one research question"
+        },
+        {
+          "text": "Public health campaigns should focus on practical changes that people can maintain over time.",
+          "translation": "公共健康宣传应着重于人们能够长期坚持的实际改变。",
+          "register": "Writing",
+          "collocation": "focus on practical changes"
+        },
+        {
+          "text": "Could we focus on the budget first and discuss the timetable after lunch?",
+          "translation": "我们能先讨论预算，午饭后再谈时间安排吗？",
+          "register": "Listening",
+          "collocation": "focus on the budget"
+        }
+      ],
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "size",
+      "status": "approved"
+    },
+    {
+      "word": "sound",
+      "status": "approved"
+    },
+    {
+      "word": "concern",
+      "status": "approved",
+      "definitionEN": "worry about something important, or a matter affecting or involving someone",
+      "definitionCN": "担忧；关切；有关的事",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "article",
+      "status": "approved"
+    },
+    {
+      "word": "feature",
+      "status": "approved"
+    },
+    {
+      "word": "machine",
+      "status": "approved"
+    },
+    {
+      "word": "growth",
+      "status": "approved",
+      "definitionEN": "the process of increasing in size, amount, strength, or development",
+      "definitionCN": "增长；成长；发展",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "function",
+      "status": "approved",
+      "definitionEN": "the purpose or role of something, or a mathematical relationship between quantities",
+      "definitionCN": "功能；作用；函数",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "physical",
+      "status": "approved",
+      "definitionEN": "relating to the body, material things, or the laws of nature",
+      "definitionCN": "身体的；物质的；物理的",
+      "exampleIds": [
+        "tatoeba-eng-1723444",
+        "tatoeba-eng-430074",
+        "tatoeba-eng-1466047"
+      ],
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "bill",
+      "status": "approved",
+      "definitionEN": "a proposed law, or a written statement of money owed",
+      "definitionCN": "法案；账单",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "title",
+      "status": "approved",
+      "definitionEN": "the name of a book, work, or position, or an official term of rank or honour",
+      "definitionCN": "标题；名称；头衔",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "network",
+      "status": "approved"
+    },
+    {
+      "word": "measure",
+      "status": "approved",
+      "definitionEN": "an action taken to achieve a particular purpose",
+      "definitionCN": "措施；办法",
+      "authoredContexts": [
+        {
+          "text": "The city introduced a new measure to reduce noise near schools during the morning rush.",
+          "translation": "该市推出一项新措施，减少早高峰期间学校附近的噪声。",
+          "register": "Reading",
+          "collocation": "new measure"
+        },
+        {
+          "text": "Each safety measure should address a clear risk and remain practical for the people using it.",
+          "translation": "每项安全措施都应针对明确的风险，并对使用者而言切实可行。",
+          "register": "Writing",
+          "collocation": "safety measure"
+        },
+        {
+          "text": "Do you think that simple measure will make the crossing safer for children?",
+          "translation": "你认为那个简单的措施会让孩子们过马路更安全吗？",
+          "register": "Listening",
+          "collocation": "simple measure"
+        }
+      ],
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "commission",
+      "status": "approved",
+      "definitionEN": "a fee paid for a service, an official appointment, or a group given a specific task",
+      "definitionCN": "佣金；任命；委员会",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "spring",
+      "status": "approved",
+      "definitionEN": "the season between winter and summer",
+      "definitionCN": "春天",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "cultural",
+      "status": "approved",
+      "definitionEN": "relating to a community’s shared beliefs, customs, arts, or way of life",
+      "definitionCN": "文化的",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "medium",
+      "status": "approved",
+      "definitionEN": "a means through which information, ideas, or messages are communicated",
+      "definitionCN": "媒介；传播手段",
+      "exampleIds": [
+        "tatoeba-eng-4801952",
+        "tatoeba-eng-39192",
+        "tatoeba-eng-32792"
+      ],
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "trip",
+      "status": "approved"
+    },
+    {
+      "word": "surface",
+      "status": "approved"
+    },
+    {
+      "word": "trouble",
+      "status": "approved"
+    },
+    {
+      "word": "stuff",
+      "status": "approved"
+    },
+    {
+      "word": "reference",
+      "status": "approved",
+      "definitionEN": "a mention of something, or a source or standard used for information or comparison",
+      "definitionCN": "提及；参考；参照标准",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "address",
+      "status": "approved",
+      "definitionEN": "details identifying where someone lives or where something can be found",
+      "definitionCN": "地址；住址",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "yard",
+      "status": "approved",
+      "definitionEN": "a unit equal to three feet, or an outdoor area beside a building",
+      "definitionCN": "码；院子",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "solution",
+      "status": "approved",
+      "definitionEN": "a way of solving a problem or dealing with a difficult situation",
+      "definitionCN": "解决办法；解答",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "opinion",
+      "status": "approved",
+      "definitionEN": "a personal view, belief, or judgement about something",
+      "definitionCN": "看法；意见",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "exchange",
+      "status": "approved",
+      "definitionEN": "an act of giving one thing for another, or a market where securities or goods are traded",
+      "definitionCN": "交换；交易所",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "attend",
+      "status": "approved"
+    },
+    {
+      "word": "critical",
+      "status": "approved",
+      "definitionEN": "finding fault, or extremely important, serious, or dangerous",
+      "definitionCN": "批评的；关键的；严重的",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "sale",
+      "status": "approved",
+      "definitionEN": "the act of selling, or an event when goods are offered at reduced prices",
+      "definitionCN": "销售；降价促销",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "band",
+      "status": "approved",
+      "definitionEN": "a group of musicians who perform together",
+      "definitionCN": "乐队",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "file",
+      "status": "approved",
+      "definitionEN": "a collection of stored information, especially an electronic document or recording",
+      "definitionCN": "文件；档案",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "contact",
+      "status": "approved",
+      "definitionEN": "communication or a connection between people, or physical touching",
+      "definitionCN": "联系；接触",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "stick",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-21578",
+        "tatoeba-eng-11709635",
+        "tatoeba-eng-30346"
+      ],
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "spot",
+      "status": "approved",
+      "definitionEN": "a particular place or a small mark",
+      "definitionCN": "地点；斑点",
+      "exampleIds": [
+        "tatoeba-eng-5831744",
+        "tatoeba-eng-6614745",
+        "tatoeba-eng-11137858"
+      ],
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "exercise",
+      "status": "approved",
+      "definitionEN": "physical activity, practice, or the use of a skill or power",
+      "definitionCN": "运动；练习；运用",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "roll",
+      "status": "approved",
+      "definitionEN": "a turning movement, or material wound into a rounded bundle",
+      "definitionCN": "滚转；卷",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "conclusion",
+      "status": "approved",
+      "definitionEN": "an ending or a judgement reached after considering information",
+      "definitionCN": "结束；结论",
+      "exampleIds": [
+        "tatoeba-eng-327823",
+        "tatoeba-eng-847248",
+        "tatoeba-eng-73709"
+      ],
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "sight",
+      "status": "approved"
+    },
+    {
+      "word": "promote",
+      "status": "approved",
+      "definitionEN": "to encourage progress or raise someone or something to a higher position or rank",
+      "definitionCN": "促进；提升；晋升",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "lift",
+      "status": "approved",
+      "definitionEN": "a ride in someone else’s vehicle",
+      "definitionCN": "搭便车；顺路搭载",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "background",
+      "status": "approved",
+      "definitionEN": "the area behind a main object, or the circumstances and experiences that explain something",
+      "definitionCN": "背景；经历；背景资料",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "introduction",
+      "status": "approved",
+      "definitionEN": "an opening explanation, or the act of bringing something into use or making it known",
+      "definitionCN": "引言；介绍；引入",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "relief",
+      "status": "approved"
+    },
+    {
+      "word": "wave",
+      "status": "approved",
+      "definitionEN": "a moving ridge on water, or a sudden period of increased activity or intensity",
+      "definitionCN": "波浪；（热浪等的）一阵",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "construction",
+      "status": "approved",
+      "definitionEN": "the process of building structures or putting parts together",
+      "definitionCN": "建设；施工",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "grade",
+      "status": "approved",
+      "definitionEN": "a level of quality or achievement, or a year group at school",
+      "definitionCN": "等级；成绩；年级",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "appearance",
+      "status": "approved"
+    },
+    {
+      "word": "contrast",
+      "status": "approved"
+    },
+    {
+      "word": "mental",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-2694736",
+        "tatoeba-eng-60418",
+        "tatoeba-eng-4995328"
+      ],
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "undertake",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-47592",
+        "tatoeba-eng-3880518",
+        "tatoeba-eng-3496498"
+      ],
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "pleasure",
+      "status": "approved",
+      "definitionEN": "a feeling of enjoyment or satisfaction, or an activity that brings it",
+      "definitionCN": "愉快；乐趣",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "pocket",
+      "status": "approved"
+    },
+    {
+      "word": "shift",
+      "status": "approved",
+      "definitionEN": "a period of scheduled work, often one of several covering a day",
+      "definitionCN": "轮班；班次",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "display",
+      "status": "approved",
+      "definitionEN": "a screen showing information, or a presentation of objects for people to see",
+      "definitionCN": "显示屏；展示；陈列",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "comfortable",
+      "status": "approved",
+      "definitionEN": "providing or feeling ease and relaxation, or having enough money to live without hardship",
+      "definitionCN": "舒适的；生活宽裕的",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "capture",
+      "status": "approved",
+      "partOfSpeech": "v.",
+      "forms": [
+        "captures",
+        "captured",
+        "capturing"
+      ],
+      "definitionEN": "to catch or take control of someone or something, or record an image or sound",
+      "definitionCN": "捕获；夺取；记录图像或声音",
+      "exampleIds": [
+        "tatoeba-eng-6990390",
+        "tatoeba-eng-8346358",
+        "tatoeba-eng-10365127"
+      ],
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "appreciate",
+      "status": "approved",
+      "definitionEN": "to recognise the value of something, or feel grateful for it",
+      "definitionCN": "欣赏；重视；感激",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "variation",
+      "status": "approved",
+      "definitionEN": "a difference or change, or a version that differs from a basic form",
+      "definitionCN": "变化；差异；变体",
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "slip",
+      "status": "approved",
+      "definitionEN": "a small mistake made unintentionally, especially in speech, writing, or memory",
+      "definitionCN": "小差错；疏忽",
+      "authoredContexts": [
+        {
+          "text": "A small slip in the calculation caused the total cost to be underestimated.",
+          "translation": "计算中的一个小差错导致总成本被低估。",
+          "register": "Reading",
+          "collocation": "small slip"
+        },
+        {
+          "text": "Students should be encouraged to correct a slip without losing confidence in their overall ability.",
+          "translation": "应鼓励学生纠正小差错，同时不失去对自己整体能力的信心。",
+          "register": "Writing",
+          "collocation": "correct a slip"
+        },
+        {
+          "text": "Was that just a slip, or did you really mean to say Friday?",
+          "translation": "那只是一时口误，还是你确实想说星期五？",
+          "register": "Listening",
+          "collocation": "just a slip"
+        }
+      ],
+      "reason": "Reviewed all three actual uses; common meanings and POS clarified, with retained source alternatives or explicitly original contexts where needed."
+    },
+    {
+      "word": "estimate",
+      "status": "approved"
+    },
+    {
+      "word": "deputy",
+      "status": "approved",
+      "definitionEN": "a person authorised to act for another, or a member of certain elected assemblies",
+      "definitionCN": "副手；代理人；议员",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "rare",
+      "status": "approved",
+      "definitionEN": "not common or not often found or happening",
+      "definitionCN": "稀少的；罕见的",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "observation",
+      "status": "approved",
+      "definitionEN": "the act of carefully watching or noticing something, or information obtained this way",
+      "definitionCN": "观察；观测",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "mass",
+      "status": "approved",
+      "definitionEN": "the amount of matter in an object, closely related to its inertia",
+      "definitionCN": "质量",
+      "exampleIds": [
+        "tatoeba-eng-5319751",
+        "tatoeba-eng-5225972",
+        "tatoeba-eng-6293889"
+      ],
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "origin",
+      "status": "approved",
+      "definitionEN": "the source, beginning, or cause of something, or someone’s background",
+      "definitionCN": "起源；来源；出身",
+      "exampleIds": [
+        "tatoeba-eng-8969659",
+        "tatoeba-eng-11124963",
+        "tatoeba-eng-10121173"
+      ],
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "stretch",
+      "status": "approved",
+      "partOfSpeech": "v.",
+      "forms": [
+        "stretches",
+        "stretched",
+        "stretching"
+      ],
+      "definitionEN": "to extend, lengthen, or pull something so that it reaches further",
+      "definitionCN": "伸展；拉长；延伸",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "convention",
+      "status": "approved",
+      "definitionEN": "a large formal meeting, or an accepted way of behaving or doing something",
+      "definitionCN": "大会；惯例",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "diet",
+      "status": "approved",
+      "definitionEN": "the food and drink a person or animal usually consumes, or a planned way of eating",
+      "definitionCN": "日常饮食；规定饮食",
+      "exampleIds": [
+        "tatoeba-eng-2187",
+        "tatoeba-eng-11892029",
+        "tatoeba-eng-11892306"
+      ],
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "witness",
+      "status": "approved",
+      "definitionEN": "a person who sees an event or gives evidence about it",
+      "definitionCN": "目击者；证人",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "shock",
+      "status": "approved",
+      "definitionEN": "a sudden upsetting surprise, or a violent impact or disturbance",
+      "definitionCN": "震惊；冲击",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "cable",
+      "status": "approved",
+      "definitionEN": "a thick rope or a bundle of wires carrying electrical power or signals",
+      "definitionCN": "缆绳；电缆",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "cast",
+      "status": "approved",
+      "definitionEN": "a rigid covering used to protect a broken bone while it heals",
+      "definitionCN": "石膏固定物；石膏绷带",
+      "authoredContexts": [
+        {
+          "text": "The patient wore a plaster cast for several weeks while the broken bone healed.",
+          "translation": "骨折愈合期间，那位患者戴了几周石膏固定物。",
+          "register": "Reading",
+          "collocation": "plaster cast"
+        },
+        {
+          "text": "Medical staff should explain how to keep a cast clean and recognise signs of discomfort.",
+          "translation": "医护人员应解释如何保持石膏固定物清洁，以及怎样识别不适的迹象。",
+          "register": "Writing",
+          "collocation": "keep a cast clean"
+        },
+        {
+          "text": "How long will you need to wear that cast on your arm?",
+          "translation": "你手臂上的那个石膏固定物还需要戴多久？",
+          "register": "Listening",
+          "collocation": "wear that cast"
+        }
+      ],
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "fault",
+      "status": "approved",
+      "definitionEN": "a mistake, weakness, or responsibility for something going wrong",
+      "definitionCN": "过错；缺点；责任",
+      "exampleIds": [
+        "tatoeba-eng-291601",
+        "tatoeba-eng-67140",
+        "tatoeba-eng-62662"
+      ],
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "depression",
+      "status": "approved",
+      "definitionEN": "a persistent state of low mood or a condition involving sadness and loss of interest",
+      "definitionCN": "抑郁；抑郁症",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "dismiss",
+      "status": "approved",
+      "definitionEN": "to reject or stop considering someone or something",
+      "definitionCN": "不予考虑；否定",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "extension",
+      "status": "approved",
+      "definitionEN": "an added part, or extra time allowed for completing something",
+      "definitionCN": "扩建部分；延长期",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "violent",
+      "status": "approved"
+    },
+    {
+      "word": "depth",
+      "status": "approved",
+      "definitionEN": "distance below a surface, or the strength, richness, or intensity of something",
+      "definitionCN": "深度；浓度；深刻程度",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "port",
+      "status": "approved"
+    },
+    {
+      "word": "delivery",
+      "status": "approved",
+      "definitionEN": "the act of bringing goods, letters, or other items to a destination",
+      "definitionCN": "递送；交付",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "slide",
+      "status": "approved",
+      "definitionEN": "a smooth slipping movement, or a sloping surface used to move downwards",
+      "definitionCN": "滑动；滑梯；滑道",
+      "exampleIds": [
+        "tatoeba-eng-272612",
+        "tatoeba-eng-240432",
+        "tatoeba-eng-5011505"
+      ],
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "obligation",
+      "status": "approved",
+      "definitionEN": "a duty or responsibility that someone is expected or required to fulfil",
+      "definitionCN": "义务；责任",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "cycle",
+      "status": "approved"
+    },
+    {
+      "word": "profession",
+      "status": "approved",
+      "definitionEN": "an occupation, usually one requiring special training or knowledge",
+      "definitionCN": "职业；专业工作",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "restore",
+      "status": "approved"
+    },
+    {
+      "word": "lock",
+      "status": "approved"
+    },
+    {
+      "word": "approval",
+      "status": "approved",
+      "definitionEN": "permission or agreement, or a favourable judgement of someone or something",
+      "definitionCN": "批准；赞同；认可",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "discovery",
+      "status": "approved",
+      "definitionEN": "the act of finding something previously unknown, or the thing found",
+      "definitionCN": "发现；被发现的事物",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "regularly",
+      "status": "approved",
+      "definitionEN": "often or at repeated intervals",
+      "definitionCN": "定期地；经常地",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "submit",
+      "status": "approved",
+      "definitionEN": "to present something for consideration, or accept someone’s authority",
+      "definitionCN": "提交；顺从",
+      "exampleIds": [
+        "tatoeba-eng-60295",
+        "tatoeba-eng-433984",
+        "tatoeba-eng-277255"
+      ],
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "recession",
+      "status": "approved",
+      "definitionEN": "a period when economic activity, trade, and employment decline",
+      "definitionCN": "经济衰退",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "passion",
+      "status": "approved"
+    },
+    {
+      "word": "penalty",
+      "status": "approved",
+      "definitionEN": "a punishment for breaking a rule, or a special scoring opportunity awarded after a sporting offence",
+      "definitionCN": "处罚；罚款；罚球",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "competitive",
+      "status": "approved",
+      "definitionEN": "able to succeed against rivals, or involving a contest between rivals",
+      "definitionCN": "有竞争力的；竞争的",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "juice",
+      "status": "approved"
+    },
+    {
+      "word": "presentation",
+      "status": "approved",
+      "definitionEN": "a talk or demonstration used to explain information to an audience",
+      "definitionCN": "展示；报告；演示",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "bay",
+      "status": "approved"
+    },
+    {
+      "word": "custom",
+      "status": "approved",
+      "definitionCN": "风俗；惯例",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "alliance",
+      "status": "approved",
+      "definitionEN": "a partnership or agreement between people, groups, or countries for shared purposes",
+      "definitionCN": "联盟；同盟",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "bid",
+      "status": "approved",
+      "definitionEN": "an attempt to achieve something, or an offer to pay a price or carry out work",
+      "definitionCN": "努力；出价；投标",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "sensitive",
+      "status": "approved",
+      "definitionEN": "easily affected, damaged, or responsive to changes or feelings",
+      "definitionCN": "敏感的；脆弱的；灵敏的",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "deposit",
+      "status": "approved",
+      "definitionEN": "money paid into an account or given in advance as security for something",
+      "definitionCN": "存款；定金；押金",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "clinic",
+      "status": "approved",
+      "definitionEN": "a place where people or animals receive medical advice or treatment",
+      "definitionCN": "诊所；门诊部",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "deficit",
+      "status": "approved",
+      "definitionEN": "an amount by which something falls short of what is needed or available",
+      "definitionCN": "不足额；赤字",
+      "exampleIds": [
+        "tatoeba-eng-280343",
+        "tatoeba-eng-244269",
+        "tatoeba-eng-243653"
+      ],
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "smoke",
+      "status": "approved"
+    },
+    {
+      "word": "brilliant",
+      "status": "approved",
+      "definitionEN": "exceptionally clever or successful, or very bright and vivid",
+      "definitionCN": "聪颖的；出色的；明亮的",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "retirement",
+      "status": "approved",
+      "definitionEN": "the period after stopping regular work, or withdrawal to a quieter way of life",
+      "definitionCN": "退休；退隐",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "swing",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-1528240",
+        "tatoeba-eng-2325391",
+        "tatoeba-eng-7463997"
+      ],
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "entrance",
+      "status": "approved"
+    },
+    {
+      "word": "allowance",
+      "status": "approved",
+      "definitionEN": "an amount of money given regularly for personal expenses or a particular purpose",
+      "definitionCN": "零用钱；津贴",
+      "exampleIds": [
+        "tatoeba-eng-257213",
+        "tatoeba-eng-2042873",
+        "tatoeba-eng-610682"
+      ],
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "mail",
+      "status": "approved",
+      "definitionEN": "letters, packages, or electronic messages sent to someone",
+      "definitionCN": "邮件；邮递",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "favor",
+      "status": "approved",
+      "definitionEN": "an act of kindness, or approval and support from someone",
+      "definitionCN": "帮忙；好意；青睐",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "stomach",
+      "status": "approved"
+    },
+    {
+      "word": "infection",
+      "status": "approved",
+      "definitionEN": "the entry and growth of harmful microbes in the body, or the illness this causes",
+      "definitionCN": "感染；传染病",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "tube",
+      "status": "approved",
+      "definitionEN": "a long hollow object that carries liquids or gases or holds a substance",
+      "definitionCN": "管；管状容器",
+      "exampleIds": [
+        "tatoeba-eng-2756678",
+        "tatoeba-eng-10123534",
+        "tatoeba-eng-6339859"
+      ],
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "sake",
+      "status": "approved",
+      "definitionEN": "the purpose or benefit for which something is done",
+      "definitionCN": "缘故；利益；目的",
+      "exampleIds": [
+        "tatoeba-eng-257224",
+        "tatoeba-eng-10351578",
+        "tatoeba-eng-306548"
+      ],
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "circuit",
+      "status": "approved",
+      "definitionEN": "a complete path or connected network through which electricity or signals can pass",
+      "definitionCN": "电路；回路；神经回路",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "bath",
+      "status": "approved",
+      "definitionEN": "the act of washing in a tub of water, or the tub itself",
+      "definitionCN": "洗澡；浴缸",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "classical",
+      "status": "approved",
+      "definitionEN": "relating to ancient Greek or Roman culture, or to a long-established artistic tradition",
+      "definitionCN": "古典的；古典艺术的",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "split",
+      "status": "approved",
+      "partOfSpeech": "v.",
+      "forms": [
+        "splits",
+        "splitting"
+      ],
+      "definitionEN": "to divide into parts or separate from others",
+      "definitionCN": "分开；分担；分裂",
+      "exampleIds": [
+        "tatoeba-eng-533264",
+        "tatoeba-eng-12372595",
+        "tatoeba-eng-12086570"
+      ],
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "lecture",
+      "status": "approved"
+    },
+    {
+      "word": "occupation",
+      "status": "approved",
+      "definitionEN": "a person’s job or a main activity that takes their time",
+      "definitionCN": "职业；主要活动",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "formula",
+      "status": "approved"
+    },
+    {
+      "word": "assign",
+      "status": "approved",
+      "definitionEN": "to give someone a task or something a role, value, or quality",
+      "definitionCN": "分配；指派；赋值；归于",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "draft",
+      "status": "approved",
+      "definitionEN": "a preliminary version of a document, or a current of air",
+      "definitionCN": "草稿；气流",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "satellite",
+      "status": "approved",
+      "definitionEN": "an object that orbits a planet or other body, especially a human-made device",
+      "definitionCN": "卫星；人造卫星",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "tackle",
+      "status": "approved",
+      "definitionEN": "an attempt to take the ball from an opponent, or equipment used for fishing",
+      "definitionCN": "抢断；擒抱；钓具",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "spin",
+      "status": "approved",
+      "partOfSpeech": "v.",
+      "forms": [
+        "spins",
+        "spun",
+        "spinning"
+      ],
+      "definitionEN": "to turn around quickly, make something rotate, or feel dizzy",
+      "definitionCN": "旋转；使旋转；眩晕",
+      "exampleIds": [
+        "tatoeba-eng-1495471",
+        "tatoeba-eng-2834403",
+        "tatoeba-eng-9324593"
+      ],
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "testimony",
+      "status": "approved",
+      "definitionEN": "a statement giving evidence about what someone knows or has seen",
+      "definitionCN": "证词；证言",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "profile",
+      "status": "approved",
+      "definitionEN": "the outline of a face viewed from the side",
+      "definitionCN": "侧脸轮廓",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "qualify",
+      "status": "approved"
+    },
+    {
+      "word": "confusion",
+      "status": "approved",
+      "definitionEN": "uncertainty, disordered thought, or a situation that is difficult to understand",
+      "definitionCN": "困惑；混乱",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "virus",
+      "status": "approved",
+      "definitionEN": "a tiny infectious agent that reproduces only inside living cells",
+      "definitionCN": "病毒",
+      "exampleIds": [
+        "tatoeba-eng-962074",
+        "tatoeba-eng-8624426",
+        "tatoeba-eng-8637314"
+      ],
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    },
+    {
+      "word": "architecture",
+      "status": "approved",
+      "definitionEN": "the art and practice of designing buildings, or the style and structure of built forms",
+      "definitionCN": "建筑学；建筑设计；建筑风格",
+      "reason": "Reviewed the chosen POS, English/Chinese meanings, and all three uses; common-sense corrections and authentic replacements or original contexts remove mismatches."
+    }
+  ]
+}

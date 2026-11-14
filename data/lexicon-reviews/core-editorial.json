@@ -1,0 +1,969 @@
+{
+  "reviewer": "Sententia core vocabulary editorial pass",
+  "entries": [
+    {
+      "word": "research",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "careful study of a subject to discover facts or gain new understanding",
+      "definitionCN": "研究；调查",
+      "forms": [],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "The research compared how trees affect summer temperatures in different streets.",
+          "translation": "这项研究比较了树木如何影响不同街道的夏季温度。",
+          "register": "Reading",
+          "collocation": "The research compared"
+        },
+        {
+          "text": "Governments should fund research that addresses long-term public needs.",
+          "translation": "政府应资助能够回应长期公共需求的研究。",
+          "register": "Writing",
+          "collocation": "fund research"
+        },
+        {
+          "text": "Have you finished the research for your presentation on clean energy?",
+          "translation": "你完成清洁能源演示所需的研究了吗？",
+          "register": "Listening",
+          "collocation": "finished the research"
+        }
+      ]
+    },
+    {
+      "word": "education",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "the process of teaching and learning knowledge and skills",
+      "definitionCN": "教育；培养",
+      "forms": [],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "Access to education increased after new schools opened in rural areas.",
+          "translation": "农村地区新学校开办后，接受教育的机会增加了。",
+          "register": "Reading",
+          "collocation": "Access to education"
+        },
+        {
+          "text": "Early education should encourage curiosity as well as basic reading skills.",
+          "translation": "早期教育应在教授基本阅读技能的同时培养好奇心。",
+          "register": "Writing",
+          "collocation": "Early education"
+        },
+        {
+          "text": "Are you planning to continue your education after this course?",
+          "translation": "这门课程结束后，你打算继续求学吗？",
+          "register": "Listening",
+          "collocation": "continue your education"
+        }
+      ]
+    },
+    {
+      "word": "environment",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "the surrounding conditions in which people, animals, or plants live",
+      "definitionCN": "环境；周围条件",
+      "forms": [
+        "environments"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "The wetland provides a sheltered environment for young birds during spring.",
+          "translation": "这片湿地在春季为幼鸟提供了受保护的环境。",
+          "register": "Reading",
+          "collocation": "a sheltered environment"
+        },
+        {
+          "text": "Businesses should consider how their activities affect the natural environment.",
+          "translation": "企业应考虑自身活动如何影响自然环境。",
+          "register": "Writing",
+          "collocation": "the natural environment"
+        },
+        {
+          "text": "Does the new office provide a quiet environment for focused work?",
+          "translation": "新办公室能为专注工作提供安静的环境吗？",
+          "register": "Listening",
+          "collocation": "a quiet environment"
+        }
+      ]
+    },
+    {
+      "word": "development",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "the process of growing, changing, or becoming more advanced",
+      "definitionCN": "发展；开发；成长",
+      "forms": [
+        "developments"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "The development of local rail services changed how residents travelled to work.",
+          "translation": "当地铁路服务的发展改变了居民的通勤方式。",
+          "register": "Reading",
+          "collocation": "The development of local rail services"
+        },
+        {
+          "text": "Urban development should include affordable homes and accessible public spaces.",
+          "translation": "城市发展应包括价格可负担的住房和方便使用的公共空间。",
+          "register": "Writing",
+          "collocation": "Urban development"
+        },
+        {
+          "text": "How will this course support the development of your writing skills?",
+          "translation": "这门课程将如何帮助你提升写作技能？",
+          "register": "Listening",
+          "collocation": "the development of your writing skills"
+        }
+      ]
+    },
+    {
+      "word": "government",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "the people and institutions responsible for governing a country or region",
+      "definitionCN": "政府；管理机构",
+      "forms": [
+        "governments"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "The government introduced new rules to reduce waste from food packaging.",
+          "translation": "政府出台了减少食品包装废弃物的新规定。",
+          "register": "Reading",
+          "collocation": "The government introduced"
+        },
+        {
+          "text": "Local government should explain how public spending priorities are decided.",
+          "translation": "地方政府应解释公共支出优先事项是如何决定的。",
+          "register": "Writing",
+          "collocation": "Local government"
+        },
+        {
+          "text": "Has the government announced when the new library will open?",
+          "translation": "政府公布新图书馆何时开放了吗？",
+          "register": "Listening",
+          "collocation": "Has the government announced"
+        }
+      ]
+    },
+    {
+      "word": "society",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "people living together with shared institutions, customs, and relationships",
+      "definitionCN": "社会；社会群体",
+      "forms": [
+        "societies"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "Changes in working hours have affected family life across society.",
+          "translation": "工作时间的变化影响了社会各处的家庭生活。",
+          "register": "Reading",
+          "collocation": "across society"
+        },
+        {
+          "text": "A fair society should make essential services available to everyone.",
+          "translation": "公平的社会应让每个人都能获得基本服务。",
+          "register": "Writing",
+          "collocation": "A fair society"
+        },
+        {
+          "text": "Do you think this technology will change society in the next decade?",
+          "translation": "你认为这项技术会在未来十年改变社会吗？",
+          "register": "Listening",
+          "collocation": "change society"
+        }
+      ]
+    },
+    {
+      "word": "science",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "the study of the natural world through observation and testing",
+      "definitionCN": "科学；自然科学",
+      "forms": [
+        "sciences"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "Advances in science have improved our understanding of how forests store carbon.",
+          "translation": "科学进步增进了我们对森林如何储存碳的理解。",
+          "register": "Reading",
+          "collocation": "Advances in science"
+        },
+        {
+          "text": "Schools should teach science through practical investigation and clear explanation.",
+          "translation": "学校应通过实践探究和清晰讲解教授科学。",
+          "register": "Writing",
+          "collocation": "teach science"
+        },
+        {
+          "text": "Which area of science would you like to study at university?",
+          "translation": "你想在大学学习哪个科学领域？",
+          "register": "Listening",
+          "collocation": "area of science"
+        }
+      ]
+    },
+    {
+      "word": "technology",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "practical tools and methods developed using scientific knowledge",
+      "definitionCN": "科技；技术",
+      "forms": [
+        "technologies"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "New technology allows farmers to measure soil moisture more precisely.",
+          "translation": "新技术让农民能够更精确地测量土壤湿度。",
+          "register": "Reading",
+          "collocation": "New technology"
+        },
+        {
+          "text": "Schools should use technology where it improves learning rather than adds distraction.",
+          "translation": "学校应在技术能改善学习而非增添干扰时使用它。",
+          "register": "Writing",
+          "collocation": "use technology"
+        },
+        {
+          "text": "Will this technology work with the computers we already have?",
+          "translation": "这项技术能与我们现有的电脑配合使用吗？",
+          "register": "Listening",
+          "collocation": "this technology work"
+        }
+      ]
+    },
+    {
+      "word": "health",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "the condition of a person's body and mind",
+      "definitionCN": "健康；身心状况",
+      "forms": [],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "Regular access to green space is associated with better mental health.",
+          "translation": "经常接触绿色空间与更好的心理健康状况相关。",
+          "register": "Reading",
+          "collocation": "mental health"
+        },
+        {
+          "text": "Public health programmes should make reliable information easy to understand.",
+          "translation": "公共卫生项目应让可靠信息容易理解。",
+          "register": "Writing",
+          "collocation": "Public health programmes"
+        },
+        {
+          "text": "Has walking to work made any difference to your health?",
+          "translation": "步行上班对你的健康有影响吗？",
+          "register": "Listening",
+          "collocation": "your health"
+        }
+      ]
+    },
+    {
+      "word": "culture",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "the beliefs, customs, arts, and ways of life shared by a group",
+      "definitionCN": "文化；生活方式",
+      "forms": [
+        "cultures"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "Local festivals offer visitors an insight into the region's culture.",
+          "translation": "当地节日让游客了解该地区的文化。",
+          "register": "Reading",
+          "collocation": "the region's culture"
+        },
+        {
+          "text": "Schools can help preserve culture while encouraging respect for different traditions.",
+          "translation": "学校可以在保护文化的同时鼓励尊重不同传统。",
+          "register": "Writing",
+          "collocation": "preserve culture"
+        },
+        {
+          "text": "Which part of the local culture did you enjoy learning about?",
+          "translation": "你最喜欢了解当地文化的哪个部分？",
+          "register": "Listening",
+          "collocation": "the local culture"
+        }
+      ]
+    },
+    {
+      "word": "policy",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "a plan or principle that guides decisions and actions",
+      "definitionCN": "政策；方针；原则",
+      "forms": [
+        "policies"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "The new policy encourages employers to offer more flexible working hours.",
+          "translation": "新政策鼓励雇主提供更灵活的工作时间。",
+          "register": "Reading",
+          "collocation": "The new policy"
+        },
+        {
+          "text": "Transport policy should consider the needs of people without private cars.",
+          "translation": "交通政策应考虑没有私家车的人群的需求。",
+          "register": "Writing",
+          "collocation": "Transport policy"
+        },
+        {
+          "text": "Does the college have a clear policy on using phones in class?",
+          "translation": "学院对课堂使用手机有明确规定吗？",
+          "register": "Listening",
+          "collocation": "a clear policy"
+        }
+      ]
+    },
+    {
+      "word": "system",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "a connected set of parts that work together for a purpose",
+      "definitionCN": "系统；体系；制度",
+      "forms": [
+        "systems"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "The heating system uses stored rainwater to move warmth around the building.",
+          "translation": "这套供暖系统利用储存的雨水在建筑中传递热量。",
+          "register": "Reading",
+          "collocation": "The heating system"
+        },
+        {
+          "text": "A fair education system should support learners with different needs.",
+          "translation": "公平的教育体系应支持需求不同的学习者。",
+          "register": "Writing",
+          "collocation": "education system"
+        },
+        {
+          "text": "Can you show me how the new booking system works?",
+          "translation": "你能给我演示新的预约系统如何运作吗？",
+          "register": "Listening",
+          "collocation": "booking system"
+        }
+      ]
+    },
+    {
+      "word": "process",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "a series of actions or changes that lead to a result",
+      "definitionCN": "过程；流程",
+      "forms": [
+        "processes"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "Researchers observed the process by which seeds spread across the wetland.",
+          "translation": "研究人员观察了种子在湿地中传播的过程。",
+          "register": "Reading",
+          "collocation": "the process by which"
+        },
+        {
+          "text": "The planning process should give residents a genuine opportunity to comment.",
+          "translation": "规划流程应让居民有真正表达意见的机会。",
+          "register": "Writing",
+          "collocation": "The planning process"
+        },
+        {
+          "text": "How long does the application process usually take from start to finish?",
+          "translation": "申请流程从开始到结束通常需要多久？",
+          "register": "Listening",
+          "collocation": "the application process"
+        }
+      ]
+    },
+    {
+      "word": "industry",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "business activity that produces goods or provides a particular type of service",
+      "definitionCN": "工业；行业；产业",
+      "forms": [
+        "industries"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "The tourism industry provides seasonal work in many coastal communities.",
+          "translation": "旅游业为许多沿海社区提供季节性工作。",
+          "register": "Reading",
+          "collocation": "The tourism industry"
+        },
+        {
+          "text": "Every industry should be encouraged to reduce waste and improve energy efficiency.",
+          "translation": "每个行业都应受到鼓励，减少浪费并提高能源效率。",
+          "register": "Writing",
+          "collocation": "Every industry"
+        },
+        {
+          "text": "Would you like to work in this industry after you graduate?",
+          "translation": "毕业后你想在这个行业工作吗？",
+          "register": "Listening",
+          "collocation": "in this industry"
+        }
+      ]
+    },
+    {
+      "word": "resource",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "something available that can be used for a purpose",
+      "definitionCN": "资源；可利用的条件",
+      "forms": [
+        "resources"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "Clean water is a vital resource for both farming and urban life.",
+          "translation": "清洁水源对农业和城市生活都是重要资源。",
+          "register": "Reading",
+          "collocation": "a vital resource"
+        },
+        {
+          "text": "A public library is an important educational resource for the whole community.",
+          "translation": "公共图书馆是整个社区重要的教育资源。",
+          "register": "Writing",
+          "collocation": "educational resource"
+        },
+        {
+          "text": "Is there an online resource that explains this topic with simple examples?",
+          "translation": "有没有用简单例子解释这个话题的网络资源？",
+          "register": "Listening",
+          "collocation": "an online resource"
+        }
+      ]
+    },
+    {
+      "word": "language",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "a system of words and signs used to communicate meaning",
+      "definitionCN": "语言；表达体系",
+      "forms": [
+        "languages"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "The language spoken at home can shape a child's early learning experiences.",
+          "translation": "家庭中使用的语言会影响儿童早期的学习体验。",
+          "register": "Reading",
+          "collocation": "The language spoken at home"
+        },
+        {
+          "text": "Learning another language can help people understand different cultural perspectives.",
+          "translation": "学习另一种语言能帮助人们理解不同文化的视角。",
+          "register": "Writing",
+          "collocation": "another language"
+        },
+        {
+          "text": "Which language do you use most often when speaking with your colleagues?",
+          "translation": "与同事交谈时，你最常使用哪种语言？",
+          "register": "Listening",
+          "collocation": "Which language"
+        }
+      ]
+    },
+    {
+      "word": "knowledge",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "facts, understanding, and skills that a person has learned",
+      "definitionCN": "知识；了解；学识",
+      "forms": [],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "Local knowledge helped researchers identify plants that survived the dry season.",
+          "translation": "当地知识帮助研究人员识别出能在旱季存活的植物。",
+          "register": "Reading",
+          "collocation": "Local knowledge"
+        },
+        {
+          "text": "Education should develop the ability to apply knowledge to unfamiliar problems.",
+          "translation": "教育应培养将知识应用于陌生问题的能力。",
+          "register": "Writing",
+          "collocation": "apply knowledge"
+        },
+        {
+          "text": "Can we use our knowledge of this area to choose a better route?",
+          "translation": "我们能运用对这个地区的了解来选择更好的路线吗？",
+          "register": "Listening",
+          "collocation": "our knowledge of this area"
+        }
+      ]
+    },
+    {
+      "word": "method",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "a planned way of doing something",
+      "definitionCN": "方法；方式",
+      "forms": [
+        "methods"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "The new method measures air quality using small sensors on public buses.",
+          "translation": "新方法利用公共汽车上的小型传感器测量空气质量。",
+          "register": "Reading",
+          "collocation": "The new method"
+        },
+        {
+          "text": "Teachers should choose a method that suits both the task and the learners.",
+          "translation": "教师应选择既适合任务也适合学习者的方法。",
+          "register": "Writing",
+          "collocation": "choose a method"
+        },
+        {
+          "text": "Could you explain the method you used to organise these notes?",
+          "translation": "你能解释一下整理这些笔记时使用的方法吗？",
+          "register": "Listening",
+          "collocation": "the method you used"
+        }
+      ]
+    },
+    {
+      "word": "experience",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "knowledge or skill gained through doing things or taking part in events",
+      "definitionCN": "经验；阅历",
+      "forms": [
+        "experiences"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "Volunteers gain practical experience while helping maintain the community garden.",
+          "translation": "志愿者在帮助维护社区花园的过程中获得实践经验。",
+          "register": "Reading",
+          "collocation": "practical experience"
+        },
+        {
+          "text": "Work experience can help students connect classroom learning with future employment.",
+          "translation": "工作经验能帮助学生把课堂学习与未来就业联系起来。",
+          "register": "Writing",
+          "collocation": "Work experience"
+        },
+        {
+          "text": "Do you have any experience of organising an event this size?",
+          "translation": "你有组织这种规模活动的经验吗？",
+          "register": "Listening",
+          "collocation": "any experience of organising"
+        }
+      ]
+    },
+    {
+      "word": "economy",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "the system through which a country produces goods, services, and wealth",
+      "definitionCN": "经济；经济体系",
+      "forms": [
+        "economies"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "The local economy depends on several small industries rather than one large employer.",
+          "translation": "当地经济依赖多个小型行业，而不是单一大雇主。",
+          "register": "Reading",
+          "collocation": "The local economy"
+        },
+        {
+          "text": "A strong economy should create opportunities across different regions and social groups.",
+          "translation": "强劲的经济应为不同地区和社会群体创造机会。",
+          "register": "Writing",
+          "collocation": "A strong economy"
+        },
+        {
+          "text": "How has the new railway affected the economy of the surrounding towns?",
+          "translation": "新铁路对周边城镇的经济产生了什么影响？",
+          "register": "Listening",
+          "collocation": "the economy of the surrounding towns"
+        }
+      ]
+    },
+    {
+      "word": "population",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "all the people or animals living in a particular area",
+      "definitionCN": "人口；种群",
+      "forms": [
+        "populations"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "The population of the coastal town increases sharply during the summer.",
+          "translation": "这座海滨城镇的人口在夏季急剧增加。",
+          "register": "Reading",
+          "collocation": "The population of the coastal town"
+        },
+        {
+          "text": "An ageing population requires accessible housing and reliable healthcare services.",
+          "translation": "老龄化人口需要便于使用的住房和可靠的医疗服务。",
+          "register": "Writing",
+          "collocation": "An ageing population"
+        },
+        {
+          "text": "Has the population of this area grown since the new station opened?",
+          "translation": "新车站开放以来，这个地区的人口增加了吗？",
+          "register": "Listening",
+          "collocation": "the population of this area"
+        }
+      ]
+    },
+    {
+      "word": "learning",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "the process of gaining knowledge or skills through study and experience",
+      "definitionCN": "学习；知识或技能的获取",
+      "forms": [],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "Regular feedback helps make learning more effective for students at different levels.",
+          "translation": "经常获得反馈有助于提高不同水平学生的学习效果。",
+          "register": "Reading",
+          "collocation": "learning more effective"
+        },
+        {
+          "text": "Schools should give practical learning as much attention as preparation for exams.",
+          "translation": "学校对实践学习的重视程度应与备考相同。",
+          "register": "Writing",
+          "collocation": "practical learning"
+        },
+        {
+          "text": "What type of learning helps you remember new ideas most easily?",
+          "translation": "哪种学习方式最能帮助你记住新想法？",
+          "register": "Listening",
+          "collocation": "type of learning"
+        }
+      ]
+    },
+    {
+      "word": "information",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "facts or details that help someone understand a subject or situation",
+      "definitionCN": "信息；资料",
+      "forms": [],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "The website provides information about local transport, housing, and public services.",
+          "translation": "这个网站提供当地交通、住房和公共服务的信息。",
+          "register": "Reading",
+          "collocation": "provides information"
+        },
+        {
+          "text": "Public information should be clear enough for people with different reading abilities.",
+          "translation": "公共信息应足够清晰，让阅读能力不同的人都能理解。",
+          "register": "Writing",
+          "collocation": "Public information"
+        },
+        {
+          "text": "Where can I find reliable information about applying for this course?",
+          "translation": "在哪里可以找到申请这门课程的可靠信息？",
+          "register": "Listening",
+          "collocation": "reliable information"
+        }
+      ]
+    },
+    {
+      "word": "relationship",
+      "status": "approved",
+      "partOfSpeech": "n.",
+      "definitionEN": "a way in which people or things are connected",
+      "definitionCN": "关系；联系",
+      "forms": [
+        "relationships"
+      ],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "The study examined the relationship between working hours and sleep quality.",
+          "translation": "这项研究考察了工作时间与睡眠质量之间的关系。",
+          "register": "Reading",
+          "collocation": "the relationship between working hours and sleep quality"
+        },
+        {
+          "text": "Schools should build a positive relationship with the families of their students.",
+          "translation": "学校应与学生家庭建立积极的关系。",
+          "register": "Writing",
+          "collocation": "a positive relationship"
+        },
+        {
+          "text": "What is the relationship between these two figures on the chart?",
+          "translation": "图表上这两个数字有什么关系？",
+          "register": "Listening",
+          "collocation": "the relationship between these two figures"
+        }
+      ]
+    },
+    {
+      "word": "important",
+      "status": "approved",
+      "partOfSpeech": "adj.",
+      "definitionEN": "having great significance or value",
+      "definitionCN": "重要的；有重大价值的",
+      "forms": [],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "Reliable transport plays an important role in access to education and work.",
+          "translation": "可靠的交通在教育和就业机会获取中发挥重要作用。",
+          "register": "Reading",
+          "collocation": "an important role"
+        },
+        {
+          "text": "It is important to consider long-term costs when comparing environmental policies.",
+          "translation": "比较环境政策时，考虑长期成本十分重要。",
+          "register": "Writing",
+          "collocation": "It is important to consider"
+        },
+        {
+          "text": "Which part of the presentation is most important for tomorrow's discussion?",
+          "translation": "演示的哪一部分对明天的讨论最重要？",
+          "register": "Listening",
+          "collocation": "most important"
+        }
+      ]
+    },
+    {
+      "word": "necessary",
+      "status": "approved",
+      "partOfSpeech": "adj.",
+      "definitionEN": "needed for something to happen or succeed",
+      "definitionCN": "必要的；必需的",
+      "forms": [],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "Good drainage is necessary to protect buildings during periods of heavy rain.",
+          "translation": "在强降雨期间，良好的排水对保护建筑十分必要。",
+          "register": "Reading",
+          "collocation": "necessary to protect buildings"
+        },
+        {
+          "text": "Governments should provide the support necessary for adults to develop new skills.",
+          "translation": "政府应提供成人发展新技能所必需的支持。",
+          "register": "Writing",
+          "collocation": "the support necessary"
+        },
+        {
+          "text": "Is it necessary to book a place before attending the workshop?",
+          "translation": "参加这个工作坊之前必须预约名额吗？",
+          "register": "Listening",
+          "collocation": "Is it necessary to book"
+        }
+      ]
+    },
+    {
+      "word": "social",
+      "status": "approved",
+      "partOfSpeech": "adj.",
+      "definitionEN": "relating to people and how they live together",
+      "definitionCN": "社会的；社交的",
+      "forms": [],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "Shared public spaces can strengthen social connections between neighbours.",
+          "translation": "共享公共空间能加强邻里之间的社会联系。",
+          "register": "Reading",
+          "collocation": "social connections"
+        },
+        {
+          "text": "Public policy should consider the social effects of major transport projects.",
+          "translation": "公共政策应考虑大型交通项目的社会影响。",
+          "register": "Writing",
+          "collocation": "the social effects"
+        },
+        {
+          "text": "Are there any social activities for new students during the first week?",
+          "translation": "第一周有没有为新生安排社交活动？",
+          "register": "Listening",
+          "collocation": "social activities"
+        }
+      ]
+    },
+    {
+      "word": "national",
+      "status": "approved",
+      "partOfSpeech": "adj.",
+      "definitionEN": "relating to a whole country",
+      "definitionCN": "国家的；全国性的",
+      "forms": [],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "The national survey collected information about how households use energy.",
+          "translation": "这项全国调查收集了家庭能源使用方式的信息。",
+          "register": "Reading",
+          "collocation": "The national survey"
+        },
+        {
+          "text": "A national strategy can help coordinate local efforts to protect natural habitats.",
+          "translation": "全国性战略能帮助协调地方保护自然栖息地的工作。",
+          "register": "Writing",
+          "collocation": "A national strategy"
+        },
+        {
+          "text": "Will this qualification be recognised by employers at the national level?",
+          "translation": "这项资格会获得全国雇主的认可吗？",
+          "register": "Listening",
+          "collocation": "the national level"
+        }
+      ]
+    },
+    {
+      "word": "international",
+      "status": "approved",
+      "partOfSpeech": "adj.",
+      "definitionEN": "involving or relating to more than one country",
+      "definitionCN": "国际的；涉及多个国家的",
+      "forms": [],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "The international team compared approaches to water conservation in six regions.",
+          "translation": "这个国际团队比较了六个地区的节水方法。",
+          "register": "Reading",
+          "collocation": "The international team"
+        },
+        {
+          "text": "Climate policy requires international cooperation as well as action within individual countries.",
+          "translation": "气候政策既需要国际合作，也需要各国内部行动。",
+          "register": "Writing",
+          "collocation": "international cooperation"
+        },
+        {
+          "text": "Does the airport have a separate area for international flights?",
+          "translation": "机场有单独的国际航班区域吗？",
+          "register": "Listening",
+          "collocation": "international flights"
+        }
+      ]
+    },
+    {
+      "word": "economic",
+      "status": "approved",
+      "partOfSpeech": "adj.",
+      "definitionEN": "relating to production, trade, money, and the use of resources",
+      "definitionCN": "经济的；与经济活动有关的",
+      "forms": [],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "The port has played a central role in the region's economic growth.",
+          "translation": "这座港口在该地区的经济增长中发挥了核心作用。",
+          "register": "Reading",
+          "collocation": "economic growth"
+        },
+        {
+          "text": "Economic progress should be considered alongside health, education, and environmental quality.",
+          "translation": "衡量经济进步时，应同时考虑健康、教育和环境质量。",
+          "register": "Writing",
+          "collocation": "Economic progress"
+        },
+        {
+          "text": "What are the main economic benefits of building the new railway?",
+          "translation": "修建新铁路的主要经济效益是什么？",
+          "register": "Listening",
+          "collocation": "economic benefits"
+        }
+      ]
+    },
+    {
+      "word": "major",
+      "status": "approved",
+      "partOfSpeech": "adj.",
+      "definitionEN": "large or serious in size, importance, or effect",
+      "definitionCN": "主要的；重大的",
+      "forms": [],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "A major change in rainfall has affected the region's farming patterns.",
+          "translation": "降雨模式的重大变化影响了该地区的农业布局。",
+          "register": "Reading",
+          "collocation": "A major change"
+        },
+        {
+          "text": "Access to affordable housing remains a major concern for many young adults.",
+          "translation": "能否获得价格可负担的住房仍是许多年轻人的主要关切。",
+          "register": "Writing",
+          "collocation": "a major concern"
+        },
+        {
+          "text": "Are there any major differences between these two course options?",
+          "translation": "这两种课程选择有什么重大区别吗？",
+          "register": "Listening",
+          "collocation": "major differences"
+        }
+      ]
+    },
+    {
+      "word": "general",
+      "status": "approved",
+      "partOfSpeech": "adj.",
+      "definitionEN": "relating to most people or things rather than a specific case",
+      "definitionCN": "总体的；普遍的；一般的",
+      "forms": [],
+      "reason": "Editorial common-sense definition and three original learning contexts; ECDICT is used for word-list and rank evidence, not claimed as the source of these sentences.",
+      "authoredContexts": [
+        {
+          "text": "The general trend shows a gradual increase in the use of public transport.",
+          "translation": "总体趋势表明，公共交通使用量正在逐渐增加。",
+          "register": "Reading",
+          "collocation": "The general trend"
+        },
+        {
+          "text": "Libraries should provide services that meet the needs of the general public.",
+          "translation": "图书馆应提供满足普通公众需求的服务。",
+          "register": "Writing",
+          "collocation": "the general public"
+        },
+        {
+          "text": "Could you give us a general overview before explaining the details?",
+          "translation": "在解释细节之前，你能先给我们一个总体概述吗？",
+          "register": "Listening",
+          "collocation": "a general overview"
+        }
+      ]
+    }
+  ]
+}

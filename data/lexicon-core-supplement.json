@@ -1,0 +1,781 @@
+[
+  {
+    "word": "culture",
+    "forms": [
+      "cultures"
+    ],
+    "pos": "n.",
+    "definitionEN": "a particular society at a particular time and place",
+    "definitionCN": "n. 文化, 修养, 耕种\nvt. 耕种, 培养",
+    "phonetic": "/ˈkʌltʃə/",
+    "bncRank": 983,
+    "contemporaryRank": 611,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. a particular society at a particular time and place\nn. the tastes in art and manners that are favored by a social group\nn. (biology) the growing of microorganisms in a nutrient medium (such as gelatin or agar)\nn. the attitudes and behavior that are characteristic of a particular social group or organization",
+    "rawDefinitionCN": "n. 文化, 修养, 耕种\nvt. 耕种, 培养"
+  },
+  {
+    "word": "development",
+    "forms": [
+      "developments"
+    ],
+    "pos": "n.",
+    "definitionEN": "act of improving by expanding or enlarging or refining",
+    "definitionCN": "n. 发展\n[化] 展开",
+    "phonetic": "/diˈveləpmənt/",
+    "bncRank": 234,
+    "contemporaryRank": 448,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. act of improving by expanding or enlarging or refining\nn. a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)\nn. a recent event that has some relevance for the present situation\nn. a district that has been developed to serve some purpose",
+    "rawDefinitionCN": "n. 发展\n[化] 展开"
+  },
+  {
+    "word": "economic",
+    "forms": [],
+    "pos": "adj.",
+    "definitionEN": "of or relating to an economy, the system of production and management of material wealth",
+    "definitionCN": "a. 经济上的, 实用的, 节省的\n[经] 经济的",
+    "phonetic": "/.iːkəˈnɒmik/",
+    "bncRank": 402,
+    "contemporaryRank": 453,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "a. of or relating to an economy, the system of production and management of material wealth\na. of or relating to the science of economics\ns. using the minimum of time or resources necessary for effectiveness\ns. concerned with worldly necessities of life (especially money)",
+    "rawDefinitionCN": "a. 经济上的, 实用的, 节省的\n[经] 经济的"
+  },
+  {
+    "word": "economy",
+    "forms": [
+      "economies"
+    ],
+    "pos": "n.",
+    "definitionEN": "the system of production and distribution and consumption",
+    "definitionCN": "n. 经济, 理财, 节约\n[医] 经济, 整体",
+    "phonetic": "/iˈkɒnəmi/",
+    "bncRank": 817,
+    "contemporaryRank": 645,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. the system of production and distribution and consumption\nn. the efficient use of resources\nn. frugality in the expenditure of money or resources\nn. an act of economizing; reduction in cost",
+    "rawDefinitionCN": "n. 经济, 理财, 节约\n[医] 经济, 整体"
+  },
+  {
+    "word": "education",
+    "forms": [],
+    "pos": "n.",
+    "definitionEN": "the activities of educating or instructing; activities that impart knowledge or skill",
+    "definitionCN": "n. 教育, 训练, 教育学\n[医] 教育, 训练",
+    "phonetic": "/.edjuˈkeɪʃən/",
+    "bncRank": 353,
+    "contemporaryRank": 376,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. the activities of educating or instructing; activities that impart knowledge or skill\nn. knowledge acquired by learning and instruction\nn. the gradual process of acquiring knowledge\nn. the profession of teaching (especially at a school or college or university)",
+    "rawDefinitionCN": "n. 教育, 训练, 教育学\n[医] 教育, 训练"
+  },
+  {
+    "word": "environment",
+    "forms": [
+      "environments"
+    ],
+    "pos": "n.",
+    "definitionEN": "the totality of surrounding conditions",
+    "definitionCN": "n. 环境, 外界, 围绕\n[计] 环境",
+    "phonetic": "/inˈvaɪrənmənt/",
+    "bncRank": 702,
+    "contemporaryRank": 855,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": true,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. the totality of surrounding conditions\nn. the area in which something exists or lives",
+    "rawDefinitionCN": "n. 环境, 外界, 围绕\n[计] 环境"
+  },
+  {
+    "word": "experience",
+    "forms": [
+      "experiences"
+    ],
+    "pos": "n.",
+    "definitionEN": "the accumulation of knowledge or skill that results from direct participation in events or activities",
+    "definitionCN": "n. 经历, 经验, 体验\nvt. 经历, 经验, 体验",
+    "phonetic": "/ikˈspiəriəns/",
+    "bncRank": 430,
+    "contemporaryRank": 420,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. the accumulation of knowledge or skill that results from direct participation in events or activities\nn. the content of direct observation or participation in an event\nn. an event as apprehended\nv. go or live through",
+    "rawDefinitionCN": "n. 经历, 经验, 体验\nvt. 经历, 经验, 体验"
+  },
+  {
+    "word": "general",
+    "forms": [],
+    "pos": "adj.",
+    "definitionEN": "",
+    "definitionCN": "n. 一般, 将军, 大体\na. 全面的, 大体的, 总的, 一般的, 普遍的\nn. 常规\n[计] 常规",
+    "phonetic": "/ˈdʒenərəl/",
+    "bncRank": 301,
+    "contemporaryRank": 804,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. a general officer of the highest rank\nn. the head of a religious order or congregation\nn. a fact about the whole (as opposed to particular)\nv. command as a general",
+    "rawDefinitionCN": "n. 一般, 将军, 大体\na. 全面的, 大体的, 总的, 一般的, 普遍的\nn. 常规\n[计] 常规"
+  },
+  {
+    "word": "government",
+    "forms": [
+      "governments"
+    ],
+    "pos": "n.",
+    "definitionEN": "the organization that is the governing authority of a political unit",
+    "definitionCN": "n. 政府, 内阁\n[经] 政府, 政治, 政体",
+    "phonetic": "/ˈgʌvənmənt/",
+    "bncRank": 124,
+    "contemporaryRank": 201,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. the organization that is the governing authority of a political unit\nn. the act of governing; exercising authority\nn. (government) the system or form by which a community or other political unit is governed",
+    "rawDefinitionCN": "n. 政府, 内阁\n[经] 政府, 政治, 政体"
+  },
+  {
+    "word": "health",
+    "forms": [],
+    "pos": "n.",
+    "definitionEN": "a healthy state of wellbeing free from disease",
+    "definitionCN": "n. 健康, 卫生, 蓬勃, 健康状态\n[医] 健康",
+    "phonetic": "/ˈhelθ/",
+    "bncRank": 373,
+    "contemporaryRank": 344,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. a healthy state of wellbeing free from disease\nn. the general condition of body and mind",
+    "rawDefinitionCN": "n. 健康, 卫生, 蓬勃, 健康状态\n[医] 健康"
+  },
+  {
+    "word": "important",
+    "forms": [],
+    "pos": "adj.",
+    "definitionEN": "of great significance or value",
+    "definitionCN": "a. 重要的, 有地位的, 大量的, 显要的, 自负的\n[计] 要点",
+    "phonetic": "/imˈpɒːtənt/",
+    "bncRank": 218,
+    "contemporaryRank": 266,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "a. of great significance or value\ns. having or suggesting a consciousness of high position",
+    "rawDefinitionCN": "a. 重要的, 有地位的, 大量的, 显要的, 自负的\n[计] 要点"
+  },
+  {
+    "word": "industry",
+    "forms": [
+      "industries"
+    ],
+    "pos": "n.",
+    "definitionEN": "the people or companies engaged in a particular kind of commercial enterprise",
+    "definitionCN": "n. 勤劳, 工业, 企业, 产业, 有组织的劳动\n[经] 工业, 实业",
+    "phonetic": "/ˈindəstri/",
+    "bncRank": 383,
+    "contemporaryRank": 551,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. the people or companies engaged in a particular kind of commercial enterprise\nn. the organized action of making of goods and services for sale",
+    "rawDefinitionCN": "n. 勤劳, 工业, 企业, 产业, 有组织的劳动\n[经] 工业, 实业"
+  },
+  {
+    "word": "information",
+    "forms": [],
+    "pos": "n.",
+    "definitionEN": "a message received and understood",
+    "definitionCN": "n. 消息, 知识, 通知, 情报, 信息, 问讯处, 起诉\n[计] 信息",
+    "phonetic": "/.infəˈmeɪʃən/",
+    "bncRank": 223,
+    "contemporaryRank": 314,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. a message received and understood\nn. knowledge acquired through study or experience or instruction\nn. formal accusation of a crime\nn. (communication theory) a numerical measure of the uncertainty of an outcome",
+    "rawDefinitionCN": "n. 消息, 知识, 通知, 情报, 信息, 问讯处, 起诉\n[计] 信息"
+  },
+  {
+    "word": "international",
+    "forms": [],
+    "pos": "adj.",
+    "definitionEN": "concerning or belonging to all or at least two or more nations",
+    "definitionCN": "a. 国际的\nn. 国别设定\n[计] 国别设定",
+    "phonetic": "/.intəˈnæʃənəl/",
+    "bncRank": 435,
+    "contemporaryRank": 500,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. any of several international socialist organizations\na. concerning or belonging to all or at least two or more nations",
+    "rawDefinitionCN": "a. 国际的\nn. 国别设定\n[计] 国别设定"
+  },
+  {
+    "word": "knowledge",
+    "forms": [
+      "knowledges"
+    ],
+    "pos": "n.",
+    "definitionEN": "",
+    "definitionCN": "n. 知识, 学问, 认识, 知道",
+    "phonetic": "/ˈnɒlidʒ/",
+    "bncRank": 689,
+    "contemporaryRank": 839,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n the psychological result of perception and learning and reasoning",
+    "rawDefinitionCN": "n. 知识, 学问, 认识, 知道"
+  },
+  {
+    "word": "language",
+    "forms": [
+      "languages"
+    ],
+    "pos": "n.",
+    "definitionEN": "a systematic means of communicating by the use of sounds or conventional symbols",
+    "definitionCN": "n. 语言, 文字, 措辞\n[计] 语言",
+    "phonetic": "/ˈlæŋgwidʒ/",
+    "bncRank": 436,
+    "contemporaryRank": 722,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. a systematic means of communicating by the use of sounds or conventional symbols\nn. the mental faculty or power of vocal communication",
+    "rawDefinitionCN": "n. 语言, 文字, 措辞\n[计] 语言"
+  },
+  {
+    "word": "learning",
+    "forms": [],
+    "pos": "n.",
+    "definitionEN": "the cognitive process of acquiring skill or knowledge",
+    "definitionCN": "n. 学问, 学识, 学习\n[计] 学习",
+    "phonetic": "/ˈləːniŋ/",
+    "bncRank": 1745,
+    "contemporaryRank": 1455,
+    "ieltsTagged": false,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. the cognitive process of acquiring skill or knowledge",
+    "rawDefinitionCN": "n. 学问, 学识, 学习\n[计] 学习"
+  },
+  {
+    "word": "major",
+    "forms": [],
+    "pos": "adj.",
+    "definitionEN": "",
+    "definitionCN": "n. 主修课, 成年人, 陆军少校\na. 主要的, 较多的, 大部分的, 成年的, 严重的\nvi. 主修\n[计] 主要, 主要刻度",
+    "phonetic": "/ˈmeɪdʒə/",
+    "bncRank": 392,
+    "contemporaryRank": 444,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. a commissioned military officer in the United States Army or Air Force or Marines; below lieutenant colonel and above captain\nn. British statesman who was prime minister from 1990 until 1997 (born in 1943)\nn. a university student who is studying a particular field as the principal subject\nn. the principal field of study of a student at a university",
+    "rawDefinitionCN": "n. 主修课, 成年人, 陆军少校\na. 主要的, 较多的, 大部分的, 成年的, 严重的\nvi. 主修\n[计] 主要, 主要刻度"
+  },
+  {
+    "word": "method",
+    "forms": [
+      "methods"
+    ],
+    "pos": "n.",
+    "definitionEN": "a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)",
+    "definitionCN": "n. 方法, 办法, 条理, 秩序\n[医] [方]法",
+    "phonetic": "/ˈmeθəd/",
+    "bncRank": 561,
+    "contemporaryRank": 998,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": true,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)",
+    "rawDefinitionCN": "n. 方法, 办法, 条理, 秩序\n[医] [方]法"
+  },
+  {
+    "word": "national",
+    "forms": [],
+    "pos": "adj.",
+    "definitionEN": "of or relating to or belonging to a nation or country",
+    "definitionCN": "a. 国家的, 国立的, 全国性的, 民族的\n[经] 全国性的, 国家的, 国民的",
+    "phonetic": "/ˈnæʃənəl/",
+    "bncRank": 232,
+    "contemporaryRank": 231,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. a person who owes allegiance to that nation\na. of or relating to or belonging to a nation or country\na. limited to or in the interests of a particular nation\na. concerned with or applicable to or belonging to an entire nation or country",
+    "rawDefinitionCN": "a. 国家的, 国立的, 全国性的, 民族的\n[经] 全国性的, 国家的, 国民的"
+  },
+  {
+    "word": "necessary",
+    "forms": [],
+    "pos": "adj.",
+    "definitionEN": "absolutely essential",
+    "definitionCN": "a. 必要的；必然的；必需的",
+    "phonetic": "/ˈnesisəri/",
+    "bncRank": 555,
+    "contemporaryRank": 982,
+    "ieltsTagged": false,
+    "tags": [
+      "zk",
+      "gk"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "a. absolutely essential\ns. unavoidably determined by prior circumstances",
+    "rawDefinitionCN": "a. 必要的；必然的；必需的"
+  },
+  {
+    "word": "policy",
+    "forms": [
+      "policies"
+    ],
+    "pos": "n.",
+    "definitionEN": "a plan of action adopted by an individual or social group",
+    "definitionCN": "n. 政策, 方针, 策略, 保险单\n[医] 凭单, 保险单",
+    "phonetic": "/ˈpɒlisi/",
+    "bncRank": 250,
+    "contemporaryRank": 388,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. a plan of action adopted by an individual or social group\nn. a line of argument rationalizing the course of action of a government\nn. written contract or certificate of insurance",
+    "rawDefinitionCN": "n. 政策, 方针, 策略, 保险单\n[医] 凭单, 保险单"
+  },
+  {
+    "word": "population",
+    "forms": [
+      "populations"
+    ],
+    "pos": "n.",
+    "definitionEN": "the people who inhabit a territory or state",
+    "definitionCN": "n. 人口, 人口数\n[化] 群体; 总体",
+    "phonetic": "/.pɒpjuˈleɪʃən/",
+    "bncRank": 683,
+    "contemporaryRank": 642,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. the people who inhabit a territory or state\nn. a group of organisms of the same species inhabiting a given area\nn. (statistics) the entire aggregation of items from which samples can be drawn\nn. the number of inhabitants (either the total number or the number of a particular race or class) in a given place (country or city etc.)",
+    "rawDefinitionCN": "n. 人口, 人口数\n[化] 群体; 总体"
+  },
+  {
+    "word": "process",
+    "forms": [
+      "processes"
+    ],
+    "pos": "n.",
+    "definitionEN": "(psychology) the performance of some composite cognitive activity; an operation that affects mental contents",
+    "definitionCN": "n. 程序, 进行, 过程\nvt. 加工, 使...接受处理, 对...处置, 对...起诉\na. 经加工的, 有特殊光效的\n[计] 进程",
+    "phonetic": "/ˈprɒses/",
+    "bncRank": 343,
+    "contemporaryRank": 391,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. (psychology) the performance of some composite cognitive activity; an operation that affects mental contents\nn. a mental process that you are not directly aware of\nn. a natural prolongation or projection from a part of an organism either animal or plant\nn. a sustained phenomenon or one marked by gradual changes through a series of states",
+    "rawDefinitionCN": "n. 程序, 进行, 过程\nvt. 加工, 使...接受处理, 对...处置, 对...起诉\na. 经加工的, 有特殊光效的\n[计] 进程"
+  },
+  {
+    "word": "relationship",
+    "forms": [
+      "relationships"
+    ],
+    "pos": "n.",
+    "definitionEN": "a relation between people; (`relationship' is often used where `relation' would serve, as in `the relationship between inflation and unemployment', but the preferred usage of `relationship' is for human relations or states of relatedness)",
+    "definitionCN": "n. 关系, 关联\n[医] 关系",
+    "phonetic": "/riˈleɪʃənʃip/",
+    "bncRank": 532,
+    "contemporaryRank": 486,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. a relation between people; (`relationship' is often used where `relation' would serve, as in `the relationship between inflation and unemployment', but the preferred usage of `relationship' is for human relations or states of relatedness)\nn. a state of connectedness between people (especially an emotional connection)\nn. a state involving mutual dealings between people or parties or countries",
+    "rawDefinitionCN": "n. 关系, 关联\n[医] 关系"
+  },
+  {
+    "word": "research",
+    "forms": [
+      "researches"
+    ],
+    "pos": "n.",
+    "definitionEN": "systematic investigation to establish facts",
+    "definitionCN": "n. 研究, 调查, 考察\nvi. 研究, 调查",
+    "phonetic": "/riˈsəːtʃ/",
+    "bncRank": 357,
+    "contemporaryRank": 362,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. systematic investigation to establish facts\nv. attempt to find out in a systematically and scientific manner\nv. inquire into",
+    "rawDefinitionCN": "n. 研究, 调查, 考察\nvi. 研究, 调查"
+  },
+  {
+    "word": "resource",
+    "forms": [
+      "resources"
+    ],
+    "pos": "n.",
+    "definitionEN": "available source of wealth; a new or reserve supply that can be drawn upon when needed",
+    "definitionCN": "n. 资源, 财力, 办法, 策略, 急智, 消遣\n[计] 资源",
+    "phonetic": "/riˈsɒːs/",
+    "bncRank": 786,
+    "contemporaryRank": 769,
+    "ieltsTagged": true,
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": true,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. available source of wealth; a new or reserve supply that can be drawn upon when needed\nn. a source of aid or support that may be drawn upon when needed\nn. the ability to deal resourcefully with unusual problems",
+    "rawDefinitionCN": "n. 资源, 财力, 办法, 策略, 急智, 消遣\n[计] 资源"
+  },
+  {
+    "word": "science",
+    "forms": [
+      "sciences"
+    ],
+    "pos": "n.",
+    "definitionEN": "a particular branch of scientific knowledge",
+    "definitionCN": "n. 科学, 学科, 学问, 自然科学\n[医] 科学",
+    "phonetic": "/ˈsaɪəns/",
+    "bncRank": 794,
+    "contemporaryRank": 889,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": true,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. a particular branch of scientific knowledge",
+    "rawDefinitionCN": "n. 科学, 学科, 学问, 自然科学\n[医] 科学"
+  },
+  {
+    "word": "social",
+    "forms": [],
+    "pos": "adj.",
+    "definitionEN": "relating to human society and its members",
+    "definitionCN": "a. 社会的, 群居的, 社交的\nn. 联欢会",
+    "phonetic": "/ˈsəʊʃəl/",
+    "bncRank": 202,
+    "contemporaryRank": 319,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "a. relating to human society and its members\na. living together or enjoying life in communities or organized groups\na. relating to or belonging to or characteristic of high society\ns. composed of sociable people or formed for the purpose of sociability",
+    "rawDefinitionCN": "a. 社会的, 群居的, 社交的\nn. 联欢会"
+  },
+  {
+    "word": "society",
+    "forms": [
+      "societies"
+    ],
+    "pos": "n.",
+    "definitionEN": "an extended social group having a distinctive cultural and economic organization",
+    "definitionCN": "n. 社会；社交界；交往；社团",
+    "phonetic": "/səˈsaɪəti/",
+    "bncRank": 326,
+    "contemporaryRank": 507,
+    "ieltsTagged": false,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. an extended social group having a distinctive cultural and economic organization\nn. the fashionable elite",
+    "rawDefinitionCN": "n. 社会；社交界；交往；社团"
+  },
+  {
+    "word": "system",
+    "forms": [
+      "systems"
+    ],
+    "pos": "n.",
+    "definitionEN": "instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity",
+    "definitionCN": "n. 系统, 体系, 制度, 方式, 秩序, 分类原则\n[计] 系统; 体制; 体系",
+    "phonetic": "/ˈsistəm/",
+    "bncRank": 136,
+    "contemporaryRank": 191,
+    "ieltsTagged": true,
+    "tags": [
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "toefl",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": false,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity\nn. a group of independent but interrelated elements comprising a unified whole\nn. (physical chemistry) a sample of matter in which substances in different phases are in equilibrium\nn. a complex of methods or rules governing behavior",
+    "rawDefinitionCN": "n. 系统, 体系, 制度, 方式, 秩序, 分类原则\n[计] 系统; 体制; 体系"
+  },
+  {
+    "word": "technology",
+    "forms": [
+      "technologies"
+    ],
+    "pos": "n.",
+    "definitionEN": "the practical application of science to commerce or industry",
+    "definitionCN": "n. 技术, 工业技术, 术语\n[医] 技术学, 工艺学",
+    "phonetic": "/tekˈnɒlədʒi/",
+    "bncRank": 756,
+    "contemporaryRank": 585,
+    "ieltsTagged": true,
+    "tags": [
+      "zk",
+      "gk",
+      "cet4",
+      "cet6",
+      "ky",
+      "ielts"
+    ],
+    "sourceId": "ecdict",
+    "alreadySelected": true,
+    "requiresSemanticReview": true,
+    "rawDefinitionEN": "n. the practical application of science to commerce or industry",
+    "rawDefinitionCN": "n. 技术, 工业技术, 术语\n[医] 技术学, 工艺学"
+  }
+]

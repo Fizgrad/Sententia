@@ -1,0 +1,6 @@
+[Unit]
+Description=Renew Sententia HTTPS IP certificate
+
+[Service]
+Type=oneshot
+ExecStart=/opt/sententia-certbot/venv/bin/certbot renew --quiet --cert-name sententia-ip

@@ -1,0 +1,3152 @@
+[
+  {
+    "word": "model",
+    "pos": "n.",
+    "en": "a hypothetical description of a complex entity or process",
+    "cn": "模型, 模范, 模特儿",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-58365",
+        "text": "I'd like to try out this new model before I buy it."
+      },
+      {
+        "id": "tatoeba-eng-298765",
+        "text": "He compared his car to the new model."
+      },
+      {
+        "id": "tatoeba-eng-327755",
+        "text": "The high performance and the elegant design of this model have combined to give it a high reputation."
+      }
+    ]
+  },
+  {
+    "word": "claim",
+    "pos": "n.",
+    "en": "an assertion of a right (as to money or property)",
+    "cn": "要求, 要求权, 断言, 权利",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-1406945",
+        "text": "An insurance claim is a demand made by the insured for payment of the benefits as provided by the policy."
+      },
+      {
+        "id": "tatoeba-eng-11040981",
+        "text": "Do you have an objection to the source, or a relevant piece of evidence to refute the claim?"
+      },
+      {
+        "id": "tatoeba-eng-12112684",
+        "text": "The claim that men evolved to hunt and women to gather is not supported by the evidence."
+      }
+    ]
+  },
+  {
+    "word": "star",
+    "pos": "n.",
+    "en": "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+    "cn": "星, 恒星, 星形物, 运气, 明星",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-39082",
+        "text": "There was a big gold star on the door."
+      },
+      {
+        "id": "tatoeba-eng-2047323",
+        "text": "As an atom approaches the barycenter of a forming star, it trades potential for kinetic energy: the stuff of heat."
+      },
+      {
+        "id": "tatoeba-eng-3955431",
+        "text": "A planet is a large space body which reflects the light of a star around which it revolves."
+      }
+    ]
+  },
+  {
+    "word": "picture",
+    "pos": "n.",
+    "en": "a visual representation (of an object or scene or person or abstraction) produced on a surface",
+    "cn": "图画, 照片, 景色, 美丽如画的人(或物), 化身, 生动的描述, 想像, 形象思维",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-10286320",
+        "text": "I like this picture, not just because it's famous, but because it really is a masterpiece."
+      },
+      {
+        "id": "tatoeba-eng-60505",
+        "text": "All you have to do is push this button to take a picture."
+      },
+      {
+        "id": "tatoeba-eng-60026",
+        "text": "What image did you have in mind as you painted this picture?"
+      }
+    ]
+  },
+  {
+    "word": "test",
+    "pos": "n.",
+    "en": "any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc",
+    "cn": "测试, 试验, 化验, 检验, 考验, 甲壳",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-1283954",
+        "text": "If you pass this test, you could graduate next month."
+      },
+      {
+        "id": "tatoeba-eng-6956859",
+        "text": "I was the last one to turn in my test."
+      },
+      {
+        "id": "tatoeba-eng-27544",
+        "text": "If he studied hard, he would pass the test."
+      }
+    ]
+  },
+  {
+    "word": "chapter",
+    "pos": "n.",
+    "en": "a subdivision of a written work; usually numbered and titled",
+    "cn": "章, 篇, 重要章节",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-37672",
+        "text": "At any rate, we have to finish this chapter before we can start on the next."
+      },
+      {
+        "id": "tatoeba-eng-478389",
+        "text": "The author pins the crime on a character who pops up in the last chapter of this book."
+      },
+      {
+        "id": "tatoeba-eng-1242436",
+        "text": "If the first chapter is any indication, this book has the makings of a best seller."
+      }
+    ]
+  },
+  {
+    "word": "organization",
+    "pos": "n.",
+    "en": "a group of people who work together",
+    "cn": "组织, 结构, 团体, 体制",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-8626843",
+        "text": "In some cases, groups spreading misinformation create websites and social media accounts that look like a legitimate news organization."
+      },
+      {
+        "id": "tatoeba-eng-812091",
+        "text": "His knowledge put him dangerously close to a secret the organization wouldn't let him live to hear."
+      },
+      {
+        "id": "tatoeba-eng-6287091",
+        "text": "In any great organization it is far, far safer to be wrong with the majority than to be right alone."
+      }
+    ]
+  },
+  {
+    "word": "source",
+    "pos": "n.",
+    "en": "a document (or organization) from which information is obtained",
+    "cn": "来源, 水源, 根源, 原始资料, 源",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-65745",
+        "text": "The Internet is an invaluable source of information."
+      },
+      {
+        "id": "tatoeba-eng-1954614",
+        "text": "I can't locate the source of the problem."
+      },
+      {
+        "id": "tatoeba-eng-268515",
+        "text": "A polite way to reveal knowledge of a fact without telling the source of the information is to say, \"a little bird told me\"."
+      }
+    ]
+  },
+  {
+    "word": "application",
+    "pos": "n.",
+    "en": "the act of bringing something to bear; using it for a particular purpose",
+    "cn": "应用, 申请, 志愿书, 应用程序",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-266194",
+        "text": "You have to fill out an application for admission to the hospital at the front desk."
+      },
+      {
+        "id": "tatoeba-eng-269552",
+        "text": "After she filled out the application, the records clerk told her that the fee was eight dollars."
+      },
+      {
+        "id": "tatoeba-eng-704164",
+        "text": "This means you can reuse them freely for a textbook, for an application, for a research project, for anything!"
+      }
+    ]
+  },
+  {
+    "word": "board",
+    "pos": "n.",
+    "en": "a committee having supervisory powers",
+    "cn": "木板, 甲板, 膳食, 会议桌",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-263455",
+        "text": "The names of the students who failed in the examination were posted on the bulletin board."
+      },
+      {
+        "id": "tatoeba-eng-413834",
+        "text": "This further proof that the chairman of the board is a few croutons short of a salad."
+      },
+      {
+        "id": "tatoeba-eng-718063",
+        "text": "The advisory board had a lot of qualms about her latest album, which she ended up releasing independently."
+      }
+    ]
+  },
+  {
+    "word": "plant",
+    "pos": "n.",
+    "en": "buildings for carrying on industrial labor",
+    "cn": "植物, 作物, 工厂, 树枝, 生长, 设施, 成套设备",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-58601",
+        "text": "This kind of plant grows only in the tropical regions."
+      },
+      {
+        "id": "tatoeba-eng-873948",
+        "text": "The firefighters could not put out the fire at the industrial plant."
+      },
+      {
+        "id": "tatoeba-eng-8946810",
+        "text": "There's a new industrial plant in the north of the city."
+      }
+    ]
+  },
+  {
+    "word": "loss",
+    "pos": "n.",
+    "en": "something that is lost",
+    "cn": "损失, 遗失, 失败, 输, 错过, 伤亡",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-49092",
+        "text": "The company suffered a loss of one billion yen last year."
+      },
+      {
+        "id": "tatoeba-eng-314649",
+        "text": "She was at a loss for words to express her feeling."
+      },
+      {
+        "id": "tatoeba-eng-27211",
+        "text": "On the one hand we suffered a heavy loss, but on the other hand we learned a great deal from the experience."
+      }
+    ]
+  },
+  {
+    "word": "sport",
+    "pos": "n.",
+    "en": "an active diversion requiring physical exertion and competition",
+    "cn": "运动, 游戏, 娱乐, 消遣, 玩笑",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-61862",
+        "text": "The point we must clarify here is that the lines between amateur and professional in sport are beginning to disappear."
+      },
+      {
+        "id": "tatoeba-eng-847238",
+        "text": "He does not care for any sport involving team work or quick responses to other players."
+      },
+      {
+        "id": "tatoeba-eng-10111487",
+        "text": "It is not wrong to say that chess is a sport: it is recognized as such."
+      }
+    ]
+  },
+  {
+    "word": "top",
+    "pos": "n.",
+    "en": "the upper part of anything",
+    "cn": "顶部, 顶端, 极点, 上面, 上部, 顶篷, 最高地位, 首位, 陀螺",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-44472",
+        "text": "Don't put anything on top of the box."
+      },
+      {
+        "id": "tatoeba-eng-316019",
+        "text": "She lost her way and on top of that it began to rain."
+      },
+      {
+        "id": "tatoeba-eng-388009",
+        "text": "The top of the mountain is covered in snow."
+      }
+    ]
+  },
+  {
+    "word": "focus",
+    "pos": "n.",
+    "en": "the concentration of attention or energy on something",
+    "cn": "焦点, 焦距",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-6104186",
+        "text": "Instead of focusing on the things that divide us, let's focus on the things that unite us."
+      },
+      {
+        "id": "tatoeba-eng-6557650",
+        "text": "Rather than focus on actual problems, they bicker among themselves, accusing each other of having beliefs that are insufficiently ideologically pure."
+      },
+      {
+        "id": "tatoeba-eng-7236736",
+        "text": "Instead of focusing on the ways that we're different, let's focus on the ways that we're similar."
+      }
+    ]
+  },
+  {
+    "word": "size",
+    "pos": "n.",
+    "en": "the physical magnitude of something (how big it is)",
+    "cn": "大小, 尺寸, 规模, 尺码, 能力, 浆料",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-4753829",
+        "text": "We have your size, but not in that color."
+      },
+      {
+        "id": "tatoeba-eng-59594",
+        "text": "Do you have these shoes in my size?"
+      },
+      {
+        "id": "tatoeba-eng-250331",
+        "text": "I'm looking for a coat in my size."
+      }
+    ]
+  },
+  {
+    "word": "sound",
+    "pos": "n.",
+    "en": "the particular auditory effect produced by a given cause",
+    "cn": "声音, 语音, 吵闹, 声调, 听力范围, 探条, 海峡",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-40881",
+        "text": "I just felt like hearing the sound of your voice."
+      },
+      {
+        "id": "tatoeba-eng-39072",
+        "text": "A strange sound was heard from behind the door."
+      },
+      {
+        "id": "tatoeba-eng-8440108",
+        "text": "That's the most beautiful sound in the world."
+      }
+    ]
+  },
+  {
+    "word": "concern",
+    "pos": "n.",
+    "en": "something that interests you because it is important or affects you",
+    "cn": "关心, 忧虑",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-51036",
+        "text": "The loss of childhood spontaneity has caused widespread concern, as well as calls for review of the nation's educational and social structures."
+      },
+      {
+        "id": "tatoeba-eng-2905289",
+        "text": "For a pillow like this all men do yearn but that - quite frankly - is not my concern."
+      },
+      {
+        "id": "tatoeba-eng-3086057",
+        "text": "It's a matter of great concern that two people on the plane that crashed were travelling on stolen passports."
+      }
+    ]
+  },
+  {
+    "word": "article",
+    "pos": "n.",
+    "en": "nonfictional prose forming an independent part of a publication",
+    "cn": "文章, 冠词, 物品, 物件, 条款, 契约",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-395068",
+        "text": "That's the computer he used to write the article."
+      },
+      {
+        "id": "tatoeba-eng-2019",
+        "text": "The news article painted the defendant as a guilty man, even though he had been proven innocent."
+      },
+      {
+        "id": "tatoeba-eng-2576125",
+        "text": "Given all the books you've written, would it really be so hard to write a small article?"
+      }
+    ]
+  },
+  {
+    "word": "feature",
+    "pos": "n.",
+    "en": "a prominent attribute or aspect of something",
+    "cn": "面孔的一部分(如眼、口等), 特征, 容貌, 特色, 特写",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-278226",
+        "text": "The truly remarkable feature of sound production by birds is that the two sides of the syrinx can act independently."
+      },
+      {
+        "id": "tatoeba-eng-10220456",
+        "text": "The photo editor includes a feature which allows users to add a blur effect to images."
+      },
+      {
+        "id": "tatoeba-eng-1720363",
+        "text": "The coccyx is a vestigial feature that shows the common ancestry of mankind and apes."
+      }
+    ]
+  },
+  {
+    "word": "machine",
+    "pos": "n.",
+    "en": "any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks",
+    "cn": "机器, 机械装置, 机构, 自动售货机, 机械般工作的人",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-48755",
+        "text": "The engineer told us how to use the machine."
+      },
+      {
+        "id": "tatoeba-eng-59824",
+        "text": "I think this machine is in need of repair."
+      },
+      {
+        "id": "tatoeba-eng-273360",
+        "text": "Tell me how to use the washing machine."
+      }
+    ]
+  },
+  {
+    "word": "growth",
+    "pos": "n.",
+    "en": "(biology) the process of an individual organism growing organically; a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level",
+    "cn": "生长, 栽培, 增长",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-47909",
+        "text": "The rapid growth of the country has a lot to do with the characteristics of the people."
+      },
+      {
+        "id": "tatoeba-eng-60418",
+        "text": "In such cases, adults should not scold them instantly, but be patient with them, considering their mental growth."
+      },
+      {
+        "id": "tatoeba-eng-61588",
+        "text": "Up to this point I have presented an overview of the growth of political unrest in the period."
+      }
+    ]
+  },
+  {
+    "word": "function",
+    "pos": "n.",
+    "en": "(mathematics) a mathematical relation such that each element of a given set is associated with an element of another set",
+    "cn": "官能, 职务, 功能, 函数",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-9948782",
+        "text": "The opacity of the lens is a function of the glass from which it was made."
+      },
+      {
+        "id": "tatoeba-eng-13564094",
+        "text": "A common function of a transducer is to convert a non-electrical physical quantity, like pressure, into a measurable electrical signal."
+      },
+      {
+        "id": "tatoeba-eng-5434766",
+        "text": "The greatest shortcoming of the human race is our inability to understand the exponential function."
+      }
+    ]
+  },
+  {
+    "word": "physical",
+    "pos": "adj.",
+    "en": "involving the body as distinguished from the mind or spirit",
+    "cn": "身体的, 物质的, 自然的, 物理学的, 好色的",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-3316587",
+        "text": "The transfer of an astral body from one physical body to another became a tool for espionage."
+      },
+      {
+        "id": "tatoeba-eng-430074",
+        "text": "We must stop urban sprawl and fight against physical segregation while still guaranteeing the right to housing."
+      },
+      {
+        "id": "tatoeba-eng-1466047",
+        "text": "Maybe in another universe, the physical laws are so different that everything from our point of view looks unfamiliar."
+      }
+    ]
+  },
+  {
+    "word": "bill",
+    "pos": "n.",
+    "en": "a statute in draft before it becomes law",
+    "cn": "帐单, 清单, 钞票, 鸟嘴, 广告, 法案, 票据",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-13570519",
+        "text": "In a bicameral legislature, both chambers must approve a bill before it becomes law."
+      },
+      {
+        "id": "tatoeba-eng-20026",
+        "text": "The bill passed by a small majority of 10 votes."
+      },
+      {
+        "id": "tatoeba-eng-26533",
+        "text": "Luckily he had enough money to pay the bill."
+      }
+    ]
+  },
+  {
+    "word": "title",
+    "pos": "n.",
+    "en": "a heading that names a statute or legislative bill; may give a brief summary of the matters it deals with",
+    "cn": "头衔, 名称, 标题, 书名, 扉页, 权利, 资格, 冠军, 字幕",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-5451924",
+        "text": "What is the title of your new book?"
+      },
+      {
+        "id": "tatoeba-eng-464023",
+        "text": "It depends on the person, but using \"sir\" for women (a title of honour for men) is very rude."
+      },
+      {
+        "id": "tatoeba-eng-1188939",
+        "text": "In the Internet age, the once noble title of publisher has been demoted to the insipid \"content provider\"."
+      }
+    ]
+  },
+  {
+    "word": "network",
+    "pos": "n.",
+    "en": "an interconnected system of things or people",
+    "cn": "网络, 广播网, 网状物",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-780830",
+        "text": "The term neural net was traditionally used to name a network or circuit of biological neurons."
+      },
+      {
+        "id": "tatoeba-eng-2490748",
+        "text": "The physical world is a complex network of events, and nothing occurs for only one reason."
+      },
+      {
+        "id": "tatoeba-eng-6558285",
+        "text": "In the test set, the neural network correctly identified true planets and false positives 96 percent of the time."
+      }
+    ]
+  },
+  {
+    "word": "measure",
+    "pos": "n.",
+    "en": "any maneuver made as part of progress toward a goal",
+    "cn": "尺寸, 量度器, 量度标准, 测量, 量具, 程度, 范围, 限度, 分寸, 措施, 方法",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-3496241",
+        "text": "The use of a condom during vaginal, anal, and oral intercourse is the best preventive measure."
+      },
+      {
+        "id": "tatoeba-eng-7760635",
+        "text": "Thus the very points in which they differed seemed, in some measure, to ensure the continuance of their mutual affection."
+      },
+      {
+        "id": "tatoeba-eng-7953806",
+        "text": "And the waters prevailed beyond measure upon the earth: and all the high mountains under the whole heaven were covered."
+      }
+    ]
+  },
+  {
+    "word": "commission",
+    "pos": "n.",
+    "en": "a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary)",
+    "cn": "委任状, 任官令, 所委职责, 佣金, 犯, 委托, 所托之事",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-294688",
+        "text": "He has received a commission as a naval officer."
+      },
+      {
+        "id": "tatoeba-eng-10255304",
+        "text": "For the conveyance of a holiday home, the estate agent gets a commission of 8% of the cost of rent."
+      },
+      {
+        "id": "tatoeba-eng-12659297",
+        "text": "The parliament and parliamentary commission may require a member of the government to participate in the meeting."
+      }
+    ]
+  },
+  {
+    "word": "spring",
+    "pos": "n.",
+    "en": "the season of growth",
+    "cn": "春天, 弹簧, 跳跃, 弹性, 活力, 泉, 源泉",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-266912",
+        "text": "Which do you like better, spring or autumn?"
+      },
+      {
+        "id": "tatoeba-eng-6213346",
+        "text": "There was shade for the summer, flowers for the spring, fruits for the autumn, and indeed enjoyment for every season of the year."
+      },
+      {
+        "id": "tatoeba-eng-11567832",
+        "text": "The breeding season for wolves is usually in the late winter or early spring."
+      }
+    ]
+  },
+  {
+    "word": "cultural",
+    "pos": "adj.",
+    "en": "of or relating to the arts and manners that a group favors",
+    "cn": "文化的, 教养的, 修养的",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-27772",
+        "text": "The amount of paper produced by a country is closely related to its cultural standards."
+      },
+      {
+        "id": "tatoeba-eng-243991",
+        "text": "The first question we must raise is whether a cultural barrier existed between those groups."
+      },
+      {
+        "id": "tatoeba-eng-505441",
+        "text": "Every citizen has the right to health and to a life that meets the minimum cultural standards."
+      }
+    ]
+  },
+  {
+    "word": "medium",
+    "pos": "n.",
+    "en": "a means or instrumentality for storing or communicating information",
+    "cn": "媒体, 方法, 媒介",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-5375751",
+        "text": "The medium allowed the spirit to take control of her body."
+      },
+      {
+        "id": "tatoeba-eng-2505847",
+        "text": "I like my steak medium, not rare or well-done."
+      },
+      {
+        "id": "tatoeba-eng-11353565",
+        "text": "I would class my garden as medium in size."
+      }
+    ]
+  },
+  {
+    "word": "trip",
+    "pos": "n.",
+    "en": "a journey for some purpose (usually including the return)",
+    "cn": "旅行, 绊倒, 摔倒, 失足, 差错, 旅程",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-325571",
+        "text": "We must take into account the wishes of all the family in planning a trip."
+      },
+      {
+        "id": "tatoeba-eng-247128",
+        "text": "A burglar broke into my house while I was away on a trip."
+      },
+      {
+        "id": "tatoeba-eng-402792",
+        "text": "I had a hard time trying to persuade him to cancel the trip."
+      }
+    ]
+  },
+  {
+    "word": "surface",
+    "pos": "n.",
+    "en": "the outer boundary of an artifact or a material layer constituting or resembling such a boundary",
+    "cn": "面, 表面, 水面, 外表, 平面",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-318355",
+        "text": "There are so many fine scratches and dents on its surface that it's no use polishing it."
+      },
+      {
+        "id": "tatoeba-eng-1805761",
+        "text": "He thought he perceived the black fin of a shark swimming near the surface of the water."
+      },
+      {
+        "id": "tatoeba-eng-6696013",
+        "text": "As wind blows across the surface of the ocean or a lake, the continual disturbance creates a wave crest."
+      }
+    ]
+  },
+  {
+    "word": "trouble",
+    "pos": "n.",
+    "en": "a source of difficulty",
+    "cn": "烦恼, 麻烦, 困难, 动乱, 故障",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-54758",
+        "text": "I had no idea it would put you to so much trouble."
+      },
+      {
+        "id": "tatoeba-eng-1334053",
+        "text": "I got fired from the company, but since I have a little money saved up, for the time being, I won't have trouble with living expenses."
+      },
+      {
+        "id": "tatoeba-eng-1539916",
+        "text": "His lie got him into trouble when his boss discovered the truth."
+      }
+    ]
+  },
+  {
+    "word": "stuff",
+    "pos": "n.",
+    "en": "miscellaneous unspecified objects",
+    "cn": "原料, 要素, 东西, 材料, 素质, 织品, 废物, 废话",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-3329790",
+        "text": "Can't you move your stuff to the other room?"
+      },
+      {
+        "id": "tatoeba-eng-3733661",
+        "text": "I'm going to get rid of all this stuff."
+      },
+      {
+        "id": "tatoeba-eng-916497",
+        "text": "This stuff is worth its weight in gold!"
+      }
+    ]
+  },
+  {
+    "word": "reference",
+    "pos": "n.",
+    "en": "the most direct or specific meaning of a word or expression; the class of objects that an expression refers to",
+    "cn": "参考, 索引, 参照",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-10681398",
+        "text": "This is a direct reference to the writer's early works."
+      },
+      {
+        "id": "tatoeba-eng-6684389",
+        "text": "A tide gauge measures changes in sea level relative to a datum (a height reference)."
+      },
+      {
+        "id": "tatoeba-eng-1487426",
+        "text": "We understand our own movements extremely well, and we can use them for reference."
+      }
+    ]
+  },
+  {
+    "word": "address",
+    "pos": "n.",
+    "en": "(computer science) the code that identifies where a piece of information is stored",
+    "cn": "住址, 演说, 举止, 灵巧, 求爱",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-61767",
+        "text": "All you have to do is to write your name and address here."
+      },
+      {
+        "id": "tatoeba-eng-302802",
+        "text": "He said that if he knew her address, he would write to her."
+      },
+      {
+        "id": "tatoeba-eng-1337750",
+        "text": "May I ask you for your name and address?"
+      }
+    ]
+  },
+  {
+    "word": "yard",
+    "pos": "n.",
+    "en": "a unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride",
+    "cn": "码, 庭院, 工场",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-1818",
+        "text": "Give him an inch and he'll take a yard."
+      },
+      {
+        "id": "tatoeba-eng-2772380",
+        "text": "I planted a peach tree in my yard."
+      },
+      {
+        "id": "tatoeba-eng-1990",
+        "text": "I always have to check my yard for stagnant pools of water so mosquitoes don't breed there."
+      }
+    ]
+  },
+  {
+    "word": "solution",
+    "pos": "n.",
+    "en": "a homogeneous mixture of two or more substances",
+    "cn": "解决, 解答, 溶液",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-521020",
+        "text": "There must be a way to arrive at a diplomatic solution."
+      },
+      {
+        "id": "tatoeba-eng-1823309",
+        "text": "I was young and I thought that joining the army was the solution to any problem."
+      },
+      {
+        "id": "tatoeba-eng-3070799",
+        "text": "Seems like every problem we manage to solve requires a greater genius to correct the damage the solution had caused."
+      }
+    ]
+  },
+  {
+    "word": "opinion",
+    "pos": "n.",
+    "en": "a personal belief or judgment that is not founded on proof or certainty",
+    "cn": "意见, 评价, 主张",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-1872",
+        "text": "If two men always have the same opinion, one of them is unnecessary."
+      },
+      {
+        "id": "tatoeba-eng-309064",
+        "text": "In her opinion, he is the best musician she has ever seen."
+      },
+      {
+        "id": "tatoeba-eng-250428",
+        "text": "In my opinion, it would be difficult to solve this problem."
+      }
+    ]
+  },
+  {
+    "word": "exchange",
+    "pos": "n.",
+    "en": "chemical process in which one atom or ion or group changes places with another",
+    "cn": "交换, (电话)交换局, 交换机, 汇兑, 交易所",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-267205",
+        "text": "A girl gave me an orange in exchange for a piece of cake."
+      },
+      {
+        "id": "tatoeba-eng-280334",
+        "text": "The company went public and became listed on the stock exchange in 1990."
+      },
+      {
+        "id": "tatoeba-eng-7043261",
+        "text": "The prosecutor agreed not to press charges in exchange for a hundred hours of community service."
+      }
+    ]
+  },
+  {
+    "word": "attend",
+    "pos": "v.",
+    "en": "be present at (meetings, church services, university), etc.",
+    "cn": "参加, 照料, 伴随",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-1021181",
+        "text": "Please attend the meeting in the second floor conference room at 2:30 p.m."
+      },
+      {
+        "id": "tatoeba-eng-294600",
+        "text": "He called in to say he could not attend the meeting."
+      },
+      {
+        "id": "tatoeba-eng-23490",
+        "text": "It is not necessary for us to attend the meeting."
+      }
+    ]
+  },
+  {
+    "word": "critical",
+    "pos": "adj.",
+    "en": "marked by a tendency to find and call attention to errors and flaws",
+    "cn": "批评的, 决定性的, 危险的, 临界的",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-36479",
+        "text": "I can't understand why you are so critical of him."
+      },
+      {
+        "id": "tatoeba-eng-13568790",
+        "text": "She made a graceless exit from the meeting after realizing her presentation had critical errors."
+      },
+      {
+        "id": "tatoeba-eng-20979",
+        "text": "The nurse told us not to enter the room because the patient was in a critical condition."
+      }
+    ]
+  },
+  {
+    "word": "sale",
+    "pos": "n.",
+    "en": "a particular instance of selling",
+    "cn": "出售, 卖, 拍卖, 销售额, 廉价出售",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-275933",
+        "text": "The bargain sale will run for three days, beginning today."
+      },
+      {
+        "id": "tatoeba-eng-430741",
+        "text": "This morning, I went to a fish selling counter and the flying fish was very fresh and also on sale."
+      },
+      {
+        "id": "tatoeba-eng-244353",
+        "text": "I went to a sale with my mother yesterday and kept hounding her to buy me a dress."
+      }
+    ]
+  },
+  {
+    "word": "band",
+    "pos": "n.",
+    "en": "instrumentalists not including string players",
+    "cn": "带子, 队, 乐队",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-954630",
+        "text": "When we started out, our band could only find small clubs in small cities that would hire us."
+      },
+      {
+        "id": "tatoeba-eng-10653107",
+        "text": "It'll be hard to find a good vocalist who isn't already working with another band."
+      },
+      {
+        "id": "tatoeba-eng-270718",
+        "text": "A brass band is marching along the street."
+      }
+    ]
+  },
+  {
+    "word": "file",
+    "pos": "n.",
+    "en": "a set of related records (either written or electronic) kept together",
+    "cn": "档案, 公文箱, 文件夹, 文件, 卷宗, 锉刀",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-5722394",
+        "text": "Do you know how to recover a deleted file?"
+      },
+      {
+        "id": "tatoeba-eng-5975",
+        "text": "In which folder did you save the file?"
+      },
+      {
+        "id": "tatoeba-eng-328886",
+        "text": "When I try to listen to music with media player there's an error and I can't play the file."
+      }
+    ]
+  },
+  {
+    "word": "contact",
+    "pos": "n.",
+    "en": "close interaction",
+    "cn": "联系, 交际, 熟人, 接触",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-23498",
+        "text": "We were unable to make contact with them until it was too late."
+      },
+      {
+        "id": "tatoeba-eng-241264",
+        "text": "Do you keep in contact with your high school classmates?"
+      },
+      {
+        "id": "tatoeba-eng-11816053",
+        "text": "By burying their dung balls, dung beetles bring dung into close contact with plant roots."
+      }
+    ]
+  },
+  {
+    "word": "stick",
+    "pos": "n.",
+    "en": "an implement consisting of a length of wood",
+    "cn": "棍, 棒, 刺, 枯枝, 茎, 条状物",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-21578",
+        "text": "When the school had no books or paper or pencils, she wrote the alphabet on the ground with a stick."
+      },
+      {
+        "id": "tatoeba-eng-1937013",
+        "text": "The general, without interrupting his speech, hit him on the head with his heavy ivory stick; the barbarian fell."
+      },
+      {
+        "id": "tatoeba-eng-10580683",
+        "text": "I dreamt that, using nothing but a stick, you saved me from a giant squid monster."
+      }
+    ]
+  },
+  {
+    "word": "spot",
+    "pos": "n.",
+    "en": "a short section or illustration (as between radio or tv programs or in a magazine) that is often used for advertising",
+    "cn": "污点, 地点, 斑点, 点, 娱乐场所, 处境, 少量",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-411033",
+        "text": "If you wish to forget anything on the spot, make a note that this thing is to be remembered."
+      },
+      {
+        "id": "tatoeba-eng-6614745",
+        "text": "It is not to be wondered at, for time hangs heavily in this lonely spot to an active man like him."
+      },
+      {
+        "id": "tatoeba-eng-7760757",
+        "text": "I must and will hear the truth from her own mouth; without this satisfaction I will not leave this spot."
+      }
+    ]
+  },
+  {
+    "word": "exercise",
+    "pos": "n.",
+    "en": "the activity of exerting your muscles in various ways to keep fit",
+    "cn": "行使, 执行, 运动, 练习, 作业",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-9955531",
+        "text": "All collectors of out of the way books know the pleasure of the exercise of serendipity, but they enjoy it in different ways."
+      },
+      {
+        "id": "tatoeba-eng-259482",
+        "text": "I am in the habit of taking some exercise before breakfast."
+      },
+      {
+        "id": "tatoeba-eng-11377633",
+        "text": "I suggest that you do more exercise to keep your blood pressure down."
+      }
+    ]
+  },
+  {
+    "word": "roll",
+    "pos": "n.",
+    "en": "a list of names",
+    "cn": "卷, 滚动, 名单, 案卷, 压路机",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-5325845",
+        "text": "The pilot controls the roll of the plane by raising one aileron or the other with a control wheel."
+      },
+      {
+        "id": "tatoeba-eng-2456446",
+        "text": "In helicopters, the cyclic controls the tilt of the main rotor, producing pitch and roll."
+      },
+      {
+        "id": "tatoeba-eng-11260088",
+        "text": "The roll of toilet paper hit the ground and began rolling, unraveling along the way."
+      }
+    ]
+  },
+  {
+    "word": "conclusion",
+    "pos": "n.",
+    "en": "an intuitive assumption",
+    "cn": "结论, 结尾, 推论",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-327823",
+        "text": "We are interested in the flow of evacuation events from the occurrence of a large earthquake to the conclusion of emergency countermeasures."
+      },
+      {
+        "id": "tatoeba-eng-847248",
+        "text": "We humans have a great way of twisting facts to fit our conclusion as soon as we have made one."
+      },
+      {
+        "id": "tatoeba-eng-2915562",
+        "text": "In conclusion, the next step is to decide what we should do for the next step."
+      }
+    ]
+  },
+  {
+    "word": "sight",
+    "pos": "n.",
+    "en": "an instance of visual perception",
+    "cn": "景观, 视力, 眼界, 阅读, 见解, 意见",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-272308",
+        "text": "The baby caught sight of my ballpoint pen and reached out for it."
+      },
+      {
+        "id": "tatoeba-eng-325599",
+        "text": "The traveler was delighted at the sight of a light in the distance."
+      },
+      {
+        "id": "tatoeba-eng-309951",
+        "text": "She waved her hand until the train was out of sight."
+      }
+    ]
+  },
+  {
+    "word": "promote",
+    "pos": "v.",
+    "en": "contribute to the progress or growth of",
+    "cn": "促进, 晋升, 创办, 推销",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-11847554",
+        "text": "Instead of engaging in passive-aggressive behavior towards me, explore activities that promote personal growth and a more harmonious environment."
+      },
+      {
+        "id": "tatoeba-eng-11570996",
+        "text": "The city council discussed plans to implement a bike lane to alleviate traffic and promote alternative transportation."
+      },
+      {
+        "id": "tatoeba-eng-10285698",
+        "text": "When each side has only the king and some pawns, you need to calculate moves carefully to promote a pawn before your opponent."
+      }
+    ]
+  },
+  {
+    "word": "lift",
+    "pos": "n.",
+    "en": "the act of giving temporary assistance",
+    "cn": "举起, 帮助, 昂扬, 电梯",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-25986",
+        "text": "Let me give you a lift as far as the station."
+      },
+      {
+        "id": "tatoeba-eng-12169279",
+        "text": "One of his flatmates often gives him a lift when he's late."
+      },
+      {
+        "id": "tatoeba-eng-67734",
+        "text": "I was wondering if you could give me a lift, if it isn't too much trouble."
+      }
+    ]
+  },
+  {
+    "word": "background",
+    "pos": "n.",
+    "en": "a person's social heritage: previous experience or training",
+    "cn": "背景, 背景资料",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-49018",
+        "text": "There is a castle in the background of the picture."
+      },
+      {
+        "id": "tatoeba-eng-19527",
+        "text": "Pay will be based on experience and educational background."
+      },
+      {
+        "id": "tatoeba-eng-61092",
+        "text": "With this as background I turn now to an account of the present state of evolutionary biology."
+      }
+    ]
+  },
+  {
+    "word": "introduction",
+    "pos": "n.",
+    "en": "the act of beginning something new",
+    "cn": "介绍, 传入, 采用, 初步",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-7926636",
+        "text": "You should read the introduction at the beginning of the book."
+      },
+      {
+        "id": "tatoeba-eng-2799073",
+        "text": "Here I want to bring the introduction to a close and get to the real subject."
+      },
+      {
+        "id": "tatoeba-eng-4472878",
+        "text": "The life of some dairy farmers has gotten a lot easier since the introduction of robots to milk the cows."
+      }
+    ]
+  },
+  {
+    "word": "relief",
+    "pos": "n.",
+    "en": "the feeling that comes when something burdensome is removed or reduced",
+    "cn": "减轻, 解除, 救济, 安慰, 调剂, 浮雕, 换班, (地势的)起伏",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-10056727",
+        "text": "He felt a sense of relief when he saw that she was alive."
+      },
+      {
+        "id": "tatoeba-eng-1064353",
+        "text": "She heaved a sigh of relief when she heard the good news."
+      },
+      {
+        "id": "tatoeba-eng-313885",
+        "text": "She gave a sigh of relief when the work was done."
+      }
+    ]
+  },
+  {
+    "word": "wave",
+    "pos": "n.",
+    "en": "one of a series of ridges that moves across the surface of a liquid (especially across a large body of water)",
+    "cn": "波, 波浪, 波动, 起伏, 高潮, 潮涌, 挥手致意, (气压)突变",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-6708731",
+        "text": "A seiche is a standing wave oscillating in a body of water."
+      },
+      {
+        "id": "tatoeba-eng-2075157",
+        "text": "A catamaran is unlikely to be capsized by wind, but a big enough rogue wave can do it."
+      },
+      {
+        "id": "tatoeba-eng-5358351",
+        "text": "The young man wrapped himself up in a down quilt and dreamed of a heat wave."
+      }
+    ]
+  },
+  {
+    "word": "construction",
+    "pos": "n.",
+    "en": "the act of constructing something",
+    "cn": "建筑, 构造, 建筑物",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-3391107",
+        "text": "We're sorry that the pace of construction is not sufficient to address the great demand for apartments."
+      },
+      {
+        "id": "tatoeba-eng-5682038",
+        "text": "The construction of the dam will undoubtedly have the resulting effect of forcing thousands of families to relocate elsewhere."
+      },
+      {
+        "id": "tatoeba-eng-10816820",
+        "text": "The construction of the dam will have serious environmental consequences for the local fauna and flora."
+      }
+    ]
+  },
+  {
+    "word": "grade",
+    "pos": "n.",
+    "en": "a relative position or degree of value in a graded group",
+    "cn": "等级, 年级, 阶段, 成绩, 程度, 坡度, 斜坡",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-10547009",
+        "text": "I was in fourth grade when I gave a girl a real kiss and spoke to her about our common future."
+      },
+      {
+        "id": "tatoeba-eng-29090",
+        "text": "We all try hard to make the grade in life, but only a few succeed."
+      },
+      {
+        "id": "tatoeba-eng-8618369",
+        "text": "After fifth grade in primary school I would spend my summer vacations as their apprentice."
+      }
+    ]
+  },
+  {
+    "word": "appearance",
+    "pos": "n.",
+    "en": "outward or visible aspect of a person or thing",
+    "cn": "出现, 露面, 外观, 外表, 出版",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-285782",
+        "text": "Judging from his appearance, he must be a rich man."
+      },
+      {
+        "id": "tatoeba-eng-6156750",
+        "text": "The aim of art is to represent not the outward appearance of things, but their inward significance."
+      },
+      {
+        "id": "tatoeba-eng-1530092",
+        "text": "Yet, with all this strange appearance of humility, and this contempt for human reason, he ventures into the boldest presumptions."
+      }
+    ]
+  },
+  {
+    "word": "contrast",
+    "pos": "n.",
+    "en": "the opposition or dissimilarity of things that are compared",
+    "cn": "差别, 对比, 对照物",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-6614747",
+        "text": "There is something tropical and exotic about her which forms a singular contrast to her cool and unemotional brother."
+      },
+      {
+        "id": "tatoeba-eng-6621099",
+        "text": "There was a strange contrast between the sweet promise of the spring and this sinister quest upon which we were engaged."
+      },
+      {
+        "id": "tatoeba-eng-7414103",
+        "text": "Her rich tints made the white face of her companion the more worn and haggard by the contrast."
+      }
+    ]
+  },
+  {
+    "word": "mental",
+    "pos": "adj.",
+    "en": "involving the mind or an intellectual process",
+    "cn": "心智的, 精神病的, 心理的, 颏的",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-2694736",
+        "text": "Our best pictures of the human mind suggest that we don't plop our mental activities into single, ordered boxes."
+      },
+      {
+        "id": "tatoeba-eng-60418",
+        "text": "In such cases, adults should not scold them instantly, but be patient with them, considering their mental growth."
+      },
+      {
+        "id": "tatoeba-eng-718720",
+        "text": "It is impossible to calculate the moral mischief, if I may so express it, that mental lying has produced in society."
+      }
+    ]
+  },
+  {
+    "word": "undertake",
+    "pos": "v.",
+    "en": "enter upon an activity or enterprise",
+    "cn": "试图, 从事, 保证, 承担, 同意, 接受",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-3759237",
+        "text": "So fine was the thread that no frame could be found to weave it upon, nor would any weaver undertake to make one."
+      },
+      {
+        "id": "tatoeba-eng-267475",
+        "text": "When, one day, computers undertake to translate literary works, it will be the end of literature as we know it."
+      },
+      {
+        "id": "tatoeba-eng-3496498",
+        "text": "On a case-by-case basis, in accordance with legislation, the environmental assessment branch will consider requests from members of the general public to undertake an environmental review."
+      }
+    ]
+  },
+  {
+    "word": "pleasure",
+    "pos": "n.",
+    "en": "a fundamental feeling that is hard to define but that people desire to experience",
+    "cn": "快乐, 愉快, 令人高兴的事, 娱乐, 希望",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-64346",
+        "text": "It has always been a pleasure to work with you."
+      },
+      {
+        "id": "tatoeba-eng-3725574",
+        "text": "It's a pleasure to have you with us again."
+      },
+      {
+        "id": "tatoeba-eng-257902",
+        "text": "I don't like to mix business with pleasure."
+      }
+    ]
+  },
+  {
+    "word": "pocket",
+    "pos": "n.",
+    "en": "a small pouch inside a garment for carrying small articles",
+    "cn": "口袋, 钱袋, 钱, 容器",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-46385",
+        "text": "The boy has an apple in his pocket."
+      },
+      {
+        "id": "tatoeba-eng-60647",
+        "text": "This hamster is small enough to carry in your pocket."
+      },
+      {
+        "id": "tatoeba-eng-292731",
+        "text": "He felt in his pocket for his wallet."
+      }
+    ]
+  },
+  {
+    "word": "shift",
+    "pos": "n.",
+    "en": "an event in which something is displaced without rotation",
+    "cn": "变化, 移动, 轮班, 手段, 应急办法, 移位",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-12090091",
+        "text": "I picked up a last-minute shift because someone at work got sick and went home early."
+      },
+      {
+        "id": "tatoeba-eng-8498437",
+        "text": "When you work the night shift, you can end up feeling isolated from your friends."
+      },
+      {
+        "id": "tatoeba-eng-5189020",
+        "text": "It may take a few weeks to get used to working the night shift."
+      }
+    ]
+  },
+  {
+    "word": "display",
+    "pos": "n.",
+    "en": "something intended to communicate a particular impression",
+    "cn": "显示, 陈列, 炫耀, 显示器",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-2710710",
+        "text": "The scrolling text on the display of my Internet radio gives me information about the selected station and the running program."
+      },
+      {
+        "id": "tatoeba-eng-11562041",
+        "text": "The patient stepped onto the scale and waited for the digital display to show their weight."
+      },
+      {
+        "id": "tatoeba-eng-14085974",
+        "text": "In his weekly column in the local newspaper, the art critic praised the paintings and sculptures on display at the exhibition center."
+      }
+    ]
+  },
+  {
+    "word": "comfortable",
+    "pos": "adj.",
+    "en": "providing or experiencing physical well-being or relief (`comfy' is informal)",
+    "cn": "舒服的, 轻松的",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-4872182",
+        "text": "This chair is really comfortable to sit on."
+      },
+      {
+        "id": "tatoeba-eng-10910279",
+        "text": "The waiting room was kept at a pleasant temperature, and the seats provided were exceptionally comfortable."
+      },
+      {
+        "id": "tatoeba-eng-1934607",
+        "text": "Every man has a right to life; and this means that he has also a right to make a comfortable living."
+      }
+    ]
+  },
+  {
+    "word": "capture",
+    "pos": "n.",
+    "en": "the act of forcibly dispossessing an owner of property",
+    "cn": "抓取, 战利品, 捕获之物",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-8125202",
+        "text": "The capture of baby elephants is horribly cruel and traumatic to both the mothers, their calves and the herds that are left behind."
+      },
+      {
+        "id": "tatoeba-eng-10341227",
+        "text": "The checker and the king can both forward and backward capture one or more pieces."
+      },
+      {
+        "id": "tatoeba-eng-10341419",
+        "text": "The checker that, when performing the capture of several pieces, passes through a coronation square, without stopping there, will not be promoted to a king."
+      }
+    ]
+  },
+  {
+    "word": "appreciate",
+    "pos": "v.",
+    "en": "recognize with gratitude; be grateful for",
+    "cn": "赏识, 鉴别, 为...而感激, 领会, 欣赏",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-1090362",
+        "text": "I appreciate it when a native speaker tries to help me sound more like a native speaker."
+      },
+      {
+        "id": "tatoeba-eng-1439047",
+        "text": "We very often only come to appreciate someone or our relationship with them when we lose them."
+      },
+      {
+        "id": "tatoeba-eng-5849951",
+        "text": "I'd appreciate it if you could come early and help me get ready for the party."
+      }
+    ]
+  },
+  {
+    "word": "variation",
+    "pos": "n.",
+    "en": "an instance of change; the rate or magnitude of change",
+    "cn": "变更, 变化, 变种, 变奏",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-5325840",
+        "text": "A turbofan engine is the most modern variation of the basic gas turbine engine."
+      },
+      {
+        "id": "tatoeba-eng-8657075",
+        "text": "The definition you gave fails to encompass some of the variation we see."
+      },
+      {
+        "id": "tatoeba-eng-9454240",
+        "text": "The latest variation of the classic tinfoil hat is the tinfoil beret."
+      }
+    ]
+  },
+  {
+    "word": "slip",
+    "pos": "n.",
+    "en": "a minor inadvertent mistake usually observed in speech or writing or in small accidents or memory lapses etc.",
+    "cn": "滑, 滑行, 事故, 溜, 差错, 滑台, 下降, 插条, 后裔, 板条, 瘦长的年轻人",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-264954",
+        "text": "A slip of the tongue is sometimes fatal to a politician."
+      },
+      {
+        "id": "tatoeba-eng-302930",
+        "text": "He knows that his critics are waiting to pounce on any slip that he makes."
+      },
+      {
+        "id": "tatoeba-eng-699170",
+        "text": "I was trying to follow her, but she gave me the slip."
+      }
+    ]
+  },
+  {
+    "word": "estimate",
+    "pos": "n.",
+    "en": "an approximate calculation of quantity or degree or worth",
+    "cn": "估计, 判断",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-10128001",
+        "text": "My estimate of the cost of the damage was off by more than two million dollars."
+      },
+      {
+        "id": "tatoeba-eng-54088",
+        "text": "At a rough estimate, I would say the job will take two weeks."
+      },
+      {
+        "id": "tatoeba-eng-270720",
+        "text": "According to an estimate, steel production will reach 100 million tons this year."
+      }
+    ]
+  },
+  {
+    "word": "deputy",
+    "pos": "n.",
+    "en": "someone authorized to exercise the powers of sheriff in emergencies",
+    "cn": "副手，代理人",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-247059",
+        "text": "He will be my deputy while I am away."
+      },
+      {
+        "id": "tatoeba-eng-11934368",
+        "text": "The deputy was a rude person treating people like his servants."
+      },
+      {
+        "id": "tatoeba-eng-10191380",
+        "text": "The deputy accused the government of concealing its true intentions."
+      }
+    ]
+  },
+  {
+    "word": "rare",
+    "pos": "adj.",
+    "en": "not widely known; especially valued for its uncommonness",
+    "cn": "稀罕的, 罕有的, 珍奇的, 稀薄的, 半熟的, 非常好的",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-20611",
+        "text": "The importation of rare wild animals to this country is strictly prohibited."
+      },
+      {
+        "id": "tatoeba-eng-31797",
+        "text": "All you have to do is take advantage of this rare opportunity."
+      },
+      {
+        "id": "tatoeba-eng-3087571",
+        "text": "The incidence of people travelling on fake or stolen passports is not as rare as people would like to think."
+      }
+    ]
+  },
+  {
+    "word": "observation",
+    "pos": "n.",
+    "en": "the act of making and recording a measurement",
+    "cn": "观察, 注意, 观测, 观察力",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-30000",
+        "text": "A good theory is characterized by the fact that it makes a number of predictions that could in principle be disproved or falsified by observation."
+      },
+      {
+        "id": "tatoeba-eng-908604",
+        "text": "The observation of gravitational waves will start a new phase in the study of the universe."
+      },
+      {
+        "id": "tatoeba-eng-6796432",
+        "text": "The power of accurate observation is commonly called cynicism by those who have not got it."
+      }
+    ]
+  },
+  {
+    "word": "mass",
+    "pos": "n.",
+    "en": "the property of a body that causes it to have weight in a gravitational field",
+    "cn": "块, 大多数, 质量, 大量, 群众, 弥撒",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-5319751",
+        "text": "The acceleration of a body is proportional to the force acting on the body and inversely proportional to the mass of the body."
+      },
+      {
+        "id": "tatoeba-eng-5225972",
+        "text": "The mass of a body is a measure of its energy content."
+      },
+      {
+        "id": "tatoeba-eng-3203354",
+        "text": "What isn't absorbed by the mass will have no effect."
+      }
+    ]
+  },
+  {
+    "word": "origin",
+    "pos": "n.",
+    "en": "properties attributable to your ancestry",
+    "cn": "起源, 起因, 出身, 开端",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-12258426",
+        "text": "Have you heard that a pandemic will come again and this time a one with bacterial origin?"
+      },
+      {
+        "id": "tatoeba-eng-11124963",
+        "text": "Some scientists believe the origin of this oscillating signal to be a neutron star."
+      },
+      {
+        "id": "tatoeba-eng-10121173",
+        "text": "The origin of the problem lies in the lack of communication between departments."
+      }
+    ]
+  },
+  {
+    "word": "stretch",
+    "pos": "n.",
+    "en": "a large and unbroken expanse or distance",
+    "cn": "伸展, 张开, 连绵, 一段路, 一段时间",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-276785",
+        "text": "On warm days, bears stretch out or lie on their backs with their feet in the air."
+      },
+      {
+        "id": "tatoeba-eng-6737747",
+        "text": "Some beginners treat our language the way a boy treats a new toy; they press, stretch and twist it beyond recognition."
+      },
+      {
+        "id": "tatoeba-eng-7011551",
+        "text": "The inhabitants use wooden pirogues with outboard motors to navigate waterways that stretch from horizon to horizon."
+      }
+    ]
+  },
+  {
+    "word": "convention",
+    "pos": "n.",
+    "en": "a large formal assembly",
+    "cn": "大会, 协定, 惯例, 约定",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-67228",
+        "text": "One weekend all of the hotels in the city were full because there was a large convention."
+      },
+      {
+        "id": "tatoeba-eng-12239699",
+        "text": "The union convention happened in the garden of a large restaurant."
+      },
+      {
+        "id": "tatoeba-eng-1497964",
+        "text": "It is safe to wager that every public idea and every accepted convention is foolish because it has suited the majority."
+      }
+    ]
+  },
+  {
+    "word": "diet",
+    "pos": "n.",
+    "en": "a prescribed selection of foods",
+    "cn": "日常饮食, 议会",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-6629198",
+        "text": "I've cured all my maladies with a diet of unprocessed food and by forgoing gluten, wheat, and grains."
+      },
+      {
+        "id": "tatoeba-eng-11892029",
+        "text": "Be careful when introducing new foods to your guinea pig's diet."
+      },
+      {
+        "id": "tatoeba-eng-11892306",
+        "text": "Don't give the rabbit any harmful food, stick to their diet."
+      }
+    ]
+  },
+  {
+    "word": "witness",
+    "pos": "n.",
+    "en": "someone who sees an event and reports what happened",
+    "cn": "证人, 目击者, 证据, 证词",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-11028712",
+        "text": "The witness had no idea what happened at the time."
+      },
+      {
+        "id": "tatoeba-eng-10564029",
+        "text": "The police had the witness explain in detail how the accident had happened."
+      },
+      {
+        "id": "tatoeba-eng-517821",
+        "text": "His account of what happened is inconsistent with testimony from other witnesses."
+      }
+    ]
+  },
+  {
+    "word": "shock",
+    "pos": "n.",
+    "en": "the violent interaction of individuals or groups entering into combat",
+    "cn": "震动, 冲突, 震惊, 冲击, 突击, 禾束堆, 休克, 长毛狗",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-47180",
+        "text": "The news that her son was injured in the accident was a great shock to her."
+      },
+      {
+        "id": "tatoeba-eng-63801",
+        "text": "When she dumped me, the shock of it was like a huge gong going off and scrambling all my thoughts."
+      },
+      {
+        "id": "tatoeba-eng-6013237",
+        "text": "Our country's infrastructure is fragile, and it may collapse entirely if it suffers an economic shock."
+      }
+    ]
+  },
+  {
+    "word": "cable",
+    "pos": "n.",
+    "en": "a telegram sent abroad",
+    "cn": "电缆, 海底电报, 缆, 索",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-13558179",
+        "text": "The spinal cord is protected by the spinal column like a delicate cable in a box."
+      },
+      {
+        "id": "tatoeba-eng-9935469",
+        "text": "You can hook your computer up to the router with an ethernet cable."
+      },
+      {
+        "id": "tatoeba-eng-11211327",
+        "text": "Could carbon nanotubes be used to make a cable for a space elevator?"
+      }
+    ]
+  },
+  {
+    "word": "cast",
+    "pos": "n.",
+    "en": "the actors in a play",
+    "cn": "演员阵容, 投掷, 铸件, 预测, 特性",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-6159401",
+        "text": "Being alone is above all just a kind of mental plaster cast, in which something heals."
+      },
+      {
+        "id": "tatoeba-eng-723182",
+        "text": "The demon grabbed my sister and, with howling laughter, cast her into a bottomless pit."
+      },
+      {
+        "id": "tatoeba-eng-2953133",
+        "text": "It's just so frustrating to try to do this with my arm in a cast."
+      }
+    ]
+  },
+  {
+    "word": "fault",
+    "pos": "n.",
+    "en": "(geology) a crack in the earth's crust resulting from the displacement of one side with respect to the other",
+    "cn": "过错, 故障, 毛病",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-291601",
+        "text": "He is constantly finding fault with other people."
+      },
+      {
+        "id": "tatoeba-eng-317466",
+        "text": "She is always finding fault with her neighbors."
+      },
+      {
+        "id": "tatoeba-eng-62662",
+        "text": "It's my fault that the cake was burned. I was talking on the phone and didn't notice the time."
+      }
+    ]
+  },
+  {
+    "word": "depression",
+    "pos": "n.",
+    "en": "a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity",
+    "cn": "不景气, 消沉, 沮丧, 洼地",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-9446389",
+        "text": "A lack of sunlight causes depression in some people."
+      },
+      {
+        "id": "tatoeba-eng-9850727",
+        "text": "When autumn comes, many people suffer from a mild form of depression that could be treated with phototherapy."
+      },
+      {
+        "id": "tatoeba-eng-10184933",
+        "text": "It is unknown whether smoking causes depression or whether the causal direction goes the other way."
+      }
+    ]
+  },
+  {
+    "word": "dismiss",
+    "pos": "v.",
+    "en": "bar from attention or consideration",
+    "cn": "解散, 开除, 解职",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-879702",
+        "text": "We dismiss people for talking about themselves but it's the subject they treat best."
+      },
+      {
+        "id": "tatoeba-eng-11768615",
+        "text": "Some native speakers dismiss the efforts of foreign learners and ridicule their progress."
+      },
+      {
+        "id": "tatoeba-eng-10179706",
+        "text": "The seasoned detective knows better than to dismiss any possibility just yet."
+      }
+    ]
+  },
+  {
+    "word": "extension",
+    "pos": "n.",
+    "en": "a mutually agreed delay in the date set for the completion of a job or payment of a debt",
+    "cn": "延长, 扩充, 范围, 扩展名",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-327651",
+        "text": "When my home had an extension built I only had this room fitted with soundproofing and an internal lock."
+      },
+      {
+        "id": "tatoeba-eng-6030403",
+        "text": "You can apply for an extension for your essay if you have mitigating circumstances such as an illness or bereavement."
+      },
+      {
+        "id": "tatoeba-eng-8944155",
+        "text": "See whether you can prevail upon your teacher to give you an extension for the assignment."
+      }
+    ]
+  },
+  {
+    "word": "violent",
+    "pos": "adj.",
+    "en": "acting with or marked by or resulting from great force or energy or emotional intensity",
+    "cn": "暴力的, 猛烈的, 激烈的, 极端的, 凶暴的",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-12899340",
+        "text": "When the system is failing, violent acts of retribution increase."
+      },
+      {
+        "id": "tatoeba-eng-377072",
+        "text": "The first issue that we have to confront is violent extremism in all of its forms."
+      },
+      {
+        "id": "tatoeba-eng-2931949",
+        "text": "Dwindling resources have hampered the efforts of police to stem the rise of violent crime in the city."
+      }
+    ]
+  },
+  {
+    "word": "depth",
+    "pos": "n.",
+    "en": "the extent downward or backward or inward",
+    "cn": "深度, 深处, 深奥",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-10372229",
+        "text": "I am always freed of all of my worries and concerns in the depth of the night."
+      },
+      {
+        "id": "tatoeba-eng-11476897",
+        "text": "The sharpness of the parmesan grated over my pasta dish added a depth of flavor that was unparalleled."
+      },
+      {
+        "id": "tatoeba-eng-12926832",
+        "text": "Just as length has nothing to do with depth, duration has nothing to do with intensity."
+      }
+    ]
+  },
+  {
+    "word": "port",
+    "pos": "n.",
+    "en": "a place (seaport or airport) where people and merchandise can enter or leave a country",
+    "cn": "港口, 埠, 舱门, 避风港, 左舷, 炮眼, 姿势, 意义",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-325254",
+        "text": "When the storm was over, we began to make preparations to leave the port."
+      },
+      {
+        "id": "tatoeba-eng-45659",
+        "text": "The storm will make it impossible for the ship to leave port."
+      },
+      {
+        "id": "tatoeba-eng-12767757",
+        "text": "If you don't know which port you want to reach, no wind will take you there."
+      }
+    ]
+  },
+  {
+    "word": "delivery",
+    "pos": "n.",
+    "en": "the act of delivering or distributing something (as goods or mail)",
+    "cn": "递送, 交付, 分娩, 交货, 引渡",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-433006",
+        "text": "The delivery of the goods was delayed due to the storm."
+      },
+      {
+        "id": "tatoeba-eng-681412",
+        "text": "The thunderstorm yesterday delayed the delivery of the mail."
+      },
+      {
+        "id": "tatoeba-eng-10314494",
+        "text": "Send the letter by special delivery, because that's the only way it'll arrive on time."
+      }
+    ]
+  },
+  {
+    "word": "slide",
+    "pos": "n.",
+    "en": "a small flat rectangular piece of glass on which specimens can be mounted for microscopic study",
+    "cn": "滑, 滑道, 山崩, 雪崩, 幻灯片",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-272612",
+        "text": "If you whip the steering wheel around like that on a snowy road, the car is going to go into a slide."
+      },
+      {
+        "id": "tatoeba-eng-11732458",
+        "text": "The queue for the water park slide was shorter than for the new log fume ride."
+      },
+      {
+        "id": "tatoeba-eng-240432",
+        "text": "In our park, we have a nice slide for children to play on."
+      }
+    ]
+  },
+  {
+    "word": "obligation",
+    "pos": "n.",
+    "en": "the state of being obligated to do or pay something",
+    "cn": "义务, 责任, 约束, 契约, 恩惠, 债务",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-5867061",
+        "text": "With the destructive power of today's weapons, keeping the peace is not just a goal; it's a sacred obligation."
+      },
+      {
+        "id": "tatoeba-eng-10744253",
+        "text": "I feel like people that are better-off have a moral obligation to help those in need, whether it be out of compassion or otherwise."
+      },
+      {
+        "id": "tatoeba-eng-1801784",
+        "text": "Not only should you vote, you have an obligation to do so."
+      }
+    ]
+  },
+  {
+    "word": "cycle",
+    "pos": "n.",
+    "en": "an interval during which a recurring sequence of events occurs",
+    "cn": "周期, 循环, 自行车, 一段时间, 整套",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-237953",
+        "text": "A business cycle is a recurring succession of periods of prosperity and periods of depression."
+      },
+      {
+        "id": "tatoeba-eng-9189528",
+        "text": "During the washing cycle, you can't open the washer door."
+      },
+      {
+        "id": "tatoeba-eng-1343438",
+        "text": "The life cycle of an amphibian consists of three stages: egg, larva and adult."
+      }
+    ]
+  },
+  {
+    "word": "profession",
+    "pos": "n.",
+    "en": "the body of people in a learned occupation",
+    "cn": "职业, 表白, 声明",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-10044105",
+        "text": "My teacher would certainly change his profession if all his students gave him as much work as I do."
+      },
+      {
+        "id": "tatoeba-eng-11788251",
+        "text": "Although he learned the profession, he never practised it."
+      },
+      {
+        "id": "tatoeba-eng-1363424",
+        "text": "Once you decide to enter a profession, you can't change your mind on a whim."
+      }
+    ]
+  },
+  {
+    "word": "restore",
+    "pos": "v.",
+    "en": "return to its original or usable and functioning condition",
+    "cn": "回复, 恢复, 归还, 修补, 修复",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-11562057",
+        "text": "During a cardiac arrest, the defibrillator can deliver a shock to the heart to restore its normal rhythm."
+      },
+      {
+        "id": "tatoeba-eng-5861553",
+        "text": "The two nations agreed to restore diplomatic relations after a break of nearly three decades."
+      },
+      {
+        "id": "tatoeba-eng-2985715",
+        "text": "Do you know an artist who can restore this old picture for me?"
+      }
+    ]
+  },
+  {
+    "word": "lock",
+    "pos": "n.",
+    "en": "a fastener fitted to a door or drawer to keep it firmly closed",
+    "cn": "锁, 刹车, 水闸, 一缕头发",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-934178",
+        "text": "I keep the master copy under lock and key."
+      },
+      {
+        "id": "tatoeba-eng-1264860",
+        "text": "When I opened the door, I broke the lock."
+      },
+      {
+        "id": "tatoeba-eng-11691259",
+        "text": "The door lock started to shake and the door opened."
+      }
+    ]
+  },
+  {
+    "word": "approval",
+    "pos": "n.",
+    "en": "a feeling of liking something or someone good",
+    "cn": "赞成, 批准",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-17846",
+        "text": "With your approval, I would like to offer him the job."
+      },
+      {
+        "id": "tatoeba-eng-10076811",
+        "text": "She liked him too little to care about his approval."
+      },
+      {
+        "id": "tatoeba-eng-20161",
+        "text": "If the quality of your product meets with our customer's approval, we will place regular orders."
+      }
+    ]
+  },
+  {
+    "word": "discovery",
+    "pos": "n.",
+    "en": "the act of discovering something",
+    "cn": "发现, 被发现的事物",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-5363977",
+        "text": "This discovery opened up the floodgates to research and led to the establishment of the discipline as a legitimate field of inquiry."
+      },
+      {
+        "id": "tatoeba-eng-8713678",
+        "text": "The astronomers made the surprising discovery that the expansion of the universe is speeding up."
+      },
+      {
+        "id": "tatoeba-eng-12314580",
+        "text": "This discovery became a starting point for the evolution of the archeology of our country."
+      }
+    ]
+  },
+  {
+    "word": "regularly",
+    "pos": "adv.",
+    "en": "in a regular manner",
+    "cn": "有规则地, 一丝不苟地, 正式地",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-48921",
+        "text": "When I asked the college student if he regularly attended his school, he was at a loss for an answer."
+      },
+      {
+        "id": "tatoeba-eng-49068",
+        "text": "The firm provides its workers with their uniforms, but they are expected to have them regularly cleaned."
+      },
+      {
+        "id": "tatoeba-eng-10266582",
+        "text": "The older I get, the more regularly I wake up with gunk in the corners of my eyelids."
+      }
+    ]
+  },
+  {
+    "word": "submit",
+    "pos": "v.",
+    "en": "refer for judgment or consideration",
+    "cn": "使服从, 使受到, 委托, 提交, 认为",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-60295",
+        "text": "Let's get this proposal down in black and white before we submit it to the boss."
+      },
+      {
+        "id": "tatoeba-eng-433984",
+        "text": "When you submit a quote, it's best to enter the author's name as a tag or, if you can't, in a comment."
+      },
+      {
+        "id": "tatoeba-eng-1135810",
+        "text": "Rather than be reach and submit to others, I would be poor and follow my own inclinations."
+      }
+    ]
+  },
+  {
+    "word": "recession",
+    "pos": "n.",
+    "en": "the state of the economy declines; a widespread decline in the GDP and employment and trade lasting from six months to a year",
+    "cn": "后退, 凹处, 衰退, 归还",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-46109",
+        "text": "He argued that the new policy was bound to drive the economy into recession."
+      },
+      {
+        "id": "tatoeba-eng-3472431",
+        "text": "There are times that we have to leave a job even in the middle of a recession."
+      },
+      {
+        "id": "tatoeba-eng-325137",
+        "text": "A recession is bound to come next year."
+      }
+    ]
+  },
+  {
+    "word": "passion",
+    "pos": "n.",
+    "en": "a strong feeling or emotion",
+    "cn": "激情, 酷爱, 热爱, 强烈感情, 耶稣受难(故事)",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-263403",
+        "text": "The poet expressed his burning passion for the woman he loved."
+      },
+      {
+        "id": "tatoeba-eng-2726535",
+        "text": "We defy our foes, for our passion makes us strong!"
+      },
+      {
+        "id": "tatoeba-eng-714843",
+        "text": "No passion so effectually robs the mind of all its powers of acting and reasoning as fear."
+      }
+    ]
+  },
+  {
+    "word": "penalty",
+    "pos": "n.",
+    "en": "a payment required for not fulfilling a contract",
+    "cn": "处罚, 刑罚, 罚款, 罚球, 报应, 不利结果, 妨碍",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-10266559",
+        "text": "Can you believe they charged me a 50-dollar penalty just because I returned the car a mere fifteen minutes late?"
+      },
+      {
+        "id": "tatoeba-eng-11209151",
+        "text": "The player kept a cool head and dispatched the penalty despite a deafening chorus of boos and whistles intended to distract him."
+      },
+      {
+        "id": "tatoeba-eng-10666497",
+        "text": "A law without a penalty is like a bell without a knocker."
+      }
+    ]
+  },
+  {
+    "word": "competitive",
+    "pos": "adj.",
+    "en": "involving competition or competitiveness",
+    "cn": "竞争的",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-72187",
+        "text": "The company's competitive edge will be eroded if system engineers continue to leave."
+      },
+      {
+        "id": "tatoeba-eng-329208",
+        "text": "At this rate, the risk is high that our country's competitive position will drop even further."
+      },
+      {
+        "id": "tatoeba-eng-2588493",
+        "text": "Maintaining a competitive edge is important, if you want to survive in the tough business world."
+      }
+    ]
+  },
+  {
+    "word": "juice",
+    "pos": "n.",
+    "en": "the liquid part that can be extracted from plant or animal tissue by squeezing or cooking",
+    "cn": "汁, 活力, 体液",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-2110",
+        "text": "My mother bought two bottles of orange juice."
+      },
+      {
+        "id": "tatoeba-eng-10856489",
+        "text": "When the tissue paper sucked away the spilled juice, it turned yellow."
+      },
+      {
+        "id": "tatoeba-eng-2849405",
+        "text": "There's nothing like a glass of natural, freshly squeezed juice."
+      }
+    ]
+  },
+  {
+    "word": "presentation",
+    "pos": "n.",
+    "en": "the activity of formally presenting something (as a prize or reward)",
+    "cn": "赠与, 描述, 介绍",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-13568790",
+        "text": "She made a graceless exit from the meeting after realizing her presentation had critical errors."
+      },
+      {
+        "id": "tatoeba-eng-2307169",
+        "text": "My teacher told me that I should have spent more time preparing my presentation."
+      },
+      {
+        "id": "tatoeba-eng-1836004",
+        "text": "I want to summarize the content of the presentation and draw a conclusion."
+      }
+    ]
+  },
+  {
+    "word": "bay",
+    "pos": "n.",
+    "en": "an indentation of a shoreline larger than a cove but smaller than a gulf",
+    "cn": "海湾, 狗吠声, 月桂",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-23233",
+        "text": "We were granted the privilege of fishing in this bay."
+      },
+      {
+        "id": "tatoeba-eng-6708724",
+        "text": "A bight is a long, gradual bend or recess in the shoreline that forms a large, open bay."
+      },
+      {
+        "id": "tatoeba-eng-19868",
+        "text": "Standing as it does on a hill, the hotel commands a fine view of the bay."
+      }
+    ]
+  },
+  {
+    "word": "custom",
+    "pos": "n.",
+    "en": "accepted or habitual practice",
+    "cn": "习惯, 风俗, 海关, 自定义",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-667968",
+        "text": "The less there is to justify a traditional custom, the harder it is to get rid of it."
+      },
+      {
+        "id": "tatoeba-eng-3260416",
+        "text": "It's an old custom to give a gift of lilies of the valley on the first of May."
+      },
+      {
+        "id": "tatoeba-eng-24199",
+        "text": "It is our custom to take off our shoes when we enter the house."
+      }
+    ]
+  },
+  {
+    "word": "alliance",
+    "pos": "n.",
+    "en": "the state of being allied or confederated",
+    "cn": "联盟, 联合",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-13564539",
+        "text": "An alliance is a marriage in which jealousy is greater than love."
+      },
+      {
+        "id": "tatoeba-eng-1009193",
+        "text": "There is an important alliance between these two countries."
+      },
+      {
+        "id": "tatoeba-eng-4413227",
+        "text": "I hope they form an alliance that will endure."
+      }
+    ]
+  },
+  {
+    "word": "bid",
+    "pos": "n.",
+    "en": "an attempt to get something",
+    "cn": "出价",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-9418661",
+        "text": "Under public pressure, some governments are easing their pandemic restrictions in a bid to salvage something of the holiday spirit."
+      },
+      {
+        "id": "tatoeba-eng-6614777",
+        "text": "We put in our bid; now we just have to play a waiting game."
+      },
+      {
+        "id": "tatoeba-eng-5447461",
+        "text": "Did you hear that your company won the bid?"
+      }
+    ]
+  },
+  {
+    "word": "sensitive",
+    "pos": "adj.",
+    "en": "responsive to physical stimuli",
+    "cn": "敏感的, 易感的, 灵敏的, 感光的",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-5350176",
+        "text": "The central nervous system, which includes the brain and the eyes, is particularly sensitive to oxygen deficiency."
+      },
+      {
+        "id": "tatoeba-eng-6604352",
+        "text": "Please drive slowly near sensitive habitats such as kelp forests and bird rookeries to minimize disturbance."
+      },
+      {
+        "id": "tatoeba-eng-6606581",
+        "text": "There were pride, valour, and strength in his thick brows, his sensitive nostrils, and his large hazel eyes."
+      }
+    ]
+  },
+  {
+    "word": "deposit",
+    "pos": "n.",
+    "en": "the phenomenon of sediment or gravel accumulating",
+    "cn": "存款, 定金, 堆积物",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-9518819",
+        "text": "If you leave a deposit, I can put that camera on reserve for you."
+      },
+      {
+        "id": "tatoeba-eng-256967",
+        "text": "I put the money in a three-year time deposit at the bank."
+      },
+      {
+        "id": "tatoeba-eng-660534",
+        "text": "You have to give three months' rent as a deposit."
+      }
+    ]
+  },
+  {
+    "word": "clinic",
+    "pos": "n.",
+    "en": "a medical establishment run by a group of medical specialists",
+    "cn": "诊所, 临床教学",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-8268821",
+        "text": "When that medical clinic discloses our health information to third parties, I wonder if those third parties actually follow the privacy rules."
+      },
+      {
+        "id": "tatoeba-eng-14024908",
+        "text": "At the clinic, medical students learn from experienced doctors to examine and treat patients."
+      },
+      {
+        "id": "tatoeba-eng-1116296",
+        "text": "In this clinic, he checked, operated, prescribed and gave medicine to at least nine dogs."
+      }
+    ]
+  },
+  {
+    "word": "deficit",
+    "pos": "n.",
+    "en": "the property of being an amount by which something is less than expected or required",
+    "cn": "赤字, 不足额",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-5797069",
+        "text": "A deficit is when you have less than when you had nothing."
+      },
+      {
+        "id": "tatoeba-eng-704681",
+        "text": "The only way to lose weight is to create a caloric deficit by burning more calories than you eat."
+      },
+      {
+        "id": "tatoeba-eng-243653",
+        "text": "The proceeds from the bond issue will be used to finance the budget deficit."
+      }
+    ]
+  },
+  {
+    "word": "smoke",
+    "pos": "n.",
+    "en": "a cloud of fine particles suspended in a gas",
+    "cn": "烟, 雾气, 烟熏剂, 抽烟, 烟色",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-12128620",
+        "text": "The air grew colder, as day came slowly on; and the mist rolled along the ground like a dense cloud of smoke."
+      },
+      {
+        "id": "tatoeba-eng-713035",
+        "text": "The train belched clouds of black smoke into the air as it chugged away."
+      },
+      {
+        "id": "tatoeba-eng-68360",
+        "text": "The mountain used to send out clouds of smoke."
+      }
+    ]
+  },
+  {
+    "word": "brilliant",
+    "pos": "adj.",
+    "en": "of surpassing excellence",
+    "cn": "光辉的, 灿烂的, 有才气的",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-8658021",
+        "text": "That was a brilliant deduction. I did not expect you to solve the mystery so quickly."
+      },
+      {
+        "id": "tatoeba-eng-8257446",
+        "text": "As it oxidizes, the color turns blue and finally becomes a brilliant reddish-purple hue."
+      },
+      {
+        "id": "tatoeba-eng-8356463",
+        "text": "At sunset, she can see an expansive sky that is brilliant pink and orange."
+      }
+    ]
+  },
+  {
+    "word": "retirement",
+    "pos": "n.",
+    "en": "the state of being retired from one's business or occupation",
+    "cn": "退休, 隐居, 撤退",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-319402",
+        "text": "On his father's retirement he took over the business."
+      },
+      {
+        "id": "tatoeba-eng-3147280",
+        "text": "A convent is a place of retirement for women who wish for leisure to meditate upon the sin of idleness."
+      },
+      {
+        "id": "tatoeba-eng-8642135",
+        "text": "In retirement, her favorite job has been watching her two great-granddaughters, ages 3 months and 2 years."
+      }
+    ]
+  },
+  {
+    "word": "swing",
+    "pos": "n.",
+    "en": "mechanical device used as a plaything to support someone swinging back and forth",
+    "cn": "摇摆, 振幅, 音律, 节奏, 涨落, 秋千, 旋转, 行动自由",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-1528240",
+        "text": "We heard the swing squeaking back and forth in the park where there was supposed to be no one else but us."
+      },
+      {
+        "id": "tatoeba-eng-1248084",
+        "text": "In her latest works she lets the uncanny swing like a grotesque pendulum from the humorous into homelike cosiness and back again."
+      },
+      {
+        "id": "tatoeba-eng-11953633",
+        "text": "I had a hard time getting back into the swing of things."
+      }
+    ]
+  },
+  {
+    "word": "entrance",
+    "pos": "n.",
+    "en": "something that provides access (to get in or get out)",
+    "cn": "入口, 进入点, 入场, 入学, 进入, 开始(阶段), 就任",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-48320",
+        "text": "Please wait for me at the entrance of the building."
+      },
+      {
+        "id": "tatoeba-eng-316096",
+        "text": "She saw a young man at the entrance."
+      },
+      {
+        "id": "tatoeba-eng-924130",
+        "text": "On the 3rd of March, at around noon, an express letter was thrown into the entrance of my house."
+      }
+    ]
+  },
+  {
+    "word": "allowance",
+    "pos": "n.",
+    "en": "an amount allowed or granted (as during a given period)",
+    "cn": "津贴, 零用钱, 限额, 折扣, 允许",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-257213",
+        "text": "I am given a monthly allowance of fifty thousand yen."
+      },
+      {
+        "id": "tatoeba-eng-329668",
+        "text": "It should be noted that the duty continues after a notice of allowance is mailed and the issue fee is paid."
+      },
+      {
+        "id": "tatoeba-eng-610682",
+        "text": "My dad gives me a weekly allowance that I use to buy comics and ice cream."
+      }
+    ]
+  },
+  {
+    "word": "mail",
+    "pos": "n.",
+    "en": "the bags of letters and packages that are transported by the postal service",
+    "cn": "邮件, 邮政, 邮递, 盔甲",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-54950",
+        "text": "Please send me a reply as soon as you receive this mail."
+      },
+      {
+        "id": "tatoeba-eng-8976380",
+        "text": "A postal order is a way to send money through the mail."
+      },
+      {
+        "id": "tatoeba-eng-33350",
+        "text": "Would you send, by real mail, some brochures that will help me to choose a hotel?"
+      }
+    ]
+  },
+  {
+    "word": "favor",
+    "pos": "n.",
+    "en": "an act of gracious kindness",
+    "cn": "好意, 喜爱",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-2145013",
+        "text": "I want you guys to do me a favor."
+      },
+      {
+        "id": "tatoeba-eng-51470",
+        "text": "Excuse me, could you spare me a few minutes? I have a favor to ask you."
+      },
+      {
+        "id": "tatoeba-eng-56422",
+        "text": "The obsequious waiter is usually assigned the best table because he always curries favor with his manager and superiors."
+      }
+    ]
+  },
+  {
+    "word": "stomach",
+    "pos": "n.",
+    "en": "an enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion",
+    "cn": "胃, 食欲, 欲望, 肚子",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-1554707",
+        "text": "Don't get an upset stomach by eating too much."
+      },
+      {
+        "id": "tatoeba-eng-28160",
+        "text": "Do you feel any pain in your stomach?"
+      },
+      {
+        "id": "tatoeba-eng-279573",
+        "text": "He became bad-tempered, continually criticized his wife's cooking and complained of a pain in his stomach."
+      }
+    ]
+  },
+  {
+    "word": "infection",
+    "pos": "n.",
+    "en": "the pathological state resulting from the invasion of the body by pathogenic microorganisms",
+    "cn": "传染, 影响, 传染病",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-6990479",
+        "text": "Her body was cremated quickly so the infection would not spread."
+      },
+      {
+        "id": "tatoeba-eng-3502145",
+        "text": "Since the consequences are potentially serious, general precautions should be taken with this type of patient to avoid infection."
+      },
+      {
+        "id": "tatoeba-eng-6989035",
+        "text": "The boys are being kept away from family members to prevent them from getting an infection."
+      }
+    ]
+  },
+  {
+    "word": "tube",
+    "pos": "n.",
+    "en": "conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases",
+    "cn": "管, 软管, 隧道",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-10890904",
+        "text": "The phloem, composed of sieve elements cells which connect to form a tube, conducts food and water both ways in a plant."
+      },
+      {
+        "id": "tatoeba-eng-10123534",
+        "text": "The trachea, or windpipe, is a cylindrical tube extending from the lower part of the larynx to where it divides into the bronchi."
+      },
+      {
+        "id": "tatoeba-eng-6339859",
+        "text": "How long does a tube of toothpaste usually last you?"
+      }
+    ]
+  },
+  {
+    "word": "sake",
+    "pos": "n.",
+    "en": "a reason for wanting something done",
+    "cn": "目的, 缘故, 理由",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-257224",
+        "text": "I stopped smoking for the sake of my health."
+      },
+      {
+        "id": "tatoeba-eng-295932",
+        "text": "He quit smoking for the sake of his health."
+      },
+      {
+        "id": "tatoeba-eng-306548",
+        "text": "They fought for the sake of their country."
+      }
+    ]
+  },
+  {
+    "word": "circuit",
+    "pos": "n.",
+    "en": "an electrical device that provides a path for electrical current to flow",
+    "cn": "电路, 环(行)道, 巡回",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-780830",
+        "text": "The term neural net was traditionally used to name a network or circuit of biological neurons."
+      },
+      {
+        "id": "tatoeba-eng-573898",
+        "text": "The audience believed it to be part of the act, rather than a short circuit."
+      },
+      {
+        "id": "tatoeba-eng-573899",
+        "text": "I spilled jam on the electric outlet and there was a short circuit."
+      }
+    ]
+  },
+  {
+    "word": "bath",
+    "pos": "n.",
+    "en": "a vessel containing liquid in which something is immersed (as to process it or to maintain it at a constant temperature or to lubricate it)",
+    "cn": "沐浴, 浴室",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-29112",
+        "text": "I was taking a bath when the telephone rang."
+      },
+      {
+        "id": "tatoeba-eng-254902",
+        "text": "I always take a bath before going to bed."
+      },
+      {
+        "id": "tatoeba-eng-482279",
+        "text": "I was in the bath when the phone rang."
+      }
+    ]
+  },
+  {
+    "word": "classical",
+    "pos": "adj.",
+    "en": "of or relating to the most highly developed stage of an earlier civilisation and its culture",
+    "cn": "古典的, 正统派的, 经典的",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-66532",
+        "text": "I always enjoy listening to classical music when I have some free time."
+      },
+      {
+        "id": "tatoeba-eng-29350",
+        "text": "Which do you like better, rock music or classical music?"
+      },
+      {
+        "id": "tatoeba-eng-329263",
+        "text": "I expected more classical features, but hers is a beauty that would do well even in this age."
+      }
+    ]
+  },
+  {
+    "word": "split",
+    "pos": "n.",
+    "en": "extending the legs at right angles to the trunk (one in front and the other in back)",
+    "cn": "劈开, 裂片, 裂缝, 分裂, 派系, 派别, 柳条",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-2686365",
+        "text": "If the ball hits the head pin too head on you'll end up with a split."
+      },
+      {
+        "id": "tatoeba-eng-6136018",
+        "text": "After we had sailed for some days, it happened a storm, and on the fifth night the ship split."
+      },
+      {
+        "id": "tatoeba-eng-12086570",
+        "text": "He asked her to wait until after the party before telling people that they had split up."
+      }
+    ]
+  },
+  {
+    "word": "lecture",
+    "pos": "n.",
+    "en": "a speech that is open to the public",
+    "cn": "演讲, 谴责, 讲稿",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-785434",
+        "text": "It is not necessary for us to attend this lecture."
+      },
+      {
+        "id": "tatoeba-eng-241173",
+        "text": "When listening to a lecture, you should be quiet."
+      },
+      {
+        "id": "tatoeba-eng-4589419",
+        "text": "That last lecture was so boring. I was on the verge of falling asleep through most of it."
+      }
+    ]
+  },
+  {
+    "word": "occupation",
+    "pos": "n.",
+    "en": "the principal activity in your life that you do to earn money",
+    "cn": "职业, 占有, 占有期, 占领, 占领军",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-4826874",
+        "text": "The \"family manager\" is a profession, occupation, vocation."
+      },
+      {
+        "id": "tatoeba-eng-6060920",
+        "text": "The search for the truth is the most noble of occupations, and its publication, a duty."
+      },
+      {
+        "id": "tatoeba-eng-10600678",
+        "text": "We had two main occupations: to find a place to rest for the night, and to sort out something to eat."
+      }
+    ]
+  },
+  {
+    "word": "formula",
+    "pos": "n.",
+    "en": "a group of symbols that make a mathematical statement",
+    "cn": "客套语, 公式, 准则",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-7347711",
+        "text": "Each mathematical formula in a book divides its selling price by two."
+      },
+      {
+        "id": "tatoeba-eng-55050",
+        "text": "The optimal formula which would encompass all these factors has not been proposed."
+      },
+      {
+        "id": "tatoeba-eng-11111021",
+        "text": "A formula is used to produce a score based on the three categories."
+      }
+    ]
+  },
+  {
+    "word": "assign",
+    "pos": "v.",
+    "en": "give out",
+    "cn": "分配, 指派, 赋值",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-268319",
+        "text": "My boss assigned the hard job to me."
+      },
+      {
+        "id": "tatoeba-eng-12465773",
+        "text": "You can't assign a string to a variable of type integer."
+      },
+      {
+        "id": "tatoeba-eng-9401206",
+        "text": "The entire development of the earth and life on earth are so closely interlinked with the moon that in truth we can assign almost magical powers to it."
+      }
+    ]
+  },
+  {
+    "word": "draft",
+    "pos": "n.",
+    "en": "a document ordering the payment of money; drawn by one person or bank on another",
+    "cn": "气流, 草稿, 汇票, 草案",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-254018",
+        "text": "I am writing a draft of the speech."
+      },
+      {
+        "id": "tatoeba-eng-3258509",
+        "text": "Here is the rough draft of the manuscript, but the errors still have to be corrected."
+      },
+      {
+        "id": "tatoeba-eng-6089965",
+        "text": "All the doors are wide open, but there is no draft."
+      }
+    ]
+  },
+  {
+    "word": "satellite",
+    "pos": "n.",
+    "en": "man-made equipment that orbits around the earth or the moon",
+    "cn": "人造卫星",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-26117",
+        "text": "The satellite is in orbit around the moon."
+      },
+      {
+        "id": "tatoeba-eng-12467688",
+        "text": "When a satellite is at its apogee, it is as far as it gets from the body it orbits."
+      },
+      {
+        "id": "tatoeba-eng-11875361",
+        "text": "A satellite was launched into orbit to monitor the melting of glaciers."
+      }
+    ]
+  },
+  {
+    "word": "tackle",
+    "pos": "n.",
+    "en": "the person who plays that position on a football team",
+    "cn": "工具, 复滑车, 滑车, 装备, 扭倒",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-11184660",
+        "text": "A melee ensued after a crunching tackle on the edge of the penalty area."
+      },
+      {
+        "id": "tatoeba-eng-11880233",
+        "text": "She swept the ball away with a slide tackle."
+      },
+      {
+        "id": "tatoeba-eng-12874342",
+        "text": "His fishing tackle was a family heirloom, passed down to him by his mother."
+      }
+    ]
+  },
+  {
+    "word": "spin",
+    "pos": "n.",
+    "en": "a swift whirling motion (usually of a missile)",
+    "cn": "旋转, 自旋, 疾驰, 情绪低落",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-61709",
+        "text": "I'm so busy these days it makes my head spin. I don't even have time to watch a video."
+      },
+      {
+        "id": "tatoeba-eng-5324398",
+        "text": "If you do that, you'll be sued so fast it'll make your head spin."
+      },
+      {
+        "id": "tatoeba-eng-268685",
+        "text": "After dinner, we took a spin around town in my car."
+      }
+    ]
+  },
+  {
+    "word": "testimony",
+    "pos": "n.",
+    "en": "a solemn statement made under oath",
+    "cn": "证言, 证据, 声明",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-1166658",
+        "text": "If you only listen to the testimony of the victim you can't understand the full story of the incident."
+      },
+      {
+        "id": "tatoeba-eng-1752652",
+        "text": "We speak of what we know, and we testify to what we have seen, but still you people do not accept our testimony."
+      },
+      {
+        "id": "tatoeba-eng-8900845",
+        "text": "That testimony might help convict him, but it would not be admissible in court."
+      }
+    ]
+  },
+  {
+    "word": "profile",
+    "pos": "n.",
+    "en": "an analysis (often in graphical form) representing the extent to which something exhibits various characteristics",
+    "cn": "侧面, 轮廓, 传略",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-5421161",
+        "text": "He was wonderfully good-looking, with his crisp brown hair, his clear-cut profile, and his grey eyes."
+      },
+      {
+        "id": "tatoeba-eng-6888765",
+        "text": "Her profile as well as her stature and bearing seemed to gain the more dignity from her plain garments."
+      },
+      {
+        "id": "tatoeba-eng-6622206",
+        "text": "She sat with that proud, delicate profile of hers outlined against the red curtain."
+      }
+    ]
+  },
+  {
+    "word": "qualify",
+    "pos": "v.",
+    "en": "prove capable or fit; meet requirements",
+    "cn": "取得资格, 有资格",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-24469",
+        "text": "How early do I have to make a reservation to qualify for the discount?"
+      },
+      {
+        "id": "tatoeba-eng-10451008",
+        "text": "To qualify as unemployed, not only do you need to not have a job, but you also need to be actively looking for one."
+      },
+      {
+        "id": "tatoeba-eng-1577216",
+        "text": "He was considered very qualified for the job."
+      }
+    ]
+  },
+  {
+    "word": "confusion",
+    "pos": "n.",
+    "en": "disorder resulting from a failure to behave predictably",
+    "cn": "混乱, 混淆, 无秩序",
+    "senseCount": 4,
+    "examples": [
+      {
+        "id": "tatoeba-eng-278445",
+        "text": "A power failure contributed to the confusion in the hall."
+      },
+      {
+        "id": "tatoeba-eng-1490963",
+        "text": "And whatever your labors and aspirations in the noisy confusion of life, keep peace in your soul."
+      },
+      {
+        "id": "tatoeba-eng-2435208",
+        "text": "After having caught sight of her, he fell into a huge confusion of thoughts, was motionless and, in short, turned to stone."
+      }
+    ]
+  },
+  {
+    "word": "virus",
+    "pos": "n.",
+    "en": "(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein",
+    "cn": "病毒, 滤过性病毒, 毒害",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-962074",
+        "text": "Because of that virus, many elephants lost their lives."
+      },
+      {
+        "id": "tatoeba-eng-8663629",
+        "text": "When enough people have been infected and survive, the virus can't find new hosts."
+      },
+      {
+        "id": "tatoeba-eng-8624426",
+        "text": "There are still many things we don't know about the virus."
+      }
+    ]
+  },
+  {
+    "word": "architecture",
+    "pos": "n.",
+    "en": "an architectural product or work",
+    "cn": "建筑学, 建筑式样",
+    "senseCount": 3,
+    "examples": [
+      {
+        "id": "tatoeba-eng-5195563",
+        "text": "You like to talk about architecture, don't you?"
+      },
+      {
+        "id": "tatoeba-eng-1513945",
+        "text": "For many years, the abbey was turned into a fortress, happily joining in itself martial and religious architecture."
+      },
+      {
+        "id": "tatoeba-eng-10677194",
+        "text": "The spider is so proficient that it seems to have completed courses in structural engineering, chemistry, architecture, and information science."
+      }
+    ]
+  }
+]

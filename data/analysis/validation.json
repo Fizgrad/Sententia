@@ -1,0 +1,322 @@
+{
+  "checkedAt": "2026-11-13T17:37:17.635Z",
+  "method": "Independent case-insensitive whole-word regular expressions over extracted source bodies; does not call the frequency/tokenisation implementation.",
+  "wordsChecked": 2000,
+  "result": "all counts and document frequencies reconcile",
+  "manualExtractionChecks": [
+    "Selected reading pages contain only passage bodies, with page/task headers, source attributions and question/answer sheets removed.",
+    "Two Curie task extracts share one document unit; two workforce extracts share one document unit.",
+    "The learner-persistence transcript introduction was removed before counting.",
+    "Sample years are sourced from a 2023 filename and a 2024 copyright footer; no actual exam year is inferred."
+  ],
+  "spotChecks": [
+    {
+      "word": "preserve",
+      "count": 1,
+      "documentFrequency": 1,
+      "documentCounts": [
+        {
+          "documentId": "reading-bird-origins",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "word": "diminish",
+      "count": 1,
+      "documentFrequency": 1,
+      "documentCounts": [
+        {
+          "documentId": "reading-archaeology",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "word": "scarce",
+      "count": 1,
+      "documentFrequency": 1,
+      "documentCounts": [
+        {
+          "documentId": "reading-calorie-restriction",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "word": "undergo",
+      "count": 1,
+      "documentFrequency": 1,
+      "documentCounts": [
+        {
+          "documentId": "reading-bird-origins",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "word": "incentive",
+      "count": 1,
+      "documentFrequency": 1,
+      "documentCounts": [
+        {
+          "documentId": "reading-rockets",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "word": "profound",
+      "count": 1,
+      "documentFrequency": 1,
+      "documentCounts": [
+        {
+          "documentId": "reading-winning-minds",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "word": "viable",
+      "count": 1,
+      "documentFrequency": 1,
+      "documentCounts": [
+        {
+          "documentId": "reading-seawater-greenhouse",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "word": "conventional",
+      "count": 1,
+      "documentFrequency": 1,
+      "documentCounts": [
+        {
+          "documentId": "reading-archaeology",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "word": "retain",
+      "count": 3,
+      "documentFrequency": 2,
+      "documentCounts": [
+        {
+          "documentId": "reading-older-workforce",
+          "count": 2
+        },
+        {
+          "documentId": "reading-bird-origins",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "word": "evidence",
+      "count": 4,
+      "documentFrequency": 3,
+      "documentCounts": [
+        {
+          "documentId": "reading-bird-origins",
+          "count": 1
+        },
+        {
+          "documentId": "reading-archaeology",
+          "count": 2
+        },
+        {
+          "documentId": "listening-planetary-life",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "word": "significant",
+      "count": 4,
+      "documentFrequency": 3,
+      "documentCounts": [
+        {
+          "documentId": "reading-archaeology",
+          "count": 1
+        },
+        {
+          "documentId": "reading-winning-minds",
+          "count": 2
+        },
+        {
+          "documentId": "listening-learner-persistence",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "word": "approach",
+      "count": 3,
+      "documentFrequency": 3,
+      "documentCounts": [
+        {
+          "documentId": "reading-traffic-physics",
+          "count": 1
+        },
+        {
+          "documentId": "reading-bird-origins",
+          "count": 1
+        },
+        {
+          "documentId": "reading-winning-minds",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "word": "factor",
+      "count": 8,
+      "documentFrequency": 1,
+      "documentCounts": [
+        {
+          "documentId": "listening-learner-persistence",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "word": "capacity",
+      "count": 2,
+      "documentFrequency": 2,
+      "documentCounts": [
+        {
+          "documentId": "reading-traffic-physics",
+          "count": 1
+        },
+        {
+          "documentId": "listening-learner-persistence",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "word": "complex",
+      "count": 6,
+      "documentFrequency": 3,
+      "documentCounts": [
+        {
+          "documentId": "reading-traffic-physics",
+          "count": 3
+        },
+        {
+          "documentId": "reading-london-science",
+          "count": 1
+        },
+        {
+          "documentId": "reading-plain-english",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "word": "crucial",
+      "count": 5,
+      "documentFrequency": 5,
+      "documentCounts": [
+        {
+          "documentId": "reading-london-science",
+          "count": 1
+        },
+        {
+          "documentId": "reading-older-workforce",
+          "count": 1
+        },
+        {
+          "documentId": "reading-ragworms",
+          "count": 1
+        },
+        {
+          "documentId": "reading-winning-minds",
+          "count": 1
+        },
+        {
+          "documentId": "listening-learner-persistence",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "word": "demonstrate",
+      "count": 3,
+      "documentFrequency": 3,
+      "documentCounts": [
+        {
+          "documentId": "reading-calorie-restriction",
+          "count": 1
+        },
+        {
+          "documentId": "reading-marie-curie",
+          "count": 1
+        },
+        {
+          "documentId": "listening-planetary-life",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "word": "hypothesis",
+      "count": 4,
+      "documentFrequency": 3,
+      "documentCounts": [
+        {
+          "documentId": "reading-calorie-restriction",
+          "count": 1
+        },
+        {
+          "documentId": "reading-bird-origins",
+          "count": 1
+        },
+        {
+          "documentId": "reading-archaeology",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "word": "maintain",
+      "count": 5,
+      "documentFrequency": 5,
+      "documentCounts": [
+        {
+          "documentId": "reading-marie-curie",
+          "count": 1
+        },
+        {
+          "documentId": "reading-traffic-physics",
+          "count": 1
+        },
+        {
+          "documentId": "reading-bird-origins",
+          "count": 1
+        },
+        {
+          "documentId": "reading-winning-minds",
+          "count": 1
+        },
+        {
+          "documentId": "listening-open-university",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "word": "potential",
+      "count": 2,
+      "documentFrequency": 1,
+      "documentCounts": [
+        {
+          "documentId": "reading-winning-minds",
+          "count": 2
+        }
+      ]
+    }
+  ]
+}

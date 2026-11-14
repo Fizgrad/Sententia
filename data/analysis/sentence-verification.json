@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-11-13T17:36:10.047Z",
+  "result": "All redistributed community texts, authors and bilingual pairs reconcile with hash-locked raw exports.",
+  "referencesChecked": 4734,
+  "uniqueEnglishSentences": 4405,
+  "bilingualReferencesChecked": 816,
+  "rawEnglishRowsScanned": 2040567,
+  "sourceHashes": [
+    {
+      "filename": "eng_sentences_detailed.tsv.bz2",
+      "sha256": "afec98e4c44a72f8fc709ce4d672fd3ab7f9ca731402f5d35e384b0b21b207c5"
+    },
+    {
+      "filename": "eng_user_languages.tsv.bz2",
+      "sha256": "6135153cea72a6f8166260c8f7f843dcdcce2b136914417d90169aa0fdee8ceb"
+    },
+    {
+      "filename": "cmn-eng.zip",
+      "sha256": "d606361aa7312dcdfb15ef4fc51cb1e7ed8bc2dc608a7b192626cd36e8403106"
+    }
+  ]
+}

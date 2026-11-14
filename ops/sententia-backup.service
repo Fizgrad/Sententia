@@ -1,0 +1,18 @@
+[Unit]
+Description=Back up the Sententia progress database
+After=sententia-api.service
+
+[Service]
+Type=oneshot
+User=sententia
+Group=sententia
+WorkingDirectory=/opt/sententia/app
+EnvironmentFile=/etc/sententia/api.env
+Environment=PYTHONDONTWRITEBYTECODE=1
+ExecStart=/opt/sententia/venv/bin/python -m ops.backup
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectHome=true
+ProtectSystem=strict
+ReadWritePaths=/var/lib/sententia

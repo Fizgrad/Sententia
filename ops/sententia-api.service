@@ -1,0 +1,28 @@
+[Unit]
+Description=Sententia private progress API
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=sententia
+Group=sententia
+WorkingDirectory=/opt/sententia/app
+EnvironmentFile=/etc/sententia/api.env
+Environment=PYTHONDONTWRITEBYTECODE=1
+ExecStart=/opt/sententia/venv/bin/uvicorn backend.app:app --host 127.0.0.1 --port 8787 --workers 1 --no-proxy-headers --no-access-log --no-server-header --limit-concurrency 32 --log-level warning
+Restart=on-failure
+RestartSec=3
+TimeoutStopSec=30
+StateDirectory=sententia
+StateDirectoryMode=0700
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectHome=true
+ProtectSystem=strict
+ReadWritePaths=/var/lib/sententia
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+
+[Install]
+WantedBy=multi-user.target

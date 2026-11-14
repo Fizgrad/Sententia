@@ -1,0 +1,1234 @@
+{
+  "reviewer": "words_descriptors: individual bilingual-sense and all-context reserve review",
+  "entries": [
+    {
+      "word": "space",
+      "status": "approved",
+      "definitionEN": "room available for things, or the region beyond the earth’s atmosphere",
+      "definitionCN": "空间；空地；太空",
+      "exampleIds": [
+        "tatoeba-eng-682053",
+        "tatoeba-eng-2707463",
+        "tatoeba-eng-5322351"
+      ]
+    },
+    {
+      "word": "quality",
+      "status": "approved",
+      "definitionEN": "the standard of something measured against similar things, or how good it is",
+      "definitionCN": "质量；品质"
+    },
+    {
+      "word": "nature",
+      "status": "approved",
+      "definitionEN": "the physical world and living things, or the basic character of a person or thing",
+      "definitionCN": "自然；大自然；本性；性质"
+    },
+    {
+      "word": "detail",
+      "status": "approved"
+    },
+    {
+      "word": "attention",
+      "status": "approved",
+      "definitionEN": "care or notice directed towards someone or something",
+      "definitionCN": "注意；关注；照料"
+    },
+    {
+      "word": "film",
+      "status": "approved"
+    },
+    {
+      "word": "property",
+      "status": "approved"
+    },
+    {
+      "word": "wide",
+      "status": "approved",
+      "definitionEN": "having a large distance from side to side, or covering a large range",
+      "definitionCN": "宽的；睁大的；广泛的"
+    },
+    {
+      "word": "production",
+      "status": "approved"
+    },
+    {
+      "word": "agreement",
+      "status": "approved"
+    },
+    {
+      "word": "represent",
+      "status": "approved",
+      "definitionEN": "to stand for someone or something, speak on their behalf, or show them in another form",
+      "definitionCN": "代表；表示；描绘"
+    },
+    {
+      "word": "standard",
+      "status": "approved",
+      "definitionEN": "a level of quality, achievement, or living conditions used for comparison",
+      "definitionCN": "标准；水平",
+      "exampleIds": [
+        "tatoeba-eng-871883",
+        "tatoeba-eng-679937",
+        "tatoeba-eng-62916"
+      ]
+    },
+    {
+      "word": "performance",
+      "status": "approved",
+      "definitionEN": "how well someone or something works or acts, or an artistic presentation before an audience",
+      "definitionCN": "表现；性能；演出"
+    },
+    {
+      "word": "design",
+      "status": "approved"
+    },
+    {
+      "word": "drop",
+      "status": "approved",
+      "definitionEN": "a small round quantity of liquid",
+      "definitionCN": "滴；小滴",
+      "reason": "Original noun contexts avoid the verb target and the unrelated decrease sense.",
+      "authoredContexts": [
+        {
+          "text": "A drop of coloured liquid spread slowly across the absorbent paper during the experiment.",
+          "translation": "实验中，一滴有色液体在吸水纸上慢慢扩散。",
+          "register": "Reading",
+          "collocation": "A drop of coloured liquid"
+        },
+        {
+          "text": "Water-saving campaigns should explain how a leaking tap wastes one drop after another throughout the day.",
+          "translation": "节水宣传应解释，漏水的水龙头如何整天一滴接一滴地浪费水。",
+          "register": "Writing",
+          "collocation": "one drop after another"
+        },
+        {
+          "text": "Did a drop of coffee fall on your notebook, or is that an old mark?",
+          "translation": "是一滴咖啡落在了你的笔记本上，还是那本来就是个旧印子？",
+          "register": "Listening",
+          "collocation": "a drop of coffee"
+        }
+      ]
+    },
+    {
+      "word": "series",
+      "status": "approved"
+    },
+    {
+      "word": "region",
+      "status": "approved"
+    },
+    {
+      "word": "statement",
+      "status": "approved"
+    },
+    {
+      "word": "stock",
+      "status": "approved",
+      "definitionEN": "shares in a company or a supply of goods available for use or sale",
+      "definitionCN": "股票；库存；存货"
+    },
+    {
+      "word": "association",
+      "status": "approved"
+    },
+    {
+      "word": "degree",
+      "status": "approved"
+    },
+    {
+      "word": "compare",
+      "status": "approved"
+    },
+    {
+      "word": "style",
+      "status": "approved",
+      "definitionEN": "a particular way of doing something or a distinctive form of appearance or expression",
+      "definitionCN": "风格；方式；文体"
+    },
+    {
+      "word": "argument",
+      "status": "approved",
+      "definitionEN": "an exchange of opposing views, or reasons offered to support a conclusion",
+      "definitionCN": "争论；论证；论据",
+      "exampleIds": [
+        "tatoeba-eng-257231",
+        "tatoeba-eng-278076",
+        "tatoeba-eng-11620552"
+      ],
+      "reason": "Removed the false claim that a logically sound argument can be untrue."
+    },
+    {
+      "word": "check",
+      "status": "approved",
+      "partOfSpeech": "v.",
+      "forms": [
+        "checked",
+        "checking",
+        "checks"
+      ],
+      "phoneticUK": "/tʃek/",
+      "definitionEN": "to examine something to see whether it is correct, complete, or working properly",
+      "definitionCN": "检查；核对",
+      "exampleIds": [
+        "tatoeba-eng-251495",
+        "tatoeba-eng-282506",
+        "tatoeba-eng-279355"
+      ]
+    },
+    {
+      "word": "industrial",
+      "status": "approved"
+    },
+    {
+      "word": "assume",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3691370",
+        "tatoeba-eng-2189942",
+        "tatoeba-eng-8916982"
+      ]
+    },
+    {
+      "word": "seat",
+      "status": "approved"
+    },
+    {
+      "word": "trial",
+      "status": "approved",
+      "definitionEN": "a test carried out to discover whether something works or is suitable",
+      "definitionCN": "试验；试用",
+      "reason": "Original contexts keep the experimental sense rather than mixing a legal dream and a joke definition.",
+      "authoredContexts": [
+        {
+          "text": "The trial compared two irrigation methods on neighbouring farms during a particularly dry summer.",
+          "translation": "这项试验在一个特别干旱的夏季，比较了相邻农场的两种灌溉方法。",
+          "register": "Reading",
+          "collocation": "The trial compared"
+        },
+        {
+          "text": "Councils should run a small trial before adopting costly new waste collection systems.",
+          "translation": "市政部门在采用昂贵的新垃圾收集系统之前，应先开展小规模试验。",
+          "register": "Writing",
+          "collocation": "a small trial"
+        },
+        {
+          "text": "Did the trial of the new ticket machine go well this morning?",
+          "translation": "今天早上新售票机的试用顺利吗？",
+          "register": "Listening",
+          "collocation": "the trial of the new ticket machine"
+        }
+      ]
+    },
+    {
+      "word": "sector",
+      "status": "approved",
+      "definitionEN": "a part of an economy, field of activity, or geographical area",
+      "definitionCN": "部门；领域；区域"
+    },
+    {
+      "word": "fly",
+      "status": "approved",
+      "definitionEN": "a small two-winged insect; also used in idioms about a small problem or an unnoticed observer",
+      "definitionCN": "苍蝇；（固定表达中）美中不足之处或旁观者"
+    },
+    {
+      "word": "weight",
+      "status": "approved"
+    },
+    {
+      "word": "library",
+      "status": "approved",
+      "definitionEN": "a place or institution that keeps books and other materials for people to use or borrow",
+      "definitionCN": "图书馆"
+    },
+    {
+      "word": "edge",
+      "status": "approved",
+      "definitionEN": "the outer boundary of something, or an advantage over competitors",
+      "definitionCN": "边缘；优势"
+    },
+    {
+      "word": "bar",
+      "status": "approved",
+      "definitionEN": "an establishment or counter serving drinks, or a long solid piece of material",
+      "definitionCN": "酒吧；吧台；条；棒"
+    },
+    {
+      "word": "magazine",
+      "status": "approved"
+    },
+    {
+      "word": "extend",
+      "status": "approved",
+      "definitionEN": "to make something last longer or reach farther, or to offer support",
+      "definitionCN": "延长；延伸；提供（帮助）"
+    },
+    {
+      "word": "notice",
+      "status": "approved"
+    },
+    {
+      "word": "painting",
+      "status": "approved",
+      "definitionEN": "a picture made with coloured pigments, or the activity of making such pictures",
+      "definitionCN": "画；绘画"
+    },
+    {
+      "word": "influence",
+      "status": "approved",
+      "definitionEN": "the power or effect of changing how someone or something develops, behaves, or thinks",
+      "definitionCN": "影响；影响力",
+      "reason": "Original noun contexts replace the awkward market-influence wording and verb-only alternatives.",
+      "authoredContexts": [
+        {
+          "text": "Migration had a lasting influence on the city’s architecture, food, and everyday language.",
+          "translation": "移民对这座城市的建筑、饮食和日常语言产生了持久影响。",
+          "register": "Reading",
+          "collocation": "a lasting influence"
+        },
+        {
+          "text": "Schools should recognise the influence of family circumstances when comparing students’ examination results.",
+          "translation": "比较学生考试成绩时，学校应考虑家庭状况的影响。",
+          "register": "Writing",
+          "collocation": "the influence of family circumstances"
+        },
+        {
+          "text": "Was your music teacher a big influence when you decided to study the piano?",
+          "translation": "你决定学习钢琴时，你的音乐老师对你影响很大吗？",
+          "register": "Listening",
+          "collocation": "a big influence"
+        }
+      ]
+    },
+    {
+      "word": "score",
+      "status": "approved",
+      "definitionEN": "a number expressing achievement in a test or game",
+      "definitionCN": "分数；得分"
+    },
+    {
+      "word": "match",
+      "status": "approved",
+      "definitionEN": "a sporting contest between opponents",
+      "definitionCN": "比赛",
+      "exampleIds": [
+        "tatoeba-eng-263519",
+        "tatoeba-eng-19916",
+        "tatoeba-eng-29550"
+      ]
+    },
+    {
+      "word": "scale",
+      "status": "approved",
+      "definitionEN": "a system of numerical measurement or a device used to measure weight",
+      "definitionCN": "量表；刻度；秤"
+    },
+    {
+      "word": "review",
+      "status": "approved",
+      "definitionEN": "an examination or evaluation of the quality or merit of something",
+      "definitionCN": "审查；评审；评论"
+    },
+    {
+      "word": "track",
+      "status": "approved",
+      "definitionEN": "a path or route, or a course of progress towards a goal",
+      "definitionCN": "小径；路线；发展方向"
+    },
+    {
+      "word": "failure",
+      "status": "approved",
+      "definitionEN": "a lack of success in achieving an intended result",
+      "definitionCN": "失败；未能成功"
+    },
+    {
+      "word": "branch",
+      "status": "approved",
+      "definitionEN": "a part growing from a tree, or a local division of a larger organisation",
+      "definitionCN": "树枝；分支；分部"
+    },
+    {
+      "word": "contribution",
+      "status": "approved",
+      "definitionEN": "something given, done, or provided to help a shared purpose",
+      "definitionCN": "贡献；投稿；捐助"
+    },
+    {
+      "word": "presence",
+      "status": "approved",
+      "definitionEN": "the state of being in a place or existing in a situation",
+      "definitionCN": "在场；存在",
+      "exampleIds": [
+        "tatoeba-eng-309524",
+        "tatoeba-eng-272427",
+        "tatoeba-eng-6604362"
+      ]
+    },
+    {
+      "word": "ice",
+      "status": "approved"
+    },
+    {
+      "word": "distance",
+      "status": "approved"
+    },
+    {
+      "word": "link",
+      "status": "approved",
+      "definitionEN": "a connection between people, things, places, or ideas",
+      "definitionCN": "联系；连接；纽带",
+      "reason": "Original noun contexts replace repetitive smoking claims and unsuitable alternatives.",
+      "authoredContexts": [
+        {
+          "text": "The survey found a clear link between travel time and satisfaction with local services.",
+          "translation": "调查发现，出行时间与居民对当地服务的满意度之间存在明确联系。",
+          "register": "Reading",
+          "collocation": "a clear link"
+        },
+        {
+          "text": "Regional investment should strengthen the link between rural producers and reliable urban markets.",
+          "translation": "地区投资应加强农村生产者与稳定城市市场之间的联系。",
+          "register": "Writing",
+          "collocation": "the link between rural producers"
+        },
+        {
+          "text": "Can you send me the link to the booking page before the tickets sell out?",
+          "translation": "你能在票售完之前，把预订页面的链接发给我吗？",
+          "register": "Listening",
+          "collocation": "the link to the booking page"
+        }
+      ]
+    },
+    {
+      "word": "observe",
+      "status": "approved",
+      "definitionEN": "to watch or notice carefully, or follow a rule or instruction",
+      "definitionCN": "观察；注意到；遵守"
+    },
+    {
+      "word": "block",
+      "status": "approved",
+      "definitionEN": "a group of buildings surrounded by streets, or a large building divided into units",
+      "definitionCN": "街区；楼房；大楼"
+    },
+    {
+      "word": "injury",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-7828378",
+        "tatoeba-eng-9551842",
+        "tatoeba-eng-10059325"
+      ]
+    },
+    {
+      "word": "volume",
+      "status": "approved",
+      "definitionEN": "the loudness of sound or the amount of something",
+      "definitionCN": "音量；数量；总量"
+    },
+    {
+      "word": "cabinet",
+      "status": "approved"
+    },
+    {
+      "word": "engage",
+      "status": "approved",
+      "definitionEN": "to take part or become involved in an activity",
+      "definitionCN": "从事；参与"
+    },
+    {
+      "word": "youth",
+      "status": "approved",
+      "definitionEN": "the period of being young, or young people as a group",
+      "definitionCN": "青年时代；青春；年轻人"
+    },
+    {
+      "word": "regulation",
+      "status": "approved"
+    },
+    {
+      "word": "intelligence",
+      "status": "approved"
+    },
+    {
+      "word": "sheet",
+      "status": "approved"
+    },
+    {
+      "word": "discipline",
+      "status": "approved",
+      "definitionEN": "rules and training that control behaviour, or a branch of academic study",
+      "definitionCN": "纪律；训练；学科"
+    },
+    {
+      "word": "formal",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-472094",
+        "tatoeba-eng-21320",
+        "tatoeba-eng-24902"
+      ]
+    },
+    {
+      "word": "transfer",
+      "status": "approved",
+      "partOfSpeech": "v.",
+      "forms": [
+        "transfers",
+        "transferred",
+        "transferring"
+      ],
+      "phoneticUK": "/trænsˈfɜː/",
+      "definitionEN": "to move, or move someone or something, from one place or system to another",
+      "definitionCN": "转移；转账；转乘",
+      "exampleIds": [
+        "tatoeba-eng-1883367",
+        "tatoeba-eng-2631949",
+        "tatoeba-eng-8438332"
+      ]
+    },
+    {
+      "word": "panel",
+      "status": "approved"
+    },
+    {
+      "word": "channel",
+      "status": "approved",
+      "definitionEN": "a passage for water or other movement, or a service or route for distributing information",
+      "definitionCN": "海峡；水道；通道；频道"
+    },
+    {
+      "word": "noise",
+      "status": "approved"
+    },
+    {
+      "word": "phase",
+      "status": "approved"
+    },
+    {
+      "word": "sequence",
+      "status": "approved"
+    },
+    {
+      "word": "gallery",
+      "status": "approved",
+      "definitionEN": "an exhibition room for art, or an upper area for spectators in a hall",
+      "definitionCN": "画廊；美术馆；楼座"
+    },
+    {
+      "word": "stress",
+      "status": "approved",
+      "definitionEN": "mental or physical strain caused by pressure or demanding situations",
+      "definitionCN": "压力；紧张"
+    },
+    {
+      "word": "wing",
+      "status": "approved",
+      "definitionEN": "a part of a bird or aircraft used for flight, or a section of a larger organisation with particular views",
+      "definitionCN": "翅膀；机翼；派别"
+    },
+    {
+      "word": "passage",
+      "status": "approved",
+      "definitionEN": "a narrow route or corridor through which people can move",
+      "definitionCN": "通道；走廊",
+      "exampleIds": [
+        "tatoeba-eng-6617191",
+        "tatoeba-eng-6620953",
+        "tatoeba-eng-6627430"
+      ]
+    },
+    {
+      "word": "index",
+      "status": "approved",
+      "definitionEN": "a number or measure used to represent a level or compare changes",
+      "definitionCN": "指数；指标",
+      "reason": "Original contexts avoid the nonsensical protein-index joke and unrelated index-finger alternatives.",
+      "authoredContexts": [
+        {
+          "text": "The pollution index rose sharply after several factories resumed production near the monitoring station.",
+          "translation": "监测站附近的几家工厂恢复生产后，污染指数急剧上升。",
+          "register": "Reading",
+          "collocation": "The pollution index"
+        },
+        {
+          "text": "A single index should not determine school funding without evidence about the pupils’ different needs.",
+          "translation": "如果缺乏关于学生不同需求的证据，就不应只凭单一指标决定学校拨款。",
+          "register": "Writing",
+          "collocation": "A single index"
+        },
+        {
+          "text": "Does this index measure prices across the whole country, or just in our city?",
+          "translation": "这个指数衡量的是全国的物价，还是只衡量我们城市的物价？",
+          "register": "Listening",
+          "collocation": "this index"
+        }
+      ]
+    },
+    {
+      "word": "recover",
+      "status": "approved",
+      "definitionEN": "to get back something lost, or return to health or a normal condition",
+      "definitionCN": "重新获得；恢复；康复"
+    },
+    {
+      "word": "landscape",
+      "status": "approved"
+    },
+    {
+      "word": "host",
+      "status": "approved",
+      "definitionEN": "a person who receives guests, or an organism that supports another organism or transplanted material",
+      "definitionCN": "主人；接待者；宿主"
+    },
+    {
+      "word": "creation",
+      "status": "approved",
+      "definitionEN": "the act of bringing something into existence, or something that has been brought into existence",
+      "definitionCN": "创造；创作物；造物"
+    },
+    {
+      "word": "milk",
+      "status": "approved"
+    },
+    {
+      "word": "hero",
+      "status": "approved",
+      "definitionEN": "a person admired for courage or outstanding deeds, or the main character in a story",
+      "definitionCN": "英雄；故事主角"
+    },
+    {
+      "word": "palace",
+      "status": "approved"
+    },
+    {
+      "word": "switch",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-6589759",
+        "tatoeba-eng-5341045",
+        "tatoeba-eng-9967222"
+      ]
+    },
+    {
+      "word": "resolution",
+      "status": "approved",
+      "definitionEN": "firm determination to do something, or a decision that settles a problem",
+      "definitionCN": "决心；坚定；解决；决定"
+    },
+    {
+      "word": "massive",
+      "status": "approved",
+      "definitionEN": "very large in size, amount, or effect",
+      "definitionCN": "巨大的；大量的；重大的"
+    },
+    {
+      "word": "odd",
+      "status": "approved",
+      "definitionEN": "unusual, strange, or different from what is expected",
+      "definitionCN": "古怪的；奇特的；反常的",
+      "exampleIds": [
+        "tatoeba-eng-8920200",
+        "tatoeba-eng-12030249",
+        "tatoeba-eng-58953"
+      ]
+    },
+    {
+      "word": "charity",
+      "status": "approved",
+      "definitionEN": "an organisation that helps people in need without seeking profit",
+      "definitionCN": "慈善机构",
+      "reason": "Original contexts replace near duplicates and a racially exclusive example.",
+      "authoredContexts": [
+        {
+          "text": "The charity distributes warm clothing to families who cannot afford adequate heating in winter.",
+          "translation": "这家慈善机构向冬季无力负担充足暖气的家庭发放保暖衣物。",
+          "register": "Reading",
+          "collocation": "The charity distributes"
+        },
+        {
+          "text": "Any charity receiving public donations should explain clearly how it uses the money.",
+          "translation": "任何接受公众捐款的慈善机构，都应清楚说明资金的使用方式。",
+          "register": "Writing",
+          "collocation": "Any charity"
+        },
+        {
+          "text": "Does that charity need volunteers this weekend, or should we offer help next month?",
+          "translation": "那家慈善机构这周末需要志愿者吗，还是我们下个月再去帮忙？",
+          "register": "Listening",
+          "collocation": "that charity"
+        }
+      ]
+    },
+    {
+      "word": "addition",
+      "status": "approved",
+      "definitionEN": "something extra that is added, or the process of adding",
+      "definitionCN": "增加；添加；附加的事物"
+    },
+    {
+      "word": "tension",
+      "status": "approved",
+      "definitionEN": "a state of mental strain, or tightness in muscles or other material",
+      "definitionCN": "紧张；不安；绷紧；张力"
+    },
+    {
+      "word": "secondary",
+      "status": "approved",
+      "definitionEN": "of lesser importance, second in a sequence, or relating to education after primary school",
+      "definitionCN": "次要的；第二级的；中等教育的"
+    },
+    {
+      "word": "dramatic",
+      "status": "approved",
+      "definitionEN": "very striking, sudden, or noticeable in effect",
+      "definitionCN": "显著的；剧烈的；突如其来的"
+    },
+    {
+      "word": "bother",
+      "status": "approved",
+      "definitionEN": "to annoy or disturb someone, or take the trouble to do something",
+      "definitionCN": "烦扰；费心；费事",
+      "exampleIds": [
+        "tatoeba-eng-324032",
+        "tatoeba-eng-6167679",
+        "tatoeba-eng-4022876"
+      ]
+    },
+    {
+      "word": "chip",
+      "status": "approved",
+      "definitionEN": "a thin piece of food, especially potato, cooked until crisp",
+      "definitionCN": "薯片；薄脆片",
+      "exampleIds": [
+        "tatoeba-eng-12432376",
+        "tatoeba-eng-8683010",
+        "tatoeba-eng-953599"
+      ]
+    },
+    {
+      "word": "silent",
+      "status": "approved"
+    },
+    {
+      "word": "layer",
+      "status": "approved",
+      "definitionCN": "层；层状物",
+      "exampleIds": [
+        "tatoeba-eng-55809",
+        "tatoeba-eng-6683056",
+        "tatoeba-eng-6692528"
+      ]
+    },
+    {
+      "word": "string",
+      "status": "approved",
+      "definitionEN": "a thin cord or a series of connected items or text characters",
+      "definitionCN": "细绳；一串；字符串",
+      "exampleIds": [
+        "tatoeba-eng-9154113",
+        "tatoeba-eng-12467561",
+        "tatoeba-eng-9054880"
+      ]
+    },
+    {
+      "word": "boot",
+      "status": "approved",
+      "definitionEN": "strong footwear covering the foot and ankle, or a car’s luggage compartment in British usage",
+      "definitionCN": "靴子；汽车后备箱（英式）"
+    },
+    {
+      "word": "transform",
+      "status": "approved",
+      "definitionEN": "to change something greatly in form, appearance, or character",
+      "definitionCN": "使转变；彻底改变；改造",
+      "reason": "Original contexts replace incoherent and demeaning source sentences.",
+      "authoredContexts": [
+        {
+          "text": "The restoration project will transform the abandoned warehouse into a public library and community centre.",
+          "translation": "修复项目将把废弃仓库改造成公共图书馆和社区中心。",
+          "register": "Reading",
+          "collocation": "transform the abandoned warehouse"
+        },
+        {
+          "text": "Access to practical training can transform employment prospects for adults who left school early.",
+          "translation": "获得实践培训的机会，能够彻底改变早年辍学的成年人的就业前景。",
+          "register": "Writing",
+          "collocation": "transform employment prospects"
+        },
+        {
+          "text": "Could new curtains really transform this room, or do we need to repaint it too?",
+          "translation": "新窗帘真的能让这个房间焕然一新吗，还是我们也需要重新刷墙？",
+          "register": "Listening",
+          "collocation": "transform this room"
+        }
+      ]
+    },
+    {
+      "word": "recommendation",
+      "status": "approved",
+      "definitionEN": "a statement or suggestion advising a course of action or supporting a person’s suitability",
+      "definitionCN": "建议；推荐；推荐信"
+    },
+    {
+      "word": "transition",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8185320",
+        "tatoeba-eng-13683674",
+        "tatoeba-eng-6692528"
+      ]
+    },
+    {
+      "word": "mode",
+      "status": "approved",
+      "definitionEN": "a way of doing something or a setting in which a system operates",
+      "definitionCN": "方式；模式；状态",
+      "exampleIds": [
+        "tatoeba-eng-8681173",
+        "tatoeba-eng-6464039",
+        "tatoeba-eng-11477034"
+      ]
+    },
+    {
+      "word": "opposite",
+      "status": "approved",
+      "definitionEN": "on the other side, facing something, or completely different",
+      "definitionCN": "相对的；对面的；相反的",
+      "reason": "Original adjective contexts replace the awkward opposite-team wording and unsuitable alternative POS uses.",
+      "authoredContexts": [
+        {
+          "text": "The two villages stand on opposite banks of the river but share the same market.",
+          "translation": "这两个村庄位于河流的两岸，却共用同一个市场。",
+          "register": "Reading",
+          "collocation": "opposite banks"
+        },
+        {
+          "text": "A balanced debate should consider evidence supporting opposite views before reaching a policy decision.",
+          "translation": "平衡的辩论应在作出政策决定之前，考虑支持相反观点的证据。",
+          "register": "Writing",
+          "collocation": "opposite views"
+        },
+        {
+          "text": "Is your office on the opposite side of the square, near the bookshop?",
+          "translation": "你的办公室在广场的另一侧、靠近书店的位置吗？",
+          "register": "Listening",
+          "collocation": "the opposite side"
+        }
+      ]
+    },
+    {
+      "word": "resistance",
+      "status": "approved",
+      "definitionEN": "a force or ability that opposes movement, change, or harm",
+      "definitionCN": "阻力；抵抗力；抵制",
+      "exampleIds": [
+        "tatoeba-eng-13706857",
+        "tatoeba-eng-5951548",
+        "tatoeba-eng-6577116"
+      ]
+    },
+    {
+      "word": "protest",
+      "status": "approved",
+      "definitionEN": "an expression of objection or an action showing disagreement",
+      "definitionCN": "抗议；反对",
+      "exampleIds": [
+        "tatoeba-eng-10073581",
+        "tatoeba-eng-306532",
+        "tatoeba-eng-916066"
+      ]
+    },
+    {
+      "word": "habit",
+      "status": "approved"
+    },
+    {
+      "word": "jacket",
+      "status": "approved"
+    },
+    {
+      "word": "arrival",
+      "status": "approved",
+      "definitionEN": "the act or moment of reaching a place",
+      "definitionCN": "到达；抵达"
+    },
+    {
+      "word": "electricity",
+      "status": "approved",
+      "definitionEN": "energy produced by charged particles, used to power devices and systems",
+      "definitionCN": "电；电力",
+      "exampleIds": [
+        "tatoeba-eng-60907",
+        "tatoeba-eng-12115389",
+        "tatoeba-eng-11483475"
+      ]
+    },
+    {
+      "word": "visible",
+      "status": "approved"
+    },
+    {
+      "word": "drama",
+      "status": "approved",
+      "definitionEN": "a play or story presented through performance, or an emotionally eventful situation",
+      "definitionCN": "戏剧；剧情；情感冲突"
+    },
+    {
+      "word": "wealth",
+      "status": "approved"
+    },
+    {
+      "word": "owe",
+      "status": "approved",
+      "definitionEN": "to have something because of another person’s help or a particular cause",
+      "definitionCN": "归功于；感激",
+      "exampleIds": [
+        "tatoeba-eng-286934",
+        "tatoeba-eng-1127906",
+        "tatoeba-eng-1463963"
+      ]
+    },
+    {
+      "word": "possession",
+      "status": "approved",
+      "definitionEN": "ownership or control of something, or something that someone owns",
+      "definitionCN": "占有；拥有；财产"
+    },
+    {
+      "word": "monitor",
+      "status": "approved",
+      "definitionEN": "a screen used to display information from a computer or other device",
+      "definitionCN": "显示器；监视屏",
+      "exampleIds": [
+        "tatoeba-eng-8715958",
+        "tatoeba-eng-5930411",
+        "tatoeba-eng-2008928"
+      ]
+    },
+    {
+      "word": "digital",
+      "status": "approved",
+      "definitionEN": "using electronic technology to represent, store, or process information as discrete values",
+      "definitionCN": "数字的；数码的"
+    },
+    {
+      "word": "expansion",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-8713678",
+        "tatoeba-eng-4736840",
+        "tatoeba-eng-10472689"
+      ]
+    },
+    {
+      "word": "chamber",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-3011577",
+        "tatoeba-eng-8490137",
+        "tatoeba-eng-2760597"
+      ]
+    },
+    {
+      "word": "pure",
+      "status": "approved",
+      "definitionEN": "free from unwanted substances, mixture, or moral imperfection",
+      "definitionCN": "纯净的；纯粹的；纯洁的"
+    },
+    {
+      "word": "veteran",
+      "status": "approved",
+      "definitionEN": "a person with long experience in a particular activity or field",
+      "definitionCN": "老手；资深人士"
+    },
+    {
+      "word": "frequency",
+      "status": "approved"
+    },
+    {
+      "word": "confront",
+      "status": "approved",
+      "definitionEN": "to face or deal with a difficult problem, opponent, or situation directly",
+      "definitionCN": "面对；正视；对抗"
+    },
+    {
+      "word": "register",
+      "status": "approved",
+      "definitionEN": "a machine used in a shop to record sales and handle payments",
+      "definitionCN": "收银机",
+      "reason": "Original contexts keep the cash-machine noun and replace the archaic wish and unrelated record senses.",
+      "authoredContexts": [
+        {
+          "text": "Each register automatically records the total value of purchases at the end of the day.",
+          "translation": "每台收银机都会在一天结束时，自动记录购物交易的总金额。",
+          "register": "Reading",
+          "collocation": "Each register"
+        },
+        {
+          "text": "Retailers should maintain every cash register carefully to prevent errors that could disadvantage customers.",
+          "translation": "零售商应认真维护每台收银机，防止可能损害顾客利益的错误。",
+          "register": "Writing",
+          "collocation": "every cash register"
+        },
+        {
+          "text": "Which register is open, or should we join the queue near the entrance?",
+          "translation": "哪台收银机开着，还是我们应该去入口附近排队？",
+          "register": "Listening",
+          "collocation": "Which register"
+        }
+      ]
+    },
+    {
+      "word": "flag",
+      "status": "approved"
+    },
+    {
+      "word": "pace",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-301519",
+        "tatoeba-eng-35739",
+        "tatoeba-eng-9435435"
+      ]
+    },
+    {
+      "word": "embrace",
+      "status": "approved",
+      "partOfSpeech": "v.",
+      "forms": [
+        "embraces",
+        "embraced",
+        "embracing"
+      ],
+      "phoneticUK": "/ɪmˈbreɪs/",
+      "definitionEN": "to accept an idea, approach, or opportunity willingly and enthusiastically",
+      "definitionCN": "欣然接受；乐意采纳",
+      "reason": "Original verb contexts establish the useful acceptance sense instead of mixed noun hugs and verb examples.",
+      "authoredContexts": [
+        {
+          "text": "Several farming cooperatives embrace digital tools that help them share equipment and compare prices.",
+          "translation": "几家农业合作社积极采用数字工具，以便共享设备并比较价格。",
+          "register": "Reading",
+          "collocation": "embrace digital tools"
+        },
+        {
+          "text": "Public institutions should embrace transparent decision making so that residents can understand how priorities are chosen.",
+          "translation": "公共机构应积极采纳透明的决策方式，让居民理解优先事项是如何确定的。",
+          "register": "Writing",
+          "collocation": "embrace transparent decision making"
+        },
+        {
+          "text": "Do you think the team will embrace this new schedule, or should we explain it again?",
+          "translation": "你觉得团队会乐意接受这个新时间表吗，还是我们需要再解释一次？",
+          "register": "Listening",
+          "collocation": "embrace this new schedule"
+        }
+      ]
+    },
+    {
+      "word": "administrator",
+      "status": "approved",
+      "definitionEN": "a person who manages an organisation, service, or computer system",
+      "definitionCN": "管理人员；管理员"
+    },
+    {
+      "word": "platform",
+      "status": "approved"
+    },
+    {
+      "word": "journal",
+      "status": "approved",
+      "definitionEN": "a periodical about a particular subject, or a personal written record of events or experiences",
+      "definitionCN": "期刊；杂志；日记"
+    },
+    {
+      "word": "curve",
+      "status": "approved",
+      "definitionEN": "a line or shape that bends rather than remaining straight",
+      "definitionCN": "曲线；弯曲",
+      "exampleIds": [
+        "tatoeba-eng-2027758",
+        "tatoeba-eng-6606597",
+        "tatoeba-eng-328749"
+      ]
+    },
+    {
+      "word": "aggressive",
+      "status": "approved",
+      "definitionEN": "ready or likely to attack, confront, or behave forcefully towards others",
+      "definitionCN": "好斗的；攻击性的；强硬的"
+    },
+    {
+      "word": "guarantee",
+      "status": "approved",
+      "definitionEN": "a promise or assurance that something will happen or be provided",
+      "definitionCN": "保证；担保",
+      "exampleIds": [
+        "tatoeba-eng-14009839",
+        "tatoeba-eng-681114",
+        "tatoeba-eng-5303470"
+      ]
+    },
+    {
+      "word": "edition",
+      "status": "approved",
+      "definitionEN": "a particular version or release of a book or other product",
+      "definitionCN": "版本；版次；发行的一批产品",
+      "exampleIds": [
+        "tatoeba-eng-1527984",
+        "tatoeba-eng-3719531",
+        "tatoeba-eng-44330"
+      ]
+    },
+    {
+      "word": "demonstration",
+      "status": "approved",
+      "definitionEN": "a public gathering or action that expresses a shared opinion or protest",
+      "definitionCN": "示威；游行示威",
+      "exampleIds": [
+        "tatoeba-eng-9517897",
+        "tatoeba-eng-11301863",
+        "tatoeba-eng-537705"
+      ],
+      "reason": "Replaced the long historical speech quotation with a plain community-source context."
+    },
+    {
+      "word": "shell",
+      "status": "approved",
+      "definitionEN": "a hard outer covering, especially of an egg or sea creature, or an explosive projectile fired from a gun",
+      "definitionCN": "贝壳；外壳；炮弹"
+    },
+    {
+      "word": "brand",
+      "status": "approved",
+      "definitionEN": "a name or identifying mark associated with a product, group, or particular kind of thing",
+      "definitionCN": "品牌；标识；类型"
+    },
+    {
+      "word": "utility",
+      "status": "approved",
+      "definitionEN": "practical usefulness, or essential services such as water and electricity",
+      "definitionCN": "实用性；效用；公用服务",
+      "exampleIds": [
+        "tatoeba-eng-305154",
+        "tatoeba-eng-11801761",
+        "tatoeba-eng-2040088"
+      ]
+    },
+    {
+      "word": "stake",
+      "status": "approved",
+      "definitionEN": "something important that may be gained or lost; used in a phrase meaning at risk",
+      "definitionCN": "利害关系；（at …）处于危险之中"
+    },
+    {
+      "word": "fiber",
+      "status": "approved",
+      "definitionEN": "a fine threadlike strand of material, including plant material that helps digestion",
+      "definitionCN": "纤维；膳食纤维",
+      "exampleIds": [
+        "tatoeba-eng-6451990",
+        "tatoeba-eng-13625876",
+        "tatoeba-eng-11563677"
+      ]
+    },
+    {
+      "word": "gear",
+      "status": "approved",
+      "definitionEN": "equipment used for a particular activity, or toothed machinery that controls movement",
+      "definitionCN": "装备；设备；齿轮",
+      "exampleIds": [
+        "tatoeba-eng-2099892",
+        "tatoeba-eng-5325747",
+        "tatoeba-eng-8658995"
+      ]
+    },
+    {
+      "word": "gang",
+      "status": "approved",
+      "definitionEN": "a group of people associated for criminal or antisocial activity",
+      "definitionCN": "犯罪团伙；帮派"
+    },
+    {
+      "word": "distant",
+      "status": "approved",
+      "definitionEN": "far away in space or time, or not closely connected",
+      "definitionCN": "遥远的；久远的；疏远的"
+    },
+    {
+      "word": "conscious",
+      "status": "approved",
+      "definitionEN": "aware of something or able to think and feel; also, done deliberately",
+      "definitionCN": "有意识的；知觉的；刻意的"
+    },
+    {
+      "word": "preference",
+      "status": "approved"
+    },
+    {
+      "word": "pitch",
+      "status": "approved",
+      "phoneticUK": "/pɪtʃ/",
+      "definitionEN": "how high or low a sound is",
+      "definitionCN": "音高",
+      "reason": "Original noun contexts replace the unrelated tar, sports-field, and aircraft-angle senses.",
+      "authoredContexts": [
+        {
+          "text": "The recording shows a gradual rise in pitch as the bird reaches the end of its song.",
+          "translation": "录音显示，这只鸟唱到结尾时，音高逐渐升高。",
+          "register": "Reading",
+          "collocation": "a gradual rise in pitch"
+        },
+        {
+          "text": "Music lessons should help learners recognise pitch and rhythm before introducing complex notation.",
+          "translation": "音乐课应在引入复杂记谱法之前，帮助学习者辨认音高和节奏。",
+          "register": "Writing",
+          "collocation": "recognise pitch"
+        },
+        {
+          "text": "Is the pitch of that alarm too high, or can you hear it clearly?",
+          "translation": "那个警报的音调是不是太高了，还是你能清楚地听见？",
+          "register": "Listening",
+          "collocation": "the pitch of that alarm"
+        }
+      ]
+    },
+    {
+      "word": "ceremony",
+      "status": "approved"
+    },
+    {
+      "word": "satisfaction",
+      "status": "approved"
+    },
+    {
+      "word": "interval",
+      "status": "approved",
+      "definitionEN": "a stretch of time or a range between two limits",
+      "definitionCN": "时间间隔；区间；范围"
+    },
+    {
+      "word": "sheep",
+      "status": "approved",
+      "exampleIds": [
+        "tatoeba-eng-12896617",
+        "tatoeba-eng-2188",
+        "tatoeba-eng-3104459"
+      ]
+    },
+    {
+      "word": "storage",
+      "status": "approved",
+      "definitionEN": "the act or arrangement of keeping things safely until they are needed",
+      "definitionCN": "储存；保管；仓储"
+    },
+    {
+      "word": "terror",
+      "status": "approved",
+      "definitionEN": "an intense feeling of fear",
+      "definitionCN": "恐惧；惊恐"
+    }
+  ]
+}

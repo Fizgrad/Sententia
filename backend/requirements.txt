@@ -1,0 +1,5 @@
+# Last FastAPI patch compatible with the server's Python 3.10 (verified on PyPI).
+fastapi==0.162.5
+starlette==1.7.0
+pydantic==2.14.3
+uvicorn==0.54.0
