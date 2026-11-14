@@ -119,6 +119,24 @@ test('an already-used registration name is not treated as a progress conflict', 
   assert.notEqual(client.getStatus().phase, 'conflict');
 });
 
+test('password limits count Unicode code points and preserve supplementary characters in requests', async () => {
+  for (const length of [12, 90, 128]) {
+    const { api, client } = setup();
+    const password = '🔐'.repeat(length);
+    await client.register(API, 'alice', password, defaultData());
+    assert.equal(api.calls.find(call => call.path === '/auth/register')?.body?.password, password);
+    const login = setup();
+    await login.client.login(API, 'alice', password, defaultData());
+    assert.equal(login.api.calls.find(call => call.path === '/auth/login')?.body?.password, password);
+  }
+  const { api, client } = setup();
+  await assert.rejects(client.register(API, 'alice', '🔐'.repeat(11), defaultData()), /12–128/);
+  await assert.rejects(client.register(API, 'alice', '🔐'.repeat(129), defaultData()), /12–128/);
+  await assert.rejects(client.login(API, 'alice', '🔐'.repeat(129), defaultData()), /128/);
+  await assert.rejects(client.login(API, 'alice', 'x'.repeat(129), defaultData()), /128/);
+  assert.equal(api.calls.length, 0, 'invalid passwords must be rejected before a request');
+});
+
 test('using remote progress waits for a durable local replacement before binding auto sync', async () => {
   const { api, client } = setup();
   const cloud = dataWithWord(); cloud.preferences.name = 'Cloud reader';
@@ -160,6 +178,26 @@ test('serialized auto sync saves the latest change made while another save is in
   assert.equal(api.state.data?.preferences.dailyGoal, 20);
   assert.deepEqual(api.calls.filter(call => call.method === 'PUT').map(call => call.body?.expectedRevision), [0, 1, 2]);
   assert.equal(client.getStatus().phase, 'synced');
+});
+
+for (const alreadyBound of [false, true]) test(`an explicit ${alreadyBound ? 'replacement' : 'first'} upload retains changes saved while its request is in flight`, async () => {
+  const { api, client } = setup(), initial = defaultData();
+  await client.login(API, 'alice', SECRET, initial);
+  if (alreadyBound) {
+    await client.uploadLocal(initial);
+    await client.inspect();
+  }
+  let release!: () => void;
+  api.gateNextPut = new Promise<void>(resolve => { release = resolve; });
+  const uploading = client.uploadLocal(initial);
+  await waitFor(() => api.calls.some(call => call.method === 'PUT' && call.body?.expectedRevision === (alreadyBound ? 1 : 0)));
+  const latest = dataWithWord();
+  client.notifyLocalChange(latest);
+  release();
+  await uploading;
+  await waitFor(() => api.state.data?.records.mitigate !== undefined && client.getStatus().phase === 'synced');
+  assert.deepEqual(api.state.data, latest);
+  assert.equal(api.state.revision, alreadyBound ? 3 : 2);
 });
 
 test('offline saves remain pending and a new page detects and uploads them from the local snapshot', async () => {

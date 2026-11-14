@@ -12,7 +12,7 @@ test.beforeEach(async ({ page }) => {
   const errors: string[] = [];
   runtimeErrors.set(page, errors);
   page.on('pageerror', error => errors.push(error.message));
-  await page.goto('/');
+  await page.goto('./');
   await expect(page.getByRole('heading', { name: '把单词，读进记忆里。' })).toBeVisible();
   await expect(page.getByRole('radio')).toHaveCount(4);
 });
@@ -106,6 +106,14 @@ test('paper and study themes, responsive layout, and product screenshots', async
   await expect(page.locator('html')).toHaveAttribute('data-theme', 'dark');
   await page.getByRole('button', { name: '切换到宣纸模式', exact: true }).click();
   await expect(page.locator('html')).toHaveAttribute('data-theme', 'light');
+});
+
+test('unknown and inherited view names keep a usable learning page', async ({ page }) => {
+  for (const view of ['constructor','__proto__','toString','unknown']) {
+    await page.goto(`./?view=${encodeURIComponent(view)}`);
+    await expect(page.getByRole('heading',{name:'把单词，读进记忆里。',exact:true})).toBeVisible();
+    await expect(page.getByRole('radio')).toHaveCount(4);
+  }
 });
 
 test('learn confirms a meaning before revealing, switches contexts, saves, and persists its rating', async ({ page }) => {

@@ -7,6 +7,9 @@ import { exportData } from '@/lib/store';
 import type { AppData } from '@/lib/types';
 import './cloud-sync-panel.css';
 
+// HTML maxlength counts UTF-16 units; 128 Unicode code points can need 256 units.
+const PASSWORD_MAX_CODE_UNITS = 256;
+
 const phaseLabels: Record<CloudSyncPhase, string> = {
   disconnected: '未登录', connecting: '正在连接', 'awaiting-choice': '等待选择', syncing: '正在同步', synced: '已同步', pending: '待同步',
   'remote-newer': '云端有更新', conflict: '需要核对', expired: '请重新登录', error: '暂未连接',
@@ -82,8 +85,8 @@ export function CloudSyncPanel({ data, onReplace, notify }: CloudSyncPanelProps)
       <div className="cloud-auth-mode" aria-label="账号操作"><button type="button" aria-pressed={mode === 'login'} disabled={busy} onClick={() => { setMode('login'); setError(''); }}>登录</button>{registration === 'open' && <button type="button" aria-pressed={mode === 'register'} disabled={busy} onClick={() => { setMode('register'); setError(''); }}>创建账号</button>}</div>
       <form className="cloud-auth-form" onSubmit={event => { event.preventDefault(); void authenticate(); }}>
         <label className="cloud-field"><span>账号</span><input aria-label="同步账号" autoComplete="username" autoCapitalize="none" spellCheck={false} required maxLength={40} value={username} disabled={busy} onChange={event => setUsername(event.target.value)}/></label>
-        <label className="cloud-field"><span>密码{mode === 'register' && <small>12–128 个字符</small>}</span><input aria-label="同步密码" type="password" autoComplete={mode === 'register' ? 'new-password' : 'current-password'} required minLength={mode === 'register' ? 12 : undefined} maxLength={128} value={password} disabled={busy} onChange={event => setPassword(event.target.value)}/></label>
-        {mode === 'register' && <label className="cloud-field"><span>再次输入密码</span><input aria-label="再次输入同步密码" type="password" autoComplete="new-password" required minLength={12} maxLength={128} value={passwordAgain} disabled={busy} onChange={event => setPasswordAgain(event.target.value)}/></label>}
+        <label className="cloud-field"><span>密码{mode === 'register' && <small>12–128 个字符</small>}</span><input aria-label="同步密码" type="password" autoComplete={mode === 'register' ? 'new-password' : 'current-password'} required minLength={mode === 'register' ? 12 : undefined} maxLength={PASSWORD_MAX_CODE_UNITS} value={password} disabled={busy} onChange={event => setPassword(event.target.value)}/></label>
+        {mode === 'register' && <label className="cloud-field"><span>再次输入密码</span><input aria-label="再次输入同步密码" type="password" autoComplete="new-password" required minLength={12} maxLength={PASSWORD_MAX_CODE_UNITS} value={passwordAgain} disabled={busy} onChange={event => setPasswordAgain(event.target.value)}/></label>}
         <details className="cloud-connection" open={!DEFAULT_CLOUD_API_URL}><summary>同步服务地址</summary><label className="cloud-field"><span>服务地址</span><input aria-label="同步服务地址" type="url" autoComplete="url" placeholder="https://study.example.com" value={apiUrl} disabled={busy} onChange={event => setApiUrl(event.target.value)}/></label></details>
         {registration === 'unavailable' && <div className="cloud-auth-note">注册状态读取失败，请重试。<button type="button" className="text-button" disabled={busy || !apiUrl.trim()} onClick={() => setConfigAttempt(value => value + 1)}>重新检查注册入口</button></div>}
         {mode === 'register' && <p className="cloud-auth-note">账号需为 3–40 位字母、数字、点、下划线或短横线，首位为字母或数字。</p>}

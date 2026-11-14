@@ -9,6 +9,7 @@
     "typecheck": "tsc --noEmit",
     "test": "tsx --test tests/*.test.ts",
     "test:e2e": "playwright test",
+    "test:serve": "npm run build && node scripts/serve.mjs --port 3100",
     "corpus:build": "tsx scripts/corpus/build.mts",
     "corpus:verify": "tsx scripts/corpus/verify.mts",
     "lexicon:dictionary": "node scripts/lexicon/build-dictionary.mjs",

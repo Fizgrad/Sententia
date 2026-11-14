@@ -5,12 +5,13 @@ import { AnimatePresence, motion } from 'motion/react';
 import { ArrowLeft, ArrowRight, Bookmark, BookmarkCheck, Check, CheckCheck, ChevronDown, CircleHelp, Headphones, Leaf, Lightbulb, RotateCcw, Sparkles, Volume2 } from 'lucide-react';
 import { getReviewSentence, registerLabels, sentenceMap, topics, wordMap, words } from '@/lib/corpus';
 import { dueRecords, formatInterval, previewSchedule, schedule } from '@/lib/scheduler';
-import type { AppData, ContextSentence, Topic, View } from '@/lib/types';
+import type { AppData, ContextSentence, MemoryRecord, Topic, View } from '@/lib/types';
 import { createMeaningQuestion, judgeMeaning } from '@/lib/meaning-quiz';
 import { MeaningChoices, type GuessResult } from './meaning-choices';
 import { sortByCorpusPriority } from '@/lib/frequency';
 import { SourceCredit } from './source-credit';
 import { matchesVocabularyLevel, vocabularyLevels, type VocabularyLevel } from '@/lib/vocabulary-level';
+import { canUndoStudyAction } from '@/lib/study-undo';
 
 type CommonProps = { data: AppData; onChange: (data: AppData) => Promise<void>; notify: (message: string) => void; onNavigate: (view: View) => void; speak: (text: string) => void; speaking: boolean };
 export function localDay(date: Date | string = new Date()) { const d = new Date(date); return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`; }
@@ -62,7 +63,7 @@ export function LearnView({ data, onChange, notify, onNavigate, speak, speaking,
   const [filterOpen, setFilterOpen] = useState(false);
   const [pending, setPending] = useState(false);
   const [bonus, setBonus] = useState(false);
-  const [undo, setUndo] = useState<{before:AppData;wordId:string;logId:string;context:number;result:GuessResult}|null>(null);
+  const [undo, setUndo] = useState<{before:AppData;after:MemoryRecord;wordId:string;logId:string;context:number;result:GuessResult}|null>(null);
   const [pinned, setPinned] = useState<string|null>(focusWord);
   const today = localDay();
   const learnedToday = new Set(data.logs.filter(l => l.mode==='learn' && localDay(l.at)===today).map(l=>l.wordId)).size;
@@ -91,13 +92,13 @@ export function LearnView({ data, onChange, notify, onNavigate, speak, speaking,
       const record = schedule(undefined,word.id,sentence.id,rating,data.preferences.retention,now);
       const logId=crypto.randomUUID();
       await onChange({ ...data, records: { ...data.records,[word.id]:record }, logs: [...data.logs,{id:logId,wordId:word.id,sentenceId:sentence.id,rating,mode:'learn',at:now.toISOString(),guess:{choiceId:result.optionId,correct:result.correct}}] });
-      setUndo({before:data,wordId:word.id,logId,context,result});setResult(null);setSelection(null);setContext(0);setPinned(null);
+      setUndo({before:data,after:record,wordId:word.id,logId,context,result});setResult(null);setSelection(null);setContext(0);setPinned(null);
       notify(rating===1?'没关系，下一次相遇已安排。':'已记下这一词，复习时再相遇。');
     } catch {} finally { setPending(false); }
   }
   async function undoLast() {
     if(!undo||pending)return;
-    if(!data.logs.some(l=>l.id===undo.logId)){setUndo(null);notify('这条记录已更新，无法继续撤销。');return;}
+    if(!canUndoStudyAction(data,undo)){setUndo(null);notify('这条记录已更新，无法继续撤销。');return;}
     setPending(true);
     try {const records={...data.records};if(undo.before.records[undo.wordId])records[undo.wordId]=undo.before.records[undo.wordId];else delete records[undo.wordId];await onChange({...data,records,logs:data.logs.filter(l=>l.id!==undo.logId)});setPinned(undo.wordId);setTopic('all');setBonus(true);setContext(undo.context);setResult(undo.result);setSelection(undo.result.optionId?{wordId:undo.wordId,optionId:undo.result.optionId}:null);setUndo(null);notify('已撤销上一次标记。');}catch{}finally{setPending(false);}
   }
@@ -148,7 +149,7 @@ export function ReviewView({data,onChange,notify,onNavigate,speak,speaking,focus
   const [answered,setAnswered]=useState(false);
   const [pending,setPending]=useState(false);
   const [reviewed,setReviewed]=useState(0);
-  const [undo,setUndo]=useState<{before:AppData;wordId:string;logId:string}|null>(null);
+  const [undo,setUndo]=useState<{before:AppData;after:MemoryRecord;wordId:string;logId:string}|null>(null);
   const [forced,setForced]=useState<string|null>(focusWord);
   const inputRef=useRef<HTMLInputElement>(null);
   const initialCount=useRef(dueRecords(data).length);
@@ -157,7 +158,8 @@ export function ReviewView({data,onChange,notify,onNavigate,speak,speaking,focus
   const queue=useMemo(()=>dueRecords(data,new Date(tick)),[data,tick]);
   const record=(forced && data.records[forced]) || queue[0];
   const word=record?wordMap[record.id]:null;
-  const sentence=useMemo(()=>word&&record?getReviewSentence(word,record.lastSentenceId,record.seenSentenceIds,data.archive):null,[word?.id,record?.lastSentenceId,record?.card.reps,data.archive]); // eslint-disable-line react-hooks/exhaustive-deps
+  const sentence=useMemo(()=>word&&record?getReviewSentence(word,record.lastSentenceId,record.seenSentenceIds,data.archive):null,[word?.id,record?.lastSentenceId,record?.card.reps,record?.seenSentenceIds,data.archive]); // eslint-disable-line react-hooks/exhaustive-deps
+  useEffect(()=>{setAnswered(false);setAnswer('');setHint(0);},[record?.id,record?.card.reps,sentence?.id]);
   const preview=useMemo(()=>previewSchedule(record||undefined,data.preferences.retention,new Date(tick)),[record,data.preferences.retention,tick]);
   const correct=!!word && !!sentence && [word.word,...word.forms,sentence.text.slice(...sentence.targetSpan)].some(w=>w.toLowerCase()===answer.trim().toLowerCase());
   const upcoming=Object.values(data.records).filter(r=>new Date(r.card.due).getTime()>Date.now()).sort((a,b)=>Date.parse(a.card.due)-Date.parse(b.card.due));
@@ -166,9 +168,9 @@ export function ReviewView({data,onChange,notify,onNavigate,speak,speaking,focus
   async function grade(rating:1|2|3|4){
     if(!word||!sentence||!record||!answered||pending)return;
     setPending(true);
-    try {const now=new Date();const next=schedule(record,word.id,sentence.id,rating,data.preferences.retention,now);const logId=crypto.randomUUID();await onChange({...data,records:{...data.records,[word.id]:next},logs:[...data.logs,{id:logId,wordId:word.id,sentenceId:sentence.id,rating,mode:'review',at:now.toISOString()}]});setUndo({before:data,wordId:word.id,logId});setForced(null);setHint(0);setAnswer('');setAnswered(false);setReviewed(n=>n+1);setTick(Date.now());notify(`已安排下次回响：${formatInterval(new Date(next.card.due))}。`);}catch{}finally{setPending(false);}
+    try {const now=new Date();const next=schedule(record,word.id,sentence.id,rating,data.preferences.retention,now);const logId=crypto.randomUUID();await onChange({...data,records:{...data.records,[word.id]:next},logs:[...data.logs,{id:logId,wordId:word.id,sentenceId:sentence.id,rating,mode:'review',at:now.toISOString()}]});setUndo({before:data,after:next,wordId:word.id,logId});setForced(null);setHint(0);setAnswer('');setAnswered(false);setReviewed(n=>n+1);setTick(Date.now());notify(`已安排下次回响：${formatInterval(new Date(next.card.due))}。`);}catch{}finally{setPending(false);}
   }
-  async function undoLast(){if(!undo||pending)return;if(!data.logs.some(l=>l.id===undo.logId)){setUndo(null);notify('这条记录已更新，无法继续撤销。');return;}setPending(true);try{await onChange({...data,records:{...data.records,[undo.wordId]:undo.before.records[undo.wordId]},logs:data.logs.filter(l=>l.id!==undo.logId)});setForced(undo.wordId);setUndo(null);setReviewed(n=>Math.max(0,n-1));setAnswered(false);setAnswer('');setHint(0);setTick(Date.now());notify('已撤销上一次评分。');}catch{}finally{setPending(false);}}
+  async function undoLast(){if(!undo||pending)return;if(!canUndoStudyAction(data,undo)){setUndo(null);notify('这条记录已更新，无法继续撤销。');return;}setPending(true);try{await onChange({...data,records:{...data.records,[undo.wordId]:undo.before.records[undo.wordId]},logs:data.logs.filter(l=>l.id!==undo.logId)});setForced(undo.wordId);setUndo(null);setReviewed(n=>Math.max(0,n-1));setAnswered(false);setAnswer('');setHint(0);setTick(Date.now());notify('已撤销上一次评分。');}catch{}finally{setPending(false);}}
   useStudyShortcut(e=>{if(e.key.toLowerCase()==='h'&&!answered){e.preventDefault();setHint(h=>Math.min(2,h+1));}if((e.key==='Enter'||e.code==='Space')&&!answered){e.preventDefault();check();}if(answered&&/^[1-4]$/.test(e.key))void grade(Number(e.key) as 1|2|3|4);if(e.key.toLowerCase()==='u')void undoLast();});
   return <><div className="page-heading"><div><div className="eyebrow"><span className="tiny-line"/> EVERY WORD DESERVES AN ECHO.</div><h1>让记忆，有<span className="title-accent">回响。</span></h1><p>换一个句子，重新想起。主动提取，让熟悉成为真正的掌握。</p></div><span className="review-count-pill"><RotateCcw size={14}/> 本轮已复习 {reviewed} 词</span></div>
   <div className="workspace-grid"><div className="learning-column"><div className="section-heading"><h2>语境完形 <span>ACTIVE RECALL</span></h2><span className="small-label">{queue.length} 词待复习</span></div>

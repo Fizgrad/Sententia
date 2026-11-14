@@ -265,6 +265,7 @@ export class CloudSyncClient {
 
   /** Logging in reads the remote preview; it never imports or uploads progress. */
   login(apiUrl: string, username: string, password: string, local: AppData): Promise<void> {
+    if ([...password].length > 128) return Promise.reject(new Error('密码长度不能超过 128 个字符。'));
     return this.authenticate(apiUrl, username, password, local, false);
   }
 
@@ -326,6 +327,7 @@ export class CloudSyncClient {
   async uploadLocal(local: AppData): Promise<void> {
     this.initialize();
     const snapshot = validateBackup(local);
+    const submittedGeneration = this.generation;
     return this.serial(async () => {
       const session = this.authenticated(), epoch = this.epoch;
       if (!this.remote) throw new Error('请先读取并比较云端进度。');
@@ -337,8 +339,13 @@ export class CloudSyncClient {
         this.current(session, epoch);
         if (remote.revision !== expectedRevision + 1 || !remote.data || await digest(remote.data) !== fingerprint) throw new Error('同步未完成，请重试。');
         this.session = { ...session, bound: true, revision: remote.revision, syncedDigest: fingerprint, lastSyncedAt: remote.updatedAt };
-        this.latestLocal = snapshot; this.generation++; this.remote = remote; this.persist();
-        this.emit('synced', '进度已同步。');
+        const localChanged = this.generation !== submittedGeneration;
+        if (!localChanged) { this.latestLocal = snapshot; this.generation++; }
+        this.remote = remote; this.persist();
+        if (localChanged) {
+          this.emit('pending', '正在同步随后保存的学习进度。');
+          void this.scheduleAuto(false);
+        } else this.emit('synced', '进度已同步。');
       } catch (error) { this.failure(error, session); throw error; }
     });
   }

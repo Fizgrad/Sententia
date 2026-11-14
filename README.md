@@ -108,3 +108,4 @@ npm.cmd run test:e2e
 ```
 
 端到端测试使用 Playwright 支持的浏览器。后端测试命令见 [backend/OPERATIONS.md](backend/OPERATIONS.md)。
+`npm run test:e2e` 自动构建并在 `127.0.0.1:3100` 启动独立测试服务；运行后自动关闭。设置 `SENTENTIA_BASE_URL` 可测试已启动的实例。

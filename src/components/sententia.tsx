@@ -74,7 +74,7 @@ export default function Sententia() {
   useEffect(()=>{
     void reload();
     const initial=new URLSearchParams(window.location.search).get('view');
-    if(initial&&initial in viewNames)setView(initial as View);
+    if(initial&&Object.hasOwn(viewNames,initial))setView(initial as View);
     setDark(document.documentElement.dataset.theme==='dark');setOnline(navigator.onLine);setClock(new Date());
     const connected=()=>{setOnline(navigator.onLine);if(navigator.onLine&&latestData.current)void resumeSync(latestData.current).catch(()=>{});};
     window.addEventListener('online',connected);window.addEventListener('offline',connected);
